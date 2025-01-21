@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kincaid-history-the-revised-unfinished-chapter-of-the-harrah-history-book-now-in-progress/","tags":["Genealogy","gardenEntry"]}
+{"dg-publish":true,"permalink":"/kincaid-history-the-revised-unfinished-chapter-of-the-harrah-history-book-now-in-progress/","tags":["Genealogy","gardenEntry","gardenEntry"]}
 ---
 
 
