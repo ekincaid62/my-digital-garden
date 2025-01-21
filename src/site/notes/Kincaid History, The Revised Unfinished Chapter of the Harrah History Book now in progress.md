@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/kincaid-history-the-revised-unfinished-chapter-of-the-harrah-history-book-now-in-progress/","tags":["Genealogy","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/kincaid-history-the-revised-unfinished-chapter-of-the-harrah-history-book-now-in-progress/","tags":["Genealogy","gardenEntry"]}
 ---
 
 
-**KINCAID HISTORY
+**KINCAID HISTORY**
 
 
 The Revised Unfinished Chapter of the "Harrah History" Book, A work now in progress.
 
 By Richard Bradley
 
-**THE KINCAID FAMILY
+**THE KINCAID FAMILY**
 
 **Thomas Kincaid**
 (abt. 1742-bef. 1817) of Muddy Creek Mountain and his wife Hannah Tincher (abt. 1740-aft. 1819) were the parents of the Elizabeth Kincaid who married Daniel O'Hara (Harrah), Jr. They were also the parents of the Margaret Kincaid who married Daniel's brother, Charles O'Hara (Harrah). The Kincaids were very numerous in Augusta, Albemarle, and other counties of western Virginia. Many versions of the origins of the Kincaids in these counties exist.
