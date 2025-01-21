@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/kincaid-history-the-revised-unfinished-chapter-of-the-harrah-history-book-now-in-progress/","tags":["gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/kincaid-history-the-revised-unfinished-chapter-of-the-harrah-history-book-now-in-progress/","tags":["gardenEntry"]}
 ---
 
 
 **KINCAID HISTORY**
 
 
-The Revised Unfinished Chapter of the "Harrah History" Book, A work now in progress.
+The following was compiled by Richard Bradley which I found on Sherranlynn Kincaid Nichols website. It was titled **Revised Unfinished Chapter of the "Harrah History" Book, A work now in progress.** I fear the book was never completed as I can't find any other references to it. While the data does seem pretty complete, I have edited the file to make it more presentable and am adding additional data as I find time.
 
-By Richard Bradley
 
 **THE KINCAID FAMILY**
 
@@ -31,13 +30,13 @@ Regarding such traditions, the only thing that can be said for certain was that 
 
 The following are abstracts of land records for David Kincaid. Although not an exhaustive list, all records of Albemarle County and related records from other counties are included:
 
-June 20, 1733: Spotsylvania Co. Patent to David Kincade for 400 acres in the Fork of Rappahannock river. (Patent #15, p.21)
+June 20, 1733: Spotsylvania Co. Patent to David Kincade for 400 acres in the Fork of Rappahannock river. (Patent 15, p.21)
 
 &
 
 March 21, 1743: Orange Co. Deed from David Kinkead, builder [[Kincaid History, The Revised Unfinished Chapter of the Harrah History Book now in progress#3\|#3]], & Winifred Kinkead of Co. Of Orange, parish of St Mark, to James Jones of King George Co., parish of Hanover, 400 acres for L 50. Orange Co. On Rappahanock River on the North side of a branch called Devil's Run. Granted to David Kinkead in 1733. Witnesses: Richd Tule, Thos Covington, Mathew Tule.
 
-Aug 1, 1734: Spotsylvania Co. Patent to David Kinkead for 660 acres in the Goard vine fork, beginning & extending at the mouth of a branch of Kinkead run. (Patent #15, p. 267)
+Aug 1, 1734: Spotsylvania Co. Patent to David Kinkead for 660 acres in the Goard vine fork, beginning & extending at the mouth of a branch of Kinkead run. (Patent 15, p. 267)
 
 March 7, 1746: Albemarle Co. David Kinkead survey of 149 acres. Head of Meechum River.
 
@@ -49,7 +48,7 @@ Sept 11, 1760: Albemarle Co. David Kinkeid survey of 190 acres. On the top & sou
 
 Sept 12, 1760: Albemarle Co. David Kinkeid survey of 226 acres. On the top & south sides of the Blue Ridge Mtns.
 
-March 5, 1747: Albemarle Co. Patent to David Kinkead for 400 acres on the branches of Stocktons branch of Mechums River. (Patent #26, p. 264)
+March 5, 1747: Albemarle Co. Patent to David Kinkead for 400 acres on the branches of Stocktons branch of Mechums River. (Patent 26, p. 264)
 
 &
 
@@ -75,7 +74,7 @@ Jan 12, 1746 : Goochland Co. Patent to David Kinkead for 400 acres on branches o
 
 &
 
-Sept. 10, 1767: Amherst Co. Patent to Joseph Kinkead for 338 acres on the North branch of Rockfish River. (Patent #37, p. 90)
+Sept. 10, 1767: Amherst Co. Patent to Joseph Kinkead for 338 acres on the North branch of Rockfish River. (Patent 37, p. 90)
 
 &
 
@@ -91,7 +90,7 @@ Jan 16, 1760: Deed from John Chiswell, gen, of the city of Williamsburg, to Geor
 
 David Kincaid and his son John have deeds in Washington Co. beginning in 1785-87. The following is a sample:
 
-July 9, 1787: Washington Co. Grant to David Kinkead for 350 acres on the Eleven mile Creek adjoining his settlement (Langdon) (Grant #11. P. 682)
+July 9, 1787: Washington Co. Grant to David Kinkead for 350 acres on the Eleven mile Creek adjoining his settlement (Langdon) (Grant 11. P. 682)
 
 David Kincaid was omnipresent in Augusta and Albemarle counties and seems to be associated with all the other early Kincaids in these counties but his exact relationship to them is unknown. David left a will in Washington County, Virginia probated in 1779. In the will his wife Winifred is named along with his children John, Hobson, Burroughs, and Joseph. Jean and Isabella have long been thought to be his daughters but they are not listed in his will and there is no proof of his parentage. Later in this chapter we will examine records for his son John.
 
@@ -105,9 +104,7 @@ He, born 1687, she 1786 in
 
 Devonshire, Scot.; married
 
-1704; Eliz. died in OH or
-
-VA [[Kincaid History, The Revised Unfinished Chapter of the Harrah History Book now in progress#5\|#5]]
+1704; Eliz. died in OH or VA [[Kincaid History, The Revised Unfinished Chapter of the Harrah History Book now in progress#5\|#5]]
 
 _or_
 
@@ -157,7 +154,7 @@ August 20, 1785: Thomas Kinkade, returned no inhabitant. (Augusta Co., VA Court 
 
 June, 1799: Kinkead vs. Donnelly. Thomas Kinkead, in 1771, purchased from Jacob Passinger a tract of land in Greenbrier called Spring Lick, once the property of Christian Sanders, orphan. Christian Passinger deposes, 1797, that he and Christian Saunders made the first improvement on the land prior to 1751, when it was surveyed. (Chalkley's Chronicles, p. 414)
 
-Bill Filed 1803: Kinkade vs. Cunningham. _Thomas Kinkade_ was a very ignorant and illiterate man. Walter Cunningham bought the land from Andrew Donnelly and is now living in Kentucky. .. William Kincaid was son of _Thomas_... Christopher Persinger deposes: That he, with Landers, first improved the land. (Chalkley's Chronicles, Augusta Co. Circuit Court Cases Ended - Old Style, Case #23 (or #22?), p. 513)
+Bill Filed 1803: Kinkade vs. Cunningham. _Thomas Kinkade_ was a very ignorant and illiterate man. Walter Cunningham bought the land from Andrew Donnelly and is now living in Kentucky. .. William Kincaid was son of _Thomas_... Christopher Persinger deposes: That he, with Landers, first improved the land. (Chalkley's Chronicles, Augusta Co. Circuit Court Cases Ended - Old Style, Case 23 (or 22?), p. 513)
 
 ### Part 3 ... David, James, & Joseph Kincaid in Albemarle Co.
 
@@ -275,7 +272,7 @@ Nov 11, 1751: Albemarle Co. John Kinkead survey of 215 acres. South branches of 
 
 \[The surveyor of the above tract of land was no less than Thomas Jefferson, future president.\]
 
-Aug, 16, 1756: Albemarle Co. Patent to John Kinkead for 225 acres on the south branch of Stockton's Creek of Mechums River. (Patent #33, p. 187)
+Aug, 16, 1756: Albemarle Co. Patent to John Kinkead for 225 acres on the south branch of Stockton's Creek of Mechums River. (Patent 33, p. 187)
 
 1764: Albemarle Co. Deed from Wm. & Anne Grayson to John Kincade, farmer, county of residence not named, 100 acres for L 20. In parish of St Anne on the Branches of Meechums River. A part of a tract of land patented to Col. Chiswell. Neighbors: John Allen, Samuel Tincher, Andrew Kincade, Hugh(s). The line between John & Andrew Kincade being agreed to by them. No witnesses.
 
@@ -616,7 +613,7 @@ lived on Muddy Creek Mountain adjacent to land owned by the Harrahs. It was ther
 ### ENDNOTES:
 
 #### 1.
-The source of this tradition was apparently Dr. Herbert Clarke Kincaid of Washington. D.C., a g-g-g-grandson of one of the nephews, Samuel Kincaid. From "An Assortment of Kincaid Papers", LDS Film #1697700, Item 6. The only aspects of the tradition I can confirm are David Kincaid's appearances in Spotsylvania County and other Virginia counties from the 1730's as evidenced by deeds and court records. The supposed nephews, Samuel, George, James and Robert are not examined in this chapter. Although some of their descendants appear later in Greenbrier County, there is no apparent relation to our Thomas Kincaid.
+The source of this tradition was apparently Dr. Herbert Clarke Kincaid of Washington. D.C., a g-g-g-grandson of one of the nephews, Samuel Kincaid. From "An Assortment of Kincaid Papers", LDS Film 1697700, Item 6. The only aspects of the tradition I can confirm are David Kincaid's appearances in Spotsylvania County and other Virginia counties from the 1730's as evidenced by deeds and court records. The supposed nephews, Samuel, George, James and Robert are not examined in this chapter. Although some of their descendants appear later in Greenbrier County, there is no apparent relation to our Thomas Kincaid.
 
 #### 2.
 E-mail message from Robert Walters of Cary, NC, dated Oct. 28, 1998.
@@ -678,7 +675,7 @@ Albemarle Co., VA Court Deed Book 4, page 174-178, Andrew Woods, 409 acres, to J
 #### 20.
 Vol 3., p. 182, Abstracts of Chester Co., PA Land Records 1745-1753 by Carol Bryant, 1997.
 
-FHL book #974.813 R28b... quoted from Alice Gedges' web page.
+FHL book 974.813 R28b... quoted from Alice Gedges' web page.
 
 #### 21.
 Ibid, Vol. 3, p. 188.
@@ -699,7 +696,7 @@ Ibid, Vol. 5, p. 101.
 This is from an e-mail from Dennis House (8/30/99) to the Kincaid mail list in response to a message from Barbara Mihalcik who stated her ancestress, Sarah Kincaid, born in Windham, NH in 1861, was thought to be either the son of Samuel Kincaid or of the Rev. John Kincaid "who went to Windham in 1760 from Chester Co., PA".
 
 #### 27.
-These last 3 records, 1766-69 in Augusta Co., for the Rev. John Kincaid are from Chalkley's Chronicles. In Alice Gedge's temporary website, she attributed these entries to John Kincaid, b. c1745, son of Thomas Kincaid and Margaret Lockhart. This John married Margaret \_\_\_. And according to file #561.704 in the Chester Co., PA Historical Society, as quoted by Alice, he was a Reverend. At some later date this family moved to Woodford Co., KY which could possibly tie him to William Kincaid & Eleanor Guy who may or may not have been the son of Thomas & Margaret Kincaid (Doug McGuire disputes this). If these records in Augusta Co. are for the younger John and not John Kincaid, Clerk of Chester Co., PA, then the Clerk may have never lived in Virginia.
+These last 3 records, 1766-69 in Augusta Co., for the Rev. John Kincaid are from Chalkley's Chronicles. In Alice Gedge's temporary website, she attributed these entries to John Kincaid, b. c1745, son of Thomas Kincaid and Margaret Lockhart. This John married Margaret \_\_\_. And according to file 561.704 in the Chester Co., PA Historical Society, as quoted by Alice, he was a Reverend. At some later date this family moved to Woodford Co., KY which could possibly tie him to William Kincaid & Eleanor Guy who may or may not have been the son of Thomas & Margaret Kincaid (Doug McGuire disputes this). If these records in Augusta Co. are for the younger John and not John Kincaid, Clerk of Chester Co., PA, then the Clerk may have never lived in Virginia.
 
 #### 27a.
 Susan Liedke believes that John of Bath may not have been the same person as John the Weaver and that each had children with similar names. This might explain the apparent surplus of some names in the early Augusta records. In preparing the time line for this chapter, I have John the weaver born about 1714 and dying (as John of Bath) about 1813 which is a very long life (99 years) if he was one and the same person.
@@ -762,14 +759,9 @@ Daughter of Samuel Baldwin. See more about Samuel Baldwin in the chapter on the 
 The family information is from Larry Shuck's book Our Families and from Sheralynn Kincaid Nichols Kincaid home page. Their information generally agrees. The same family list from Lois Kincaid Dorsey's The Tincher Tribe has some variations; she adds an Andrew and a Kincaid Kincaid and she lists a George and a Campbell Kincaid as two different persons.
 
 #### 46.
-Greenbrier Co., WVA Court of Chancery & Law. Court Packet filed in Chancery Box/File #145, Robert & Elizabeth Harrow, et al, Heirs of Samuel Baldwin vs. Thos. Kinkaid.
+Greenbrier Co., WVA Court of Chancery & Law. Court Packet filed in Chancery Box/File 145, Robert & Elizabeth Harrow, et al, Heirs of Samuel Baldwin vs. Thos. Kinkaid.
 
 
+_Last updated January 2, 2011_
 
-I WOULD LIKE TO GIVE A SPECIAL THANKS TO RICHARD FOR LETTING ME PLACE HIS WORK IN PROGRESS ON THIS PAGE. I DO NOT HAVE A CURRENT E-MAIL ADDRESS FOR RICHARD.
 
-_Last updated January 2, 20011_
-
-_©Copyright All Rights Researved 1997-2011_
-
-[![2723846bb3870a669fd44a2c66d86a77.gif](/img/user/assets/Kincaid_History,_The_Revised_Unfinished_Chapter_of_the_Harrah_History_Book_now_in_progress.resources/2723846bb3870a669fd44a2c66d86a77.gif)](http://mysite.ncnetwork.net/respocqm/index.htm#kincaidhistory)
