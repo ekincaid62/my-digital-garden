@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kincaid-history-the-revised-unfinished-chapter-of-the-harrah-history-book-now-in-progress/","tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/kincaid-history-the-revised-unfinished-chapter-of-the-harrah-history-book-now-in-progress/","tags":["gardenEntry"]}
 ---
 
 
@@ -559,11 +559,11 @@ The children of Thomas Kincaid and Hannah Tincher were:
 
 Margaret (Peggy) Kincaid (1760-1840) married Charles Harrah
 
-John Kincaid (1761- ) married Elizabeth Hannah Gillespie
+[[John Kincaid 1760-1834\|John Kincaid]] (1761- ) married Elizabeth Hannah Gillespie
 
 Elizabeth Kincaid (1766-after 1850) married Daniel Harrah, Jr.
 
-Samuel Kincaid (1767-1843) married Mary Tincher
+[[Samuel Kincaid 1765-1847\|Samuel Kincaid]] (1767-1843) married Mary Tincher
 
 Thomas Kincaid (1770-1844) married Hannah Viney and/or Elizabeth Murdoch
 
