@@ -16,4 +16,4 @@ Here's a **[Map](https://drive.google.com/open?id=1Ovf8lrLFB4BTWTWKfye1fDldFYQ&u
 
 Adj. Thomas Kincaid on Muddy Ck. Wit: Wiley Woods, Samuel Kincaid, John Smith. This land along with other Muddy Creek land was sold on Dec 30, 1800 by John and Elizabeth Kincaid.
 
-![McDowell_Muddy Creek-1.jpg](/img/user/Evernote/Land%20Grants/_resources/5_July_1774,_McDowell_1000_Ac_Patent.resources/McDowell_Muddy%20Creek-1.jpg)![McDowell_Muddy Creek-2.jpg](/img/user/Evernote/Land%20Grants/_resources/5_July_1774,_McDowell_1000_Ac_Patent.resources/McDowell_Muddy%20Creek-2.jpg)
+![McDowell_Muddy Creek-1.jpg](/img/user/assets/McDowell_Muddy%20Creek-1.jpg)![McDowell_Muddy Creek-2.jpg](/img/user/assets/McDowell_Muddy%20Creek-2.jpg)

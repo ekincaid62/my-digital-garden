@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kincaid-history-richard-bradley/","tags":["gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/kincaid-history-richard-bradley/","tags":["gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 

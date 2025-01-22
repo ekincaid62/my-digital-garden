@@ -22,8 +22,8 @@ This property is then deeded as two parcels from Samuel as follows:
 [[Evernote/Land Grants/Greenbrier County, DB 7 Pg 95 dated 4 Dec 1816 (Samuel and Huldy to Thomas Bennett)\|Greenbrier County, DB 7 Pg 95 dated 4 Dec 1816 (Samuel and Huldy to Thomas Bennett)]] (12 Ac parcel from DB 1 Pg 144) Samuel and Huldy to Thomas Bennett
 [[Evernote/Land Grants/Greenbrier County, DB 10 Pg 43 dated 4 Dec 1816 (Samuel and Huldy to John Butler)\|Greenbrier County, DB 10 Pg 43 dated 4 Dec 1816 (Samuel and Huldy to John Butler)]](195 Ac parcel from DB 1 Pg 144)
 
-![[DSCN3678.JPG]]
+![DSCN3678.jpg](/img/user/assets/DSCN3678.jpg)
 
-![[DSCN3680.JPG]]
+![DSCN3680.jpg](/img/user/assets/DSCN3680.jpg)
 
-![[DSCN3682.JPG]]
+![DSCN3682.jpg](/img/user/assets/DSCN3682.jpg)
