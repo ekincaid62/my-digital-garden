@@ -3,7 +3,7 @@
 ---
 
 **This tract is a portion of the 1000 Ac Patent to Daniel McDowell dated 5 July 1774**
-Here's a **[Map](https://drive.google.com/open?id=1Ovf8lrLFB4BTWTWKfye1fDldFYQ&usp=sharing)** showing the property in red and how it fit within within the 1000 Ac.
+Here's a **[Map](https://drive.google.com/open?id=1Ovf8lrLFB4BTWTWKfye1fDldFYQ&usp=sharing)** showing the property in red and how it fit within within the 1000 Ac. as well as the 1334 Ac. Meadow River tract to the west.
 
 This Indenture made the twenty fourth Day of April one Thousand seven Hundred and ninety two between Thomas Kincaid Sr. and Hannah his Wife of the one part and Samuel Kincaid of the other, each of the County of Green Brier and State of Virginia Witnesseth:
 
