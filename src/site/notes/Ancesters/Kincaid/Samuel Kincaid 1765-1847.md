@@ -37,7 +37,7 @@ Death on 1847 in Fayette County VA
 
 #### Land Transfers
 Muddy Creek
-[[Evernote/Land Grants/Greenbrier County, DB 1 Pg 144 dated 24 Apr 1792 (Thomas and Hannah to Samuel)\|Greenbrier County, DB 1 Pg 144 dated 24 Apr 1792 (Thomas and Hannah to Samuel)]]
+[[Vault/Land Transfers/Greenbrier County, DB 1 Pg 144 dated 24 Apr 1792 (Thomas and Hannah to Samuel)\|Greenbrier County, DB 1 Pg 144 dated 24 Apr 1792 (Thomas and Hannah to Samuel)]]
 Here's a **[Map](https://drive.google.com/open?id=1Ovf8lrLFB4BTWTWKfye1fDldFYQ&usp=sharing)** showing the property in red and how it fit within within the McDowell 1000 Ac
 
 The following 2 deeds (12Ac to Bennett, 195 Ac to Butler) show how the 207 Ac listed in DB 1 Pg 144 was transferred from Samuel and this [map](https://www.google.com/maps/d/edit?mid=1jr6PpFN_5rfXCAzAiAUWEf9H2zY&ll=37.80694748007256%2C-80.61598907681034&z=13)shows how they fit together.

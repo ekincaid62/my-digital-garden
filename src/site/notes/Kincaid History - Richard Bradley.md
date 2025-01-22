@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kincaid-history-richard-bradley/","tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/kincaid-history-richard-bradley/","tags":["gardenEntry"]}
 ---
 
 
@@ -587,7 +587,7 @@ Nov. 6, 1827: Excerpts from the statement of James Shanklin, Commisioner, were a
 
 "Thos. Kincaid Jr. convey'd the balance of the said deed of 285 acres which is 265 1/4 acres to _Thos. Harra_ by deed bearing date the 18th nov. 1817 & the land is now in said _Harra's_ possession & includes the balance of the 150 acres survey."
 
-"551 acres of said survey of 1,334 acres was conveyed by _Thos. Kincaid Senr_. To his _grandson_, Mathew Harra by deed of bargain & sale bearing date the 25th day of Aug. 1809 and 551 acres was conveyed by Mathew Harra to Thos. Terry by deed bearing date the 22nd day of June 1819."
+"551 acres of said survey of 1,334 acres was conveyed by _Thos. Kincaid Senr_. To his _grandson_, Mathew Harra by [[Vault/Land Transfers/Greenbrier County, DB 4 Pg 297 dated 25 Aug 1804 (Thomas and Hannah to Matthew Harrah)\|Greenbrier County, DB 4 Pg 297 dated 25 Aug 1804 (Thomas and Hannah to Matthew Harrah)]] and 551 acres was conveyed by Mathew Harra to Thos. Terry by deed bearing date the 22nd day of June 1819."
 
 Nov. 9, 1816: A revised complaint by Baldwin's heirs which included more defendants:
 
