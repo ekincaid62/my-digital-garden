@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/vault/patents/4-july-1791-thomas-kincaid-patent-315-ac-patent/","tags":["Thomas-Kincaid","Muddy-Creek"]}
+---
+
+Greenbrier County (W)Va.
+Muddy Creek, 1791, Bk 3, p 347 SIMS INDEX p 137
+
+Description: 315 acres adjoining his survey of 1000 acres on the waters of Muddy Creek and the lands of Charles Aharra.
+
+Beverly Randolph Esquire Governor of the Commonwealth of Virginia To all To whom these presents shall come Greeting: Know ye that by Virtue and in Consideration of part of three Land Office Treasury Warrants Numbers eight thousand three hundred thirteen, eleven thousand two hundred and forty four and Twelve thousand four hundred and Sixty five, there is granted by the said Commonwealth unto Thomas Kincaid, a certain tract or parcel of Land containing three hundred and fifteen Acres by Survey bearing Date the seventeenth day of March one thousand seven hundred and eighty nine lying and being in the County of Greenbrier Joining his Surevy of one thousand acres on the Waters of Muddy Creek and the Lands of Charles Oharra and bounded as follows the \*\*\*\* Beginning at a **black oak and white oak on Oharra's line** and with the same **North eighty two degrees West thirty poles** to **two white oaks** and **North twenty poles** to a **white oak and poplar** and **North ten degrees East ninety four poles** to a **black and white oak** and **North sixty degrees West eighty eight poles** to a **white oak** and leaving **South twenty five degrees West fifty eight poles** to a **black oak and Chesnut oak corner to Kincaid** and with his line **South seventy five degrees East eighty poles** to a **white oak** and **South seven degrees West fifty four poles** to a **red oak** and **South sixty degrees East one hundred and twenty poles** to **three black oaks** and **North five degrees East Three hundred and fifty poles** to a **black oak and white oak on harras line the Beginning** with its appurtenances to have and to hold the said tract or parcel of Land with its appurtenances to the said Thomas Kincaid and his Heirs forever . In witness whereof the said Beverly Randolph Esquire Governor of the Commnwealth of Virginia Hath hereunto set his hand and caused the lesser Seal of the said Commonwealth to be affixed at Richmond on the fourth day of July in the year of our Lord one thousand seven hundred ninety one and the Commonwealth the Sixteenth
+
+Beverly Randolph![Thomas315-1.jpg](/img/user/assets/4_July_1791_Thomas_Kincaid_Patent_315_Ac_Patent.resources/Thomas315-1.jpg)
+![Thomas315-2.jpg](/img/user/assets/4_July_1791_Thomas_Kincaid_Patent_315_Ac_Patent.resources/Thomas315-2.jpg)

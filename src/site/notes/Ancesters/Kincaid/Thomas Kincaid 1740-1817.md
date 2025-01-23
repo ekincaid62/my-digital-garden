@@ -24,16 +24,16 @@ Death on 9/13/1817 in Greenbrier,WV
 [[Ancesters/Kincaid/Francis Kincaid 1784-1826\|Francis Kincaid 1784-1826]]
 [[Ancesters/Kincaid/Elizabeth Kincaid 1785-1862\|Elizabeth Kincaid 1785-1862]]
 
-This Courtcase lists all the descendants of Thomas and Hannah [[Evernote/Land Grants/Baldwin vs Kincaid\|Baldwin vs Kincaid]]
+This Courtcase lists all the descendants of Thomas and Hannah [[Vault/Baldwin vs Kincaid\|Baldwin vs Kincaid]]
 
 
 #### Census Records
 
 #### Land Transfers
 Muddy Creek
-[[Vault/Land Transfers/5 July 1774, McDowell 1000 Ac Patent\|5 July 1774, McDowell 1000 Ac Patent]]
-[[Vault/Land Transfers/2 July 1791 Thomas Kincaid 150 Ac Patent\|2 July 1791 Thomas Kincaid 150 Ac Patent]]
-[[Vault/Land Transfers/4 July 1791 Thomas Kincaid Patent 315 Ac Patent\|4 July 1791 Thomas Kincaid Patent 315 Ac Patent]]
+[[Vault/Patents/5 July 1774, McDowell 1000 Ac Patent\|5 July 1774, McDowell 1000 Ac Patent]]
+[[Vault/Patents/2 July 1791 Thomas Kincaid 150 Ac Patent\|2 July 1791 Thomas Kincaid 150 Ac Patent]]
+[[Vault/Patents/4 July 1791 Thomas Kincaid Patent 315 Ac Patent\|4 July 1791 Thomas Kincaid Patent 315 Ac Patent]]
 [[Vault/Land Transfers/Greenbrier County, DB 1 Pg 96 dated 26 June 1792 (Thomas and Hannah to John)\|Greenbrier County, DB 1 Pg 96 dated 26 June 1792 (Thomas and Hannah to John)]]
 [[Vault/Land Transfers/Greenbrier County, DB 1 Pg 140 dated 27 Feb 1792 (Thomas and Hannah to Wiley Wood)\|Greenbrier County, DB 1 Pg 140 dated 27 Feb 1792 (Thomas and Hannah to Wiley Wood)]]
 [[Vault/Land Transfers/Greenbrier County, DB 1 Pg 144 dated 24 Apr 1792 (Thomas and Hannah to Samuel)\|Greenbrier County, DB 1 Pg 144 dated 24 Apr 1792 (Thomas and Hannah to Samuel)]]
@@ -47,10 +47,10 @@ Muddy Creek
 
 ---
 Little Meadow River
-[[Vault/Land Transfers/7 Oct 1800, 1344 Ac Patent Thomas Kincaid\|7 Oct 1800, 1344 Ac Patent Thomas Kincaid]]
+[[Vault/Patents/7 Oct 1800, 1344 Ac Patent Thomas Kincaid\|7 Oct 1800, 1344 Ac Patent Thomas Kincaid]]
 [[Vault/Land Transfers/Greenbrier County, DB 4 Pg 129 dated 26 July 1808 (Thomas and Hannah to Matthew Kincaid)\|Greenbrier County, DB 4 Pg 129 dated 26 July 1808 (Thomas and Hannah to Matthew Kincaid)]]
 [[Vault/Land Transfers/Greenbrier County, DB 4 Pg 297 dated 25 Aug 1804 (Thomas and Hannah to Matthew Harrah)\|Greenbrier County, DB 4 Pg 297 dated 25 Aug 1804 (Thomas and Hannah to Matthew Harrah)]]
-[[Vault/Land Transfers/3 July 1816 Thomas Kincaid Sr. 42 Ac Patent\|3 July 1816 Thomas Kincaid Sr. 42 Ac Patent]]
+[[Vault/Patents/3 July 1816 Thomas Kincaid Sr. 42 Ac Patent\|3 July 1816 Thomas Kincaid Sr. 42 Ac Patent]]
 #### Biography
 
 

@@ -24,12 +24,12 @@ Death on 6/1976 in Summersville WV
 [[Ancesters/Kincaid/Eugene Curtis Kincaid 1927-2009\|Eugene Curtis Kincaid 1927-2009]]
 
 #### Census Records
-[[Evernote/Archive/1950 United States Federal Census\|1950 United States Federal Census]]
-[[Evernote/Land Grants/1940 United States Federal Census\|1940 United States Federal Census]]
-[[Evernote/Land Grants/1930 United States Federal Census Record\|1930 United States Federal Census]]
-[[Evernote/Land Grants/1920 United States Federal Census Record\|1920 United States Federal Census]]
-[[Evernote/Land Grants/1910 United States Federal Census Record\|1910 United States Federal Census]]
-[[Evernote/Land Grants/1900 United States Federal Census Record\|1900 United States Federal Census]]
+[[Vault/Census/1950 United States Federal Census\|1950 United States Federal Census]]
+[[Vault/Census/1940 United States Federal Census\|1940 United States Federal Census]]
+[[Vault/Census/1930 United States Federal Census Record\|1930 United States Federal Census]]
+[[Vault/Census/1920 United States Federal Census Record\|1920 United States Federal Census]]
+[[Vault/Census/1910 United States Federal Census Record\|1910 United States Federal Census]]
+[[Vault/Census/1900 United States Federal Census Record\|1900 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

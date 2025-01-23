@@ -27,12 +27,12 @@ Death on 7/3/1919 in Mt. Lookout WV
 [[Ancesters/Kincaid/George Wesley Kincaid 1891-1976\|George Wesley Kincaid 1891-1976]]
 
 #### Census Records
-[[Evernote/Land Grants/1910 United States Federal Census Record\|1910 United States Federal Census]]
-[[Evernote/Land Grants/1900 United States Federal Census Record\|1900 United States Federal Census]]
-[[Evernote/Land Grants/1880 United States Federal Census Record\|1880 United States Federal Census]]
+[[Vault/Census/1910 United States Federal Census Record\|1910 United States Federal Census]]
+[[Vault/Census/1900 United States Federal Census Record\|1900 United States Federal Census]]
+[[Vault/Census/1880 United States Federal Census Record\|1880 United States Federal Census]]
 Missing the 1870 Census
-[[Evernote/Land Grants/1860 United States Federal Census Record\|1860 United States Federal Census]]
-[[Evernote/Land Grants/1850 United States Federal Census Record\|1850 United States Federal Census]]
+[[Vault/Census/1860 United States Federal Census Record\|1860 United States Federal Census]]
+[[Vault/Census/1850 United States Federal Census Record\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

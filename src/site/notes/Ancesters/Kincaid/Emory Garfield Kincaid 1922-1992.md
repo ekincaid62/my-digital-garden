@@ -22,9 +22,9 @@ Death on 7/11/1992 in Summersville WV
 [[George Warren Kincaid 1968-\|George Warren Kincaid 1968-]]
 
 #### Census Records
-[[Evernote/Archive/1950 United States Federal Census\|1950 United States Federal Census]]
-[[Evernote/Land Grants/1940 United States Federal Census\|1940 United States Federal Census]]
-[[Evernote/Land Grants/1930 United States Federal Census Record\|1930 United States Federal Census]]
+[[Vault/Census/1950 United States Federal Census\|1950 United States Federal Census]]
+[[Vault/Census/1940 United States Federal Census\|1940 United States Federal Census]]
+[[Vault/Census/1930 United States Federal Census Record\|1930 United States Federal Census]]
 
 #### Land Transfers
 

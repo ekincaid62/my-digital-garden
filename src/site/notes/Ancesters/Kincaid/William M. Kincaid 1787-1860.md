@@ -33,12 +33,12 @@ Death on 1860 in Fayette County WV
 [[George B. Kincaid 1838-\|George B. Kincaid 1838-]]
 
 #### Census Records
-[[Evernote/Land Grants/1860 United States Federal Census\|1860 United States Federal Census]]
-[[Evernote/Land Grants/1850 United States Federal Census\|1850 United States Federal Census]]
-[[Evernote/Archive/1840 Census Record\|1840 Census Record]]
+[[Vault/Census/1860 United States Federal Census\|1860 United States Federal Census]]
+[[Vault/Census/1850 United States Federal Census\|1850 United States Federal Census]]
+[[Vault/Census/1840 Census Record\|1840 Census Record]]
 #### Land Transfers
-[[Evernote/Land Grants/Fayette County DB. C Pg 793 dated 5 Aug. 1847 (to Gwinn)\|Fayette County DB. C Pg 793 dated 5 Aug. 1847 (to Gwinn)]] shows Diana living on land
-[[Evernote/Land Grants/Fayette Co. DB E Pg 173 dated 16 June 1849 (to John Gwinn)\|Fayette Co. DB E Pg 173 dated 16 June 1849 (to John Gwinn)]]
+[[Vault/Land Transfers/Fayette County DB. C Pg 793 dated 5 Aug. 1847 (William Kincaid to Gwinn)\|Fayette County DB. C Pg 793 dated 5 Aug. 1847 (William Kincaid to Gwinn)]] shows Diana living on land
+[[Vault/Land Transfers/Fayette Co. DB E Pg 173 dated 16 June 1849 (to John Gwinn)\|Fayette Co. DB E Pg 173 dated 16 June 1849 (to John Gwinn)]]
 
 #### Biography
 

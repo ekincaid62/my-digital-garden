@@ -33,11 +33,11 @@ Death on 8/1891 in Fayette County WV
 [[Jonathan Lloyd Kincaid 1858-1886\|Jonathan Lloyd Kincaid 1858-1886]]
 
 #### Census Records
-[[Evernote/Land Grants/1880 United States Federal Census Record\|1880 United States Federal Census]]
-[[Evernote/Land Grants/1870 United States Federal Census\|1870 United States Federal Census]]
-[[Evernote/Land Grants/1860 United States Federal Census Record\|1860 United States Census]]
-[[Evernote/Land Grants/1850 United States Federal Census Record\|1850 United States Census]]
-The [[Evernote/Archive/Kincaid Family Bible\|Kincaid Family Bible]] shows John being the son of William and Jane. This now in the West Virginia State Archives and is no longer accessible.
+[[Vault/Census/1880 United States Federal Census Record\|1880 United States Federal Census]]
+[[Vault/Census/1870 United States Federal Census\|1870 United States Federal Census]]
+[[Vault/Census/1860 United States Federal Census Record\|1860 United States Census]]
+[[Vault/Census/1850 United States Federal Census Record\|1850 United States Census]]
+The [[Vault/Kincaid Family Bible\|Kincaid Family Bible]] shows John being the son of William and Jane. This now in the West Virginia State Archives and is no longer accessible.
 #### Land Transfers
 
 #### Biography
@@ -46,4 +46,4 @@ The [[Evernote/Archive/Kincaid Family Bible\|Kincaid Family Bible]] shows John b
 [[Evernote/Archive/John A. Kincaid.jpg\|Evernote/Archive/John A. Kincaid.jpg]]
 #### Sources
 
-[[Evernote/Land Grants/John A. and Sarah Kincaid Headstone\|John A. and Sarah Kincaid Headstone]]
+[[assets/John A. and Sarah Kincaid Headstone\|John A. and Sarah Kincaid Headstone]]
