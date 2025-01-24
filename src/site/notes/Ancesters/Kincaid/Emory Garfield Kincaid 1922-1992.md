@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancesters/kincaid/emory-garfield-kincaid-1922-1992/"}
+{"dg-publish":true,"permalink":"/ancesters/kincaid/emory-garfield-kincaid-1922-1992/","tags":["Emory-Garfield-Kincaid"]}
 ---
 
 Born on  8/14/1922 in Mt. Lookout, WV
