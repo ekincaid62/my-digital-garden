@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kincaid-history-richard-bradley/","tags":["gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/kincaid-history-richard-bradley/","tags":["gardenEntry"]}
 ---
 
 
@@ -760,8 +760,5 @@ The family information is from Larry Shuck's book Our Families and from Sheralyn
 
 #### 46.
 Greenbrier Co., WVA Court of Chancery & Law. Court Packet filed in Chancery Box/File 145, Robert & Elizabeth Harrow, et al, Heirs of Samuel Baldwin vs. Thos. Kinkaid.
-
-
-_Last updated January 2, 2011_
 
 
