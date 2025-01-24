@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kincaid-history-richard-bradley/","tags":["Thomas-Kincaid","Hannah-Tincher","gardenEntry"]}
+{"dg-publish":true,"permalink":"/kincaid-history-richard-bradley/","tags":["Thomas-Kincaid","Hannah-Tincher","gardenEntry","gardenEntry"]}
 ---
 
 
@@ -160,7 +160,7 @@ Bill Filed 1803: Kinkade vs. Cunningham. _Thomas Kinkade_ was a very ignorant an
 
 By the 1740's David Kincaid had purchased land in Augusta County (formed from Orange Co. In 1738) and in Albemarle County (formed from Louisa and Goochland Counties in 1744). Although he owned land in Augusta County, I believe he lived primarily in Albemarle County. According to Wood's History of Albemarle County, three brothers named David, Joseph, and James Kinkead [[Kincaid History - Richard Bradley#13\|#13]] settled in far western Albemarle County (which is near the Augusta County border). [[Kincaid History - Richard Bradley#14\|#14]]
 
-**XXXXXXXX NEED TINKLING SPRING CHURCH RECORDS HERE XXXXXXXXXXXXXXXXXXX**
+**XXXXXXXX NEED TINKLING SPRING CHURCH RECORDS HERE XXXXXXXX**
 
 James died in 1762. Leaving three sons, Thomas, John, and James, and probably two more, Matthew and Andrew, and a daughter, the wife of Ninian Clyde. Joseph died in 1774. His children were Jean, the wife of Hugh Alexander, John, and Ruth, the wife of Andrew Grier. . . .All of the kindred bearing the name, seem to have removed from the county before the close of the last century \[18th Century\]. Its latest appearance on the records occurs in 1784, when Jean, the widow of James, sold to Abner Wood, a parcel of land in what is known as the Piper and Patrick neighborhood. She was at that time a resident of Rockbridge County. [[Kincaid History - Richard Bradley#15\|#15]]
 
@@ -558,26 +558,17 @@ Our Thomas Kincaid settled in Greenbrier County by the early 1780's based on rou
 The children of Thomas Kincaid and Hannah Tincher were:
 
 Margaret (Peggy) Kincaid (1760-1840) married Charles Harrah
-
 [[Ancesters/Kincaid/John Kincaid 1760-1834\|John Kincaid]] (1761- ) married Elizabeth Hannah Gillespie
-
 Elizabeth Kincaid (1766-after 1850) married Daniel Harrah, Jr.
-
 [[Ancesters/Kincaid/Samuel Kincaid 1765-1847\|Samuel Kincaid]] (1767-1843) married Mary Tincher
-
 Thomas Kincaid (1770-1844) married Hannah Viney and/or Elizabeth Murdoch
-
 Francis Kincaid (1773-1826) married Nancy Murdock
-
 George Campbell Kincaid (1773- ) married Joanna Baldwin [[Kincaid History - Richard Bradley#44\|#44]]
-
 William Kincaid (1777-1860) married Mary Ann Tincher
-
 Hannah Kincaid (1777- ) married James M. Walker
-
 Sarah (Salle) Kincaid (1781- ) married Thomas Terry [[Kincaid History - Richard Bradley#45\|#45]]
 
-Most of the definitive proof of the children of Thomas Kincaid is provided by a lawsuit instigated in 1811 by the heirs of Samuel Baldwin against Thomas Kincaid. I have excerpted here only those records which generally explain the lawsuit and which provide proof that Elizabeth Harrah was Thomas Kincaid's daughter and Elizabeth's sons were Thomas Harrah and probably Matthew Harrah:
+Most of the definitive proof of the children of Thomas Kincaid is provided by a lawsuit instigated in 1811 by the heirs of [[Vault/SAMUEL FORD JR.\|Samuel Baldwin]] against Thomas Kincaid. I have excerpted here only those records which generally explain the lawsuit and which provide proof that Elizabeth Harrah was Thomas Kincaid's daughter and Elizabeth's sons were Thomas Harrah and probably Matthew Harrah:
 
 Oct. 19, 1811: William Baldwin, one of plaintiffs, applied to James Withrow, justice of peace, to intervene because _Thomas Kincaid, Sr._ informed him \[Baldwin\] that he had sold his \[_Kincaid's_\] land in said county with a view of shortly removing to the state of Kentucky and Baldwin believed that he \[Kincaid\] shortly intended to leave the Commonwealth. Baldwin wanted the court to compel _Thomas Kincaid, Sr._ to put up some form of security before his removal to "foreign parts". In this document, Baldwin charged that _Thomas Kincaid_ received 2 land warrants from his father , Samuel Baldwin, one warrant for 1,030 acres and another warrant for 1,936 ½ acres which the said Kincaid was to survey, enter and divide between them. William Baldwin charged that _Kincaid_ fraudulently disposed of the land in smaller parcels without giving the heirs of Samuel Baldwin their fair share.
 
@@ -585,7 +576,7 @@ Sept. 11, 1813: Deposition of Thomas Kincaid, Jr. (Son of the defendant) was tak
 
 Nov. 6, 1827: Excerpts from the statement of James Shanklin, Commisioner, were as follows:
 
-"Thos. Kincaid Jr. convey'd the balance of the said deed of 285 acres which is 265 1/4 acres to _Thos. Harra_ by deed bearing date the 18th nov. 1817 & the land is now in said _Harra's_ possession & includes the balance of the 150 acres survey."
+"Thos. Kincaid Jr. convey'd the balance of the said deed of [[Vault/Land Transfers/Greenbrier County, DB 1 Pg 151 dated 24 Apr 1792 (Thomas and Hannah to Thomas Jr.)\|285]] acres which is 265 1/4 acres to _Thos. Harra_ by deed bearing date the 18th nov. 1817 & the land is now in said _Harra's_ possession & includes the balance of the 150 acres survey."
 
 "551 acres of said survey of 1,334 acres was conveyed by _Thos. Kincaid Senr_. To his _grandson_, Mathew Harra by [[Vault/Land Transfers/Greenbrier County, DB 4 Pg 297 dated 25 Aug 1804 (Thomas and Hannah to Matthew Harrah)\|Greenbrier County, DB 4 Pg 297 dated 25 Aug 1804 (Thomas and Hannah to Matthew Harrah)]] and 551 acres was conveyed by Mathew Harra to Thos. Terry by deed bearing date the 22nd day of June 1819."
 
