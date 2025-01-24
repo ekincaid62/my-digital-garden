@@ -511,7 +511,7 @@ As stated previously, there are records in Albemarle County which identify our T
 
 &
 
-*Nov. 26, 1771: Deed from Thomas Kinkead, son of John Kinkead, & Hannah his wife to Benjamin Coffey, all of Albemarle, 211 acres for L 20. To the east & north of Amours Mtn. Neighbors: John Patrick. Witnesses: John Coffey, John Garland, Natha'l Garland*
+*Nov. 26, 1771: Albemarle Co., VA DB 5 PG 435-36 Thomas Kinkead, son of John Kinkead, & Hannah his wife to Benjamin Coffey, all of Albemarle, 211 acres for L 20. To the east & north of Amours Mtn. Neighbors: John Patrick. Witnesses: John Coffey, John Garland, Natha'l Garland*
 
 Therefore, the first certain record for our Thomas Kincaid is the July 5, 1765 record in Albemarle County. We know that Thomas' daughter Margaret was born about 1760, so Thomas was probably married in 1760 or earlier. A birth date in the range of 1740-42 would seem to a good estimate. The mention of wife Hannah in the 1771 deed proves that this was the Thomas married to Hannah Tincher. Although Samuel Tincher, Hannah's father, is associated in most research with his land transactions in Augusta Co., other deeds in Albemarle prove he owned land in the same area as the Kincaids.
 
