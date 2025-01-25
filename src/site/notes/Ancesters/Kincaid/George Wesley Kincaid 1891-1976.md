@@ -9,7 +9,7 @@ Death on 6/1976 in Summersville WV
 #### Parents
 [[Ancesters/Kincaid/James William Kincaid 1850-1919\|James William Kincaid 1850-1919]] and [[Ancesters/Keenan/Sarah Virginia Keenan 1849-\|Sarah Virginia Keenan 1849-]]
 #### Siblings
-[[Martha Belle Kincaid 1872-1892\|Martha Belle Kincaid 1872-1892]] 
+[[Ancesters/Kincaid/Martha Belle Kincaid 1872-1892\|Martha Belle Kincaid 1872-1892]] 
 [[Ancesters/Kincaid/Thomas P. Kincaid 1874-1949\|Thomas P. Kincaid 1874-1949]] 
 [[Lola M. Kincaid 1879-1906\|Lola M. Kincaid 1879-1906]] 
 [[Mollie V. Kincaid 1881-1892\|Mollie V. Kincaid 1881-1892]] 

@@ -20,7 +20,7 @@ Death on 6/13/2012 in Mt. Lookout WV
 
 ---
 #### Spouse and Children
-[[Ancesters/Kincaid/Emory Garfield Kincaid 1922-1992\|Emory Garfield Kincaid 1922-1992]] on [[Evernote/Archive/Marriage License\|12/29/1948]] in Nicholas County, WV 
+[[Ancesters/Kincaid/Emory Garfield Kincaid 1922-1992\|Emory Garfield Kincaid 1922-1992]] on [[Vault/Marriage License\|12/29/1948]] in Nicholas County, WV 
 [[Brenda Lee Kincaid 1949-\|Brenda Lee Kincaid 1949-]]
 [[Ronnie Lynn Kincaid 1952-2010\|Ronnie Lynn Kincaid 1952-2010]]
 [[Ancesters/Kincaid/Emory Garfield Kincaid Jr 1962-\|Emory Garfield Kincaid Jr 1962-]]
