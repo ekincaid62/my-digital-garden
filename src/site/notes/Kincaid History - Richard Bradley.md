@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kincaid-history-richard-bradley/","tags":["Thomas-Kincaid","Hannah-Tincher","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/kincaid-history-richard-bradley/","tags":["Thomas-Kincaid","Hannah-Tincher","gardenEntry"]}
 ---
 
 
-**KINCAID HISTORY**
+# Kincaid History - Richard Brantley
 
 
 The following was compiled by Richard Bradley which I found on Sherranlynn Kincaid Nichols website. It was titled **Revised Unfinished Chapter of the "Harrah History" Book, A work now in progress.** I fear the book was never completed as I can't find any other references to it. While the data does seem pretty complete, I have edited the file to make it more presentable and am adding additional data as I find time.
