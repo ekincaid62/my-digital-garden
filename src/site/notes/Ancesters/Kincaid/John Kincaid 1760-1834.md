@@ -28,11 +28,11 @@ Death on 21 Apr 1834 in Gauley Bridge WV
 
 #### Biography
 
-John served as a private for 10 months in the [[Vault/West Virginians in the Revolution\|revolutionary war]]. His [[Vault/Pension Records for John Kincaid\|Pension Records]] give more detail of what he did during his service.
+John served as a private for 10 months in the [[Vault/Records/West Virginians in the Revolution\|revolutionary war]]. His [[Vault/Records/Pension Records for John Kincaid\|Pension Records]] give more detail of what he did during his service.
 
-John was listed as an heir of Thomas Kincaid in [[Vault/Baldwin vs Kincaid\|Baldwin vs Kincaid]]
+John was listed as an heir of Thomas Kincaid in [[Vault/Records/Baldwin vs Kincaid\|Baldwin vs Kincaid]]
 
-John was convicted of burning [[Vault/John Kincaid and the burning of Gauley Bridge\|Gauley Bridge]] along with his son Matthew.
+John was convicted of burning [[Vault/Records/John Kincaid and the burning of Gauley Bridge\|Gauley Bridge]] along with his son Matthew.
 
 #### Photos
 

@@ -24,7 +24,7 @@ Death on 9/13/1817 in Greenbrier,WV
 [[Ancesters/Kincaid/Francis Kincaid 1784-1826\|Francis Kincaid 1784-1826]]
 [[Ancesters/Kincaid/Elizabeth Kincaid 1785-1862\|Elizabeth Kincaid 1785-1862]]
 
-This Courtcase lists all the descendants of Thomas and Hannah [[Vault/Baldwin vs Kincaid\|Baldwin vs Kincaid]]
+This Courtcase lists all the descendants of Thomas and Hannah [[Vault/Records/Baldwin vs Kincaid\|Baldwin vs Kincaid]]
 
 
 #### Census Records
