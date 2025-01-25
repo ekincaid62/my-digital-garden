@@ -42,7 +42,7 @@ Death on 6/1976 in Summersville WV
 [[Evernote/Archive/George & Laura Skaggs Kincaid 5.jpg\|Evernote/Archive/George & Laura Skaggs Kincaid 5.jpg]]
 [[Evernote/Archive/George & Laura Skaggs Kincaid 6.jpg\|Evernote/Archive/George & Laura Skaggs Kincaid 6.jpg]]
 [[Evernote/Archive/George & Laura Skaggs Kincaid.jpg\|Evernote/Archive/George & Laura Skaggs Kincaid.jpg]]
-[[Evernote/Archive/George & Laura Skaggs Kincaid.jpg.1\|George & Laura Skaggs Kincaid.jpg.1]]
+[[Evernote/Archive/George & Laura Skaggs Kincaid\|George & Laura Skaggs Kincaid]]
 [[Evernote/Archive/George Wesley Kincaid 2.jpg\|Evernote/Archive/George Wesley Kincaid 2.jpg]]
 [[Evernote/Archive/George Wesley Kincaid 3.jpg\|Evernote/Archive/George Wesley Kincaid 3.jpg]]
 [[Evernote/Archive/George Wesley Kincaid 4.jpg\|Evernote/Archive/George Wesley Kincaid 4.jpg]]
