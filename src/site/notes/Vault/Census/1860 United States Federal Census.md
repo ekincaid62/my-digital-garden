@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/vault/census/1860-united-states-federal-census/","tags":["William-Kincaid","Jane-Kincaid"]}
 ---
 
-# 1860 United States Federal Census
+
 Household 146
 Jane Kincaid 60
 Household 147 shows William 70 living with daughter

@@ -9,7 +9,7 @@ Death on 9/13/1817 in Greenbrier,WV
 ---
 #### Parents
 
-[[John\|John]] and <!-- Link to mother-->
+[[Vault/Records/Kincaid History - Richard Bradley#Part 5 ... Which John Kincaid was the father of Thomas Kincaid of Muddy Creek Mountain?\|John]] and <!-- Link to mother-->
 #### Siblings
 <!-- Link to sibling -->
 
@@ -25,7 +25,8 @@ Death on 9/13/1817 in Greenbrier,WV
 [[Ancesters/Kincaid/Elizabeth Kincaid 1785-1862\|Elizabeth Kincaid 1785-1862]]
 
 This Courtcase lists all the descendants of Thomas and Hannah [[Vault/Records/Baldwin vs Kincaid\|Baldwin vs Kincaid]]
-
+The [[Vault/Records/Kincaid History - Richard Bradley#Part 6 ... The Records for Thomas Kincaid of Muddy Creek Mountain\|Kincaid History]] put together by Richard Brantley shows
+Sarah (Salle) Kincaid (1781- ) married Thomas Terry who is not listed in the courtcase from what I have read.
 
 #### Census Records
 
