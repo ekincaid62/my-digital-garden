@@ -172,8 +172,6 @@ July 25, 1765: Deed from Andrew Woods to Jean Kinkead, relict of James Kinkead, 
 
 April 14, 1774: Gift Deed from Jane Kinkead to Thomas Kinkead, her son, both of Albemarle, 207 acres for L 5. Neighbors: Chas. Roads (road to Charlottesville?), John Winkfield(?). Witnesses: James Logan, John Reed(?), Wm. Wood(?), Jr.
 
-+
-
 Oct 13, 1779: Deed from Thomas & Mary Kincade of Albemarle to Samuel Muse of Westmoreland, 207 acres for L 830. Neighbors: Jno. Winkfield, Chal Road, has. Lambert, Jean Kincade. No witnesses.
 
 Nov 11, 1780: Deed from Jane Kinkade of Rockbridge Co. to Abner Wood of Albemarle, 200 acres for L 500. Neighbors: John Piper, Nathaniel Gibson, Jessee(?) Tate, Andrew Munroe, William Gregg, Anne Garland. No witnesses
@@ -193,19 +191,15 @@ The following are Pennsylvania and Virginia records for the Rev. John Kincaid:
 
 July 17, 1745: Orange Co. Deed from James Patton & John Lewis of Beverley Manor in Augusta Co. to John Kinkead of the same Co., 1061 acres for L 35. Great River of the Calfpasture. Neighbors John Preston, James Carole. Witnesses: David Kinkead, Robt Patton, Loftis Pullin.
 
-&
 
 July 17, 1745: Orange Co. Deed from John Kinkead of New London in Province of PA to David Kinkead of Albemarle 1,061 acres fro L 50. In Augusta Co. On the Calfpasture. Land was granted to John Kinkead by James Patton & John Lewis. Witnesses: Robt Bratton, Loftis Pullen, James Patton, John Lewis.
 
-&
 
 Nov. 23, 1760: Deed from John Kinkade to Gabriel Jones, both of Augusta, 530 acres for L 100. Part of 1061 acres which the said John Kinkade sold to John Kinkade of Albemarle, the balance of which the said Kinkade now lives on, being on the Calfpasture. Witnesses: Andrew Lewis, Alex Miller M.A., Thos Madison .
 
-&
 
 Nov 22, 1754 (from notes) Deed from John Kinkead, Clerk of Chester Co., PA to John Kinkead, 530 acres on South side of Calfpasture, part of Orange Co, purchase of 1,061 acres.
 
-&
 
 Nov 24, 1766 (from notes) Deed from John Kinkead, now of Albemarle, to Gabriel Jones, 530 acres on the Calfpasture, originally part of 1,061 acres granted by John Kinkead, Clerk of Chester Co., PA to John Kinkead. \[The John Kinkead, now of Albemarle, is John the Weaver, not John the Clerk. There is no evidence of John the Clerk in any Albemarle records.\]
 
@@ -252,19 +246,15 @@ of Albemarle Co., was the recipient of land in 1753 from John Kincaid, Clerk. Jo
 
 July 17, 1745: Orange Co. Deed from James Patton & John Lewis of Beverley Manor in Augusta Co. to John Kinkead of the same Co., 1061 acres for L 35. Great River of the Calfpasture. Neighbors John Preston, James Carole. Witnesses: David Kinkead, Robt Patton, Loftis Pullin.
 
-&
 
 July 17, 1745: Orange Co. Deed from John Kinkead of New London in Province of PA to David Kinkead of Albemarle 1,061 acres fro L 50. In Augusta Co. On the Calfpasture. Land was granted to John Kinkead by James Patton & John Lewis. Witnesses: Robt Bratton, Loftis Pullen, James Patton, John Lewis.
 
-&
 
 Nov 22, 1754 (from notes) Deed from John Kinkead, Clerk of Chester Co., PA to John Kinkead, 530 acres on South side of Calfpasture, part of Orange Co, purchase of 1,061 acres.
 
-&
 
 Nov. 23, 1760: Deed from John Kinkade to Gabriel Jones, both of Augusta, 530 acres for L 100. Part of 1061 acres which the said John Kinkade sold to John Kinkade of Albemarle, the balance of which the said Kinkade now lives on, being on the Calfpasture. Witnesses: Andrew Lewis, Alex Miller M.A., Thos Madison .
 
-&
 
 Nov 24, 1766 (from notes) Deed from John Kinkead, now of Albemarle, to Gabriel Jones, 530 acres on the Calfpasture, originally part of 1,061 acres granted by John Kinkead, Clerk of Chester Co., PA to John Kinkead.
 
@@ -276,11 +266,9 @@ Aug, 16, 1756: Albemarle Co. Patent to John Kinkead for 225 acres on the south b
 
 1764: Albemarle Co. Deed from Wm. & Anne Grayson to John Kincade, farmer, county of residence not named, 100 acres for L 20. In parish of St Anne on the Branches of Meechums River. A part of a tract of land patented to Col. Chiswell. Neighbors: John Allen, Samuel Tincher, Andrew Kincade, Hugh(s). The line between John & Andrew Kincade being agreed to by them. No witnesses.
 
-&
 
 August, 1768: Albemarle Co. Deed from John Kinkead, farmer, to Abner Wood, both of Albemarle, 100 acres for L 36. Tract having been conveyed to John Kinkead by William Grayson and by Grayson from John Robinson.. Neighbors \_\_\_Hughes, John Allen, Samuel Tincher, Andrew Kinkead. Andrew & John agree to an adjustment of line at Andrew's line.
 
-&
 
 Feb 23, 1769: Albemarle Co. Deed from Andrew Kinkead to Thomas Smith, Senr., both of Albemarle, 100 acres for L 40. On the Branches of Meechums River, having been conveyed to Andrew Kinkead by Wm. Grayson (conveyed by Robinson Esq. To Grayson & Samuel Tincher). Neighbors: John Kinkead, Walker. Witnesses: John Smith, Thos. Coffey, Benjamin Coffey, Thomas Smith.
 
@@ -356,11 +344,9 @@ Oct. 11, 1760: Albemarle Co. John Kinkeid survey of 98 acres. South side of the 
 
 May 12, 1764: Deed from Richard & Agnes Stockton to David Kinkead, all of Albemarle, 400 acres for L 57. Both sides of Stocktons Branch of Meechums Creek. Neighbors: David Stockton, Charles Lynch. Witnesses: Thomas Kinkead, Matthew Kinkead, John Kinkead.
 
-&
 
 May 28, 1764: Deed from David & Winifred Kinkead to their son John Kinkead, all of Albemarle, 400 acres for 5 S. Both sides of Stocktons branch of Meechums River. No neighbors given. Witnesses: Thomas Kinkead, Matthew Kinkead, James Black.
 
-&
 
 September 8, 1768: Deed from John & Elizabeth Kinkead of Albemarle to James Turk of Augusta, 200 acres for L 75. Tract having been conveyed to John by his parents David & Winifred, part of a larger tract of 400 acres. On Stocktons Branch. Witnesses, Robert Logan, Bethial Logan [[Kincaid History - Richard Bradley#29\|#29]], William Jones, James Logan..
 
@@ -509,7 +495,6 @@ As stated previously, there are records in Albemarle County which identify our T
 
 *July 5, 1765: Deed from Andrew Woods to Thomas Kinkead, son of John Kinkead, both of Albemarle, 211 acres for L 18. On the east & north of Armors Mtn. No neighbors given. Witnesses: Joseph Kinkead, Thos. Kinkead, Jean Kinkead.*
 
-&
 
 *Nov. 26, 1771: Albemarle Co., VA DB 5 PG 435-36 Thomas Kinkead, son of John Kinkead, & Hannah his wife to Benjamin Coffey, all of Albemarle, 211 acres for L 20. To the east & north of Amours Mtn. Neighbors: John Patrick. Witnesses: John Coffey, John Garland, Natha'l Garland*
 
