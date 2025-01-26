@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancesters/kincaid/william-m-kincaid-1787-1860/"}
+{"dg-publish":true,"permalink":"/ancesters/kincaid/william-m-kincaid-1787-1860/","tags":["William-Kincaid"]}
 ---
 
 Some refer to him as "Moccasin Bill"

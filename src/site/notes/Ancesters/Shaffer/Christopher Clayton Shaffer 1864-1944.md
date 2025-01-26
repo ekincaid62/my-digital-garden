@@ -10,12 +10,26 @@ Death on 1944 in Mt. Lookout, WV
 
 [[Joseph Allen Shaffer 1838-1911\|Joseph Allen Shaffer 1838-1911]] and [[Mary Francis McClung 1838-1865\|Mary Francis McClung 1838-1865]]
 #### Siblings
-<!-- Link to sibling -->
+[[Evalina Shaffer 1861-1928\|Evalina Shaffer 1861-1928]]
+
+#### Half-Siblings
+[[Lizzie Shaffer 1868-1901\|Lizzie Shaffer 1868-1901]]
+[[Edgar Shaffer 1868-\|Edgar Shaffer 1868-]]
+[[George Shaffer 1868-\|George Shaffer 1868-]]
+[[Edwina Shaffer 1868-1929\|Edwina Shaffer 1868-1929]]
+[[Susie Shaffer 1873-1900\|Susie Shaffer 1873-1900]]
+[[Jacob Allen Shaffer1878-1907\|Jacob Allen Shaffer1878-1907]]
+[[James Russell Shaffer 1886-1936\|James Russell Shaffer 1886-1936]]
+[[Louisa Shaffer 1889-1930\|Louisa Shaffer 1889-1930]]
 
 ---
 #### Spouse and Children
-<!-- Link to spouse --> on <!-- link to date --> in <!-- link to place -->.
-<!-- Link to child -->
+[[Ancesters/McClung/Dorcas Ann McClung 1866-1951\|Dorcas Ann McClung 1866-1951]] on 7/27/1887 in Nicholas County, WV
+[[Freddie Shaffer 1893-\|Freddie Shaffer 1893-]]
+[[Eddie Shaffer 1893-\|Eddie Shaffer 1893-]]
+[[Charles A Shaffer 1896-\|Charles A Shaffer 1896-]]
+[[Chester Shaffer 1899-\|Chester Shaffer 1899-]]
+[[Leancy Shaffer 1904-\|Leancy Shaffer 1904-]]
 
 #### Census Records
 

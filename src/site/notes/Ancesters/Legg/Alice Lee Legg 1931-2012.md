@@ -10,19 +10,19 @@ Death on 6/13/2012 in Mt. Lookout WV
 [[Ancesters/Legg/Fred Rothwell Legg 1885-1958\|Fred Rothwell Legg 1885-1958]] and [[Ancesters/Shaffer/Mamie Catherine Shaffer 1888-1962\|Mamie Catherine Shaffer 1888-1962]]
 #### Siblings
 [[Oswald Legg 1914-1914\|Oswald Legg 1914-1914]]
-[[Retta Delphia Legg 1916-1997\|Retta Delphia Legg 1916-1997]]
-[[Virginia Rae Legg 1918-2003\|Virginia Rae Legg 1918-2003]]
+[[Ancesters/Legg/Retta Delphia Legg 1916-1997\|Retta Delphia Legg 1916-1997]]
+[[Ancesters/Legg/Virginia Rae Legg 1918-2003\|Virginia Rae Legg 1918-2003]] "Sam"
 [[Stillborn Legg 1920-1920\|Stillborn Legg 1920-1920]]
-[[Mary Ann Legg 1921-1997\|Mary Ann Legg 1921-1997]]
-[[June Kathleen Legg 1923-2008\|June Kathleen Legg 1923-2008]]
-[[Charles William Legg 1927-1979\|Charles William Legg 1927-1979]] "Gog"
-[[Catharine Josephine Legg 1929-2003\|Catharine Josephine Legg 1929-2003]] "Kata"
+[[Ancesters/Legg/Mary Ann Legg 1921-1997\|Mary Ann Legg 1921-1997]]
+[[Ancesters/Legg/June Kathleen Legg 1923-2008\|June Kathleen Legg 1923-2008]]
+[[Ancesters/Legg/Charles William Legg 1927-1979\|Charles William Legg 1927-1979]] "Gog"
+[[Ancesters/Legg/Catherine Josephine Legg 1929-2003\|Catherine Josephine Legg 1929-2003]] "Kata"
 
 ---
 #### Spouse and Children
 [[Ancesters/Kincaid/Emory Garfield Kincaid 1922-1992\|Emory Garfield Kincaid 1922-1992]] on [[Vault/Records/Marriage License\|12/29/1948]] in Nicholas County, WV 
 [[Brenda Lee Kincaid 1949-\|Brenda Lee Kincaid 1949-]]
-[[Ronnie Lynn Kincaid 1952-2010\|Ronnie Lynn Kincaid 1952-2010]]
+[[Ancesters/Kincaid/Ronnie Lynn Kincaid 1952-2010\|Ronnie Lynn Kincaid 1952-2010]]
 [[Ancesters/Kincaid/Emory Garfield Kincaid Jr 1962-\|Emory Garfield Kincaid Jr 1962-]]
 [[Connie Jean Kincaid 1965-\|Connie Jean Kincaid 1965-]]
 [[George Warren Kincaid 1968-\|George Warren Kincaid 1968-]]

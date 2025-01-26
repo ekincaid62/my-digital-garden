@@ -9,7 +9,7 @@ Born on  6/20/1962 in Summersville, WV
 [[Ancesters/Kincaid/Emory Garfield Kincaid 1922-1992\|Emory Garfield Kincaid 1922-1992]]  and [[Ancesters/Legg/Alice Lee Legg 1931-2012\|Alice Lee Legg 1931-2012]]
 #### Siblings
 [[Brenda Lee Kincaid 1949-\|Brenda Lee Kincaid 1949-]]  
-[[Ronnie Lynn Kincaid 1952-2010\|Ronnie Lynn Kincaid 1952-2010]]  
+[[Ancesters/Kincaid/Ronnie Lynn Kincaid 1952-2010\|Ronnie Lynn Kincaid 1952-2010]]  
 [[Connie Jean Kincaid 1965-\|Connie Jean Kincaid 1965-]]  
 [[George Warren Kincaid 1968-\|George Warren Kincaid 1968-]]  
 

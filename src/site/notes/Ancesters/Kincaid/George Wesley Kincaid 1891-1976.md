@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancesters/kincaid/george-wesley-kincaid-1891-1976/"}
+{"dg-publish":true,"permalink":"/ancesters/kincaid/george-wesley-kincaid-1891-1976/","tags":["George-Kincaid"]}
 ---
 
 Born on  3/13/1891 in West Virginia
@@ -11,10 +11,10 @@ Death on 6/1976 in Summersville WV
 #### Siblings
 [[Ancesters/Kincaid/Martha Belle Kincaid 1872-1892\|Martha Belle Kincaid 1872-1892]] 
 [[Ancesters/Kincaid/Thomas P. Kincaid 1874-1949\|Thomas P. Kincaid 1874-1949]] 
-[[Lola M. Kincaid 1879-1906\|Lola M. Kincaid 1879-1906]] 
-[[Mollie V. Kincaid 1881-1892\|Mollie V. Kincaid 1881-1892]] 
-[[Betty Ann Kincaid 1883-\|Betty Ann Kincaid 1883-]] 
-[[Nannie F. Kincaid 1887-\|Nannie F. Kincaid 1887-]] 
+[[Ancesters/Kincaid/Lola M. Kincaid 1879-1906\|Lola M. Kincaid 1879-1906]] 
+[[Ancesters/Kincaid/Mollie V. Kincaid 1881-1892\|Mollie V. Kincaid 1881-1892]] 
+[[Ancesters/Kincaid/Betty Ann Kincaid 1883-\|Betty Ann Kincaid 1883-]] 
+[[Ancesters/Kincaid/Nannie F. Kincaid 1887-\|Nannie F. Kincaid 1887-]] 
 
 ---
 #### Spouse and Children

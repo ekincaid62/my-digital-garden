@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancesters/kincaid/james-william-kincaid-1850-1919/"}
+{"dg-publish":true,"permalink":"/ancesters/kincaid/james-william-kincaid-1850-1919/","tags":["James-William-Kincaid"]}
 ---
 
 Born on  4/7/1850 in West Virginia
@@ -20,10 +20,10 @@ Death on 7/3/1919 in Mt. Lookout WV
 [[Ancesters/Keenan/Sarah Virginia Keenan 1849-\|Sarah Virginia Keenan 1849-]] married 3/7/1871 in Fayette County WV
 [[Ancesters/Kincaid/Martha Belle Kincaid 1872-1892\|Martha Belle Kincaid 1872-1892]]
 [[Ancesters/Kincaid/Thomas P. Kincaid 1874-1949\|Thomas P. Kincaid 1874-1949]]
-[[Lola M. Kincaid 1879-1906\|Lola M. Kincaid 1879-1906]]
-[[Mollie V. Kincaid 1881-1892\|Mollie V. Kincaid 1881-1892]]
-[[Betty Ann Kincaid 1883-\|Betty Ann Kincaid 1883-]]
-[[Nannie F. Kincaid 1887-\|Nannie F. Kincaid 1887-]]
+[[Ancesters/Kincaid/Lola M. Kincaid 1879-1906\|Lola M. Kincaid 1879-1906]]
+[[Ancesters/Kincaid/Mollie V. Kincaid 1881-1892\|Mollie V. Kincaid 1881-1892]]
+[[Ancesters/Kincaid/Betty Ann Kincaid 1883-\|Betty Ann Kincaid 1883-]]
+[[Ancesters/Kincaid/Nannie F. Kincaid 1887-\|Nannie F. Kincaid 1887-]]
 [[Ancesters/Kincaid/George Wesley Kincaid 1891-1976\|George Wesley Kincaid 1891-1976]]
 
 #### Census Records

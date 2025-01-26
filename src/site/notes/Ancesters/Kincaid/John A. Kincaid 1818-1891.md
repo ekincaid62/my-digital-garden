@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancesters/kincaid/john-a-kincaid-1818-1891/"}
+{"dg-publish":true,"permalink":"/ancesters/kincaid/john-a-kincaid-1818-1891/","tags":["John-A-Kincaid"]}
 ---
 
 Born on 1818 in Greenbrier County WV

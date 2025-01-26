@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancesters/kincaid/thomas-kincaid-1740-1817/"}
+{"dg-publish":true,"permalink":"/ancesters/kincaid/thomas-kincaid-1740-1817/","tags":["Thomas-Kincaid"]}
 ---
 
 

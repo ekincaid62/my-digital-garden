@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancesters/kincaid/samuel-kincaid-1765-1847/"}
+{"dg-publish":true,"permalink":"/ancesters/kincaid/samuel-kincaid-1765-1847/","tags":["Samuel-Kincaid"]}
 ---
 
 Born on 1765 in Augusta VA
