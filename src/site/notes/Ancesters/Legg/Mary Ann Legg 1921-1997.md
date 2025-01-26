@@ -10,10 +10,10 @@ Death on 5/2/1997 in Charleston, WV
 
 [[Ancesters/Legg/Fred Rothwell Legg 1885-1958\|Fred Rothwell Legg 1885-1958]] and [[Ancesters/Shaffer/Mamie Catherine Shaffer 1888-1962\|Mamie Catherine Shaffer 1888-1962]]
 #### Siblings
-[[Oswald Legg 1914-1914\|Oswald Legg 1914-1914]]
+Oswald Legg 1914-1914
 [[Ancesters/Legg/Retta Delphia Legg 1916-1997\|Retta Delphia Legg 1916-1997]]
 [[Ancesters/Legg/Virginia Rae Legg 1918-2003\|Virginia Rae Legg 1918-2003]] "Sam"
-[[Stillborn Legg 1920-1920\|Stillborn Legg 1920-1920]]
+Stillborn Legg 1920-1920
 [[Ancesters/Legg/June Kathleen Legg 1923-2008\|June Kathleen Legg 1923-2008]]
 [[Ancesters/Legg/Charles William Legg 1927-1979\|Charles William Legg 1927-1979]] "Gog"
 [[Ancesters/Legg/Catherine Josephine Legg 1929-2003\|Catherine Josephine Legg 1929-2003]] "Kata"
@@ -26,6 +26,8 @@ Death on 5/2/1997 in Charleston, WV
 [[Carolyn Shaffer\|Carolyn Shaffer]]
 [[Anna Shaffer\|Anna Shaffer]]
 #### Census Records
+[[Vault/Census/1930 United States Federal Census Record.1\|1930 United States Federal Census Record]]
+
 
 #### Land Transfers
 

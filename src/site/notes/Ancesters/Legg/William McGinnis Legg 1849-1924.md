@@ -8,7 +8,7 @@ Death on 9/16/1924 in Mt. Lookout WV
 ---
 #### Parents
 
-[[Ancesters/Legg/William Legg 1817-1895\|William Legg 1817-1895]] and [[Elizabeth "Letty" Ramsey 1813-1902\|Elizabeth "Letty" Ramsey 1813-1902]]
+[[Ancesters/Legg/William Legg 1817-1895\|William Legg 1817-1895]] and [[Elizabeth Ramsey 1813-1902\|Elizabeth Ramsey 1813-1902]] "Letty"
 #### Siblings
 [[Charles Henderson Legg 1839-1929\|Charles Henderson Legg 1839-1929]]
 [[Margaret Hamilton Legg 1841-1920\|Margaret Hamilton Legg 1841-1920]]
@@ -31,7 +31,7 @@ Esta 6
 
 #### Census Records
 [[Vault/Census/1910 United States Federal Census Record.4\|1910 United States Federal Census Record]]
-[[Vault/Census/1900 United States Federal Census Record.5\|1900 United States Federal Census Record.5]]
+[[Vault/Census/1900 United States Federal Census Record.5\|1900 United States Federal Census Record]]
 #### Land Transfers
 
 #### Biography

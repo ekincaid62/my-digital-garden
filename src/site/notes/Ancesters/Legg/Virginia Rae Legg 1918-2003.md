@@ -10,9 +10,9 @@ Death on 3/27/2003 in Cabin Creek, WV
 
 [[Ancesters/Legg/Fred Rothwell Legg 1885-1958\|Fred Rothwell Legg 1885-1958]] and [[Ancesters/Shaffer/Mamie Catherine Shaffer 1888-1962\|Mamie Catherine Shaffer 1888-1962]]
 #### Siblings
-[[Oswald Legg 1914-1914\|Oswald Legg 1914-1914]]
+Oswald Legg 1914-1914
 [[Ancesters/Legg/Retta Delphia Legg 1916-1997\|Retta Delphia Legg 1916-1997]]
-[[Stillborn Legg 1920-1920\|Stillborn Legg 1920-1920]]
+Stillborn Legg 1920-1920
 [[Ancesters/Legg/Mary Ann Legg 1921-1997\|Mary Ann Legg 1921-1997]]
 [[Ancesters/Legg/June Kathleen Legg 1923-2008\|June Kathleen Legg 1923-2008]]
 [[Ancesters/Legg/Charles William Legg 1927-1979\|Charles William Legg 1927-1979]] "Gog"
@@ -30,6 +30,10 @@ Death on 3/27/2003 in Cabin Creek, WV
 [[Christopher Kincaid\|Christopher Kincaid]]
 
 #### Census Records
+[[Vault/Census/1930 United States Federal Census Record.1\|1930 United States Federal Census Record]]
+[[Vault/Census/1920 United States Federal Census Record.3\|1920 United States Federal Census Record]]
+
+
 
 #### Land Transfers
 

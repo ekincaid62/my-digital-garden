@@ -19,10 +19,10 @@ Death on 5/10/1962 in Nicholas WV
 ---
 #### Spouse and Children
 [[Ancesters/Legg/Fred Rothwell Legg 1885-1958\|Fred Rothwell Legg 1885-1958]] on 5/25/1913 in Mt. Lookout WV
-[[Oswald Legg 1914-1914\|Oswald Legg 1914-1914]]
+Oswald Legg 1914-1914
 [[Ancesters/Legg/Retta Delphia Legg 1916-1997\|Retta Delphia Legg 1916-1997]]
 [[Ancesters/Legg/Virginia Rae Legg 1918-2003\|Virginia Rae Legg 1918-2003]] "Sam"
-[[Stillborn Legg 1920-1920\|Stillborn Legg 1920-1920]]
+Stillborn Legg 1920-1920
 [[Ancesters/Legg/Mary Ann Legg 1921-1997\|Mary Ann Legg 1921-1997]]
 [[Ancesters/Legg/June Kathleen Legg 1923-2008\|June Kathleen Legg 1923-2008]]
 [[Ancesters/Legg/Charles William Legg 1927-1979\|Charles William Legg 1927-1979]] "Gog"
