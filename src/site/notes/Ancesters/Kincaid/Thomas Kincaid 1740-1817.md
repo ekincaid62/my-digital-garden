@@ -26,7 +26,7 @@ Death on 9/13/1817 in Greenbrier,WV
 
 This Courtcase lists all the descendants of Thomas and Hannah [[Vault/Records/Baldwin vs Kincaid\|Baldwin vs Kincaid]]
 The [[Vault/Records/Kincaid History - Richard Bradley#Part 6 ... The Records for Thomas Kincaid of Muddy Creek Mountain\|Kincaid History]] put together by Richard Brantley shows
-Sarah (Salle) Kincaid (1781- ) married Thomas Terry who is not listed in the courtcase from what I have read.
+Sarah (Salle) Kincaid (1781- ) married Thomas Terry who is not listed in the courtcase and it appears that she was the daughter of [[Ancesters/Kincaid/John Kincaid 1760-1834\|John Kincaid 1760-1834]] according to [History of the Kincaid Family](https://drive.google.com/file/d/0B0oZv34v0ajXVUstZkJEV2hUdW8/view?usp=sharing&resourcekey=0-gyR8XsVV5zkjlqS8Sd_HRw)
 
 #### Census Records
 
