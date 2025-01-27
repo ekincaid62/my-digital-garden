@@ -19,8 +19,8 @@ Death on 21 Apr 1834 in Gauley Bridge WV
 
 ---
 #### Spouse and Children
-<!-- Link to spouse --> on <!-- link to date --> in <!-- link to place -->.
-<!-- Link to child -->
+[[Ancesters/Gillespie/Elizabeth Hannah Gillespie 1760-1829\|Elizabeth Hannah Gillespie 1760-1829]] on <!-- link to date --> in <!-- link to place -->.
+[[Ancesters/Kincaid/Virginia Kincaid 1797-1870\|Virginia Kincaid 1797-1870]] "Jane"
 
 #### Census Records
 

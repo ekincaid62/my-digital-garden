@@ -8,7 +8,7 @@ Death on 9/16/1924 in Mt. Lookout WV
 ---
 #### Parents
 
-[[Ancesters/Legg/William Legg 1817-1895\|William Legg 1817-1895]] and [[Elizabeth Ramsey 1813-1902\|Elizabeth Ramsey 1813-1902]] "Letty"
+[[Ancesters/Legg/William Legg 1817-1895\|William Legg 1817-1895]] and [[Ancesters/Ramsey/Elizabeth Ramsey 1813-1902\|Elizabeth Ramsey 1813-1902]] "Letty"
 #### Siblings
 [[Charles Henderson Legg 1839-1929\|Charles Henderson Legg 1839-1929]]
 [[Margaret Hamilton Legg 1841-1920\|Margaret Hamilton Legg 1841-1920]]

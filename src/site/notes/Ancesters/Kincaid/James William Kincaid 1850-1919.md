@@ -7,7 +7,7 @@ Death on 7/3/1919 in Mt. Lookout WV
 
 ---
 #### Parents
-[[Ancesters/Kincaid/John A. Kincaid 1818-1891\|John A. Kincaid 1818-1891]] and [[Olive Walker 1823-1856\|Olive Walker 1823-1856]]
+[[Ancesters/Kincaid/John A. Kincaid 1818-1891\|John A. Kincaid 1818-1891]] and [[Ancesters/Walker/Olive Walker 1823-1856\|Olive Walker 1823-1856]]
 #### Siblings
 [[Alfred H. Kincaid 1842-1913\|Alfred H. Kincaid 1842-1913]]
 [[Margaret J. Kincaid 1846-\|Margaret J. Kincaid 1846-]]
