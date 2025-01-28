@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/where-the-waters-flow-northward/","tags":["gardenEntry"]}
 ---
 
-![2025-01-27_14-40-33.jpg](/img/user/2025-01-27_14-40-33.jpg)
+![2025-01-27_14-40-33.jpg|400](/img/user/2025-01-27_14-40-33.jpg)
 # Where the Waters flow Northward
 
 I grew up in Nicholas County, WV. My older brother was big into genealogy. He passed away in 2010 and I took it upon myself to scan all of his data to make it available to anyone that might want it
