@@ -24,7 +24,7 @@ Death on 9/16/1924 in Mt. Lookout WV
 [[Walter Hayes Legg 1876-1949\|Walter Hayes Legg 1876-1949]]
 Cora 18
 Marion 16
-Fred 13
+[[Ancesters/Legg/Fred Rothwell Legg 1885-1958\|Fred Rothwell Legg 1885-1958]]
 Joseph L 12
 Bettie 7
 Esta 6
