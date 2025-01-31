@@ -13,7 +13,6 @@ Death on 9/5/1958 in Mt. Lookout, WV
 [[Walter Hayes Legg 1876-1949\|Walter Hayes Legg 1876-1949]]
 Cora 18
 Marion 16
-Fred 13
 Joseph L 12
 Bettie 7
 Esta 6
