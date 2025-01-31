@@ -23,6 +23,7 @@ Death on 3/22/1895 in Leander WV
 [[Margaret Hamilton Legg 1841-1920\|Margaret Hamilton Legg 1841-1920]]
 [[Elizabeth Mary Legg 1844-1925\|Elizabeth Mary Legg 1844-1925]]
 [[Nancy Jennie Legg 1846-1878\|Nancy Jennie Legg 1846-1878]]
+[[Ancesters/Legg/William McGinnis Legg 1849-1924\|William McGinnis Legg 1849-1924]]
 [[Martha Ann Legg 1851-1881\|Martha Ann Legg 1851-1881]]
 [[Andrew Dixon Legg 1854-1928\|Andrew Dixon Legg 1854-1928]]
 [[Josiah Dwight Legg 1857-1940\|Josiah Dwight Legg 1857-1940]]

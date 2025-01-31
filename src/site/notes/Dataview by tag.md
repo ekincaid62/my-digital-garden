@@ -4,10 +4,8 @@
 
 
 
-- [[Evernote/Archive/FW Kincade Cemetery\|FW Kincade Cemetery]]
-- [[Evernote/Archive/Alfred Kincaid\|Alfred Kincaid]]
-- [[Evernote/Archive/Alfred Kincaid Family\|Alfred Kincaid Family]]
-- [[Evernote/Archive/Kincade Cemetery Information\|Kincade Cemetery Information]]
+- [[Vault/Census/1940 United States Federal Census 1\|1940 United States Federal Census 1]]
+- [[Ancesters/Shaffer/Christopher Clayton Shaffer 1864-1944\|Christopher Clayton Shaffer 1864-1944]]
 
 { .block-language-dataview}
 
