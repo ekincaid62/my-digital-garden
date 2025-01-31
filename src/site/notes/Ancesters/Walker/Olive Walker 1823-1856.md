@@ -15,7 +15,7 @@ Death on 12/25/1856 in Gauley River, VA
 ---
 #### Spouse and Children
 [[Ancesters/Kincaid/John A. Kincaid 1818-1891\|John A. Kincaid 1818-1891]] on 2/2/1845 in Nicholas County, VA
-[[Alfred H. Kincaid 1842-1913\|Alfred H. Kincaid 1842-1913]]  
+[[Ancesters/Kincaid/Alfred H. Kincaid 1842-1913\|Alfred H. Kincaid 1842-1913]]  
 [[Margaret J. Kincaid 1846-\|Margaret J. Kincaid 1846-]]  
 [[Nancy E. Kincaid 1849-1937\|Nancy E. Kincaid 1849-1937]]  
 [[Ancesters/Kincaid/James William Kincaid 1850-1919\|James William Kincaid 1850-1919]]  

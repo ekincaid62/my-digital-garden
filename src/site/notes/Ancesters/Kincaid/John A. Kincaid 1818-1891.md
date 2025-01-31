@@ -21,7 +21,7 @@ Death on 8/1891 in Fayette County WV
 ---
 #### Spouse and Children
 [[Ancesters/Walker/Olive Walker 1823-1856\|Olive Walker 1823-1856]] married 2/2/1845 in Nicholas VA.
-[[Alfred H. Kincaid 1842-1913\|Alfred H. Kincaid 1842-1913]]  
+[[Ancesters/Kincaid/Alfred H. Kincaid 1842-1913\|Alfred H. Kincaid 1842-1913]]  
 [[Margaret J. Kincaid 1846-\|Margaret J. Kincaid 1846-]]  
 [[Nancy E. Kincaid 1849-1937\|Nancy E. Kincaid 1849-1937]]  
 [[Ancesters/Kincaid/James William Kincaid 1850-1919\|James William Kincaid 1850-1919]]  
