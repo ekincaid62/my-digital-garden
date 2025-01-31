@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/vault/census/1850-united-states-federal-census-record/","tags":["James-William-Kincaid","John-A-Kincaid","Olive-Walker"]}
 ---
 
-Household 390
+Household  390 
 
 Jno Kincaid     30
 Olive              24
