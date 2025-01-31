@@ -30,7 +30,7 @@ Stillborn Legg 1920-1920
 [[Christopher Kincaid\|Christopher Kincaid]]
 
 #### Census Records
-[[Vault/Census/1930 United States Federal Census Record.1\|1930 United States Federal Census Record]]
+[[Vault/Census/1930 United States Federal Census Record 2\|1930 United States Federal Census Record]]
 [[Vault/Census/1920 United States Federal Census Record.3\|1920 United States Federal Census Record]]
 
 

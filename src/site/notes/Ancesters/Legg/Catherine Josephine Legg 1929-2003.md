@@ -29,7 +29,7 @@ Stillborn Legg 1920-1920
 
 #### Census Records
 [[Vault/Census/1940 United States Federal Census 1\|1940 United States Federal Census]]
-[[Vault/Census/1930 United States Federal Census Record.1\|1930 United States Federal Census Record]]
+[[Vault/Census/1930 United States Federal Census Record 2\|1930 United States Federal Census Record]]
 
 
 #### Land Transfers

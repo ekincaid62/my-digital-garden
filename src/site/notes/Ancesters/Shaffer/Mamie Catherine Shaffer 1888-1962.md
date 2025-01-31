@@ -31,8 +31,8 @@ Stillborn Legg 1920-1920
 
 #### Census Records
 [[Vault/Census/1950 United States Federal Census 1\|1950 United States Federal Census]]
-[[Vault/Census/1940 United States Federal Census.1\|1940 United States Federal Census]]
-[[Vault/Census/1930 United States Federal Census Record.1\|1930 United States Federal Census Record]]
+[[Vault/Census/1940 United States Federal Census 2\|1940 United States Federal Census]]
+[[Vault/Census/1930 United States Federal Census Record 2\|1930 United States Federal Census Record]]
 [[Vault/Census/1920 United States Federal Census Record.3\|1920 United States Federal Census Record]]
 Missing the 1910 Census
 [[Vault/Census/1900 United States Federal Census Record.4\|1900 United States Federal Census Record]]
