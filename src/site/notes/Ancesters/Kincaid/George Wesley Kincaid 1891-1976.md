@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancesters/kincaid/george-wesley-kincaid-1891-1976/","tags":["George-Kincaid"]}
 ---
 
-Born on  3/13/1891 in West Virginia
+Born on  3/13/1891 in Mt Lookout, WV
 Death on 6/1976 in Summersville WV
 
 ---
@@ -14,7 +14,7 @@ Death on 6/1976 in Summersville WV
 [[Ancesters/Kincaid/Lola M. Kincaid 1879-1906\|Lola M. Kincaid 1879-1906]] 
 [[Ancesters/Kincaid/Mollie V. Kincaid 1881-1892\|Mollie V. Kincaid 1881-1892]] 
 [[Ancesters/Kincaid/Betty Ann Kincaid 1883-\|Betty Ann Kincaid 1883-]] 
-[[Ancesters/Kincaid/Nannie F. Kincaid 1887-\|Nannie F. Kincaid 1887-]] 
+[[Ancesters/Kincaid/Nannie F. Kincaid 1887-1888\|Nannie F. Kincaid 1887-1888]] 
 
 ---
 #### Spouse and Children

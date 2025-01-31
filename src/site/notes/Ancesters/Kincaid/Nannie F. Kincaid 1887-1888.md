@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/ancesters/kincaid/betty-ann-kincaid-1883/","tags":["Betty-Ann-Kincaid"]}
+{"dg-publish":true,"permalink":"/ancesters/kincaid/nannie-f-kincaid-1887-1888/","tags":["Nannie-F-Kincaid"]}
 ---
 
-Born on  4/15/1883 in WV
-Death on <!-- link to date --> in <!-- link to place -->
+Born on  6/20/1887 in Mt Lookout, WV
+Death on 1888 in Mt Lookout, WV
 
 ---
 #### Parents
@@ -14,21 +14,13 @@ Death on <!-- link to date --> in <!-- link to place -->
 [[Ancesters/Kincaid/Thomas P. Kincaid 1874-1949\|Thomas P. Kincaid 1874-1949]] 
 [[Ancesters/Kincaid/Lola M. Kincaid 1879-1906\|Lola M. Kincaid 1879-1906]] 
 [[Ancesters/Kincaid/Mollie V. Kincaid 1881-1892\|Mollie V. Kincaid 1881-1892]] 
+[[Ancesters/Kincaid/Betty Ann Kincaid 1883-\|Betty Ann Kincaid 1883-]] 
 [[Ancesters/Kincaid/Nannie F. Kincaid 1887-1888\|Nannie F. Kincaid 1887-1888]] 
 [[Ancesters/Kincaid/George Wesley Kincaid 1891-1976\|George Wesley Kincaid 1891-1976]]
 
 ---
-#### Spouse and Children
-[[Adam Myers\|Adam Myers]] on <!-- link to date --> in <!-- link to place -->.
-<!-- Link to child -->
-
-#### Census Records
-[[Vault/Census/1900 United States Federal Census Record\|1900 United States Federal Census]]
-
-#### Land Transfers
-
 #### Biography
-
+Died at 1 as per [Mt Lookout Family Record Book](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)
 #### Photos
 
 #### Sources

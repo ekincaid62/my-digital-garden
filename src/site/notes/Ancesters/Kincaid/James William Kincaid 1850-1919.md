@@ -23,7 +23,7 @@ Death on 7/3/1919 in Mt. Lookout WV
 [[Ancesters/Kincaid/Lola M. Kincaid 1879-1906\|Lola M. Kincaid 1879-1906]]
 [[Ancesters/Kincaid/Mollie V. Kincaid 1881-1892\|Mollie V. Kincaid 1881-1892]]
 [[Ancesters/Kincaid/Betty Ann Kincaid 1883-\|Betty Ann Kincaid 1883-]]
-[[Ancesters/Kincaid/Nannie F. Kincaid 1887-\|Nannie F. Kincaid 1887-]]
+[[Ancesters/Kincaid/Nannie F. Kincaid 1887-1888\|Nannie F. Kincaid 1887-1888]]
 [[Ancesters/Kincaid/George Wesley Kincaid 1891-1976\|George Wesley Kincaid 1891-1976]]
 
 #### Census Records
@@ -36,6 +36,8 @@ Missing the 1870 Census
 #### Land Transfers
 
 #### Biography
+
+The family moved to Mt Lookout in 1886 according to  [Mt Lookout Family Record Book](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)
 
 #### Photos
 [[Evernote/Archive/James William and Sarah Virginia Kincaid\|James William and Sarah Virginia Kincaid]]
