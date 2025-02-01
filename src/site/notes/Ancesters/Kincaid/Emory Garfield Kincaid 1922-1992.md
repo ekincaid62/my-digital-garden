@@ -29,7 +29,7 @@ Death on 7/11/1992 in Summersville WV
 #### Land Transfers
 
 #### Biography
-
+served in the 280th Engineering Combat Battalion
 #### Photos
 [[Evernote/Archive/Dad\|Dad]]
 [[Evernote/Archive/Dad and Brenda\|Dad and Brenda]]
