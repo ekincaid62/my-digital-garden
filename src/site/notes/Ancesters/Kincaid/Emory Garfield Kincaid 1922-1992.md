@@ -45,12 +45,10 @@ Death on 7/11/1992 in Summersville WV
 
 #### Military Records
 [[Evernote/Archive/Military Photo\|Military Photo]]
-[[Evernote/Archive/Military Photo.1\|Military Photo.1]]
 [[Evernote/Archive/Pay Record\|Pay Record]]
 [[Evernote/Archive/Military Pass\|Military Pass]]
 [[Evernote/Archive/Honorable Discharge\|Honorable Discharge]]
 [[Evernote/Archive/Separation Qualification Record\|Separation Qualification Record]]
-[[Evernote/Archive/Separation Qualification Record.1\|Separation Qualification Record.1]]
 [[Evernote/Archive/Harry Truman Letter\|Harry Truman Letter]]
 #### Sources
 
