@@ -35,21 +35,11 @@ Death on 6/1976 in Summersville WV
 #### Biography
 
 #### Photos
-[[Evernote/Archive/George & Laura Kincaid 2.jpg\|Evernote/Archive/George & Laura Kincaid 2.jpg]]
-[[Evernote/Archive/George & Laura Skaggs Kincaid 2.jpg\|Evernote/Archive/George & Laura Skaggs Kincaid 2.jpg]]
-[[Evernote/Archive/George & Laura Skaggs Kincaid 3.jpg\|Evernote/Archive/George & Laura Skaggs Kincaid 3.jpg]]
-[[Evernote/Archive/George & Laura Skaggs Kincaid 4.jpg\|Evernote/Archive/George & Laura Skaggs Kincaid 4.jpg]]
-[[Evernote/Archive/George & Laura Skaggs Kincaid 5.jpg\|Evernote/Archive/George & Laura Skaggs Kincaid 5.jpg]]
-[[Evernote/Archive/George & Laura Skaggs Kincaid 6.jpg\|Evernote/Archive/George & Laura Skaggs Kincaid 6.jpg]]
-[[Evernote/Archive/George & Laura Skaggs Kincaid.jpg\|Evernote/Archive/George & Laura Skaggs Kincaid.jpg]]
+[[George Wesley Kincaid\|George Wesley Kincaid]]
 [[Evernote/Archive/George & Laura Skaggs Kincaid\|George & Laura Skaggs Kincaid]]
-[[Evernote/Archive/George Wesley Kincaid 2.jpg\|Evernote/Archive/George Wesley Kincaid 2.jpg]]
-[[Evernote/Archive/George Wesley Kincaid 3.jpg\|Evernote/Archive/George Wesley Kincaid 3.jpg]]
-[[Evernote/Archive/George Wesley Kincaid 4.jpg\|Evernote/Archive/George Wesley Kincaid 4.jpg]]
-[[Evernote/Archive/George Wesley Kincaid.jpg\|Evernote/Archive/George Wesley Kincaid.jpg]]
-[[Evernote/Archive/GKincaid & Fred Shaffer.jpg\|Evernote/Archive/GKincaid & Fred Shaffer.jpg]]
+[[Evernote/Archive/George Kincaid & Fred Shaffer\|George Kincaid & Fred Shaffer]]
 [[Evernote/Archive/Mt Lookout String Band\|Mt Lookout String Band]]
-[[Evernote/Archive/Wilderness Lumber Company Crew.jpg\|Evernote/Archive/Wilderness Lumber Company Crew.jpg]]
+[[Wilderness Lumber Company\|Wilderness Lumber Company]]
 
 #### Military Records
 [[Evernote/Archive/World War I Draft Registration Cards, 1917-1918 Record for George Wesley Kincaid\|World War I Draft Registration Cards, 1917-1918 Record for George Wesley Kincaid]]
