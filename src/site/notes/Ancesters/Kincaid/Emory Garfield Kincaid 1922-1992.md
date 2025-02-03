@@ -33,7 +33,7 @@ served in the 280th Engineering Combat Battalion
 #### Photos
 [[Evernote/Archive/Dad\|Dad]]
 [[Evernote/Archive/Dad and Brenda\|Dad and Brenda]]
-[[Evernote/Archive/Dad and Mama\|Dad and Mama]]
+[[Evernote/Archive/Emory Kincaid and Laura Skaggs Kincaid\|Emory Kincaid and Laura Skaggs Kincaid]]
 [[Evernote/Archive/Dad.1\|Dad.1]]
 [[Evernote/Archive/Dad.2\|Dad.2]]
 [[Evernote/Archive/Dad.3\|Dad.3]]

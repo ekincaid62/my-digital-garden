@@ -58,4 +58,5 @@ Little Meadow River
 #### Photos
 
 #### Sources
-
+Will of Samuel Tincher Greenbrier Co. Book 1 page 43 entered in court January, 1791, written 15th day of March 1790. Bequeaths given to daughter Hannah, eldest son William, son Francis "I hereby constitute and appoint Thomas Kinkead the husband of my aforesaid
+daughter Hannah the sole Executor of this my last will and Testament." Witnessed by Charles O'Harra, margrate O'Harra and W.H. Cavendish
