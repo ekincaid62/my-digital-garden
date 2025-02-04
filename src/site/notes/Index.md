@@ -10,14 +10,9 @@ In the heart of West Virginia, where the **New River**, **Monongahela River**, a
 
 My older brother passed away in 2010, leaving behind a wealth of information he had collected about our family and the community. My goal was to preserve it in digital format and make it accessible to anyone interested. While I succeeded in digitizing everything, I never quite found an easy way to share it—until now. This website is my attempt to bring that history to life and make it available to all who seek to explore their roots.
 
-Let’s see where these roots lead!
 
 
-
-
-
-
-### Links
+### Reference Material
 
 The following documents have been scanned into pdf files and are text searchable.
 
