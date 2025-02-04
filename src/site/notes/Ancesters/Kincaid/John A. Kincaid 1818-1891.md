@@ -44,7 +44,7 @@ The [[Vault/Records/Kincaid Family Bible\|Kincaid Family Bible]] shows John bein
 #### Biography
 
 #### Photos
-[[John A. Kincaid\|John A. Kincaid]]
+[[Vault/Records/John A. Kincaid\|John A. Kincaid]]
 #### Sources
 
 [[assets/John A. and Sarah Kincaid Headstone\|John A. and Sarah Kincaid Headstone]]

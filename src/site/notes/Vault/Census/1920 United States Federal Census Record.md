@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1920-united-states-federal-census-record/","tags":["George-Kincaid","Sarah-Virginia-Keenan","Thomas-P-Kincaid"]}
+{"dg-publish":true,"permalink":"/vault/census/1920-united-states-federal-census-record/","tags":["George-Wesley-Kincaid","Sarah-Virginia-Keenan","Thomas-P-Kincaid"]}
 ---
 
 Household 37

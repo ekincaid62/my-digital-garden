@@ -15,7 +15,7 @@ Death on 9/13/1817 in Greenbrier,WV
 
 ---
 #### Spouse and Children
-[[Hannah Tincher 1742-1819\|Hannah Tincher 1742-1819]] on 1760 in Augusta VA.
+[[Ancesters/Tincher/Hannah Tincher 1742-1819\|Hannah Tincher 1742-1819]] on 1760 in Augusta VA.
 [[Ancesters/Kincaid/Margaret Kincaid 1760-1840\|Margaret Kincaid 1760-1840]]
 [[Ancesters/Kincaid/John Kincaid 1760-1834\|John Kincaid 1760-1834]]
 [[Ancesters/Kincaid/Samuel Kincaid 1765-1847\|Samuel Kincaid 1765-1847]]

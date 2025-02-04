@@ -40,8 +40,8 @@ Missing the 1870 Census
 The family moved to Mt Lookout in 1886 according to  [Mt Lookout Family Record Book](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)
 
 #### Photos
-[[Evernote/Archive/James William and Sarah Virginia Kincaid\|James William and Sarah Virginia Kincaid]]
-[[James William Kincaid\|James William Kincaid]]
-[[James William Kincaid Family\|James William Kincaid Family]]
+[[Vault/Records/James William and Sarah Virginia Kincaid\|James William and Sarah Virginia Kincaid]]
+[[Vault/Records/James William Kincaid\|James William Kincaid]]
+[[Vault/Records/James William Kincaid Family\|James William Kincaid Family]]
 #### Sources
 

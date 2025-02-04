@@ -33,7 +33,7 @@ served in the 280th Engineering Combat Battalion
 #### Photos
 [[Evernote/Archive/Dad\|Dad]]
 [[Evernote/Archive/Dad and Brenda\|Dad and Brenda]]
-[[Evernote/Archive/Emory Kincaid and Laura Skaggs Kincaid\|Emory Kincaid and Laura Skaggs Kincaid]]
+[[Vault/Records/Emory Kincaid and Laura Skaggs Kincaid\|Emory Kincaid and Laura Skaggs Kincaid]]
 [[Evernote/Archive/Dad.1\|Dad.1]]
 [[Evernote/Archive/Dad.2\|Dad.2]]
 [[Evernote/Archive/Dad.3\|Dad.3]]
@@ -44,11 +44,11 @@ served in the 280th Engineering Combat Battalion
 [[Evernote/Archive/Eugene & Emory Kincaid.jpg\|Evernote/Archive/Eugene & Emory Kincaid.jpg]]
 
 #### Military Records
-[[Evernote/Archive/Military Photo\|Military Photo]]
-[[Evernote/Archive/Pay Record\|Pay Record]]
-[[Evernote/Archive/Military Pass\|Military Pass]]
-[[Evernote/Archive/Honorable Discharge\|Honorable Discharge]]
-[[Evernote/Archive/Separation Qualification Record\|Separation Qualification Record]]
-[[Evernote/Archive/Harry Truman Letter\|Harry Truman Letter]]
+[[Vault/Records/Military Photo\|Military Photo]]
+[[Vault/Records/Pay Record\|Pay Record]]
+[[Vault/Records/Military Pass\|Military Pass]]
+[[Vault/Records/Honorable Discharge\|Honorable Discharge]]
+[[Vault/Records/Separation Qualification Record\|Separation Qualification Record]]
+[[Vault/Records/Harry Truman Letter\|Harry Truman Letter]]
 #### Sources
 

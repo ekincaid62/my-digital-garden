@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1910-united-states-federal-census-record/","tags":["George-Kincaid","James-William-Kincaid","Sarah-Virginia-Keenan","Clayton-Shaffer","Mamie-Catherine-Shaffer","Dorcas-McClung","Joseph-Shaffer","Thomas-P-Kincaid"]}
+{"dg-publish":true,"permalink":"/vault/census/1910-united-states-federal-census-record/","tags":["George-Wesley-Kincaid","James-William-Kincaid","Sarah-Virginia-Keenan","Clayton-Shaffer","Mamie-Catherine-Shaffer","Dorcas-McClung","Joseph-Shaffer","Thomas-P-Kincaid"]}
 ---
 
 Household 45

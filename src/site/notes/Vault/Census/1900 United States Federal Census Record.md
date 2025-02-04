@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1900-united-states-federal-census-record/","tags":["George-Kincaid","James-William-Kincaid","Sarah-Virginia-Keenan"]}
+{"dg-publish":true,"permalink":"/vault/census/1900-united-states-federal-census-record/","tags":["George-Wesley-Kincaid","James-William-Kincaid","Sarah-Virginia-Keenan"]}
 ---
 
 Household 42

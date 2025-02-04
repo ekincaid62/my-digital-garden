@@ -8,7 +8,7 @@ Death on 1840 in Pawnee City Nebraska
 ---
 #### Parents
 
-[[Ancesters/Kincaid/Thomas Kincaid 1740-1817\|Thomas Kincaid 1740-1817]] and [[Hannah Tincher 1742-1819\|Hannah Tincher 1742-1819]]
+[[Ancesters/Kincaid/Thomas Kincaid 1740-1817\|Thomas Kincaid 1740-1817]] and [[Ancesters/Tincher/Hannah Tincher 1742-1819\|Hannah Tincher 1742-1819]]
 #### Siblings
 [[Ancesters/Kincaid/John Kincaid 1760-1834\|John Kincaid 1760-1834]]
 [[Ancesters/Kincaid/Samuel Kincaid 1765-1847\|Samuel Kincaid 1765-1847]]

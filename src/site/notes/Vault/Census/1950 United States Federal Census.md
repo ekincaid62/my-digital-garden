@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1950-united-states-federal-census/","tags":["George-Kincaid","Laura-Skaggs","Emory-Garfield-Kincaid","Alice-Legg","Brenda-Kincaid"]}
+{"dg-publish":true,"permalink":"/vault/census/1950-united-states-federal-census/","tags":["George-Wesley-Kincaid","Laura-Skaggs","Emory-Garfield-Kincaid","Alice-Legg","Brenda-Kincaid"]}
 ---
 
 Household 14

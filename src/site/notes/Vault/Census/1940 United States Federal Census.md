@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1940-united-states-federal-census/","tags":["George-Kincaid","Laura-Skaggs","Emory-Garfield-Kincaid","Eugene-Kincaid","Emil-Kincaid"]}
+{"dg-publish":true,"permalink":"/vault/census/1940-united-states-federal-census/","tags":["George-Wesley-Kincaid","Laura-Skaggs","Emory-Garfield-Kincaid","Eugene-Kincaid","Emil-Kincaid"]}
 ---
 
 Household 42

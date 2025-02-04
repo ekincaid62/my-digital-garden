@@ -36,7 +36,7 @@ Death on 2/9/1992 in Mt. Lookout WV
 #### Photos
 [[Evernote/Archive/April 56.jpg\|Evernote/Archive/April 56.jpg]]
 [[Evernote/Archive/Aug 57.jpg\|Evernote/Archive/Aug 57.jpg]]
-[[Evernote/Archive/Emory Kincaid and Laura Skaggs Kincaid\|Emory Kincaid and Laura Skaggs Kincaid]]
-[[Evernote/Archive/George & Laura Skaggs Kincaid\|George & Laura Skaggs Kincaid]]
+[[Vault/Records/Emory Kincaid and Laura Skaggs Kincaid\|Emory Kincaid and Laura Skaggs Kincaid]]
+[[Vault/Records/George & Laura Skaggs Kincaid\|George & Laura Skaggs Kincaid]]
 #### Sources
 

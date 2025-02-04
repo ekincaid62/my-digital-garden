@@ -25,7 +25,7 @@ At the advice of their uncle David Kincaid, back in Albemarle/Augusta County, Vi
 Of the above family, David, the uncle, was said to be born about 1680-1700. The nephews were probably born about 1700-1720. [[Vault/Records/Kincaid History - Richard Bradley#^Brantley1\|1]]
 
 
-Regarding such traditions, the only thing that can be said for certain was that David Kincaid did appear in Spotsylvania and Orange Co. records as early as the 1730's. I was informed by Robert Walters that there is a marriage record in Spotsylvania Co. in late 1728 or early 1729 for the marriage of David Kincaid to Winifred Hobson Tillary (she being the widow of Samuel Tillary). [[Vault/Records/Kincaid History - Richard Bradley#2\|#2]] This firmly places David as the earliest Kincaid in Virginia and one would suspect him to be the father or grandfather of all subsequent generations. However, as we shall see, there were other Kincaids in Virginia records who were old enough to be brothers or cousins to David.
+Regarding such traditions, the only thing that can be said for certain was that David Kincaid did appear in Spotsylvania and Orange Co. records as early as the 1730's. I was informed by Robert Walters that there is a marriage record in Spotsylvania Co. in late 1728 or early 1729 for the marriage of David Kincaid to Winifred Hobson Tillary (she being the widow of Samuel Tillary). [[Vault/Records/Kincaid History - Richard Bradley#^Brantley2\|2]] This firmly places David as the earliest Kincaid in Virginia and one would suspect him to be the father or grandfather of all subsequent generations. However, as we shall see, there were other Kincaids in Virginia records who were old enough to be brothers or cousins to David.
 
 The following are abstracts of land records for David Kincaid. Although not an exhaustive list, all records of Albemarle County and related records from other counties are included:
 
@@ -588,14 +588,16 @@ lived on Muddy Creek Mountain adjacent to land owned by the Harrahs. It was ther
 ### ENDNOTES:
 
 1.
-The source of this tradition was apparently Dr. Herbert Clarke Kincaid of Washington. D.C., a g-g-g-grandson of one of the nephews, Samuel Kincaid. From "An Assortment of Kincaid Papers", LDS Film 1697700, Item 6. The only aspects of the tradition I can confirm are David Kincaid's appearances in Spotsylvania County and other Virginia counties from the 1730's as evidenced by deeds and court records. The supposed nephews, Samuel, George, James and Robert are not examined in this chapter. Although some of their descendants appear later in Greenbrier County, there is no apparent relation to our Thomas Kincaid. 
-{ #Bradley1}
+The source of this tradition was apparently Dr. Herbert Clarke Kincaid of Washington. D.C., a g-g-g-grandson of one of the nephews, Samuel Kincaid. From "An Assortment of Kincaid Papers", LDS Film 1697700, Item 6. The only aspects of the tradition I can confirm are David Kincaid's appearances in Spotsylvania County and other Virginia counties from the 1730's as evidenced by deeds and court records. The supposed nephews, Samuel, George, James and Robert are not examined in this chapter. Although some of their descendants appear later in Greenbrier County, there is no apparent relation to our Thomas Kincaid.
+{ #Brantley1}
 
 
-#### 2.
+ 2.
 E-mail message from Robert Walters of Cary, NC, dated Oct. 28, 1998.
+{ #Brantley2}
 
-#### 3.
+
+ 3.
 David Kincaid was called the builder because he built the first jail in Augusta County
 
 #### 4.

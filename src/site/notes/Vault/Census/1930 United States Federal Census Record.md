@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1930-united-states-federal-census-record/","tags":["George-Kincaid","Laura-Skaggs","Emory-Garfield-Kincaid"]}
+{"dg-publish":true,"permalink":"/vault/census/1930-united-states-federal-census-record/","tags":["George-Wesley-Kincaid","Laura-Skaggs","Emory-Garfield-Kincaid"]}
 ---
 
 Household 76
