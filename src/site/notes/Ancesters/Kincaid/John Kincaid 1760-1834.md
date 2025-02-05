@@ -25,6 +25,7 @@ Death on 21 Apr 1834 in Gauley Bridge WV
 #### Census Records
 
 #### Land Transfers
+[[Vault/Land Transfers/Greenbrier County, DB 1 Pg 96 dated 26 June 1792 (Thomas and Hannah to John)\|Greenbrier County, DB 1 Pg 96 dated 26 June 1792 (Thomas and Hannah to John)]]
 
 #### Biography
 

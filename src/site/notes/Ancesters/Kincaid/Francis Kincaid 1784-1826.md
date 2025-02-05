@@ -25,7 +25,7 @@ Death on 1826 in Madison, IN
 #### Census Records
 
 #### Land Transfers
-
+[[Vault/Land Transfers/Greenbrier County, DB 1 Pg 706 dated 31 Oct 1797 (Thomas and Hannah to Francis)\|Greenbrier County, DB 1 Pg 706 dated 31 Oct 1797 (Thomas and Hannah to Francis)]]
 #### Biography
 
 #### Photos
