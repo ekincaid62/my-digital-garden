@@ -64,6 +64,6 @@ Stillborn Legg 1920-1920
 #### Sources
 
 #### Misc
-[[Evernote/Archive/Report Card\|Report Card]]
-[[Evernote/Archive/Report Card 1946\|Report Card 1946]]
-[[Evernote/Archive/Report Card 1947-1948\|Report Card 1947-1948]]
+[[Vault/Records/Report Card\|Report Card]]
+[[Vault/Records/Report Card 1946\|Report Card 1946]]
+[[Vault/Records/Report Card 1947-1948\|Report Card 1947-1948]]

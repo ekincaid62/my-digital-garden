@@ -24,7 +24,7 @@ Death on 2/14/1913 in Greene County, IL
 [[Dora A Kincaid 1872-1876\|Dora A Kincaid 1872-1876]]*
 [[Johnny Kincaid 1875-1877\|Johnny Kincaid 1875-1877]]*
 [[Infant Kincaid 1877-1877\|Infant Kincaid 1877-1877]]*
-*All three children died of black diptheria and were buried [[Evernote/Archive/Kincade Cemetery Information\|here]]
+*All three children died of black diptheria and were buried [[Vault/Records/Kincade Cemetery Information\|here]]
 
 #### Census Records
 [[Vault/Census/1860 United States Federal Census Record\|1860 United States Census]]
