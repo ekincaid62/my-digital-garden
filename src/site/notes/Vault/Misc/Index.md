@@ -24,9 +24,7 @@ The following documents have been scanned into pdf files and are text searchable
 | [Mt Lookout Family Record Book Supplemental-Legg](https://drive.google.com/file/d/0B0oZv34v0ajXeW41RmNiXzNaclE/view?usp=drive_link&resourcekey=0-CUS8XvkyaIqXCH9YbF3XCA) | [Mt Lookout Family Record Book Supplemental-Skaggs](https://drive.google.com/file/d/0B0oZv34v0ajXTHZSTktPeVNwRU0/view?usp=drive_link&resourcekey=0-_Ya_ctt1CBER4RuJwNKFqQ) |
 | [Ramsey Family History](https://drive.google.com/file/d/0B0oZv34v0ajXejR4V3pqMlB6UEk/view?usp=drive_link&resourcekey=0-aRa0H6wsvVjU9uv38-PDLQ)                           |                                                                                                                                                                            |
 
-
 ### Useful Resources...
-
 
 | [FamilySearch](https://www.familysearch.org/) | [USGenWeb Project](http://www.usgenweb.org/) | [Chronicling America](https://chroniclingamerica.loc.gov/) |
 | --------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------- |
