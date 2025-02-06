@@ -42,6 +42,6 @@ Stillborn Legg 1920-1920
 
 #### Photos
 [[Evernote/Archive/Fred and Mamie Shaffer Legg\|Fred and Mamie Shaffer Legg]]
-[[Evernote/Archive/Fred Legg Family.1\|Fred Legg Family.1]]
+[[Evernote/Archive/Fred Legg Family.1\|Fred Legg Family]]
 #### Sources
 
