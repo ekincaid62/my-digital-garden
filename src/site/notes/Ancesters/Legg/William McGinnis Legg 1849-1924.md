@@ -20,7 +20,7 @@ Death on 9/16/1924 in Mt. Lookout WV
 
 ---
 #### Spouse and Children
-[[Mary Ann "Polly" Hawkins 1853-1926\|Mary Ann "Polly" Hawkins 1853-1926]] on 11/12/1869 in Fayette WV
+[[Ancesters/Hawkins/Mary Ann Hawkins 1853-1926\|Mary Ann Hawkins 1853-1926]] on 11/12/1869 in Fayette WV
 [[Walter Hayes Legg 1876-1949\|Walter Hayes Legg 1876-1949]]
 Cora 18
 Marion 16
@@ -36,5 +36,8 @@ Esta 6
 
 #### Biography
 
+### Photos
+[[Evernote/Archive/Mack & Polly Ann Hawkins Legg\|Mack & Polly Ann Hawkins Legg]]
+[[Evernote/Archive/Mack & Polly Ann Hawkins Legg.1\|Mack & Polly Ann Hawkins Legg]]
 #### Sources
 

@@ -42,6 +42,6 @@ Missing the 1910 Census
 
 #### Photos
 [[Vault/Records/Fred and Mamie Shaffer Legg\|Fred and Mamie Shaffer Legg]]
-[[Vault/Records/Fred Legg Family.1\|Fred Legg Family.1]]
+[[Vault/Records/Fred Legg Family.1\|Fred Legg Family]]
 #### Sources
 

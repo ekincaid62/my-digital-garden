@@ -38,6 +38,6 @@ Death on 1944 in Mt. Lookout, WV
 #### Biography
 
 #### Photos
-
+[[Vault/Records/Clayton & Dorcas Shaffer Family\|Clayton & Dorcas Shaffer Family]]
 #### Sources
 
