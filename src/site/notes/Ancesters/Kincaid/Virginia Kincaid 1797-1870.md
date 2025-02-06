@@ -10,7 +10,16 @@ Death on 1870 in Nicholas County, VA
 
 [[Ancesters/Kincaid/John Kincaid 1760-1834\|John Kincaid 1760-1834]] and [[Ancesters/Gillespie/Elizabeth Hannah Gillespie 1760-1829\|Elizabeth Hannah Gillespie 1760-1829]]
 #### Siblings
-<!-- Link to sibling -->
+[[Hannah Kincaid\|Hannah Kincaid]]
+[[Sarah Kincaid\|Sarah Kincaid]]
+[[Matthew Kincaid\|Matthew Kincaid]]
+[[Samuel Kincaid\|Samuel Kincaid]]
+[[James Gillespie Kincaid\|James Gillespie Kincaid]]
+[[Nancy Kincaid\|Nancy Kincaid]]
+[[Elizabeth Kincaid\|Elizabeth Kincaid]] "Betsy"
+[[Margaret Kincaid\|Margaret Kincaid]] "Peggy"
+[[Magdaline Kincaid\|Magdaline Kincaid]] "Lina"
+[[Lanty Kincaid\|Lanty Kincaid]]
 
 ---
 #### Spouse and Children

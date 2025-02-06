@@ -20,7 +20,18 @@ Death on 21 Apr 1834 in Gauley Bridge WV
 ---
 #### Spouse and Children
 [[Ancesters/Gillespie/Elizabeth Hannah Gillespie 1760-1829\|Elizabeth Hannah Gillespie 1760-1829]] on <!-- link to date --> in <!-- link to place -->.
+[[Hannah Kincaid\|Hannah Kincaid]]
+[[Sarah Kincaid\|Sarah Kincaid]]
+[[Matthew Kincaid\|Matthew Kincaid]]
+[[Samuel Kincaid\|Samuel Kincaid]]
+[[James Gillespie Kincaid\|James Gillespie Kincaid]]
+[[Nancy Kincaid\|Nancy Kincaid]]
+[[Elizabeth Kincaid\|Elizabeth Kincaid]]"Betsy"
+[[Margaret Kincaid\|Margaret Kincaid]]"Peggy"
 [[Ancesters/Kincaid/Virginia Kincaid 1797-1870\|Virginia Kincaid 1797-1870]] "Jane"
+[[Magdaline Kincaid\|Magdaline Kincaid]]"Lina"
+[[Lanty Kincaid\|Lanty Kincaid]]
+The information on the Children was provided by Linda Perdue
 
 #### Census Records
 
