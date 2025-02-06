@@ -31,9 +31,9 @@ Esta 6
 #### Biography
 
 #### Photos
-[[Evernote/Archive/Mack & Polly Ann Hawkins Legg\|Mack & Polly Ann Hawkins Legg]]
-[[Evernote/Archive/Mack & Polly Ann Hawkins Legg.1\|Mack & Polly Ann Hawkins Legg]]
-[[Evernote/Archive/Polly Ann Hawkins Legg\|Polly Ann Hawkins Legg]]
+[[Vault/Records/Mack & Polly Ann Hawkins Legg\|Mack & Polly Ann Hawkins Legg]]
+[[Vault/Records/Mack & Polly Ann Hawkins Legg.1\|Mack & Polly Ann Hawkins Legg]]
+[[Vault/Records/Polly Ann Hawkins Legg\|Polly Ann Hawkins Legg]]
 
 #### Sources
 
