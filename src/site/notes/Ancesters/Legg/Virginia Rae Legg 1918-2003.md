@@ -40,6 +40,7 @@ Stillborn Legg 1920-1920
 #### Biography
 
 #### Photos
-
+[[Vault/Records/Allen & Virginia Kincaid\|Allen & Virginia Kincaid]]
+[[Vault/Records/Allen & Virginia Kincaid 2\|Allen & Virginia Kincaid 2]]
 #### Sources
 

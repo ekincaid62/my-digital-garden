@@ -35,6 +35,7 @@ Death on 2/14/1913 in Greene County, IL
 #### Biography
 
 #### Photos
-
+[[Vault/Records/Alfred Kincaid\|Alfred Kincaid]]
+[[Vault/Records/Alfred Kincaid Family\|Alfred Kincaid Family]]
 #### Sources
 
