@@ -1,0 +1,29 @@
+---
+{"dg-publish":true,"permalink":"/ancesters/skaggs/harriet-ann-skaggs-1859-1950/"}
+---
+
+Born on  <!-- link to date --> in <!-- link to place -->
+Death on <!-- link to date --> in <!-- link to place -->
+
+---
+#### Parents
+
+[[Ancesters/Skaggs/Cyrus Skaggs\|Cyrus Skaggs]] and [[Rachel Coleman\|Rachel Coleman]]
+#### Siblings
+<!-- Link to sibling -->
+
+---
+#### Spouse and Children
+<!-- Link to spouse --> on <!-- link to date --> in <!-- link to place -->.
+<!-- Link to child -->
+
+#### Census Records
+
+#### Land Transfers
+
+#### Biography
+
+#### Photos
+
+#### Sources
+

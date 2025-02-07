@@ -8,7 +8,7 @@ Death on 3/22/1895 in Leander WV
 ---
 #### Parents
 
-[[Thomas Jesse Legg 1789-1880\|Thomas Jesse Legg 1789-1880]] and [[Elizabeth "Betsy" Nutter 1790-1869\|Elizabeth "Betsy" Nutter 1790-1869]]
+[[Ancesters/Legg/Thomas Jesse Legg 1789-1880\|Thomas Jesse Legg 1789-1880]] and [[Ancesters/Nutter/Elizabeth Nutter 1790-1869\|Elizabeth Nutter 1790-1869]] "Betsy"
 #### Siblings
 [[Betsy Jane Legg 1812-1889\|Betsy Jane Legg 1812-1889]] 
 [[Ruth Legg 1815-1877\|Ruth Legg 1815-1877]]

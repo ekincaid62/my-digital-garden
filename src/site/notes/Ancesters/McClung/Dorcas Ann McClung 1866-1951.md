@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/ancesters/mc-clung/dorcas-ann-mc-clung-1866-1951/","tags":["Dorcas-McClung"]}
 ---
 
-Born on  3/18/1866 in Mt Lookout,WV
-Death on 6/6/1951 in Mt Lookout,WV
+Born on  3/18/1866 in Mt Lookout, WV
+Death on 6/6/1951 in Mt Lookout, WV
 
 ---
 #### Parents
 
-[[Charles William McClung 1838-1911\|Charles William McClung 1838-1911]] "Good Charley" and [[Mary Catherine Amick 1841-1920\|Mary Catherine Amick 1841-1920]]
+[[Ancesters/McClung/Charles William McClung 1838-1911\|Charles William McClung 1838-1911]] "Good Charley" and [[Ancesters/Amick/Mary Catherine Amick 1841-1920\|Mary Catherine Amick 1841-1920]]
 #### Siblings
 [[Viola Agnes McClung 1867-1870\|Viola Agnes McClung 1867-1870]]
 [[Lanie Louisa McClung 1869-1952\|Lanie Louisa McClung 1869-1952]]
