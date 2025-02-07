@@ -34,6 +34,6 @@ Death on 6/6/1951 in Mt Lookout,WV
 
 #### Photos
 [[Vault/Records/Dorcas Ann Shaffer & Chilldren\|Dorcas Ann Shaffer & Chilldren]]
-[[assets/Dorcas Ann Shaffer & Granddaughters\|Dorcas Ann Shaffer & Granddaughters]]
+[[Vault/Records/Dorcas Ann Shaffer & Granddaughters\|Dorcas Ann Shaffer & Granddaughters]]
 #### Sources
 

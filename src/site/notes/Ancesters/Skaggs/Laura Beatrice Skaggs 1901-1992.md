@@ -8,14 +8,15 @@ Death on 2/9/1992 in Mt. Lookout WV
 ---
 #### Parents
 
-[[James Woodson Skaggs 1854-1937\|James Woodson Skaggs 1854-1937]] and [[Harriet A Scaggs 1859-1950\|Harriet A Scaggs 1859-1950]]
+[[Ancesters/Skaggs/James Woodson Skaggs 1854-1937\|James Woodson Skaggs 1854-1937]] and [[Ancesters/Skaggs/Harriet Ann Skaggs 1859-1950\|Harriet Ann Skaggs 1859-1950]]
+James and Harriet were first cousins
 #### Siblings
 [[Howard M Skaggs 1896-\|Howard M Skaggs 1896-]]
 [[Gilbert Skaggs 1904-\|Gilbert Skaggs 1904-]]
 [[Emery Skaggs\|Emery Skaggs]]
 [[Martha Skaggs\|Martha Skaggs]]
 [[Frank Skaggs\|Frank Skaggs]]
-[[James Skaggs\|James Skaggs]]
+[[Ancesters/Skaggs/James Skaggs Jr\|James Skaggs Jr]]
 
 ---
 #### Spouse and Children
