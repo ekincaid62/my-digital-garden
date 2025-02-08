@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancesters/mc-clung/james-mc-clung-1770-1824/"}
+{"dg-publish":true,"permalink":"/ancesters/mc-clung/james-mc-clung-1770-1824/","tags":["James-McClung"]}
 ---
 
 Born on  3/24/1770 in <!-- link to place -->

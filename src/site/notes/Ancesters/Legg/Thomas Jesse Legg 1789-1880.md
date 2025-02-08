@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancesters/legg/thomas-jesse-legg-1789-1880/"}
+{"dg-publish":true,"permalink":"/ancesters/legg/thomas-jesse-legg-1789-1880/","tags":["Thomas-Jesse-Legg"]}
 ---
 
 Born on  1789 in <!-- link to place -->

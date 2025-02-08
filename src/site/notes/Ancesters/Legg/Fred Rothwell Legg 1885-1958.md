@@ -10,7 +10,7 @@ Death on 9/5/1958 in Mt. Lookout, WV
 
 [[Ancesters/Legg/William McGinnis Legg 1849-1924\|William McGinnis Legg 1849-1924]] "Mac" and [[Ancesters/Hawkins/Mary Ann Hawkins 1853-1926\|Mary Ann Hawkins 1853-1926]] "Polly"
 #### Siblings
-[[Walter Hayes Legg 1876-1949\|Walter Hayes Legg 1876-1949]]
+[[Ancesters/Legg/Walter Hayes Legg 1876-1949\|Walter Hayes Legg 1876-1949]]
 Cora 18
 Marion 16
 Joseph L 12

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancesters/skaggs/james-skaggs-jr/"}
+{"dg-publish":true,"permalink":"/ancesters/skaggs/james-skaggs-jr/","tags":["James-Skaggs-Jr"]}
 ---
 
 Born on  <!-- link to date --> in <!-- link to place -->

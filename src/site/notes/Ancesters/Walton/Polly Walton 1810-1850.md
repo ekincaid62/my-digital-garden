@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancesters/walton/polly-walton-1810-1850/"}
+{"dg-publish":true,"permalink":"/ancesters/walton/polly-walton-1810-1850/","tags":["Polly-Walton"]}
 ---
 
 Born on  <!-- link to date --> in <!-- link to place -->

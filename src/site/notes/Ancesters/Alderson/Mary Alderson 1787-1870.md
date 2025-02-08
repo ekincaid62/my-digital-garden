@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancesters/alderson/mary-alderson-1787-1870/"}
+{"dg-publish":true,"permalink":"/ancesters/alderson/mary-alderson-1787-1870/","tags":["Mary-Alderson"]}
 ---
 
 Born on  <!-- link to date --> in <!-- link to place -->

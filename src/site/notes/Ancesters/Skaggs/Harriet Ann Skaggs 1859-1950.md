@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancesters/skaggs/harriet-ann-skaggs-1859-1950/"}
+{"dg-publish":true,"permalink":"/ancesters/skaggs/harriet-ann-skaggs-1859-1950/","tags":["Harriet-Ann-Skaggs"]}
 ---
 
 Born on  <!-- link to date --> in <!-- link to place -->

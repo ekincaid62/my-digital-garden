@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancesters/tincher/hannah-tincher-1742-1819/"}
+{"dg-publish":true,"permalink":"/ancesters/tincher/hannah-tincher-1742-1819/","tags":["Hannah-Tincher"]}
 ---
 
 Born on  17442 in VA

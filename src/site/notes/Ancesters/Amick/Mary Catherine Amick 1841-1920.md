@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancesters/amick/mary-catherine-amick-1841-1920/"}
+{"dg-publish":true,"permalink":"/ancesters/amick/mary-catherine-amick-1841-1920/","tags":["Mary-C-Amick"]}
 ---
 
 Born on  11/9/1841 in VA

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancesters/mc-clung/charles-william-mc-clung-1838-1911/"}
+{"dg-publish":true,"permalink":"/ancesters/mc-clung/charles-william-mc-clung-1838-1911/","tags":["Charles-William-McClung"]}
 ---
 
 Born on  3/1/1838 in WV

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancesters/ramsey/bartholomew-ramsey-1776-1843/"}
+{"dg-publish":true,"permalink":"/ancesters/ramsey/bartholomew-ramsey-1776-1843/","tags":["Bartholomew-Ramsey"]}
 ---
 
 Born on  1776 in Berks County, PA

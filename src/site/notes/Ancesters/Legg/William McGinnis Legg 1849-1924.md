@@ -21,7 +21,7 @@ Death on 9/16/1924 in Mt. Lookout WV
 ---
 #### Spouse and Children
 [[Ancesters/Hawkins/Mary Ann Hawkins 1853-1926\|Mary Ann Hawkins 1853-1926]] on 11/12/1869 in Fayette WV
-[[Walter Hayes Legg 1876-1949\|Walter Hayes Legg 1876-1949]]
+[[Ancesters/Legg/Walter Hayes Legg 1876-1949\|Walter Hayes Legg 1876-1949]]
 Cora 18
 Marion 16
 [[Ancesters/Legg/Fred Rothwell Legg 1885-1958\|Fred Rothwell Legg 1885-1958]]

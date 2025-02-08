@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancesters/skaggs/cyrus-skaggs/"}
+{"dg-publish":true,"permalink":"/ancesters/skaggs/cyrus-skaggs/","tags":["Cyrus-Skaggs"]}
 ---
 
 Born on  <!-- link to date --> in <!-- link to place -->

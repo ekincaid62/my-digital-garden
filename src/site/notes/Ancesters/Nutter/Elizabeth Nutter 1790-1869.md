@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancesters/nutter/elizabeth-nutter-1790-1869/"}
+{"dg-publish":true,"permalink":"/ancesters/nutter/elizabeth-nutter-1790-1869/","tags":["Elizabeth-Nutter"]}
 ---
 
 Born on  1790 in <!-- link to place -->

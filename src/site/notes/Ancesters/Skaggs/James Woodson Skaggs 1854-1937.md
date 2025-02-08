@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancesters/skaggs/james-woodson-skaggs-1854-1937/"}
+{"dg-publish":true,"permalink":"/ancesters/skaggs/james-woodson-skaggs-1854-1937/","tags":["James-Woodson-Skaggs"]}
 ---
 
 Born on  <!-- link to date --> in <!-- link to place -->

@@ -15,7 +15,7 @@ Death on 6/17/1926 in Mt Lookout, WV
 ---
 #### Spouse and Children
 [[Ancesters/Legg/William McGinnis Legg 1849-1924\|William McGinnis Legg 1849-1924]] on 11/12/1869 in Fayette WV
-[[Walter Hayes Legg 1876-1949\|Walter Hayes Legg 1876-1949]]
+[[Ancesters/Legg/Walter Hayes Legg 1876-1949\|Walter Hayes Legg 1876-1949]]
 Cora 18
 Marion 16
 [[Ancesters/Legg/Fred Rothwell Legg 1885-1958\|Fred Rothwell Legg 1885-1958]]

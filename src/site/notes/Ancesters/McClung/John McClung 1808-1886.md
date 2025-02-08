@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancesters/mc-clung/john-mc-clung-1808-1886/"}
+{"dg-publish":true,"permalink":"/ancesters/mc-clung/john-mc-clung-1808-1886/","tags":["John-McClung"]}
 ---
 
 Born on  1808 in <!-- link to place -->
