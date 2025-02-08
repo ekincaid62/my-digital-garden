@@ -24,10 +24,10 @@ Death on 5/17/1966 in <!-- link to place -->
 #### Biography
 
 #### Photos
-[[Evernote/Archive/Aunt Pansy McClung Legg\|Aunt Pansy McClung Legg]]
-[[Evernote/Archive/Aunt Pansy Legg\|Aunt Pansy Legg]]
-[[Evernote/Archive/Walter & Pansy Legg\|Walter & Pansy Legg]]
-[[Evernote/Archive/Walter & Pansy Legg Family\|Walter & Pansy Legg Family]]
-[[Evernote/Archive/Walter & Pansy Legg.1\|Walter & Pansy Legg]]
+[[Vault/Records/Aunt Pansy McClung Legg\|Aunt Pansy McClung Legg]]
+[[Vault/Records/Aunt Pansy Legg\|Aunt Pansy Legg]]
+[[Vault/Records/Walter & Pansy Legg\|Walter & Pansy Legg]]
+[[Vault/Records/Walter & Pansy Legg Family\|Walter & Pansy Legg Family]]
+[[Vault/Records/Walter & Pansy Legg.1\|Walter & Pansy Legg]]
 #### Sources
 

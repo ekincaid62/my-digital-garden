@@ -29,8 +29,8 @@ Esta 6
 #### Biography
 
 #### Photos
-[[Evernote/Archive/Walter & Pansy Legg\|Walter & Pansy Legg]]
-[[Evernote/Archive/Walter & Pansy Legg Family\|Walter & Pansy Legg Family]]
-[[Evernote/Archive/Walter & Pansy Legg.1\|Walter & Pansy Legg]]
+[[Vault/Records/Walter & Pansy Legg\|Walter & Pansy Legg]]
+[[Vault/Records/Walter & Pansy Legg Family\|Walter & Pansy Legg Family]]
+[[Vault/Records/Walter & Pansy Legg.1\|Walter & Pansy Legg]]
 #### Sources
 
