@@ -30,6 +30,6 @@ Death on <!-- link to date --> in <!-- link to place -->
 #### Biography
 
 #### Photos
-
+[[Vault/Records/Adam & Betty Myers\|Adam & Betty Myers]]
 #### Sources
 

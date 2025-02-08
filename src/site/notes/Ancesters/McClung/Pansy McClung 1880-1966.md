@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/ancesters/mc-clung/pansy-mc-clung-1880-1966/","tags":["Pansy-McClung"]}
 ---
 
-Born on  9/6/1880 in <!-- link to place -->
+Born on  9/6/1880 in Mt Lookout, WV
 Death on 5/17/1966 in <!-- link to place -->
 
 ---
 #### Parents
 
-<!-- Link to father --> and <!-- Link to mother-->
+[[George Newman McClung 1841-\|George Newman McClung 1841-]] and [[Eliza-Jane-Evans 1843-\|Eliza-Jane-Evans 1843-]]
 #### Siblings
 <!-- Link to sibling -->
 
