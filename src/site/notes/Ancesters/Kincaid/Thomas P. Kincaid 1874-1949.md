@@ -3,7 +3,7 @@
 ---
 
 Born on  3/30/1874 in WV
-Death on 1949 in Nicholas County, WV
+[[Vault/Records/Thomas P. Kincaid Obituary\|Death]] on 1949 in Nicholas County, WV
 
 ----
 #### Parents
@@ -34,6 +34,12 @@ Death on 1949 in Nicholas County, WV
 #### Biography
 
 #### Photos
-
+[[Vault/Records/Family of Thomas P. Kincaid\|Family of Thomas P. Kincaid]]
+[[Vault/Records/Children of Thomas P. and Martha Stull Kincaid\|Children of Thomas P. and Martha Stull Kincaid]]
+[[Vault/Records/Children of Thomas P. and Martha Stull Kincaid.1\|Children of Thomas P. and Martha Stull Kincaid.1]]
+[[Vault/Records/Thomas & Martha Stull Kincaid\|Thomas & Martha Stull Kincaid]]
+[[Vault/Records/Thomas & Martha Stull Kincaid Family\|Thomas & Martha Stull Kincaid Family]]
+[[Vault/Records/Thomas P. Kincaid 2\|Thomas P. Kincaid 2]]
+[[Vault/Records/Thomas P. Kincaid\|Thomas P. Kincaid]]
 #### Sources
 

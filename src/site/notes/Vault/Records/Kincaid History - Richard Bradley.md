@@ -587,157 +587,104 @@ lived on Muddy Creek Mountain adjacent to land owned by the Harrahs. It was ther
 
 ### ENDNOTES:
 
-1.
-The source of this tradition was apparently Dr. Herbert Clarke Kincaid of Washington. D.C., a g-g-g-grandson of one of the nephews, Samuel Kincaid. From "An Assortment of Kincaid Papers", LDS Film 1697700, Item 6. The only aspects of the tradition I can confirm are David Kincaid's appearances in Spotsylvania County and other Virginia counties from the 1730's as evidenced by deeds and court records. The supposed nephews, Samuel, George, James and Robert are not examined in this chapter. Although some of their descendants appear later in Greenbrier County, there is no apparent relation to our Thomas Kincaid.
-{ #Brantley1}
-
-
- 2.
-E-mail message from Robert Walters of Cary, NC, dated Oct. 28, 1998.
-{ #Brantley2}
-
-
- 3.
-David Kincaid was called the builder because he built the first jail in Augusta County
-
+#### 1.
+The source of this tradition was apparently Dr. Herbert Clarke Kincaid of Washington. D.C., a g-g-g-grandson of one of the nephews, Samuel Kincaid. From "An Assortment of Kincaid Papers", LDS Film 1697700, Item 6. The only aspects of the tradition I can confirm are David Kincaid's appearances in Spotsylvania County and other Virginia counties from the 1730's as evidenced by deeds and court records. The supposed nephews, Samuel, George, James and Robert are not examined in this chapter. Although some of their descendants appear later in Greenbrier County, there is no apparent relation to our Thomas Kincaid. 
+#### 2.
+  E-mail message from Robert Walters of Cary, NC, dated Oct. 28, 1998. 
+#### 3.
+ David Kincaid was called the builder because he built the first jail in Augusta County
 #### 4.
 From Larry Shuck's book Our Families, p. 403-405.
-
 #### 5.
 Sent to me by Connie Love Lawson of Vallejo, CA. This is supposed to be from LDS records.
-
 #### 6.
 From "Historic Meeting at Pisgah Church" by Laura Kinkead Walton. _The Register of the Kentucky Historical Society_, Vol. 37 (Oct. 1939), 283-321. Appendix C. The Families Kinkead, Stephenson, Garrett, Martin, and Dunlap.
-
 #### 7.
 Parents of Margaret Lockhart were James Horatio Lockhart & wife Margaret of Scotland. She was apparently related to Jacob Lockhart, Sr. and by marriage to Matthew Arbuckle, both of whom are involved in the history of the early Harrahs in Greenbrier Co., VA. (From LDS ancestral files)
-
 #### 8.
 Larry Shuck states he came in 1715 to Lancaster Co., PA. Other researchers references to Margaret Lockhart state that she came from Lancaster Co.
-
 #### 8a.
 Susan Liedke of Seattle, who is a descendant of Andrew Kincaid & Mary of Augusta and Greenbrier counties, wrote to inform me that William the Stiller was the son of Andrew Kincaid, Sr. (A William was a son of an Andrew per Chalkley's records). The Andrew married to Mary was probably Andrew, Jr. the same who gave the land to the congregation of dissenters on the calfpasture in 1773. There is no indication he was the son of Andrew Sr., just that he was the younger of the two.
-
 #### 9.
 Augusta Co., VA Court Order Book XVII, p. 183.
-
 #### 10.
 Augusta Co., VA Deed Book 16, pp. 351-355.
-
 #### 11.
 Quoted in Chalkley's Chronicles of the Scotch Irish p. 414, from Kinkead vs. Donnelly, Augusta Co., VA Court Record, June 1799.
-
 #### 12.
 Augusta Co. Deed Book 18, pp. 441-445.
-
 #### 13.
 It was probably only an assumption on Wood's part that the three were brothers. There is no documentation in the book to this effect.
-
 #### 14.
 A John Kincaid appears in church records in 1747 and is too old to be the son of Joseph named in the account. He must be either John the weaver or possibly, John, son of James.
-
 #### 15.
 Albemarle County in Virginia by Rev. Edgar Woods. C.J. Carrier Co., Bridgewater, Virginia. It is interesting to note that the widow Jean Kincaid appeared in Rockbridge County in 1784 at about the same time as our Thomas Kincaid was there.
-
 #### 16.
 I had always assumed the roots of our Thomas Kincaid were to be found in Augusta County. It was the information provided by Barbara Vines Little of Orange Virginia about the Daniel O'Hara deeds in Albemarle, and Sherralyn Kincaid Nichols' Albemarle information in her web page that led me to research the Kincaids of Albemarle County. So I am indebted to both.
-
 #### 17.
 Albemarle Co., VA Court Deed Book 6, page 321-323, Jean Kincaid to Thomas Kincaid (son), 207 acres, April 14, 1774.
-
 #### 18.
 Albemarle Co., VA Court Deed Book 7, page 372-374, Thomas Kinkead to Samuel Muse, 207 acres, October 13, 1779.
-
 #### 19.
 Albemarle Co., VA Court Deed Book 4, page 174-178, Andrew Woods, 409 acres, to Jean Kinkead, July 5, 1765.
-
 #### 20.
 Vol 3., p. 182, Abstracts of Chester Co., PA Land Records 1745-1753 by Carol Bryant, 1997.
 
 FHL book 974.813 R28b... quoted from Alice Gedges' web page.
-
 #### 21.
 Ibid, Vol. 3, p. 188.
-
 #### 22.
 Ibid, Vol. 4, p. 9.
-
 #### 23.
 Ibid, Vol. 4, p. 175.
-
 #### 24.
 Ibid, Vol. 5, p. 98.
-
 #### 25.
 Ibid, Vol. 5, p. 101.
-
 #### 26.
 This is from an e-mail from Dennis House (8/30/99) to the Kincaid mail list in response to a message from Barbara Mihalcik who stated her ancestress, Sarah Kincaid, born in Windham, NH in 1861, was thought to be either the son of Samuel Kincaid or of the Rev. John Kincaid "who went to Windham in 1760 from Chester Co., PA".
-
 #### 27.
 These last 3 records, 1766-69 in Augusta Co., for the Rev. John Kincaid are from Chalkley's Chronicles. In Alice Gedge's temporary website, she attributed these entries to John Kincaid, b. c1745, son of Thomas Kincaid and Margaret Lockhart. This John married Margaret \_\_\_. And according to file 561.704 in the Chester Co., PA Historical Society, as quoted by Alice, he was a Reverend. At some later date this family moved to Woodford Co., KY which could possibly tie him to William Kincaid & Eleanor Guy who may or may not have been the son of Thomas & Margaret Kincaid (Doug McGuire disputes this). If these records in Augusta Co. are for the younger John and not John Kincaid, Clerk of Chester Co., PA, then the Clerk may have never lived in Virginia.
-
 #### 27a.
 Susan Liedke believes that John of Bath may not have been the same person as John the Weaver and that each had children with similar names. This might explain the apparent surplus of some names in the early Augusta records. In preparing the time line for this chapter, I have John the weaver born about 1714 and dying (as John of Bath) about 1813 which is a very long life (99 years) if he was one and the same person.
-
 #### 28.
 Some undocumented research has referred to one of his wives as Elizabeth Hamilton. John the Weaver did live close to Andrew Hamilton (perhaps the reason for a son being named Andrew) as noted in the 1769 deed from John the Clerk to Samuel Griffin, which has John Kincaid and Andrew Hamilton as living adjacent to the land sold. In addition, according to George Diehl in his Rockbridge County Notebook, Andrew Hamilton was married to Martha Kincaid, a sister of William Kincaid (thought by Diehl to be the William married to Eleanor Guy).
-
 #### 29.
 As far as I know there is no direct evidence that John Kincaid, son of David, was married to Elizabeth "Logan". However the circumstantial evidence is strong. For example a Bethial Logan is mentioned in this deed and John, son of David, gad a daughter named Bethial who witnessed the will of her grandfather, David Kincaid. I have seen it stated in other's research that Elizabeth Logan was the daughter of Robert & Bethiah Logan.
-
 #### 30.
 Quoted in Alice Gedges' web site. Information supplied by Dick Hulan. Published in KY Gen, Index, v. 1, and KY Ancestors , vol. 6, Issue 4, p. 201-202.
-
 #### 31.
 In 1754 a petition for a mill on the place of Andrew Lockridge "who lately settled here" was signed by Andrew and John Kincaid.
-
 #### 31a.
 The children of John Kincaid and Ann Graham were Lanty (Lancelot) Kincaid and Matthew Kincaid. Lanty and Matthew lived in Greenbrier Co. in the Muddy Creek and Little Meadow areas and were neighbors of the children and grandchildren of Thomas Kincaid & Hannah Tincher. Lanty's son Matthew Kincaid (1799-1828) married Elizabeth Harrah, daughter of Daniel Harrah, Jr. and Elizabeth (Kincaid) Harrah.
-
 #### 32.
 There was a will in Greenbrier County, Virginia dated March 3, 1795 (probated July 28, 1795) for a Thomas Kincaid of Peter's Mountain who left a widow named Mary.
-
 #### 33.
 Based on information in Alice Gedge's website in which the children of John & Agnes were James, Jean, Agnes, Andrew, Joseph, Elizabeth, Sarah, and John.
-
 #### 34.
 According to Laura Greer, Andrew Grier (Greer) was born in Ireland in 1730, married Ruth Kincaid about 1753, moved to Botetourt & Washington Co., VA, and died in Tennessee before Oct., 1809. He was short of stature and called "wee Andy". He and Ruth Kincaid had two children, Jospeh and James, before Ruth died (before 1775) and Andrew remarried Mary Vance. Andrew Greer was said to be one of the first two white men to settle below the Virginia line in Tennessee and he accumulated a considerable estate from Indian trading.
-
 #### 35.
 Augusta Co. VA Deed Book 16, pp. 490-493. Andrew Kinkead had received the patent from Robert Beverley, Esq. bearing patent bearing the date May 19, 1772. The land at that time was described as 230 acres on the "little river of the Calfpasture".
-
 #### 36.
 Augusta Co. Deed Book 17, pp. 19-22.
-
 #### 37.
 Augusta Co., VA Deed Book 21, pp. 275-279.
-
 #### 38.
 Virginia State Archives, Land Office Patents and Grants, Grants F, 1781-82, page 26.
-
 #### 39.
 Rockbridge Co., VA Order Book 1778-1784, pp. 452-453.
-
 #### 40.
 Rockbridge Co., VA Deed Book A, Part 2, pp. 430-431.
-
 #### 41.
 pp. 99-100, History of the House of Ochiltree of Ayrshire, Scotland with the Genealogy of the Families of Those Who Came to America by Clementine (Brown) Railey, Bulletin Printing Company, Sterling, Kansas, 1916.
-
 #### 42.
 Hannah Tincher was the daughter of Samuel Tincher (1718-1791) and Margaret (Campbell?). Samuel left a will naming Hannah Kincaid as an heir. A niece of Hannah Kincaid, Margaret Tincher, married William Harrah. It is supposed that George Campbell, who with William Tincher sold the tract in Augusta County to Thomas Kincaid, was the father or brother of Margaret (Campbell?), mother of Hannah Tincher. Thomas and Hannah named a son George Campbell Kincaid. It is interesting to note that on March 16, 1785 Mary Hacket, late Mary Campbell, admx. Of George Campbell, dec'd was summoned to give counter security (per Augusta Co. Court records quoted in Chalkley). The Hacket(t) family has ties to the Harrah family.
-
 #### 43.
 A "Widow Kincaid" was mentioned in Greenbrier Co. Court records as early as 1783. Could she be the widow Jean Kincaid previously in Rockbridge County? Or could she be the mother of Thomas Kincaid of Muddy Creek Mountain?
-
 #### 44.
 Daughter of Samuel Baldwin. See more about Samuel Baldwin in the chapter on the Baldwin family. Samuel Baldwin was not of sterling character. He was actually Samuel Ford, who fled from New Jersey to Virginia to escape hanging for counterfeiting.
-
 #### 45.
 The family information is from Larry Shuck's book Our Families and from Sheralynn Kincaid Nichols Kincaid home page. Their information generally agrees. The same family list from Lois Kincaid Dorsey's The Tincher Tribe has some variations; she adds an Andrew and a Kincaid Kincaid and she lists a George and a Campbell Kincaid as two different persons. [History of the Kincaid Family](https://drive.google.com/file/d/0B0oZv34v0ajXVUstZkJEV2hUdW8/view?usp=sharing&resourcekey=0-gyR8XsVV5zkjlqS8Sd_HRw) show Sallie being the daughter of [[Ancesters/Kincaid/John Kincaid 1760-1834\|John Kincaid 1760-1834]] and [[Ancesters/Gillespie/Elizabeth Hannah Gillespie 1760-1829\|Elizabeth Hannah Gillespie 1760-1829]] which seems more likely since she is not listed in [[Vault/Records/Baldwin vs Kincaid\|Baldwin vs Kincaid]]
-
 #### 46.
 Greenbrier Co., WVA Court of Chancery & Law. Court Packet filed in Chancery Box/File 145, Robert & Elizabeth Harrow, et al, Heirs of Samuel Baldwin vs. Thos. Kinkaid.
-
 

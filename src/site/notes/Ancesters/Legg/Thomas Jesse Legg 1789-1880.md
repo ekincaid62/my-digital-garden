@@ -14,7 +14,7 @@ Death on 1880 in <!-- link to place -->
 
 ---
 #### Spouse and Children
-[[Ancesters/Nutter/Elizabeth Nutter 1790-1869\|Elizabeth Nutter 1790-1869]] "Betsy" on 4/19/1810 in <!-- link to place -->.
+[[Ancesters/Nutter/Elizabeth Nutter 1790-1869\|Elizabeth Nutter 1790-1869]] "Betsy" [[Vault/Records/Marriage Record\|married]] 4/19/1810 in <!-- link to place -->.
 <!-- Link to child -->
 
 #### Census Records

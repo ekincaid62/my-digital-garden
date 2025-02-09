@@ -22,7 +22,7 @@ Death on 1847 in Fayette County VA
 [[Ancesters/Kincaid/William M. Kincaid 1787-1860\|William M. Kincaid 1787-1860]]
 [[John Kincaid 1798-\|John Kincaid 1798-]]
 
-[[Huldy Osborn 1782-1823\|Huldy Osborn 1782-1823]] married 3/13/1802  [[assets/Marriage to Huldy Osborn\|Marriage to Huldy Osborn]]
+[[Huldy Osborn 1782-1823\|Huldy Osborn 1782-1823]] [[Vault/Records/Marriage Records\|married]] 3/13/1802 
 [[Samuel Kincaid 1802-\|Samuel Kincaid 1802-]]
 [[Thomas Kincaid 1803-1870\|Thomas Kincaid 1803-1870]]
 [[Deborah Kincaid 1804-1851\|Deborah Kincaid 1804-1851]]

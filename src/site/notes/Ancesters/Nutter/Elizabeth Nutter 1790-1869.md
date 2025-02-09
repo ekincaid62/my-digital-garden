@@ -14,7 +14,7 @@ Death on 1869 in <!-- link to place -->
 
 ---
 #### Spouse and Children
-[[Ancesters/Legg/Thomas Jesse Legg 1789-1880\|Thomas Jesse Legg 1789-1880]] on 4/19/1810 in <!-- link to place -->.
+[[Ancesters/Legg/Thomas Jesse Legg 1789-1880\|Thomas Jesse Legg 1789-1880]] [[Vault/Records/Marriage Record\|married]] 4/19/1810 in <!-- link to place -->.
 <!-- Link to child -->
 
 #### Census Records

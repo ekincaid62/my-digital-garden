@@ -4,7 +4,7 @@
 
 
 Born on  1740 in Albemarle VA
-Death on 9/13/1817 in Greenbrier,WV
+Death on 9/13/1817 in Greenbrier, WV
 
 ---
 #### Parents

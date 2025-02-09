@@ -30,6 +30,6 @@ Death on 1906
 #### Biography
 
 #### Photos
-
+[[Vault/Records/Lola Kincaid Chapman\|Lola Kincaid Chapman]]
 #### Sources
 

@@ -31,6 +31,6 @@ Death on 1/24/1892 in WV
 #### Biography
 
 #### Photos
-
+[[Vault/Records/Martha Belle Kincaid\|Martha Belle Kincaid]]
 #### Sources
 
