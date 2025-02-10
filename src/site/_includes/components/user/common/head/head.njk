@@ -1,0 +1,59 @@
+document.addEventListener("DOMContentLoaded", function () {
+    // Set the title and description
+    document.title = "Where the Waters Flow North";
+    let metaDesc = document.createElement("meta");
+    metaDesc.name = "description";
+    metaDesc.content = "Exploring my Family History";
+    document.head.appendChild(metaDesc);
+
+    // Create and style the canvas
+    let canvas = document.createElement("canvas");
+    canvas.id = "riverCanvas";
+    canvas.width = window.innerWidth;
+    canvas.height = 300;
+    document.body.insertBefore(canvas, document.body.firstChild);
+    let ctx = canvas.getContext("2d");
+
+    // Draw mountains
+    function drawMountains() {
+        ctx.fillStyle = "#556B2F"; // Dark green mountains
+        ctx.beginPath();
+        ctx.moveTo(0, 300);
+        ctx.lineTo(200, 100);
+        ctx.lineTo(400, 300);
+        ctx.lineTo(600, 120);
+        ctx.lineTo(800, 300);
+        ctx.lineTo(1000, 150);
+        ctx.lineTo(1200, 300);
+        ctx.lineTo(canvas.width, 300);
+        ctx.closePath();
+        ctx.fill();
+    }
+
+    // Draw river flowing north
+    function drawRiver(frame) {
+        ctx.fillStyle = "#4682B4"; // Blue river
+        ctx.beginPath();
+        ctx.moveTo(canvas.width / 2 - 50, 300);
+        for (let i = 0; i < 10; i++) {
+            let x = canvas.width / 2 + (Math.sin((frame / 20) + i) * 30);
+            let y = 300 - (i * 30);
+            ctx.lineTo(x, y);
+        }
+        ctx.lineTo(canvas.width / 2 + 50, 300);
+        ctx.closePath();
+        ctx.fill();
+    }
+
+    // Animation loop
+    let frame = 0;
+    function animate() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        drawMountains();
+        drawRiver(frame);
+        frame++;
+        requestAnimationFrame(animate);
+    }
+    
+    animate();
+});
