@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/ancesters/alderson/mary-alderson-1787-1870/","tags":["Mary-Alderson"]}
 ---
 
-Born on  <!-- link to date --> in <!-- link to place -->
-Death on <!-- link to date --> in <!-- link to place -->
+Born on  5/13/1787 in <!-- link to place -->
+Death on 5/13/1870 in <!-- link to place -->
 
 ---
 #### Parents
 
-<!-- Link to father --> and <!-- Link to mother-->
+[[George Alderson\|George Alderson]] and <!-- Link to mother-->
 #### Siblings
 <!-- Link to sibling -->
 

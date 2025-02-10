@@ -10,7 +10,13 @@ Death on 6/24/1911 in Nicholas County, WV
 
 [[Ancesters/McClung/John McClung 1808-1886\|John McClung 1808-1886]] and [[Ancesters/Walton/Polly Walton 1810-1850\|Polly Walton 1810-1850]]
 #### Siblings
-<!-- Link to sibling -->
+[[James Mcclung\|James Mcclung]]
+[[Mary Agnes McClung\|Mary Agnes McClung]]
+[[Minerva Margaret McClung\|Minerva Margaret McClung]]
+[[Louisa Jane McClung\|Louisa Jane McClung]]
+[[Abigail Ann McClung\|Abigail Ann McClung]]
+[[Virginia Catherine McClung\|Virginia Catherine McClung]]
+[[Sarah Martha McClung\|Sarah Martha McClung]]
 
 ---
 #### Spouse and Children

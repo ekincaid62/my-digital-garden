@@ -8,9 +8,17 @@ Death on 7/24/1824 in <!-- link to place -->
 ---
 #### Parents
 
-<!-- Link to father --> and <!-- Link to mother-->
+[[Ancesters/McClung/William McClung 1738-1833\|William McClung 1738-1833]] and [[Abigail Dickson -1820\|Abigail Dickson -1820]]
 #### Siblings
-<!-- Link to sibling -->
+[[John McClung 1768-1850\|John McClung 1768-1850]]
+[[William McClung 1772-1853\|William McClung 1772-1853]] "Chunky Billie"
+[[Catherine McClung 1775-1799\|Catherine McClung 1775-1799]]
+[[Joseph McClung 1777-1855\|Joseph McClung 1777-1855]] "Cranberry Joe"
+[[Mary McClung 1780-1806\|Mary McClung 1780-1806]]
+[[Hannah McClung\|Hannah McClung]]
+[[Jane McClung\|Jane McClung]]
+[[Mary McClung\|Mary McClung]]
+[[Sarah McClung\|Sarah McClung]]
 
 ---
 #### Spouse and Children
