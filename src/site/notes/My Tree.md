@@ -4,7 +4,7 @@
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
 <!-- Image Map Generated for "Where Waters flow North" -->
-<p><img src="/img/user/assets/tree.png"></p>
+<p><img src="/img/user/assets/tree.png" usemap="#mytree"></p>
 
 <map name="mytree">
     <area target="_parent" alt="This is me...." title="This is me...." href="https://my-digital-garden-roan-sigma.vercel.app/vault/misc/this-is-me/" coords="1226,1234,106" shape="circle">
