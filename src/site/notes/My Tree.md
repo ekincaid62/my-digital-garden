@@ -35,9 +35,9 @@
     <polygon points="712,1394,695,1334,686,1269,684,1206,693,1145,912,1180,908,1232,914,1282,923,1325" fill="#5bc5de" opacity="0">
      <title>James William Kincaid 1850-1919</title>
      </polygon>
-  </a><a xlink:href="/ancestors/keenan/sarah-virginia-keenan-1849/">
+  </a><a xlink:href="/ancestors/kincaid/keenan/sarah-virginia-keenan-1849/">
     <polygon points="691,1141,706,1078,728,1021,754,965,788,913,966,1041,942,1082,923,1136,914,1175" fill="#5bc5de" opacity="0">
-     <title>Sarah Virginia Keenan -1849</title>
+     <title>Sarah Virginia Keenan 1849-</title>
      </polygon>
   </a><a xlink:href="/ancestors/skaggs/james-woodson-skaggs-1854-1937/">
     <polygon points="788,911,832,859,875,820,927,781,979,748,1081,943,1042,967,1005,995,968,1039" fill="#c6d64e" opacity="0">
@@ -62,6 +62,10 @@
   </a><a xlink:href="/ancestors/mc-clung/dorcas-ann-mc-clung-1866-1951/">
     <polygon points="1762,1143,1766,1214,1764,1271,1758,1329,1740,1394,1530,1325,1541,1273,1543,1219,1543,1178" fill="#fedd73" opacity="0">
      <title>Dorcas Ann McClung 1866-1951</title>
+     </polygon>
+  </a><a xlink:href="/ancestors/kincaid/john-a-kincaid-1818-1891/">
+    <polygon points="513,1460,498,1416,489,1375,483,1332,478,1290,682,1273,693,1338,708,1394" fill="#fedd73" opacity="0">
+     <title>John A. Kincaid 1818-1891</title>
      </polygon>
   </a>
 </svg>
