@@ -3,7 +3,7 @@
 ---
 
 <!-- Image Map Generated for "Where the Waters flow North" -->  
-<img src="/src/site/img/user/assets/Tree.png" usemap="#mytree">
+<img src="/img/user/assets/Tree.png" usemap="#mytree">
 
 <map name="mytree">  
     <area target="_parent" alt="This is me...." title="This is me...." href="/vault/misc/this-is-me/" coords="1226,1234,106" shape="circle">  
