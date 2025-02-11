@@ -1,0 +1,39 @@
+---
+{"dg-publish":true,"permalink":"/ancestors/legg/charles-william-legg-1927-1979/","tags":["Charles-William-Legg"]}
+---
+
+Born on  6/14/1927 in Mt Lookout, WV
+Death on 8/31/1979 in Mt Lookout, WV
+
+---
+#### Parents
+
+[[Ancestors/Legg/Fred Rothwell Legg 1885-1958\|Fred Rothwell Legg 1885-1958]] and [[Ancestors/Shaffer/Mamie Catherine Shaffer 1888-1962\|Mamie Catherine Shaffer 1888-1962]]
+#### Siblings
+Oswald Legg 1914-1914
+[[Ancestors/Legg/Retta Delphia Legg 1916-1997\|Retta Delphia Legg 1916-1997]]
+[[Ancestors/Legg/Virginia Rae Legg 1918-2003\|Virginia Rae Legg 1918-2003]] "Sam"
+Stillborn Legg 1920-1920
+[[Ancestors/Legg/Mary Ann Legg 1921-1997\|Mary Ann Legg 1921-1997]]
+[[Ancestors/Legg/June Kathleen Legg 1923-2008\|June Kathleen Legg 1923-2008]]
+[[Ancestors/Legg/Catherine Josephine Legg 1929-2003\|Catherine Josephine Legg 1929-2003]] "Kata"
+[[Ancestors/Legg/Alice Lee Legg 1931-2012\|Alice Lee Legg 1931-2012]]
+
+---
+#### Spouse and Children
+[[Norjean McClung 1924-1979\|Norjean McClung 1924-1979]] on <!-- link to date --> in <!-- link to place -->.
+<!-- Link to child -->
+
+#### Census Records
+[[Vault/Census/1940 United States Federal Census 1\|1940 United States Federal Census]]
+[[Vault/Census/1930 United States Federal Census Record 2\|1930 United States Federal Census Record]]
+
+
+#### Land Transfers
+
+#### Biography
+
+#### Photos
+
+#### Sources
+

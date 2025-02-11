@@ -542,9 +542,9 @@ Our Thomas Kincaid settled in Greenbrier County by the early 1780's based on rou
 The children of Thomas Kincaid and Hannah Tincher were:
 
 Margaret (Peggy) Kincaid (1760-1840) married Charles Harrah
-[[Ancesters/Kincaid/John Kincaid 1760-1834\|John Kincaid]] (1761- ) married Elizabeth Hannah Gillespie
+[[Ancestors/Kincaid/John Kincaid 1760-1834\|John Kincaid]] (1761- ) married Elizabeth Hannah Gillespie
 Elizabeth Kincaid (1766-after 1850) married Daniel Harrah, Jr.
-[[Ancesters/Kincaid/Samuel Kincaid 1765-1847\|Samuel Kincaid]] (1767-1843) married Mary Tincher
+[[Ancestors/Kincaid/Samuel Kincaid 1765-1847\|Samuel Kincaid]] (1767-1843) married Mary Tincher
 Thomas Kincaid (1770-1844) married Hannah Viney and/or Elizabeth Murdoch
 Francis Kincaid (1773-1826) married Nancy Murdock
 George Campbell Kincaid (1773- ) married Joanna Baldwin [[Vault/Records/Kincaid History - Richard Bradley#44\|#44]]
@@ -684,7 +684,7 @@ A "Widow Kincaid" was mentioned in Greenbrier Co. Court records as early as 1783
 #### 44.
 Daughter of Samuel Baldwin. See more about Samuel Baldwin in the chapter on the Baldwin family. Samuel Baldwin was not of sterling character. He was actually Samuel Ford, who fled from New Jersey to Virginia to escape hanging for counterfeiting.
 #### 45.
-The family information is from Larry Shuck's book Our Families and from Sheralynn Kincaid Nichols Kincaid home page. Their information generally agrees. The same family list from Lois Kincaid Dorsey's The Tincher Tribe has some variations; she adds an Andrew and a Kincaid Kincaid and she lists a George and a Campbell Kincaid as two different persons. [History of the Kincaid Family](https://drive.google.com/file/d/0B0oZv34v0ajXVUstZkJEV2hUdW8/view?usp=sharing&resourcekey=0-gyR8XsVV5zkjlqS8Sd_HRw) show Sallie being the daughter of [[Ancesters/Kincaid/John Kincaid 1760-1834\|John Kincaid 1760-1834]] and [[Ancesters/Gillespie/Elizabeth Hannah Gillespie 1760-1829\|Elizabeth Hannah Gillespie 1760-1829]] which seems more likely since she is not listed in [[Vault/Records/Baldwin vs Kincaid\|Baldwin vs Kincaid]]
+The family information is from Larry Shuck's book Our Families and from Sheralynn Kincaid Nichols Kincaid home page. Their information generally agrees. The same family list from Lois Kincaid Dorsey's The Tincher Tribe has some variations; she adds an Andrew and a Kincaid Kincaid and she lists a George and a Campbell Kincaid as two different persons. [History of the Kincaid Family](https://drive.google.com/file/d/0B0oZv34v0ajXVUstZkJEV2hUdW8/view?usp=sharing&resourcekey=0-gyR8XsVV5zkjlqS8Sd_HRw) show Sallie being the daughter of [[Ancestors/Kincaid/John Kincaid 1760-1834\|John Kincaid 1760-1834]] and [[Ancestors/Gillespie/Elizabeth Hannah Gillespie 1760-1829\|Elizabeth Hannah Gillespie 1760-1829]] which seems more likely since she is not listed in [[Vault/Records/Baldwin vs Kincaid\|Baldwin vs Kincaid]]
 #### 46.
 Greenbrier Co., WVA Court of Chancery & Law. Court Packet filed in Chancery Box/File 145, Robert & Elizabeth Harrow, et al, Heirs of Samuel Baldwin vs. Thos. Kinkaid.
 

@@ -6,13 +6,13 @@ Here are the children of Thomas Kincaid/Hannah Tincher, named as defendants in t
 
 Greenbrier County, VA/WV
 Chancery
-[[Ancesters/Kincaid/Margaret Kincaid 1760-1840\|Margaret Kincaid 1760-1840]]
-[[Ancesters/Kincaid/John Kincaid 1760-1834\|John Kincaid 1760-1834]]
-[[Ancesters/Kincaid/Samuel Kincaid 1765-1847\|Samuel Kincaid 1765-1847]]
-[[Ancesters/Kincaid/Thomas Kincaid 1770-1831\|Thomas Kincaid 1770-1831]]
-[[Ancesters/Kincaid/George Campbell Kincaid 1773-1870\|George Campbell Kincaid 1773-1870]]
-[[Ancesters/Kincaid/Francis Kincaid 1784-1826\|Francis Kincaid 1784-1826]]
-[[Ancesters/Kincaid/Elizabeth Kincaid 1785-1862\|Elizabeth Kincaid 1785-1862]]
+[[Ancestors/Kincaid/Margaret Kincaid 1760-1840\|Margaret Kincaid 1760-1840]]
+[[Ancestors/Kincaid/John Kincaid 1760-1834\|John Kincaid 1760-1834]]
+[[Ancestors/Kincaid/Samuel Kincaid 1765-1847\|Samuel Kincaid 1765-1847]]
+[[Ancestors/Kincaid/Thomas Kincaid 1770-1831\|Thomas Kincaid 1770-1831]]
+[[Ancestors/Kincaid/George Campbell Kincaid 1773-1870\|George Campbell Kincaid 1773-1870]]
+[[Ancestors/Kincaid/Francis Kincaid 1784-1826\|Francis Kincaid 1784-1826]]
+[[Ancestors/Kincaid/Elizabeth Kincaid 1785-1862\|Elizabeth Kincaid 1785-1862]]
 [[William Kincaid 1793-1860\|William Kincaid 1793-1860]]
 
 
