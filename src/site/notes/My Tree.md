@@ -4,7 +4,7 @@
 
 <!-- Image Map Generated for "Where the Waters flow North" -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2455 1620">
-  <image width="2455" height="1620" xlink:href="/img/user/assets/Tree.png"></image> <a xlink:href="/vault/misc/this-is-me/" alt="This is me....">
+  <image width="2455" height="1620" xlink:href="/img/user/assets/Tree.png"></image> <a xlink:href="/vault/misc/this-is-me/" alt="This is me...." title="This is me....">
     <circle cx="1226" cy="1234" r="106" fill="#5bc5de" opacity="0"></circle>
   </a><a xlink:href="/ancesters/kincaid/emory-garfield-kincaid-1922-1992/">
     <polygon points="1222,1126,1224,1019,1155,1030,1105,1058,1064,1093,1038,1136,1020,1180,1016,1232,1020,1269,1027,1297,1122,1267,1122,1201,1161,1145,1190,1130,1209,1126" fill="#70c8c0" opacity="0"></polygon>
