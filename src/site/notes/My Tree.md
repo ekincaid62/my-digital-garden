@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/my-tree/"}
 ---
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
 <!-- Image Map Generated for "Where the Waters flow North" -->  
-<img src="/src/site/img/user/assets/Tree.png" usemap="#mytree">  
+<img src="/src/site/img/user/assets/Tree.png" usemap="#mytree">
+
 <map name="mytree">  
     <area target="_parent" alt="This is me...." title="This is me...." href="/vault/misc/this-is-me/" coords="1226,1234,106" shape="circle">  
     <area target="_parent" alt="Dad" title="Dad" href="/ancesters/kincaid/emory-garfield-kincaid-1922-1992/" coords="1222,1126,1224,1019,1155,1030,1105,1058,1064,1093,1038,1136,1020,1180,1016,1232,1020,1269,1027,1297,1122,1267,1122,1201,1161,1145,1190,1130,1209,1126" shape="poly">  
@@ -126,8 +126,3 @@
     <area target="_parent" alt="James Walker" title="James Walker" href="" coords="2404,1464,2387,1529,2170,1470,2187,1418" shape="poly">  
     <area target="_parent" alt="Hannah Kincaid" title="Hannah Kincaid" href="" coords="2387,1531,2367,1598,2155,1529,2172,1470" shape="poly">  
 </map>
-
-|   |   |
-|---|---|
-|![](https://lh3.googleusercontent.com/a/ACg8ocLzJHUWRpZlXOmojGxiIr0itNx4t_HYf_yEnlzaDEPbQobJz4S4=s40-p)|ReplyForward<br><br>Add reaction|
-</div>
