@@ -151,5 +151,13 @@
     <polygon points="287,963,322,857,526,939,498,1019" fill="#fedd73" opacity="0">
      <title>Polly Walker</title>
      </polygon>
+  </a><a xlink:href="">
+    <polygon points="326,852,374,755,565,859,526,937" fill="#fedd73" opacity="0">
+     <title>William Grose</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="374,748,437,657,615,783,567,854" fill="#fedd73" opacity="0">
+     <title>Susannah Koontz</title>
+     </polygon>
   </a>
 </svg>
