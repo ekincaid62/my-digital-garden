@@ -415,5 +415,69 @@
     <polygon points="2152,466,2194,518,2018,651,1985,609" fill="#fedd73" opacity="0">
      <title>Emelia Neal</title>
      </polygon>
+  </a><a xlink:href="">
+    <polygon points="2196,520,2235,577,2051,698,2020,651" fill="#fedd73" opacity="0">
+     <title>Christopher Shaffer</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2239,581,2272,640,2081,748,2051,698" fill="#fedd73" opacity="0">
+     <title>Christopher Shaffer Wife</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2276,642,2306,703,2103,800,2081,750" fill="#fedd73" opacity="0">
+     <title>Thomas George</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2309,707,2335,766,2126,850,2105,802" fill="#fedd73" opacity="0">
+     <title>Catherine McCoy</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2335,772,2361,833,2148,909,2129,854" fill="#fedd73" opacity="0">
+     <title>James McClung</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2361,837,2380,900,2165,961,2148,911" fill="#fedd73" opacity="0">
+     <title>Mary Alderson</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2380,902,2395,967,2178,1017,2165,963" fill="#fedd73" opacity="0">
+     <title>David Evans</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2181,1019,2395,972,2411,1039,2189,1076" fill="#fedd73" opacity="0">
+     <title>Ruth Alderson</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2415,1041,2421,1106,2200,1134,2189,1076" fill="#fedd73" opacity="0">
+     <title>James McClung</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2421,1110,2426,1178,2202,1186,2198,1136" fill="#fedd73" opacity="0">
+     <title>Mary Alderson</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2426,1182,2421,1251,2202,1245,2205,1191" fill="#fedd73" opacity="0">
+     <title>James Walton</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2426,1253,2419,1319,2200,1306,2202,1249" fill="#fedd73" opacity="0">
+     <title>Nancy McClung</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2421,1323,2415,1392,2191,1362,2200,1308" fill="#fedd73" opacity="0">
+     <title>Jacob Amick</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2415,1394,2404,1462,2183,1414,2194,1366" fill="#fedd73" opacity="0">
+     <title>Rachel Shroyer</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2404,1464,2387,1529,2170,1470,2187,1418" fill="#fedd73" opacity="0">
+     <title>James Walker</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2387,1531,2367,1598,2155,1529,2172,1470" fill="#fedd73" opacity="0">
+     <title>Hannah Kincaid</title>
+     </polygon>
   </a>
 </svg>
