@@ -319,5 +319,37 @@
     <polygon points="216,581,253,525,433,653,402,698" fill="#fedd73" opacity="0">
      <title>Elizabeth Bowyer</title>
      </polygon>
+  </a><a xlink:href="">
+    <polygon points="255,523,294,468,467,607,435,651" fill="#fedd73" opacity="0">
+     <title>Charles Skaggs</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="300,466,344,419,504,562,467,601" fill="#fedd73" opacity="0">
+     <title>Charles Skaggs Wife</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="344,414,394,367,550,523,506,562" fill="#fedd73" opacity="0">
+     <title>Valentine Miller</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="396,362,448,314,591,484,552,518" fill="#fedd73" opacity="0">
+     <title>Susanna Ensminger</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="678,156,743,132,832,332,780,356" fill="#fedd73" opacity="0">
+     <title>Charles Skaggs</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="747,130,810,104,888,310,834,330" fill="#fedd73" opacity="0">
+     <title>Charles Skaggs Wife</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="812,102,875,85,942,291,886,306" fill="#fedd73" opacity="0">
+     <title>Valentine Miller</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="877,80,947,63,997,273,944,291" fill="#fedd73" opacity="0">
+     <title>Susanna Ensminger</title>
+     </polygon>
   </a>
 </svg>
