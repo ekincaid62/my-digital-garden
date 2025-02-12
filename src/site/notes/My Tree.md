@@ -191,5 +191,37 @@
     <polygon points="1111,262,1224,254,1222,473,1140,475" fill="#fedd73" opacity="0">
      <title>Martha Potter Mom</title>
      </polygon>
+  </a><a xlink:href="">
+    <polygon points="1226,254,1337,260,1313,477,1226,471" fill="#fedd73" opacity="0">
+     <title>Thomas Jesse Legg</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1341,258,1450,280,1400,492,1315,475" fill="#fedd73" opacity="0">
+     <title>Elisabeth Nutter</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1454,282,1560,312,1484,518,1404,492" fill="#fedd73" opacity="0">
+     <title>Bartholomew Ramsey</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1563,312,1667,358,1569,555,1489,520" fill="#fedd73" opacity="0">
+     <title>Margaret Wiseman</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1669,360,1764,416,1645,599,1571,555" fill="#fedd73" opacity="0">
+     <title>Thomas Hawkins</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1769,416,1858,486,1712,653,1649,599" fill="#fedd73" opacity="0">
+     <title>Mary Perry</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1860,488,1940,562,1779,716,1714,651" fill="#fedd73" opacity="0">
+     <title>Isaac Wiseman</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1942,566,2016,653,1834,785,1779,716" fill="#fedd73" opacity="0">
+     <title>Mary Neal</title>
+     </polygon>
   </a>
 </svg>
