@@ -67,5 +67,41 @@
     <polygon points="513,1460,498,1416,489,1375,483,1332,478,1290,682,1273,693,1338,708,1394" fill="#fedd73" opacity="0">
      <title>John A. Kincaid 1818-1891</title>
      </polygon>
+  </a><a xlink:href="/ancestors/walker/olive-walker-1823-1856/">
+    <polygon points="478,1286,474,1243,474,1197,478,1154,485,1113,689,1147,682,1214,682,1269" fill="#fedd73" opacity="0">
+     <title>Olive Walker 1823-1856</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="485,1108,493,1063,500,1026,515,982,530,943,723,1021,704,1080,689,1143" fill="#fedd73" opacity="0">
+     <title>James Marshall Keenan</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="532,939,552,898,569,861,591,826,615,789,784,909,749,967,725,1019" fill="#fedd73" opacity="0">
+     <title>Martha Grose</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="619,787,647,748,673,720,736,659,871,813,827,861,786,907" fill="#fedd73" opacity="0">
+     <title>Cyrus Skaggs</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="738,657,780,627,884,562,977,744,925,774,875,811" fill="#fedd73" opacity="0">
+     <title>Rachel Coleman</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="888,560,931,540,966,525,1049,501,1096,700,1038,718,979,744" fill="#fedd73" opacity="0">
+     <title>James Skaggs</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1053,501,1098,490,1135,484,1181,479,1224,477,1226,685,1153,690,1096,698" fill="#fedd73" opacity="0">
+     <title>Martha Porter</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1229,479,1278,479,1313,481,1357,488,1400,497,1350,700,1287,687,1229,685" fill="#fedd73" opacity="0">
+     <title>William M. Legg</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1404,501,1445,510,1484,525,1524,542,1563,557,1471,742,1409,716,1352,698" fill="#fedd73" opacity="0">
+     <title>Elizabeth Ramsey</title>
+     </polygon>
   </a>
 </svg>
