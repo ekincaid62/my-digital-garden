@@ -159,5 +159,37 @@
     <polygon points="374,748,437,657,615,783,567,854" fill="#fedd73" opacity="0">
      <title>Susannah Koontz</title>
      </polygon>
+  </a><a xlink:href="">
+    <polygon points="437,655,509,568,671,713,617,781" fill="#fedd73" opacity="0">
+     <title>James A. Skaggs</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="511,564,593,490,732,653,671,711" fill="#fedd73" opacity="0">
+     <title>Elizabeth Miller</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="595,486,684,421,806,603,736,651" fill="#fedd73" opacity="0">
+     <title>Rachel Coleman Dad</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="686,416,782,362,884,555,806,601" fill="#fedd73" opacity="0">
+     <title>Rachel Coleman Mom</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="786,360,886,317,964,520,886,555" fill="#fedd73" opacity="0">
+     <title></title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="890,312,997,282,1049,497,966,518" fill="#fedd73" opacity="0">
+     <title>Elizabeth Miller</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1001,280,1109,262,1137,477,1053,494" fill="#fedd73" opacity="0">
+     <title>Martha Potter Dad</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1111,262,1224,254,1222,473,1140,475" fill="#fedd73" opacity="0">
+     <title>Martha Potter Mom</title>
+     </polygon>
   </a>
 </svg>
