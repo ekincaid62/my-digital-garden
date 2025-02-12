@@ -122,7 +122,8 @@
   </a><a xlink:href="">
     <polygon points="1764,1143,1968,1113,1972,1156,1977,1199,1977,1249,1972,1288,1766,1267,1769,1201" fill="#fedd73" opacity="0">
      <title>Charles McClung</title>
-     </polygon><a xlink:href="">
+     </polygon>
+  </a><a xlink:href="">
     <polygon points="1972,1290,1968,1338,1962,1375,1951,1420,1938,1460,1740,1392,1760,1332,1766,1271" fill="#fedd73" opacity="0">
      <title>Mary Catherine Amick</title>
      </polygon>
