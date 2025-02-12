@@ -351,5 +351,69 @@
     <polygon points="877,80,947,63,997,273,944,291" fill="#fedd73" opacity="0">
      <title>Susanna Ensminger</title>
      </polygon>
+  </a><a xlink:href="">
+    <polygon points="1222,26,1294,30,1283,249,1224,247" fill="#fedd73" opacity="0">
+     <title>Thomas Legg</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1298,33,1365,37,1339,254,1285,249" fill="#fedd73" opacity="0">
+     <title>Elizabeth Hughes</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1367,37,1432,48,1398,262,1341,254" fill="#fedd73" opacity="0">
+     <title>David Nutter</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1435,46,1504,59,1450,273,1398,260" fill="#fedd73" opacity="0">
+     <title>Ruth Cottle</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1504,63,1573,82,1508,293,1454,273" fill="#fedd73" opacity="0">
+     <title>Richard Ramsey</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1573,80,1641,102,1563,308,1511,291" fill="#fedd73" opacity="0">
+     <title>Letitia Wiseman</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1643,104,1701,130,1617,330,1563,310" fill="#fedd73" opacity="0">
+     <title>Isaac Wiseman Jr</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1704,130,1771,158,1669,356,1619,327" fill="#fedd73" opacity="0">
+     <title>Elizabeth Davis</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1773,160,1831,191,1719,382,1669,356" fill="#fedd73" opacity="0">
+     <title>Elijah Hawkins</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1834,191,1886,228,1766,412,1723,382" fill="#fedd73" opacity="0">
+     <title>Elizabeth Scott</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1890,226,1951,267,1812,447,1766,410" fill="#fedd73" opacity="0">
+     <title>Peter Perry</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1951,271,2003,314,1858,481,1818,447" fill="#fedd73" opacity="0">
+     <title>Lucinda Faulconer</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2005,314,2055,360,1903,525,1860,486" fill="#fedd73" opacity="0">
+     <title>Isaac Wiseman Dad</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2059,362,2105,412,1946,562,1905,520" fill="#fedd73" opacity="0">
+     <title>Isaac Wiseman Mom</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2109,416,2152,466,1985,607,1948,562" fill="#fedd73" opacity="0">
+     <title>William Neal</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2152,466,2194,518,2018,651,1985,609" fill="#fedd73" opacity="0">
+     <title>Emelia Neal</title>
+     </polygon>
   </a>
 </svg>
