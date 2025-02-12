@@ -223,5 +223,37 @@
     <polygon points="1942,566,2016,653,1834,785,1779,716" fill="#fedd73" opacity="0">
      <title>Mary Neal</title>
      </polygon>
+  </a><a xlink:href="">
+    <polygon points="2016,655,2077,750,1886,859,1840,783" fill="#fedd73" opacity="0">
+     <title>Peter Shaffer</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2079,755,2124,852,1920,937,1890,859" fill="#fedd73" opacity="0">
+     <title>Mary George</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2126,857,2163,963,1953,1019,1918,941" fill="#fedd73" opacity="0">
+     <title>Dickinson McClung</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2163,967,2187,1071,1968,1104,1955,1021" fill="#fedd73" opacity="0">
+     <title>Sarah Evans</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2189,1080,2200,1186,1981,1195,1970,1108" fill="#fedd73" opacity="0">
+     <title>John Henry McClung</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2200,1191,2198,1303,1977,1286,1981,1199" fill="#fedd73" opacity="0">
+     <title>Polly Walton</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2196,1308,2181,1414,1966,1371,1975,1286" fill="#fedd73" opacity="0">
+     <title>John William Amick</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="2183,1418,2152,1529,1942,1457,1968,1375" fill="#fedd73" opacity="0">
+     <title>Lana Walker</title>
+     </polygon>
   </a>
 </svg>
