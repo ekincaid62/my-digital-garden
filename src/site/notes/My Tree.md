@@ -177,7 +177,7 @@
      </polygon>
   </a><a xlink:href="">
     <polygon points="786,360,886,317,964,520,886,555" fill="#fedd73" opacity="0">
-     <title></title>
+     <title>James A. Skaggs</title>
      </polygon>
   </a><a xlink:href="">
     <polygon points="890,312,997,282,1049,497,966,518" fill="#fedd73" opacity="0">
