@@ -255,5 +255,69 @@
     <polygon points="2183,1418,2152,1529,1942,1457,1968,1375" fill="#fedd73" opacity="0">
      <title>Lana Walker</title>
      </polygon>
+  </a><a xlink:href="/ancestors/kincaid/samuel-kincaid-1765-1847/">
+    <polygon points="83,1598,64,1531,279,1477,296,1529" fill="#fedd73" opacity="0">
+     <title>Samuel Kincaid 1765-1847</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="64,1527,47,1462,266,1418,279,1473" fill="#fedd73" opacity="0">
+     <title>Mary Tincher</title>
+     </polygon>
+  </a><a xlink:href="/ancestors/kincaid/john-kincaid-1760-1834/">
+    <polygon points="47,1457,36,1394,257,1360,266,1414" fill="#fedd73" opacity="0">
+     <title>John Kincaid 1760-1834</title>
+     </polygon>
+  </a><a xlink:href="/ancestors/gillespie/elizabeth-hannah-gillespie-1760-1829/">
+    <polygon points="36,1390,29,1321,250,1306,257,1358" fill="#fedd73" opacity="0">
+     <title>Elizabeth Hannah Gillespie 1760-1829</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="29,1316,27,1253,248,1247,250,1301" fill="#fedd73" opacity="0">
+     <title>William Walker</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="25,1249,25,1184,246,1191,246,1243" fill="#fedd73" opacity="0">
+     <title>Mary Lewis</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="27,1178,34,1113,250,1132,246,1184" fill="#fedd73" opacity="0">
+     <title>Andrew McGaughey</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="31,1108,40,1041,259,1076,253,1130" fill="#fedd73" opacity="0">
+     <title>Mary Craig McGaughey</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="40,1034,53,976,268,1019,257,1073" fill="#fedd73" opacity="0">
+     <title>Patrick Keenan</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="53,972,70,904,285,961,270,1017" fill="#fedd73" opacity="0">
+     <title>Patrick Keenan Wife</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="70,902,88,835,300,907,283,956" fill="#fedd73" opacity="0">
+     <title>Elverton Walker</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="94,831,118,774,318,852,303,900" fill="#fedd73" opacity="0">
+     <title>Margaret McGaughey</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="118,770,146,709,342,800,318,850" fill="#fedd73" opacity="0">
+     <title>Jacob Grose</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="146,705,179,646,368,750,344,798" fill="#fedd73" opacity="0">
+     <title>Mary Ganssel</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="179,640,216,586,400,700,370,746" fill="#fedd73" opacity="0">
+     <title>Henrich Koontz</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="216,581,253,525,433,653,402,698" fill="#fedd73" opacity="0">
+     <title>Elizabeth Bowyer</title>
+     </polygon>
   </a>
 </svg>
