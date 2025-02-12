@@ -127,5 +127,29 @@
     <polygon points="1972,1290,1968,1338,1962,1375,1951,1420,1938,1460,1740,1392,1760,1332,1766,1271" fill="#fedd73" opacity="0">
      <title>Mary Catherine Amick</title>
      </polygon>
+  </a><a xlink:href="/ancestors/kincaid/william-m-kincaid-1787-1860/">
+    <polygon points="298,1529,272,1423,487,1379,509,1460" fill="#fedd73" opacity="0">
+     <title>William M. Kincaid 1787-1860</title>
+     </polygon>
+  </a><a xlink:href="/ancestors/kincaid/virginia-kincaid-1797-1870/">
+    <polygon points="270,1416,255,1308,476,1286,487,1375" fill="#fedd73" opacity="0">
+     <title>Virginia Kincaid 1797-1870</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="253,1306,253,1193,470,1199,472,1282" fill="#fedd73" opacity="0">
+     <title>Elverton Walker</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="250,1188,261,1078,480,1110,472,1197" fill="#fedd73" opacity="0">
+     <title>Margaret McGaughey</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="264,1073,287,967,498,1024,480,1108" fill="#fedd73" opacity="0">
+     <title>Andrew Keenan</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="287,963,322,857,526,939,498,1019" fill="#fedd73" opacity="0">
+     <title>Polly Walker</title>
+     </polygon>
   </a>
 </svg>
