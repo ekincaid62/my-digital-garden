@@ -103,5 +103,28 @@
     <polygon points="1404,501,1445,510,1484,525,1524,542,1563,557,1471,742,1409,716,1352,698" fill="#fedd73" opacity="0">
      <title>Elizabeth Ramsey</title>
      </polygon>
+  </a><a xlink:href="">
+    <polygon points="1567,557,1612,583,1643,603,1673,622,1710,655,1578,813,1524,772,1474,742" fill="#fedd73" opacity="0">
+     <title>Nicholas Hawkins</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1712,657,1747,687,1777,718,1803,748,1829,785,1662,907,1621,854,1582,815" fill="#fedd73" opacity="0">
+     <title>Rebecca Wiseman</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1834,789,1860,826,1881,861,1901,900,1918,939,1730,1019,1699,963,1667,907" fill="#fedd73" opacity="0">
+     <title>Joseph Shaffer</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1918,943,1938,987,1949,1021,1959,1067,1966,1108,1760,1139,1751,1078,1732,1021" fill="#fedd73" opacity="0">
+     <title>Mary Frances McClung</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1764,1143,1968,1113,1972,1156,1977,1199,1977,1249,1972,1288,1766,1267,1769,1201" fill="#fedd73" opacity="0">
+     <title>Charles McClung</title>
+     </polygon><a xlink:href="">
+    <polygon points="1972,1290,1968,1338,1962,1375,1951,1420,1938,1460,1740,1392,1760,1332,1766,1271" fill="#fedd73" opacity="0">
+     <title>Mary Catherine Amick</title>
+     </polygon>
   </a>
 </svg>
