@@ -36,6 +36,6 @@ Death on 6/24/1911 in Nicholas County, WV
 #### Biography
 
 #### Photos
-
+[[Vault/Records/Rev. Charles William McClung\|Rev. Charles William McClung]]
 #### Sources
 

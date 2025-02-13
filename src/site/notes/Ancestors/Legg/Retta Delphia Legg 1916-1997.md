@@ -34,6 +34,6 @@ Stillborn Legg 1920-1920
 #### Biography
 
 #### Photos
-
+[[Vault/Records/Fred Legg with Daughters\|Fred Legg with Daughters]]
 #### Sources
 

@@ -20,6 +20,7 @@ Death on 6/6/1951 in Mt Lookout, WV
 ---
 #### Spouse and Children
 [[Ancestors/Shaffer/Christopher Clayton Shaffer 1864-1944\|Christopher Clayton Shaffer 1864-1944]] on 7/27/1887 in Nicholas County, WV
+[[Ancestors/Shaffer/Mamie Catherine Shaffer 1888-1962\|Mamie Catherine Shaffer 1888-1962]]
 [[Freddie Shaffer 1893-\|Freddie Shaffer 1893-]]
 [[Eddie Shaffer 1893-\|Eddie Shaffer 1893-]]
 [[Charles A Shaffer 1896-\|Charles A Shaffer 1896-]]
@@ -35,5 +36,6 @@ Death on 6/6/1951 in Mt Lookout, WV
 #### Photos
 [[Vault/Records/Dorcas Ann Shaffer & Chilldren\|Dorcas Ann Shaffer & Chilldren]]
 [[Vault/Records/Dorcas Ann Shaffer & Granddaughters\|Dorcas Ann Shaffer & Granddaughters]]
+[[Vault/Records/Dorcas and Anna\|Dorcas and Anna]]
 #### Sources
 
