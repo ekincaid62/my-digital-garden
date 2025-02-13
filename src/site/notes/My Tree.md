@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/my-tree/"}
 ---
 
+The image below is a 7 generation tree that has hot links to each of my ancestors. There are a number of them that I haven't vetted and won't link to anything, As I find time I hope to get more information added. I have spent the majority of me time on the Kincaid line and you will find it much more complete. I certainly welcome any help with additional information. 
+
 <!-- Image Map Generated for "Where the Waters flow North" -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2455 1620">
   <image width="2455" height="1620" xlink:href="/img/user/assets/Tree.png"></image> <a xlink:href="/vault/misc/this-is-me/">
