@@ -336,6 +336,22 @@
      <title>Susanna Ensminger</title>
      </polygon>
   </a><a xlink:href="">
+    <polygon points="593,483,448,317,502,273,634,451" fill="#fedd73" opacity="0">
+     <title>85</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="639,453,502,275,554,234,678,420" fill="#fedd73" opacity="0">
+     <title>86</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="613,202,725,390,684,423,556,237" fill="#fedd73" opacity="0">
+     <title>87</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="680,159,780,358,728,386,615,200" fill="#fedd73" opacity="0">
+     <title>88</title>
+     </polygon>
+  </a><a xlink:href="">
     <polygon points="678,156,743,132,832,332,780,356" fill="#fedd73" opacity="0">
      <title>Charles Skaggs</title>
      </polygon>
@@ -350,6 +366,22 @@
   </a><a xlink:href="">
     <polygon points="877,80,947,63,997,273,944,291" fill="#fedd73" opacity="0">
      <title>Susanna Ensminger</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1016,50,1053,267,994,278,942,63" fill="#fedd73" opacity="0">
+     <title>93</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1076,37,1107,260,1055,271,1016,46" fill="#fedd73" opacity="0">
+     <title>94</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1150,33,1161,254,1109,258,1079,42" fill="#fedd73" opacity="0">
+     <title>95</title>
+     </polygon>
+  </a><a xlink:href="">
+    <polygon points="1224,24,1224,252,1161,252,1152,35" fill="#fedd73" opacity="0">
+     <title>96</title>
      </polygon>
   </a><a xlink:href="">
     <polygon points="1222,26,1294,30,1283,249,1224,247" fill="#fedd73" opacity="0">
