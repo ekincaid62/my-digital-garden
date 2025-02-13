@@ -81,17 +81,17 @@ The image below has hot links to each of my ancestors. There are a number of the
     <polygon points="532,939,552,898,569,861,591,826,615,789,784,909,749,967,725,1019" fill="#fedd73" opacity="0">
      <title>Martha Grose</title>
      </polygon>
-  </a><a xlink:href="">
+  </a><a xlink:href="/ancestors/skaggs/cyrus-m-skaggs-1822-1899/">
     <polygon points="619,787,647,748,673,720,736,659,871,813,827,861,786,907" fill="#fedd73" opacity="0">
-     <title>Cyrus Skaggs</title>
+     <title>Cyrus M. Skaggs 1822-1899</title>
      </polygon>
   </a><a xlink:href="">
     <polygon points="738,657,780,627,884,562,977,744,925,774,875,811" fill="#fedd73" opacity="0">
      <title>Rachel Coleman</title>
      </polygon>
-  </a><a xlink:href="">
+  </a><a xlink:href="/ancestors/skaggs/james-a-skaggs-1786-1864/">
     <polygon points="888,560,931,540,966,525,1049,501,1096,700,1038,718,979,744" fill="#fedd73" opacity="0">
-     <title>James Skaggs</title>
+     <title>James A. Skaggs 1786-1864</title>
      </polygon>
   </a><a xlink:href="">
     <polygon points="1053,501,1098,490,1135,484,1181,479,1224,477,1226,685,1153,690,1096,698" fill="#fedd73" opacity="0">
