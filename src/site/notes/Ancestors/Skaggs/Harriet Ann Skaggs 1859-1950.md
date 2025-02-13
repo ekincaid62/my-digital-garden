@@ -8,7 +8,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 ---
 #### Parents
 
-[[Ancestors/Skaggs/Cyrus Skaggs\|Cyrus Skaggs]] and [[Rachel Coleman\|Rachel Coleman]]
+[[Ancestors/Skaggs/Cyrus M. Skaggs 1822-1899\|Cyrus M. Skaggs 1822-1899]] and [[Rachel Coleman\|Rachel Coleman]]
 #### Siblings
 <!-- Link to sibling -->
 

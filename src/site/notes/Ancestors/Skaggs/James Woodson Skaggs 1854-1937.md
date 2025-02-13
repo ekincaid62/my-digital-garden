@@ -8,7 +8,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 ---
 #### Parents
 
-[[Ancestors/Skaggs/James Skaggs Jr\|James Skaggs Jr]] and [[Martha Potter\|Martha Potter]]
+[[Ancestors/Skaggs/James A. Skaggs 1786-1864\|James A. Skaggs 1786-1864]] and [[Martha Potter\|Martha Potter]]
 #### Siblings
 <!-- Link to sibling -->
 

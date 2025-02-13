@@ -16,7 +16,7 @@ James and Harriet were first cousins
 [[Emery Skaggs\|Emery Skaggs]]
 [[Martha Skaggs\|Martha Skaggs]]
 [[Frank Skaggs\|Frank Skaggs]]
-[[Ancestors/Skaggs/James Skaggs Jr\|James Skaggs Jr]]
+[[Ancestors/Skaggs/James A. Skaggs 1786-1864\|James A. Skaggs 1786-1864]]
 
 ---
 #### Spouse and Children
