@@ -6,7 +6,7 @@ The image below has hot links to each of my ancestors. There are a number of the
 
 <!-- Image Map Generated for "Where the Waters flow North" -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2455 1620">
-  <image width="2455" height="1620" xlink:href="/img/user/assets/Tree.png"></image> <a xlink:href="/vault/misc/this-is-me/">
+  <image width="2455" height="1620" xlink:href="/img/user/assets/Tree.png"></image> <a xlink:href="ancestors/kincaid/emory-garfield-kincaid-jr-1962/">
     <circle cx="1226" cy="1234" r="106" fill="#5bc5de" opacity="0">
     <title>This is me...</title>
     </circle>
@@ -121,9 +121,9 @@ The image below has hot links to each of my ancestors. There are a number of the
     <polygon points="1918,943,1938,987,1949,1021,1959,1067,1966,1108,1760,1139,1751,1078,1732,1021" fill="#fedd73" opacity="0">
      <title>Mary Frances McClung</title>
      </polygon>
-  </a><a xlink:href="">
+  </a><a xlink:href="/charles-william-mc-clung-1838-1911/">
     <polygon points="1764,1143,1968,1113,1972,1156,1977,1199,1977,1249,1972,1288,1766,1267,1769,1201" fill="#fedd73" opacity="0">
-     <title>Charles McClung</title>
+     <title>Charles William McClung 1838-1911</title>
      </polygon>
   </a><a xlink:href="">
     <polygon points="1972,1290,1968,1338,1962,1375,1951,1420,1938,1460,1740,1392,1760,1332,1766,1271" fill="#fedd73" opacity="0">
