@@ -8,7 +8,7 @@ Death on after 1920 in Mt Lookout, WV
 ---
 #### Parents
 
-[[Marshall Keenan 1798-\|Marshall Keenan 1798-]] and [[Martha Grose 1828-\|Martha Grose 1828-]]
+[[Marshall Keenan 1798-\|Marshall Keenan 1798-]] and [[Martha Grose 1828-1920\|Martha Grose 1828-1920]]
 #### Siblings
 [[Jerusha Keenan\|Jerusha Keenan]]
 
