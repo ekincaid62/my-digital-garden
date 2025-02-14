@@ -8,14 +8,17 @@ Death on <!-- link to date --> in <!-- link to place -->
 ---
 #### Parents
 
-<!-- Link to father --> and <!-- Link to mother-->
+[[William Grose 1799-1880\|William Grose 1799-1880]] and [[Suzanna Koontz 1810-1878\|Suzanna Koontz 1810-1878]]
 #### Siblings
 <!-- Link to sibling -->
 
 ---
 #### Spouse and Children
-[[James Marshall Keenan 1798-1884\|James Marshall Keenan 1798-1884]] on <!-- link to date --> in <!-- link to place -->.
-<!-- Link to child -->
+[[James Marshall Keenan 1828-1884\|James Marshall Keenan 1828-1884]] on <!-- link to date --> in <!-- link to place -->.
+[[Wesley Keenan 1849-\|Wesley Keenan 1849-]]
+
+#### Spouse and Children
+[[Valentine Felton Skaggs\|Valentine Felton Skaggs]] on <!-- link to date --> in <!-- link to place -->.
 
 #### Census Records
 [[Vault/Census/1910 United States Federal Census Record.5\|1910 United States Federal Census Record]]
