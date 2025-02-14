@@ -73,17 +73,17 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="478,1286,474,1243,474,1197,478,1154,485,1113,689,1147,682,1214,682,1269" fill="#ffffff" opacity="0">
      <title>Olive Walker 1823-1856</title>
      </polygon>
-  </a><a xlink:href="">
+  </a><a xlink:href="/james-marshall-keenan-1828-1884/" target="_blank">
     <polygon points="485,1108,493,1063,500,1026,515,982,530,943,723,1021,704,1080,689,1143" fill="#ffffff" opacity="0">
-     <title>James Marshall Keenan</title>
+     <title>James Marshall Keenan 1828-1884</title>
      </polygon>
-  </a><a xlink:href="">
+  </a><a xlink:href="/ancestors/grose/martha-grose-1828-1920/" target="_blank">
     <polygon points="532,939,552,898,569,861,591,826,615,789,784,909,749,967,725,1019" fill="#ffffff" opacity="0">
-     <title>Martha Grose</title>
+     <title>Martha Grose 1828-1920</title>
      </polygon>
-  </a><a xlink:href="">
+  </a><a xlink:href="/ancestors/skaggs/cyrus-m-skaggs-1822-1899/" target="_blank">
     <polygon points="619,787,647,748,673,720,736,659,871,813,827,861,786,907" fill="#ffffff" opacity="0">
-     <title>Cyrus Skaggs</title>
+     <title>Cyrus M. Skaggs 1822-1899</title>
      </polygon>
   </a><a xlink:href="">
     <polygon points="738,657,780,627,884,562,977,744,925,774,875,811" fill="#ffffff" opacity="0">
@@ -161,9 +161,9 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="374,748,437,657,615,783,567,854" fill="#ffffff" opacity="0">
      <title>Susannah Koontz</title>
      </polygon>
-  </a><a xlink:href="">
+  </a><a xlink:href="/ancestors/skaggs/james-a-skaggs-1786-1864/" target="_blank">
     <polygon points="437,655,509,568,671,713,617,781" fill="#ffffff" opacity="0">
-     <title>James A. Skaggs</title>
+     <title>James A. Skaggs 1786-1864</title>
      </polygon>
   </a><a xlink:href="">
     <polygon points="511,564,593,490,732,653,671,711" fill="#ffffff" opacity="0">
@@ -177,9 +177,9 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="686,416,782,362,884,555,806,601" fill="#ffffff" opacity="0">
      <title>Rachel Coleman Mom</title>
      </polygon>
-  </a><a xlink:href="">
+  </a><a xlink:href="/ancestors/skaggs/james-a-skaggs-1786-1864/" target="_blank">
     <polygon points="786,360,886,317,964,520,886,555" fill="#ffffff" opacity="0">
-     <title>James A. Skaggs</title>
+     <title>James A. Skaggs 1786-1864</title>
      </polygon>
   </a><a xlink:href="">
     <polygon points="890,312,997,282,1049,497,966,518" fill="#ffffff" opacity="0">
