@@ -15,17 +15,22 @@ Death on 6/17/1926 in Mt Lookout, WV
 ---
 #### Spouse and Children
 [[Ancestors/Legg/William McGinnis Legg 1849-1924\|William McGinnis Legg 1849-1924]] on 11/12/1869 in Fayette WV
+[[Wilson Legg 1871-\|Wilson Legg 1871-]]
+[[Nicholas Legg 1872-\|Nicholas Legg 1872-]]
+[[William Legg 1875-\|William Legg 1875-]]
 [[Ancestors/Legg/Walter Hayes Legg 1876-1949\|Walter Hayes Legg 1876-1949]]
-Cora 18
-Marion 16
+[[Sarah Legg 1878-\|Sarah Legg 1878-]]
+[[Cora Legg 1881-\|Cora Legg 1881-]]
+[[Marion 1884-\|Marion 1884-]]
 [[Ancestors/Legg/Fred Rothwell Legg 1885-1958\|Fred Rothwell Legg 1885-1958]]
-Joseph L 12
-Bettie 7
-Esta 6
+[[Joseph L Legg 1889-\|Joseph L Legg 1889-]]
+[[Bettie Legg  1892-\|Bettie Legg  1892-]]
+[[Esta Legg 1894-\|Esta Legg 1894-]]
 
 #### Census Records
 [[Vault/Census/1910 United States Federal Census Record.4\|1910 United States Federal Census Record]]
 [[Vault/Census/1900 United States Federal Census Record.5\|1900 United States Federal Census Record]]
+[[Vault/Census/1880 United States Federal Census Record.4\|1880 United States Federal Census Record]]
 #### Land Transfers
 
 #### Biography

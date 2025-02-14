@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/ancestors/skaggs/james-woodson-skaggs-1854-1937/","tags":["James-Woodson-Skaggs"]}
 ---
 
-Born on  <!-- link to date --> in <!-- link to place -->
-Death on <!-- link to date --> in <!-- link to place -->
+Born on  3/17/1854 in <!-- link to place -->
+Death on 4/22/1937 in Fayette County, WV
 
 ---
 #### Parents
@@ -14,11 +14,20 @@ Death on <!-- link to date --> in <!-- link to place -->
 
 ---
 #### Spouse and Children
-<!-- Link to spouse --> on <!-- link to date --> in <!-- link to place -->.
-<!-- Link to child -->
-
+[[Ancestors/Skaggs/Harriet Ann Skaggs 1859-1950\|Harriet Ann Skaggs 1859-1950]] married 1880 in Fayette County, WV
+[[Maggie Skaggs 1882-\|Maggie Skaggs 1882-]]
+[[James H. Skaggs 1884-\|James H. Skaggs 1884-]]
+[[Frank Skaggs 1886-\|Frank Skaggs 1886-]]
+[[Lillie M. Skaggs 1888-\|Lillie M. Skaggs 1888-]]
+[[Howard Skaggs 1894-\|Howard Skaggs 1894-]]
+[[Emery Skaggs 1897-\|Emery Skaggs 1897-]]
+[[Ancestors/Skaggs/Laura Beatrice Skaggs 1901-1992\|Laura Beatrice Skaggs 1901-1992]]
+[[Gilbert Skaggs 1904-\|Gilbert Skaggs 1904-]]
 #### Census Records
-
+[[Vault/Census/1930 United States Federal Census Record 1\|1930 United States Federal Census Record]]
+[[Vault/Census/1920 United States Federal Census Record 1\|1920 United States Federal Census Record]]
+[[Vault/Census/1910 United States Federal Census Record 1\|1910 United States Federal Census Record]]
+[[Vault/Census/1900 United States Federal Census Record.3\|1900 United States Federal Census Record]]
 #### Land Transfers
 
 #### Biography

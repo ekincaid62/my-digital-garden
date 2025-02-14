@@ -28,7 +28,7 @@ Death on 6/6/1951 in Mt Lookout, WV
 [[Leancy Shaffer 1904-\|Leancy Shaffer 1904-]]
 
 #### Census Records
-
+[[Vault/Census/1940 United States Federal Census 1\|1940 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

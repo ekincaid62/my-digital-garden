@@ -23,7 +23,7 @@ Death on 12/25/1856 in Gauley River, VA
 [[Lewis E. Kincaid 1855-\|Lewis E. Kincaid 1855-]]  
 
 #### Census Records
-
+[[Vault/Census/1850 United States Federal Census Record\|1850 United States Census]]
 #### Land Transfers
 
 #### Biography

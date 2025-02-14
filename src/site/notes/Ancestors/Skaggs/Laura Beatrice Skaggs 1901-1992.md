@@ -11,12 +11,13 @@ Death on 2/9/1992 in Mt. Lookout WV
 [[Ancestors/Skaggs/James Woodson Skaggs 1854-1937\|James Woodson Skaggs 1854-1937]] and [[Ancestors/Skaggs/Harriet Ann Skaggs 1859-1950\|Harriet Ann Skaggs 1859-1950]]
 James and Harriet were first cousins
 #### Siblings
-[[Howard M Skaggs 1896-\|Howard M Skaggs 1896-]]
+[[Maggie Skaggs 1882-\|Maggie Skaggs 1882-]]
+[[James H. Skaggs 1884-\|James H. Skaggs 1884-]]
+[[Frank Skaggs 1886-\|Frank Skaggs 1886-]]
+[[Lillie M. Skaggs 1888-\|Lillie M. Skaggs 1888-]]
+[[Howard Skaggs 1894-\|Howard Skaggs 1894-]]
+[[Emery Skaggs 1897-\|Emery Skaggs 1897-]]
 [[Gilbert Skaggs 1904-\|Gilbert Skaggs 1904-]]
-[[Emery Skaggs\|Emery Skaggs]]
-[[Martha Skaggs\|Martha Skaggs]]
-[[Frank Skaggs\|Frank Skaggs]]
-[[Ancestors/Skaggs/James A. Skaggs 1786-1864\|James A. Skaggs 1786-1864]]
 
 ---
 #### Spouse and Children
