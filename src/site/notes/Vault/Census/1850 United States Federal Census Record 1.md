@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1850-united-states-federal-census-record-1/","tags":["Marshall-Keenan","Martha-Grose-Keenan"]}
+{"dg-publish":true,"permalink":"/vault/census/1850-united-states-federal-census-record-1/","tags":["Marshall-Keenan","Martha-Grose"]}
 ---
 
 **Household 187**
