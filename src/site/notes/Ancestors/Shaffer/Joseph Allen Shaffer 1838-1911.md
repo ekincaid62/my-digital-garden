@@ -7,10 +7,16 @@ Death on <!-- link to date --> in <!-- link to place -->
 
 ---
 #### Parents
-
-<!-- Link to father --> and <!-- Link to mother-->
+[[Ancestors/Shaffer/Peter Shaffer 1795-\|Peter Shaffer 1795-]] and [[Mary George 1796-1880\|Mary George 1796-1880]] "Polly"
 #### Siblings
-<!-- Link to sibling -->
+[[Mary Shaffer 1826-\|Mary Shaffer 1826-]]
+[[Elizabeth Shaffer\|Elizabeth Shaffer]]
+[[Frances Shaffer\|Frances Shaffer]]
+[[George Shaffer\|George Shaffer]]
+[[Lucy Shaffer\|Lucy Shaffer]]
+[[Rebecca Shaffer\|Rebecca Shaffer]]
+[[Sarah Shaffer\|Sarah Shaffer]]
+[[Will Shaffer\|Will Shaffer]]
 
 ---
 #### Spouse and Children
@@ -25,7 +31,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 [[Edwina Shaffer 1868-1929\|Edwina Shaffer 1868-1929]]
 [[Susie Shaffer 1873-1900\|Susie Shaffer 1873-1900]]
 [[Jacob Allen Shaffer1878-1907\|Jacob Allen Shaffer1878-1907]]
-[[James Russell Shaffer 1886-1936\|James Russell Shaffer 1886-1936]]
+[[Ancestors/Shaffer/James Russell Shaffer 1886-1936\|James Russell Shaffer 1886-1936]]
 [[Louisa Shaffer 1889-1930\|Louisa Shaffer 1889-1930]]
 #### Census Records
 

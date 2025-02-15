@@ -19,7 +19,7 @@ Death on 1944 in Mt. Lookout, WV
 [[Edwina Shaffer 1868-1929\|Edwina Shaffer 1868-1929]]
 [[Susie Shaffer 1873-1900\|Susie Shaffer 1873-1900]]
 [[Jacob Allen Shaffer1878-1907\|Jacob Allen Shaffer1878-1907]]
-[[James Russell Shaffer 1886-1936\|James Russell Shaffer 1886-1936]]
+[[Ancestors/Shaffer/James Russell Shaffer 1886-1936\|James Russell Shaffer 1886-1936]]
 [[Louisa Shaffer 1889-1930\|Louisa Shaffer 1889-1930]]
 
 ---

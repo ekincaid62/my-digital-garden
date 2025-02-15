@@ -37,5 +37,7 @@ Death on 10/8/1949 in <!-- link to place -->
 [[Vault/Records/Walter & Pansy Legg\|Walter & Pansy Legg]]
 [[Vault/Records/Walter & Pansy Legg Family\|Walter & Pansy Legg Family]]
 [[Vault/Records/Walter & Pansy Legg.1\|Walter & Pansy Legg]]
+[[Vault/Records/Legg's Store\|Legg's Store]]
+[[Vault/Records/Walter Legg Home\|Walter Legg Home]]
 #### Sources
 
