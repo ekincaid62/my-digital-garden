@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/my-ancestors/"}
 ---
 
-The image below has hot links to each of my ancestors. The links will open into a new tab. There are a number of them that I haven't vetted and won't link to anything, As I find time I hope to get more information added. I have spent the majority of my time on the Kincaid line and you will find it much more complete. I certainly welcome any help with additional information. 
+The image below has hot links to each of my ancestors. The links will open into a new tab. There are a number of them that I haven't vetted and won't link to anything, As I find time I hope to get more information added. The names in the graphics may be incorrect and will be corrected if necessary. I have spent the majority of my time on the Kincaid line and you will find it much more complete. I certainly welcome any help with additional information. 
 
 <!-- Image Map Generated for "Where the Waters flow North" -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2455 1620">
