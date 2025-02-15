@@ -14,7 +14,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 
 ---
 #### Spouse and Children
-[[James Marshall Keenan 1828-1884\|James Marshall Keenan 1828-1884]] on <!-- link to date --> in <!-- link to place -->.
+[[Ancestors/Keenan/James Marshall Keenan 1828-1884\|James Marshall Keenan 1828-1884]] on <!-- link to date --> in <!-- link to place -->.
 [[Wesley Keenan 1849-\|Wesley Keenan 1849-]]
 
 #### Spouse and Children
