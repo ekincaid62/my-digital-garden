@@ -121,7 +121,7 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="1918,943,1938,987,1949,1021,1959,1067,1966,1108,1760,1139,1751,1078,1732,1021" fill="#ffffff" opacity="0">
      <title>No Data yet for Mary Frances McClung</title>
      </polygon>
-  </a><a xlink:href="/ancestors/mc-clung/charles-william-mc-clung-1838-1911/">
+  </a><a xlink:href="/ancestors/mc-clung/charles-william-mc-clung-1838-1911/" target="_blank">
     <polygon points="1764,1143,1968,1113,1972,1156,1977,1199,1977,1249,1972,1288,1766,1267,1769,1201" fill="#ffffff" opacity="0">
      <title>Charles William McClung 1838-1911</title>
      </polygon>
@@ -241,9 +241,9 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="2163,967,2187,1071,1968,1104,1955,1021" fill="#ffffff" opacity="0">
      <title>No Data yet for Sarah Evans</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/mc-clung/john-mc-clung-1808-1886/" target="_blank">
     <polygon points="2189,1080,2200,1186,1981,1195,1970,1108" fill="#ffffff" opacity="0">
-     <title>No Data yet for John Henry McClung</title>
+     <title>John McClung 1808-1886</title>
      </polygon>
   </a><a xlink:href="/404">
     <polygon points="2200,1191,2198,1303,1977,1286,1981,1199" fill="#ffffff" opacity="0">
