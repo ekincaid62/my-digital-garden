@@ -97,13 +97,13 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="1053,501,1098,490,1135,484,1181,479,1224,477,1226,685,1153,690,1096,698" fill="#ffffff" opacity="0">
      <title>No Data yet for Martha Porter</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/legg/william-legg-1817-1895/" target="_blank">
     <polygon points="1229,479,1278,479,1313,481,1357,488,1400,497,1350,700,1287,687,1229,685" fill="#ffffff" opacity="0">
-     <title>No Data yet for William M. Legg</title>
+     <title>William Legg 1817-1895</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/elizabeth-ramsey-1813-1902/" target="_blank">
     <polygon points="1404,501,1445,510,1484,525,1524,542,1563,557,1471,742,1409,716,1352,698" fill="#ffffff" opacity="0">
-     <title>No Data yet for Elizabeth Ramsey</title>
+     <title>Elizabeth Ramsey 1813-1902</title>
      </polygon>
   </a><a xlink:href="/404">
     <polygon points="1567,557,1612,583,1643,603,1673,622,1710,655,1578,813,1524,772,1474,742" fill="#ffffff" opacity="0">
@@ -125,9 +125,9 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="1764,1143,1968,1113,1972,1156,1977,1199,1977,1249,1972,1288,1766,1267,1769,1201" fill="#ffffff" opacity="0">
      <title>Charles William McClung 1838-1911</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/amick/mary-catherine-amick-1841-1920/" target="_blank">
     <polygon points="1972,1290,1968,1338,1962,1375,1951,1420,1938,1460,1740,1392,1760,1332,1766,1271" fill="#ffffff" opacity="0">
-     <title>No Data yet for Mary Catherine Amick</title>
+     <title>Mary Catherine Amick 1841-1920</title>
      </polygon>
   </a><a xlink:href="/ancestors/kincaid/william-m-kincaid-1787-1860/" target="_blank">
     <polygon points="298,1529,272,1423,487,1379,509,1460" fill="#ffffff" opacity="0">
@@ -193,17 +193,17 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="1111,262,1224,254,1222,473,1140,475" fill="#ffffff" opacity="0">
      <title>No Data yet for Martha Potter Mom</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/legg/thomas-jesse-legg-1789-1880/" target="_blank">
     <polygon points="1226,254,1337,260,1313,477,1226,471" fill="#ffffff" opacity="0">
-     <title>No Data yet for Thomas Jesse Legg</title>
+     <title>Thomas Jesse Legg 1789-1880</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/nutter/elizabeth-nutter-1790-1869/" target="_blank">
     <polygon points="1341,258,1450,280,1400,492,1315,475" fill="#ffffff" opacity="0">
-     <title>No Data yet for Elisabeth Nutter</title>
+     <title>No Data yet for Elizabeth Nutter 1790-1869</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/ramsey/bartholomew-ramsey-1776-1843/" target="_blank">
     <polygon points="1454,282,1560,312,1484,518,1404,492" fill="#ffffff" opacity="0">
-     <title>No Data yet for Bartholomew Ramsey</title>
+     <title>Bartholomew Ramsey 1776-1843</title>
      </polygon>
   </a><a xlink:href="/404">
     <polygon points="1563,312,1667,358,1569,555,1489,520" fill="#ffffff" opacity="0">
@@ -245,9 +245,9 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="2189,1080,2200,1186,1981,1195,1970,1108" fill="#ffffff" opacity="0">
      <title>John McClung 1808-1886</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/walton/polly-walton-1810-1850/">
     <polygon points="2200,1191,2198,1303,1977,1286,1981,1199" fill="#ffffff" opacity="0">
-     <title>No Data yet for Polly Walton</title>
+     <title>Polly Walton 1810-1850</title>
      </polygon>
   </a><a xlink:href="/404">
     <polygon points="2196,1308,2181,1414,1966,1371,1975,1286" fill="#ffffff" opacity="0">
@@ -465,13 +465,13 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="2309,707,2335,766,2126,850,2105,802" fill="#ffffff" opacity="0">
      <title>No Data yet for Catherine McCoy</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/mc-clung/james-mc-clung-1770-1824/" target="_blank">
     <polygon points="2335,772,2361,833,2148,909,2129,854" fill="#ffffff" opacity="0">
-     <title>No Data yet for James McClung</title>
+     <title>James McClung 1770-1824</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/alderson/mary-alderson-1787-1870/" target="_blank">
     <polygon points="2361,837,2380,900,2165,961,2148,911" fill="#ffffff" opacity="0">
-     <title>No Data yet for Mary Alderson</title>
+     <title>Mary Alderson 1787=1870</title>
      </polygon>
   </a><a xlink:href="/404">
     <polygon points="2380,902,2395,967,2178,1017,2165,963" fill="#ffffff" opacity="0">
@@ -481,13 +481,13 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="2181,1019,2395,972,2411,1039,2189,1076" fill="#ffffff" opacity="0">
      <title>No Data yet for Ruth Alderson</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/mc-clung/james-mc-clung-1770-1824/" target="_blank">
     <polygon points="2415,1041,2421,1106,2200,1134,2189,1076" fill="#ffffff" opacity="0">
-     <title>James McClung</title>
+     <title>James McClung 1770-1824</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/alderson/mary-alderson-1787-1870/" target="_blank">
     <polygon points="2421,1110,2426,1178,2202,1186,2198,1136" fill="#ffffff" opacity="0">
-     <title>No Data yet for Mary Alderson</title>
+     <title>Mary Alderson 1787=1870</title>
      </polygon>
   </a><a xlink:href="/404">
     <polygon points="2426,1182,2421,1251,2202,1245,2205,1191" fill="#ffffff" opacity="0">

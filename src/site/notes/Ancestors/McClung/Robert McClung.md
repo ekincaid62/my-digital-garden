@@ -17,7 +17,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 <!-- Link to spouse --> on <!-- link to date --> in <!-- link to place -->.
 [[William McClung\|William McClung]]
 [[Joseph McClung 1763-1825\|Joseph McClung 1763-1825]]
-[[Ancestors/McClung/William McClung 1738-1833\|William McClung 1738-1833]]
+[[Ancestors/McClung/William McClung 1738-1833\|William McClung 1738-1833]] "Grandfather Billie"
 [[Thomas McClung\|Thomas McClung]]
 #### Census Records
 

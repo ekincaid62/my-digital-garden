@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/ancestors/mc-clung/william-mc-clung-1738-1833/","tags":["William-McClung"]}
 ---
 
+Often referred to as "Grandfather Billie"
+
 Born on  1738 in <!-- link to place -->
 Death on 1/18/1833 in <!-- link to place -->
 
