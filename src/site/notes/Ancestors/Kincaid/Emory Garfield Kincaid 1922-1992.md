@@ -31,13 +31,13 @@ Death on 7/11/1992 in Summersville WV
 #### Biography
 served in the 280th Engineering Combat Battalion
 #### Photos
-[[Evernote/Archive/Dad\|Dad]]
-[[Evernote/Archive/Dad and Brenda\|Dad and Brenda]]
+[[Vault/Records/Dad\|Dad]]
+[[Vault/Records/Dad and Brenda\|Dad and Brenda]]
 [[Vault/Records/Emory Kincaid and Laura Skaggs Kincaid\|Emory Kincaid and Laura Skaggs Kincaid]]
-[[Evernote/Archive/Dad.1\|Dad.1]]
-[[Evernote/Archive/Dad.2\|Dad.2]]
-[[Evernote/Archive/Dad.3\|Dad.3]]
-[[Evernote/Archive/Dad.4\|Dad.4]]
+[[Vault/Records/Dad.1\|Dad.1]]
+[[Vault/Records/Dad.2\|Dad.2]]
+[[Vault/Records/Dad.3\|Dad.3]]
+[[Vault/Records/Dad.4\|Dad.4]]
 [[Evernote/Archive/Emil & Emory Kincaid.jpg\|Evernote/Archive/Emil & Emory Kincaid.jpg]]
 [[Evernote/Archive/Emory and Alice Legg Kincaid Family.jpg\|Evernote/Archive/Emory and Alice Legg Kincaid Family.jpg]]
 [[Evernote/Archive/Emory Kincaid.jpg\|Evernote/Archive/Emory Kincaid.jpg]]

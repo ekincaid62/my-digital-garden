@@ -39,6 +39,6 @@ James and Harriet were first cousins
 [[Evernote/Archive/April 56.jpg\|Evernote/Archive/April 56.jpg]]
 [[Evernote/Archive/Aug 57.jpg\|Evernote/Archive/Aug 57.jpg]]
 [[Vault/Records/Emory Kincaid and Laura Skaggs Kincaid\|Emory Kincaid and Laura Skaggs Kincaid]]
-[[Vault/Records/George & Laura Skaggs Kincaid\|George & Laura Skaggs Kincaid]]
+[[Vault/Records/George & Laura Skaggs Kincaid\|Vault/Records/George & Laura Skaggs Kincaid]]
 #### Sources
 

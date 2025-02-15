@@ -20,7 +20,7 @@ Death on 9/16/1924 in Mt. Lookout WV
 
 ---
 #### Spouse and Children
-[[Ancestors/Hawkins/Mary Ann Hawkins 1853-1926\|Mary Ann Hawkins 1853-1926]] [[Evernote/Archive/William M. Legg and Mary Ann Hawkins Marriage Record 1869 Fayetteville, WV\|married]] 11/12/1869 in Fayette WV
+[[Ancestors/Hawkins/Mary Ann Hawkins 1853-1926\|Mary Ann Hawkins 1853-1926]] [[Vault/Records/William M. Legg and Mary Ann Hawkins Marriage Record 1869 Fayetteville, WV\|married]] 11/12/1869 in Fayette WV
 [[Wilson Legg 1871-\|Wilson Legg 1871-]]
 [[Nicholas Legg 1872-\|Nicholas Legg 1872-]]
 [[William Legg 1875-\|William Legg 1875-]]
