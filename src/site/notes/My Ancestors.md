@@ -85,9 +85,9 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="619,787,647,748,673,720,736,659,871,813,827,861,786,907" fill="#ffffff" opacity="0">
      <title>Cyrus M. Skaggs 1822-1899</title>
      </polygon>
-  </a><a xlink:href="/my-ancestors/">
+  </a><a xlink:href="/404">
     <polygon points="738,657,780,627,884,562,977,744,925,774,875,811" fill="#ffffff" opacity="0">
-     <title>Rachel Coleman</title>
+     <title>No Data Yet!</title>
      </polygon>
   </a><a xlink:href="">
     <polygon points="888,560,931,540,966,525,1049,501,1096,700,1038,718,979,744" fill="#ffffff" opacity="0">
