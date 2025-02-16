@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/shaffer/joseph-allen-shaffer-1838-1911/"}
+{"dg-publish":true,"permalink":"/ancestors/shaffer/joseph-allen-shaffer-1838-1911/","tags":["Joseph-Allen-Shaffer"]}
 ---
 
 Born on  <!-- link to date --> in <!-- link to place -->

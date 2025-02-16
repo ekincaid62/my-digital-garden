@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/shaffer/peter-shaffer-1795/"}
+{"dg-publish":true,"permalink":"/ancestors/shaffer/peter-shaffer-1795/","tags":["Peter-Shaffer"]}
 ---
 
 Born on  2/24/1795 in Blue Sulphur Springs, Greenbrier County, VA
@@ -8,7 +8,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 ---
 #### Parents
 
-[[Christopher Shaffer 1753-1847\|Christopher Shaffer 1753-1847]] and <!-- Link to mother-->
+[[Ancestors/Shaffer/Christopher Shaffer 1753-1847\|Christopher Shaffer 1753-1847]] and Elizabeth
 #### Siblings
 [[George Shaffer 1793-1849\|George Shaffer 1793-1849]]
 [[Mary Shaffer\|Mary Shaffer]]

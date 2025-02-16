@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/shaffer/james-russell-shaffer-1886-1936/"}
+{"dg-publish":true,"permalink":"/ancestors/shaffer/james-russell-shaffer-1886-1936/","tags":["James-Russell-Shaffer"]}
 ---
 
 Born on  6/9/1886 in <!-- link to place -->

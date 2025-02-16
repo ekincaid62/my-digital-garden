@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1880-united-states-federal-census-record-1/","tags":["Clayton-Shaffer","Joseph-Shaffer"]}
+{"dg-publish":true,"permalink":"/vault/census/1880-united-states-federal-census-record-1/","tags":["Clayton-Shaffer","Joseph-Allen-Shaffer"]}
 ---
 
 ![assets/1880_United_States_Federal_Census_Record.resources/image.x.jpg](/img/user/assets/1880_United_States_Federal_Census_Record.resources/image.x.jpg)  
