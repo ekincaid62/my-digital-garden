@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/skaggs/cyrus-m-skaggs-1822-1899/","tags":["Cyrus-Skaggs"]}
+{"dg-publish":true,"permalink":"/ancestors/skaggs/james-skaggs-1820-1899/","tags":["James-Skaggs"]}
 ---
 
-Born on  12/28/1822 in <!-- link to place -->
+Born on  6/23/1820 in <!-- link to place -->
 Death on <!-- link to date --> in <!-- link to place -->
 
 ---
@@ -17,7 +17,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 [[Francis Skaggs\|Francis Skaggs]]
 [[Cynthia Skaggs\|Cynthia Skaggs]]
 [[Hiram Skaggs\|Hiram Skaggs]]
-[[Ancestors/Skaggs/James Skaggs 1820-1899\|James Skaggs 1820-1899]]
+[[Ancestors/Skaggs/Cyrus M. Skaggs 1822-1899\|Cyrus M. Skaggs 1822-1899]] 
 [[Elizabeth Skaggs\|Elizabeth Skaggs]]
 [[Leah Skaggs\|Leah Skaggs]]
 [[Sally Skaggs\|Sally Skaggs]]
@@ -25,7 +25,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 
 ---
 #### Spouse and Children
-<!-- Link to spouse --> on <!-- link to date --> in <!-- link to place -->.
+<!-- Link to spouse --> married <!-- link to date --> in <!-- link to place -->.
 <!-- Link to child -->
 
 #### Census Records

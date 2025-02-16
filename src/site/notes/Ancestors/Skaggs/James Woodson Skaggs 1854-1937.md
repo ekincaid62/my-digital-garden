@@ -8,7 +8,7 @@ Death on 4/22/1937 in Fayette County, WV
 ---
 #### Parents
 
-[[Ancestors/Skaggs/James A. Skaggs 1786-1864\|James A. Skaggs 1786-1864]] and [[Martha Potter\|Martha Potter]]
+[[Ancestors/Skaggs/Cyrus M. Skaggs 1822-1899\|Cyrus M. Skaggs 1822-1899]]  and [[Rachel Coleman\|Rachel Coleman]]
 #### Siblings
 <!-- Link to sibling -->
 
