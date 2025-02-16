@@ -449,9 +449,9 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="2152,466,2194,518,2018,651,1985,609" fill="#ffffff" opacity="0">
      <title>No Data yet for Emelia Neal</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/shaffer/christopher-shaffer-1753-1847/" target="_blank">
     <polygon points="2196,520,2235,577,2051,698,2020,651" fill="#ffffff" opacity="0">
-     <title>No Data yet for Christopher Shaffer</title>
+     <title>Christopher Shaffer 1753-1847</title>
      </polygon>
   </a><a xlink:href="/404">
     <polygon points="2239,581,2272,640,2081,748,2051,698" fill="#ffffff" opacity="0">
