@@ -199,7 +199,7 @@ The image below has hot links to each of my ancestors. The links will open into 
      </polygon>
   </a><a xlink:href="/ancestors/nutter/elizabeth-nutter-1790-1869/" target="_blank">
     <polygon points="1341,258,1450,280,1400,492,1315,475" fill="#ffffff" opacity="0">
-     <title>No Data yet for Elizabeth Nutter 1790-1869</title>
+     <title>Elizabeth Nutter 1790-1869</title>
      </polygon>
   </a><a xlink:href="/ancestors/ramsey/bartholomew-ramsey-1776-1843/" target="_blank">
     <polygon points="1454,282,1560,312,1484,518,1404,492" fill="#ffffff" opacity="0">
