@@ -85,17 +85,17 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="619,787,647,748,673,720,736,659,871,813,827,861,786,907" fill="#ffffff" opacity="0">
      <title>Cyrus M. Skaggs 1822-1899</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/coleman/rachel-parish-coleman-1818-1894/" target="_blank">
     <polygon points="738,657,780,627,884,562,977,744,925,774,875,811" fill="#ffffff" opacity="0">
-     <title>No Data yet for Rachel Coleman</title>
+     <title>Rachel Parish Coleman 1818-1894</title>
      </polygon>
   </a><a xlink:href="/ancestors/skaggs/james-skaggs-1820-1899/">
     <polygon points="888,560,931,540,966,525,1049,501,1096,700,1038,718,979,744" fill="#ffffff" opacity="0">
      <title>James Skaggs 1820-1899</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/porter/martha-jane-porter-1825-1912/" target="_blank">
     <polygon points="1053,501,1098,490,1135,484,1181,479,1224,477,1226,685,1153,690,1096,698" fill="#ffffff" opacity="0">
-     <title>No Data yet for Martha Porter</title>
+     <title>Martha Jane Porter 1825-1912</title>
      </polygon>
   </a><a xlink:href="/ancestors/legg/william-legg-1817-1895/" target="_blank">
     <polygon points="1229,479,1278,479,1313,481,1357,488,1400,497,1350,700,1287,687,1229,685" fill="#ffffff" opacity="0">
