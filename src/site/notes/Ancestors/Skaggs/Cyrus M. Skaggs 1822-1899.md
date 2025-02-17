@@ -25,8 +25,8 @@ Death on <!-- link to date --> in <!-- link to place -->
 
 ---
 #### Spouse and Children
-<!-- Link to spouse --> on <!-- link to date --> in <!-- link to place -->.
-<!-- Link to child -->
+[[Ancestors/Coleman/Rachel Parish Coleman 1818-1894\|Rachel Parish Coleman 1818-1894]] on <!-- link to date --> in <!-- link to place -->.
+[[Ancestors/Skaggs/James Woodson Skaggs 1854-1937\|James Woodson Skaggs 1854-1937]]
 
 #### Census Records
 

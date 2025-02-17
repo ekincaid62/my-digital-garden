@@ -25,8 +25,8 @@ Death on <!-- link to date --> in <!-- link to place -->
 
 ---
 #### Spouse and Children
-<!-- Link to spouse --> married <!-- link to date --> in <!-- link to place -->.
-<!-- Link to child -->
+[[Ancestors/Porter/Martha Jane Porter 1825-1912\|Martha Jane Porter 1825-1912]] married <!-- link to date --> in <!-- link to place -->.
+[[Ancestors/Skaggs/Harriet Ann Skaggs 1859-1950\|Harriet Ann Skaggs 1859-1950]] 
 
 #### Census Records
 

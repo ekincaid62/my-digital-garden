@@ -8,7 +8,7 @@ Death on 4/22/1937 in Fayette County, WV
 ---
 #### Parents
 
-[[Ancestors/Skaggs/Cyrus M. Skaggs 1822-1899\|Cyrus M. Skaggs 1822-1899]]  and [[Rachel Coleman\|Rachel Coleman]]
+[[Ancestors/Skaggs/Cyrus M. Skaggs 1822-1899\|Cyrus M. Skaggs 1822-1899]]  and [[Ancestors/Coleman/Rachel Parish Coleman 1818-1894\|Rachel Parish Coleman 1818-1894]]
 #### Siblings
 <!-- Link to sibling -->
 
