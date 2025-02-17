@@ -20,7 +20,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 
 ---
 #### Spouse and Children
-[[Mary Francis McClung 1838-1865\|Mary Francis McClung 1838-1865]] married 9/22/1859 in Nicholas County, VA
+[[Ancestors/McClung/Mary Francis McClung 1838-1865\|Mary Francis McClung 1838-1865]] married 9/22/1859 in Nicholas County, VA
 [[Ancestors/Shaffer/Christopher Clayton Shaffer 1864-1944\|Christopher Clayton Shaffer 1864-1944]] 
 [[Evalina Shaffer 1861-1928\|Evalina Shaffer 1861-1928]]
 #### Spouse and Children

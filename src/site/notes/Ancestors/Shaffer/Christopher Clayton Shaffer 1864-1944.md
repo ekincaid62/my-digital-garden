@@ -8,7 +8,7 @@ Death on 1944 in Mt. Lookout, WV
 ---
 #### Parents
 
-[[Ancestors/Shaffer/Joseph Allen Shaffer 1838-1911\|Joseph Allen Shaffer 1838-1911]] and [[Mary Francis McClung 1838-1865\|Mary Francis McClung 1838-1865]]
+[[Ancestors/Shaffer/Joseph Allen Shaffer 1838-1911\|Joseph Allen Shaffer 1838-1911]] and [[Ancestors/McClung/Mary Francis McClung 1838-1865\|Mary Francis McClung 1838-1865]]
 #### Siblings
 [[Evalina Shaffer 1861-1928\|Evalina Shaffer 1861-1928]]
 
