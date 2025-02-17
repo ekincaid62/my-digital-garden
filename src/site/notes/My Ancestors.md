@@ -89,7 +89,7 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="738,657,780,627,884,562,977,744,925,774,875,811" fill="#ffffff" opacity="0">
      <title>Rachel Parish Coleman 1818-1894</title>
      </polygon>
-  </a><a xlink:href="/ancestors/skaggs/james-skaggs-1820-1899/">
+  </a><a xlink:href="/ancestors/skaggs/james-skaggs-1820-1899/" target="_blank">
     <polygon points="888,560,931,540,966,525,1049,501,1096,700,1038,718,979,744" fill="#ffffff" opacity="0">
      <title>James Skaggs 1820-1899</title>
      </polygon>
@@ -105,13 +105,13 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="1404,501,1445,510,1484,525,1524,542,1563,557,1471,742,1409,716,1352,698" fill="#ffffff" opacity="0">
      <title>Elizabeth Ramsey 1813-1902</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/hawkins/nicholas-hawkins-1819-1869/" target="_blank">
     <polygon points="1567,557,1612,583,1643,603,1673,622,1710,655,1578,813,1524,772,1474,742" fill="#ffffff" opacity="0">
-     <title>No Data yet for Nicholas Hawkins</title>
+     <title>Nicholas Hawkins 1819-1869</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/wiseman/rebecca-wiseman-1822-1911/" target="_blank">
     <polygon points="1712,657,1747,687,1777,718,1803,748,1829,785,1662,907,1621,854,1582,815" fill="#ffffff" opacity="0">
-     <title>No Data yet for Rebecca Wiseman</title>
+     <title>Rebecca Wiseman 1822-1911</title>
      </polygon>
   </a><a xlink:href="/ancestors/shaffer/joseph-allen-shaffer-1838-1911/">
     <polygon points="1834,789,1860,826,1881,861,1901,900,1918,939,1730,1019,1699,963,1667,907" fill="#ffffff" opacity="0">
