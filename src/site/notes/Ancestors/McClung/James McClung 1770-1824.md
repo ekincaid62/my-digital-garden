@@ -26,7 +26,7 @@ Death on 7/24/1824 in <!-- link to place -->
 [[Minerva McClung 1804-1879\|Minerva McClung 1804-1879]]
 [[George Alderson McClung\|George Alderson McClung]]
 [[Ancestors/McClung/John McClung 1808-1886\|John McClung 1808-1886]]
-[[Dickinson Carpenter McClung\|Dickinson Carpenter McClung]]
+[[Ancestors/McClung/Dickinson Carpenter McClung 1813-1886\|Dickinson Carpenter McClung 1813-1886]]
 [[Sarah Louisa McClung\|Sarah Louisa McClung]]
 [[Margaret McClung\|Margaret McClung]]
 [[James Coggin McClung\|James Coggin McClung]]
