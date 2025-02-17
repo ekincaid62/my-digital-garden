@@ -233,9 +233,9 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="2079,755,2124,852,1920,937,1890,859" fill="#ffffff" opacity="0">
      <title>No Data yet for Mary George</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/mc-clung/dickinson-carpenter-mc-clung-1813-1886/" target="_blank">
     <polygon points="2126,857,2163,963,1953,1019,1918,941" fill="#ffffff" opacity="0">
-     <title>No Data yet for Dickinson McClung</title>
+     <title>Dickinson Carpenter McClung 1813-1886</title>
      </polygon>
   </a><a xlink:href="/404">
     <polygon points="2163,967,2187,1071,1968,1104,1955,1021" fill="#ffffff" opacity="0">
