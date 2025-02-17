@@ -113,13 +113,13 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="1712,657,1747,687,1777,718,1803,748,1829,785,1662,907,1621,854,1582,815" fill="#ffffff" opacity="0">
      <title>Rebecca Wiseman 1822-1911</title>
      </polygon>
-  </a><a xlink:href="/ancestors/shaffer/joseph-allen-shaffer-1838-1911/">
+  </a><a xlink:href="/ancestors/shaffer/joseph-allen-shaffer-1838-1911/" target="_blank">
     <polygon points="1834,789,1860,826,1881,861,1901,900,1918,939,1730,1019,1699,963,1667,907" fill="#ffffff" opacity="0">
      <title>Joseph Allen Shaffer 1838-1911</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/mc-clung/mary-francis-mc-clung-1838-1865/" target="_blank">
     <polygon points="1918,943,1938,987,1949,1021,1959,1067,1966,1108,1760,1139,1751,1078,1732,1021" fill="#ffffff" opacity="0">
-     <title>No Data yet for Mary Frances McClung</title>
+     <title>Mary Frances McClung 1838-1865</title>
      </polygon>
   </a><a xlink:href="/ancestors/mc-clung/charles-william-mc-clung-1838-1911/" target="_blank">
     <polygon points="1764,1143,1968,1113,1972,1156,1977,1199,1977,1249,1972,1288,1766,1267,1769,1201" fill="#ffffff" opacity="0">
