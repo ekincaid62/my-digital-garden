@@ -14,11 +14,11 @@ Death on <!-- link to date --> in <!-- link to place -->
 
 ---
 #### Spouse and Children
-[[Ancestors/Keenan/James Marshall Keenan 1828-1884\|James Marshall Keenan 1828-1884]] on <!-- link to date --> in <!-- link to place -->.
+[[Ancestors/Keenan/James Marshall Keenan 1828-1884\|James Marshall Keenan 1828-1884]] married <!-- link to date --> in <!-- link to place -->.
 [[Wesley Keenan 1849-\|Wesley Keenan 1849-]]
 
 #### Spouse and Children
-[[Valentine Felton Skaggs\|Valentine Felton Skaggs]] on <!-- link to date --> in <!-- link to place -->.
+[[Valentine Felton Skaggs\|Valentine Felton Skaggs]] married <!-- link to date --> in <!-- link to place -->.
 
 #### Census Records
 [[Vault/Census/1910 United States Federal Census Record.5\|1910 United States Federal Census Record]]
