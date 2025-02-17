@@ -8,7 +8,7 @@ Death on 6/17/1926 in Mt Lookout, WV
 ---
 #### Parents
 
-[[Nicholas Hawkins 1819-1869\|Nicholas Hawkins 1819-1869]] and [[Rebecca Wiseman 1822-1911\|Rebecca Wiseman 1822-1911]]
+[[Ancestors/Hawkins/Nicholas Hawkins 1819-1869\|Nicholas Hawkins 1819-1869]] and [[Ancestors/Wiseman/Rebecca Wiseman 1822-1911\|Rebecca Wiseman 1822-1911]]
 #### Siblings
 <!-- Link to sibling -->
 
