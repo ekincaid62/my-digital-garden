@@ -8,7 +8,7 @@ Death on 12/25/1856 in Gauley River, VA
 ---
 #### Parents
 
-[[Ancestors/Walker/Elverton P. Walker 1770-1850\|Elverton P. Walker 1770-1850]] and [[Margaret McGahee 1783-1850\|Margaret McGahee 1783-1850]]
+[[Ancestors/Walker/Elverton P. Walker 1770-1850\|Elverton P. Walker 1770-1850]] and [[Ancestors/McGahee/Margaret McGahee 1783-1850\|Margaret McGahee 1783-1850]]
 #### Siblings
 <!-- Link to sibling -->
 

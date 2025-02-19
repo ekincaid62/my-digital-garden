@@ -14,7 +14,7 @@ Death on 1850 in Nicholas County, VA
 
 ---
 #### Spouse and Children
-[[Margaret McGahee 1783-1850\|Margaret McGahee 1783-1850]] on 1804 in Greenbrier County, VA
+[[Ancestors/McGahee/Margaret McGahee 1783-1850\|Margaret McGahee 1783-1850]] married 1804 in Greenbrier County, VA
 [[Ancestors/Walker/Olive Walker 1823-1856\|Olive Walker 1823-1856]]
 
 #### Census Records
