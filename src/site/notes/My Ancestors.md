@@ -225,21 +225,21 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="1942,566,2016,653,1834,785,1779,716" fill="#ffffff" opacity="0">
      <title>No Data yet for Mary Neal</title>
      </polygon>
-  </a><a xlink:href="/ancestors/shaffer/peter-shaffer-1795/">
+  </a><a xlink:href="/ancestors/shaffer/peter-shaffer-1795/" target="_blank">
     <polygon points="2016,655,2077,750,1886,859,1840,783" fill="#ffffff" opacity="0">
      <title>Peter Shaffer 1795-</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/george/mary-george-1796-1880/" target="_blank">
     <polygon points="2079,755,2124,852,1920,937,1890,859" fill="#ffffff" opacity="0">
-     <title>No Data yet for Mary George</title>
+     <title>Mary George 1796-1880</title>
      </polygon>
   </a><a xlink:href="/ancestors/mc-clung/dickinson-carpenter-mc-clung-1813-1886/" target="_blank">
     <polygon points="2126,857,2163,963,1953,1019,1918,941" fill="#ffffff" opacity="0">
      <title>Dickinson Carpenter McClung 1813-1886</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/evans/sarah-evans-1814/" target="_blank">
     <polygon points="2163,967,2187,1071,1968,1104,1955,1021" fill="#ffffff" opacity="0">
-     <title>No Data yet for Sarah Evans</title>
+     <title>Sarah Evans 1814-</title>
      </polygon>
   </a><a xlink:href="/ancestors/mc-clung/john-mc-clung-1808-1886/" target="_blank">
     <polygon points="2189,1080,2200,1186,1981,1195,1970,1108" fill="#ffffff" opacity="0">
