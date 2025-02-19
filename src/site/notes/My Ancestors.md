@@ -217,13 +217,13 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="1769,416,1858,486,1712,653,1649,599" fill="#ffffff" opacity="0">
      <title>Mary Level Perry 1799-1879</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/wiseman/isaac-wiseman-1802-1892/" target="_blank">
     <polygon points="1860,488,1940,562,1779,716,1714,651" fill="#ffffff" opacity="0">
-     <title>No Data yet for Isaac Wiseman</title>
+     <title>Isaac Wiseman 1802-1892</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/neal/mary-neal-1801-1871/" target="_blank">
     <polygon points="1942,566,2016,653,1834,785,1779,716" fill="#ffffff" opacity="0">
-     <title>No Data yet for Mary Neal</title>
+     <title>Mary Neal 1801-1871</title>
      </polygon>
   </a><a xlink:href="/ancestors/shaffer/peter-shaffer-1795/" target="_blank">
     <polygon points="2016,655,2077,750,1886,859,1840,783" fill="#ffffff" opacity="0">
