@@ -8,7 +8,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 ---
 #### Parents
 
-[[William Grose 1799-1880\|William Grose 1799-1880]] and [[Suzanna Koontz 1810-1878\|Suzanna Koontz 1810-1878]]
+[[Ancestors/Grose/William Grose 1799-1880\|William Grose 1799-1880]] and [[Ancestors/Koontz/Suzanna Koontz 1810-1878\|Suzanna Koontz 1810-1878]]
 #### Siblings
 <!-- Link to sibling -->
 
