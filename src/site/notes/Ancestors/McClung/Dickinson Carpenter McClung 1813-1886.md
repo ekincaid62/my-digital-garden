@@ -21,7 +21,7 @@ Death on 1886 in <!-- link to place -->
 
 ---
 #### Spouse and Children
-[[Sarah Evans\|Sarah Evans]] married <!-- link to date --> in <!-- link to place -->.
+[[Ancestors/Evans/Sarah Evans 1814-\|Sarah Evans 1814-]] married <!-- link to date --> in <!-- link to place -->.
 [[Rufus Davis McClung\|Rufus Davis McClung]]
 [[James Evans McClung\|James Evans McClung]]
 [[Ancestors/McClung/Mary Francis McClung 1838-1865\|Mary Francis McClung 1838-1865]]

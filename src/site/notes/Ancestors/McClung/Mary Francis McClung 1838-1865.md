@@ -8,7 +8,7 @@ Death on 1865 in <!-- link to place -->
 ---
 #### Parents
 
-[[Ancestors/McClung/Dickinson Carpenter McClung 1813-1886\|Dickinson Carpenter McClung 1813-1886]] and [[Sarah Evans 1814-\|Sarah Evans 1814-]]
+[[Ancestors/McClung/Dickinson Carpenter McClung 1813-1886\|Dickinson Carpenter McClung 1813-1886]] and [[Ancestors/Evans/Sarah Evans 1814-\|Sarah Evans 1814-]]
 #### Siblings
 <!-- Link to sibling -->
 
