@@ -143,7 +143,7 @@ The image below has hot links to each of my ancestors. The links will open into 
      </polygon>
   </a><a xlink:href="/ancestors/mc-gahee/margaret-mc-gahee-1783-1850/" target="_blank">
     <polygon points="250,1188,261,1078,480,1110,472,1197" fill="#ffffff" opacity="0">
-     <title>No Data yet for Margaret McGahee 1783-1850</title>
+     <title>Margaret McGahee 1783-1850</title>
      </polygon>
   </a><a xlink:href="/404">
     <polygon points="264,1073,287,967,498,1024,480,1108" fill="#ffffff" opacity="0">
