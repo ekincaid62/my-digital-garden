@@ -8,7 +8,7 @@ Death on 12/13/1869 in Fayette County, WV
 ---
 #### Parents
 
-[[Thomas Jefferson Hawkins 1794-1870\|Thomas Jefferson Hawkins 1794-1870]] and [[Mary Level Perry 1799-1879\|Mary Level Perry 1799-1879]]
+[[Ancestors/Hawkins/Thomas Jefferson Hawkins 1794-1870\|Thomas Jefferson Hawkins 1794-1870]] and [[Ancestors/Perry/Mary Level Perry 1799-1879\|Mary Level Perry 1799-1879]]
 #### Siblings
 <!-- Link to sibling -->
 

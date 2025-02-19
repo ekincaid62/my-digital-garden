@@ -8,7 +8,7 @@ Death on 12/11/1902 in Fayette County, WV
 ---
 #### Parents
 
-[[Ancestors/Ramsey/Bartholomew Ramsey 1776-1843\|Bartholomew Ramsey 1776-1843]] and [[Margaret Wiseman 1777-1869\|Margaret Wiseman 1777-1869]]
+[[Ancestors/Ramsey/Bartholomew Ramsey 1776-1843\|Bartholomew Ramsey 1776-1843]] and [[Ancestors/Wiseman/Margaret Wiseman 1777-1869\|Margaret Wiseman 1777-1869]]
 #### Siblings
 <!-- Link to sibling -->
 

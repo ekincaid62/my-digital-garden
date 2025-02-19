@@ -14,8 +14,8 @@ Death on 1843 in Fayette County, VA
 
 ---
 #### Spouse and Children
-[[Margaret Wiseman 1777-1869\|Margaret Wiseman 1777-1869]] [[Vault/Records/Bartholomew Ramsey and Margaret Wiseman Marriage Record\|married]] on 1799 in Monroe County, WV 
-<!-- Link to child -->
+[[Ancestors/Wiseman/Margaret Wiseman 1777-1869\|Margaret Wiseman 1777-1869]] [[Vault/Records/Bartholomew Ramsey and Margaret Wiseman Marriage Record\|married]] 1799 in Monroe County, WV 
+[[Ancestors/Ramsey/Elizabeth Ramsey 1813-1902\|Elizabeth Ramsey 1813-1902]]
 
 #### Census Records
 [[Vault/Census/1830 United States Federal Census Record.1\|1830 United States Federal Census Record.1]]
