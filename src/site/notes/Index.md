@@ -28,8 +28,8 @@ The following documents have been scanned into pdf files and are text searchable
 
 ### Useful Resources...
 
-| [FamilySearch](https://www.familysearch.org/) | [USGenWeb Project](http://www.usgenweb.org/) | [Chronicling America](https://chroniclingamerica.loc.gov/) |
-| --------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------- |
-| [FindAGrave](https://www.findagrave.com/)     | [Cyndi's List](https://www.cyndislist.com/)  | [Digital Public Library of America](https://dp.la/)        |
-| [Europeana](https://www.europeana.eu/en)      |                                              |                                                            |
+| [FamilySearch](https://www.familysearch.org/)              | [USGenWeb Project](http://www.usgenweb.org/)        | [Ancestry](https://www.ancestry.com/)                      |
+| ---------------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------- |
+| [Chronicling America](https://chroniclingamerica.loc.gov/) | [Cyndi's List](https://www.cyndislist.com/)         | [Library of Virginia](https://lva-virginia.libguides.com/) |
+| [FindAGrave](https://www.findagrave.com/)                  | [Digital Public Library of America](https://dp.la/) | [Europeana](https://www.europeana.eu/en)                   |
 
