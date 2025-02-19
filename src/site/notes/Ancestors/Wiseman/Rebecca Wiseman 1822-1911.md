@@ -8,7 +8,7 @@ Death on 4/1/1911 in Fayette County, WV
 ---
 #### Parents
 
-[[Isaac Wiseman 1802-1892\|Isaac Wiseman 1802-1892]] and [[Mary Neal 1801-1871\|Mary Neal 1801-1871]]
+[[Ancestors/Wiseman/Isaac Wiseman 1802-1892\|Isaac Wiseman 1802-1892]] and [[Ancestors/Neal/Mary Neal 1801-1871\|Mary Neal 1801-1871]]
 #### Siblings
 <!-- Link to sibling -->
 
