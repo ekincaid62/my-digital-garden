@@ -137,13 +137,13 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="270,1416,255,1308,476,1286,487,1375" fill="#ffffff" opacity="0">
      <title>Virginia Kincaid 1797-1870</title>
      </polygon>
-  </a><a xlink:href="/ancestors/walker/elverton-p-walker-1770-1850/">
+  </a><a xlink:href="/ancestors/walker/elverton-p-walker-1770-1850/" target="_blank">
     <polygon points="253,1306,253,1193,470,1199,472,1282" fill="#ffffff" opacity="0">
      <title>Elverton P. Walker 1770-1850</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/mc-gahee/margaret-mc-gahee-1783-1850/" target="_blank">
     <polygon points="250,1188,261,1078,480,1110,472,1197" fill="#ffffff" opacity="0">
-     <title>No Data yet for Margaret McGaughey</title>
+     <title>No Data yet for Margaret McGahee 1783-1850</title>
      </polygon>
   </a><a xlink:href="/404">
     <polygon points="264,1073,287,967,498,1024,480,1108" fill="#ffffff" opacity="0">
