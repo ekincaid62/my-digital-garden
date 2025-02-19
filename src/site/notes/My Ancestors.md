@@ -245,17 +245,17 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="2189,1080,2200,1186,1981,1195,1970,1108" fill="#ffffff" opacity="0">
      <title>John McClung 1808-1886</title>
      </polygon>
-  </a><a xlink:href="/ancestors/walton/polly-walton-1810-1850/">
+  </a><a xlink:href="/ancestors/walton/polly-walton-1810-1850/" target="_blank">
     <polygon points="2200,1191,2198,1303,1977,1286,1981,1199" fill="#ffffff" opacity="0">
      <title>Polly Walton 1810-1850</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/amick/john-william-amick-1815-1890/" target="_blank">
     <polygon points="2196,1308,2181,1414,1966,1371,1975,1286" fill="#ffffff" opacity="0">
-     <title>No Data yet for John William Amick</title>
+     <title>John William Amick 1815-1890</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/walker/lana-walker-1819-1911/" target="_blank">
     <polygon points="2183,1418,2152,1529,1942,1457,1968,1375" fill="#ffffff" opacity="0">
-     <title>No Data yet for Lana Walker</title>
+     <title>Lana Walker 1819-1911</title>
      </polygon>
   </a><a xlink:href="/ancestors/kincaid/samuel-kincaid-1765-1847/" target="_blank">
     <polygon points="83,1598,64,1531,279,1477,296,1529" fill="#ffffff" opacity="0">
