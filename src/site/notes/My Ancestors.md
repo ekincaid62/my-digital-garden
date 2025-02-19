@@ -153,13 +153,13 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="287,963,322,857,526,939,498,1019" fill="#ffffff" opacity="0">
      <title>No Data yet for Polly Walker</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/grose/william-grose-1799-1880/" target="_blank">
     <polygon points="326,852,374,755,565,859,526,937" fill="#ffffff" opacity="0">
-     <title>No Data yet for William Grose</title>
+     <title>William Grose 1799-1880</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/koontz/suzanna-koontz-1810-1878/" target="_blank">
     <polygon points="374,748,437,657,615,783,567,854" fill="#ffffff" opacity="0">
-     <title>No Data yet for Susannah Koontz</title>
+     <title>Susanna Koontz 1810-1878</title>
      </polygon>
   </a><a xlink:href="/ancestors/skaggs/james-a-skaggs-1786-1864/" target="_blank">
     <polygon points="437,655,509,568,671,713,617,781" fill="#ffffff" opacity="0">
@@ -205,17 +205,17 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="1454,282,1560,312,1484,518,1404,492" fill="#ffffff" opacity="0">
      <title>Bartholomew Ramsey 1776-1843</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/wiseman/margaret-wiseman-1777-1869/" target="_blank">
     <polygon points="1563,312,1667,358,1569,555,1489,520" fill="#ffffff" opacity="0">
-     <title>No Data yet for Margaret Wiseman</title>
+     <title>Margaret Wiseman 1777-1869</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/hawkins/thomas-jefferson-hawkins-1794-1870/" target="_blank">
     <polygon points="1669,360,1764,416,1645,599,1571,555" fill="#ffffff" opacity="0">
-     <title>No Data yet for Thomas Hawkins</title>
+     <title>Thomas Jefferson Hawkins 1794-1870</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/perry/mary-level-perry-1799-1879/" target="_blank">
     <polygon points="1769,416,1858,486,1712,653,1649,599" fill="#ffffff" opacity="0">
-     <title>No Data yet for Mary Perry</title>
+     <title>Mary Level Perry 1799-1879</title>
      </polygon>
   </a><a xlink:href="/404">
     <polygon points="1860,488,1940,562,1779,716,1714,651" fill="#ffffff" opacity="0">
