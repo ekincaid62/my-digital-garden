@@ -165,9 +165,9 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="437,655,509,568,671,713,617,781" fill="#ffffff" opacity="0">
      <title>James A. Skaggs 1786-1864</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/miller/elizabeth-miller-1787-1860/" target="_blank">
     <polygon points="511,564,593,490,732,653,671,711" fill="#ffffff" opacity="0">
-     <title>No Data yet for Elizabeth Miller</title>
+     <title>Elizabeth Miller 1787-1860</title>
      </polygon>
   </a><a xlink:href="/404">
     <polygon points="595,486,684,421,806,603,736,651" fill="#ffffff" opacity="0">
@@ -181,9 +181,9 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="786,360,886,317,964,520,886,555" fill="#ffffff" opacity="0">
      <title>James A. Skaggs 1786-1864</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/miller/elizabeth-miller-1787-1860/" target="_blank">
     <polygon points="890,312,997,282,1049,497,966,518" fill="#ffffff" opacity="0">
-     <title>No Data yet for Elizabeth Miller</title>
+     <title>Elizabeth Miller 1787-1860</title>
      </polygon>
   </a><a xlink:href="/404">
     <polygon points="1001,280,1109,262,1137,477,1053,494" fill="#ffffff" opacity="0">
