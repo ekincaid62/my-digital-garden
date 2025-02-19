@@ -20,7 +20,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 
 ---
 #### Spouse and Children
-[[Mary George 1796-1880\|Mary George 1796-1880]] "Polly" married 3/27/1824 in <!-- link to place -->.
+[[Ancestors/George/Mary George 1796-1880\|Mary George 1796-1880]] "Polly" married 3/27/1824 in <!-- link to place -->.
 [[Mary Shaffer 1826-\|Mary Shaffer 1826-]]
 [[Ancestors/Shaffer/Joseph Allen Shaffer 1838-1911\|Joseph Allen Shaffer 1838-1911]]
 [[Elizabeth Shaffer\|Elizabeth Shaffer]]

@@ -7,7 +7,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 
 ---
 #### Parents
-[[Ancestors/Shaffer/Peter Shaffer 1795-\|Peter Shaffer 1795-]] and [[Mary George 1796-1880\|Mary George 1796-1880]] "Polly"
+[[Ancestors/Shaffer/Peter Shaffer 1795-\|Peter Shaffer 1795-]] and [[Ancestors/George/Mary George 1796-1880\|Mary George 1796-1880]] "Polly"
 #### Siblings
 [[Mary Shaffer 1826-\|Mary Shaffer 1826-]]
 [[Elizabeth Shaffer\|Elizabeth Shaffer]]
