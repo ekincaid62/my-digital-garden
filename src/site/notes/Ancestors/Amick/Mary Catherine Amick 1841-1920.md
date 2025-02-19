@@ -8,7 +8,7 @@ Death on 1920 in <!-- link to place -->
 ---
 #### Parents
 
-<!-- Link to father --> and <!-- Link to mother-->
+[[Ancestors/Amick/John William Amick 1815-1890\|John William Amick 1815-1890]] and [[Ancestors/Walker/Lana Walker 1819-1911\|Lana Walker 1819-1911]]
 #### Siblings
 <!-- Link to sibling -->
 
