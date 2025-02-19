@@ -1,19 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/skaggs/james-a-skaggs-1786-1864/","tags":["James-A-Skaggs"]}
+{"dg-publish":true,"permalink":"/ancestors/miller/elizabeth-miller-1787-1860/","tags":["Elizabeth-Miller"]}
 ---
 
-Born on  1786 in <!-- link to place -->
-Death on 1864 in <!-- link to place -->
+Born on  <!-- link to date --> in <!-- link to place -->
+Death on <!-- link to date --> in <!-- link to place -->
 
 ---
 #### Parents
 
-[[Charles Skaggs\|Charles Skaggs]] and 
+<!-- Link to father --> and <!-- Link to mother-->
 #### Siblings
+<!-- Link to sibling -->
 
 ---
 #### Spouse and Children
-[[Ancestors/Miller/Elizabeth Miller 1787-1860\|Elizabeth Miller 1787-1860]] on <!-- link to date --> in <!-- link to place -->.
+[[Ancestors/Skaggs/James A. Skaggs 1786-1864\|James A. Skaggs 1786-1864]] married <!-- link to date --> in <!-- link to place -->.
 [[Phebe Skaggs\|Phebe Skaggs]]
 [[Thomas Skaggs\|Thomas Skaggs]]
 [[Susan Skaggs\|Susan Skaggs]]
