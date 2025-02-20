@@ -19,7 +19,7 @@ Death on 1843 in Fayette County, VA
 [[Margaret Ramsey\|Margaret Ramsey]]
 [[Jane Ramsey\|Jane Ramsey]]
 [[Sarah Ramsey\|Sarah Ramsey]]
-[[Mary Ramsey\|Mary Ramsey]]
+[[Ancestors/Ramsey/Mary Ramsey -1801\|Mary Ramsey -1801]]
 [[Betsey Ramsey\|Betsey Ramsey]]
 
 List of siblings and children taken from [Ramsey Family History](https://drive.google.com/file/d/0B0oZv34v0ajXejR4V3pqMlB6UEk/view?usp=drive_link&resourcekey=0-aRa0H6wsvVjU9uv38-PDLQ)
@@ -37,9 +37,12 @@ List of siblings and children taken from [Ramsey Family History](https://drive.g
 [[Abner Ramsey 1816-1906\|Abner Ramsey 1816-1906]]
 [[Charles Ramsey 1823-1843\|Charles Ramsey 1823-1843]]
 
+#### Double First Cousin
+[[Ancestors/Wiseman/Isaac Ward Wiseman 1802-1892\|Isaac Ward Wiseman 1802-1892]] was raised with this Family when his mother [[Ancestors/Ramsey/Mary Ramsey -1801\|Mary Ramsey -1801]] (Bartholomew's sister) passed away when he was an infant.
+
 #### Census Records
-[[Vault/Census/1830 United States Federal Census Record.1\|1830 United States Federal Census Record.1]]
-[[Vault/Census/1810 United States Federal Census Record.1\|1810 United States Federal Census Record.1]]
+[[Vault/Census/1830 United States Federal Census Record.1\|1830 United States Federal Census Record]]
+[[Vault/Census/1810 United States Federal Census Record.1\|1810 United States Federal Census Record]]
 #### Land Transfers
 
 #### Biography

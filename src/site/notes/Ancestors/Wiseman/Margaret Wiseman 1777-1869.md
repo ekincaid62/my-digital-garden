@@ -13,7 +13,7 @@ Death on 1869 in <!-- link to place -->
 [[Joseph Wiseman\|Joseph Wiseman]]
 [[John Wiseman\|John Wiseman]]
 [[Sarah Wiseman\|Sarah Wiseman]]
-[[Ancestors/Wiseman/Isaac Wiseman 1802-1892\|Isaac Wiseman 1802-1892]]
+[[Isaac Wiseman\|Isaac Wiseman]]
 [[Jacob Wiseman\|Jacob Wiseman]]
 [[Rachel Wiseman\|Rachel Wiseman]]
 [[Samuel Wiseman\|Samuel Wiseman]]

@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/ancestors/mc-clung/charles-william-mc-clung-1838-1911/","tags":["Charles-William-McClung"]}
 ---
 
+Often referred to as "Good Charley"
+
 Born on  3/1/1838 in WV
 Death on 6/24/1911 in Nicholas County, WV
 
