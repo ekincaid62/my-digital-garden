@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/misc/my-ancestors/","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowInlineTitle":"false","dgShowFileTree":"false","dgEnableSearch":"false","dgShowToc":"false"}
+{"dg-publish":true,"permalink":"/vault/misc/my-ancestors/","dgShowBacklinks":"true","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","dgEnableSearch":"true","dgShowToc":"true"}
 ---
 
 
