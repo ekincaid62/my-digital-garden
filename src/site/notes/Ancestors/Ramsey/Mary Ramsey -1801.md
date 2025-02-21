@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ancestors/ramsey/mary-ramsey-1801/","tags":["Mary-Ramsey"]}
 ---
 
+***<font color="#00b0f0">Date Created:</font> Thursday, February 20th 2025, 12:38:03 pm*
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:43:24 pm***
+
 Born on  <!-- link to date --> in <!-- link to place -->
 Death on 1801 in <!-- link to place -->
 

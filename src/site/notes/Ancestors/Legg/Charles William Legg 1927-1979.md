@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ancestors/legg/charles-william-legg-1927-1979/","tags":["Charles-William-Legg"]}
 ---
 
+***<font color="#00b0f0">Date Created:</font> Saturday, January 25th 2025, 5:31:27 pm*
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:38:50 pm***
+
 Born on  6/14/1927 in Mt Lookout, WV
 Death on 8/31/1979 in Mt Lookout, WV
 

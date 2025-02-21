@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ancestors/legg/walter-hayes-legg-1876-1949/","tags":["Walter-Hayes-Legg"]}
 ---
 
+***<font color="#00b0f0">Date Created:</font> Friday, February 7th 2025, 7:16:01 pm*
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:39:47 pm***
+
 Born on  9/16/1876 in <!-- link to place -->
 Death on 10/8/1949 in <!-- link to place -->
 

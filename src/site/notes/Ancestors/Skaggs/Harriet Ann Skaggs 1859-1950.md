@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ancestors/skaggs/harriet-ann-skaggs-1859-1950/","tags":["Harriet-Ann-Skaggs"]}
 ---
 
+***<font color="#00b0f0">Date Created:</font> Thursday, February 6th 2025, 6:48:10 pm*
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:44:36 pm***
+
 Born on  3/1859 in <!-- link to place -->
 Death on 8/11/1950 in Fayette County, WV
 

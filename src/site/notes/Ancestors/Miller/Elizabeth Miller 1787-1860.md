@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ancestors/miller/elizabeth-miller-1787-1860/","tags":["Elizabeth-Miller"]}
 ---
 
+***<font color="#00b0f0">Date Created:</font> Tuesday, February 18th 2025, 10:18:39 pm*
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:42:20 pm***
+
 Born on  <!-- link to date --> in <!-- link to place -->
 Death on <!-- link to date --> in <!-- link to place -->
 

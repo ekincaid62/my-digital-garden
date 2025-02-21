@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/william-m-kincaid-1787-1860/","tags":["William-Kincaid"]}
 ---
 
+***<font color="#00b0f0">Date Created:</font> Thursday, August 22nd 2024, 9:02:20 pm*
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:38:13 pm***
+
 Some refer to him as "Moccasin Bill"
 Born on  1787 in Greenbrier VA
 Death on 1860 in Fayette County WV

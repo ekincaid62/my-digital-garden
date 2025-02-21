@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ancestors/legg/june-kathleen-legg-1923-2008/","tags":["June-Legg"]}
 ---
 
+***<font color="#00b0f0">Date Created:</font> Saturday, January 25th 2025, 5:14:56 pm*
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:39:07 pm***
+
 Born on  6/14/1928 in Mt Lookout, WV
 Death on 8/20/2008 in Ansted, WV
 

@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ancestors/wiseman/isaac-ward-wiseman-1802-1892/","tags":["Isaac-Wiseman"]}
 ---
 
+***<font color="#00b0f0">Date Created:</font> Wednesday, February 19th 2025, 10:43:35 am*
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:45:51 pm***
+
 Born on  1802 in <!-- link to place -->
 Death on 1892 in <!-- link to place -->
 

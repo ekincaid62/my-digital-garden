@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ancestors/mc-clung/dickinson-carpenter-mc-clung-1813-1886/","tags":["Dickinson-Carpenter-McClung"]}
 ---
 
+***<font color="#00b0f0">Date Created:</font> Sunday, February 16th 2025, 9:56:53 pm*
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:40:31 pm***
+
 Born on  1813 in <!-- link to place -->
 Death on 1886 in <!-- link to place -->
 

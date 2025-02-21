@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/betty-ann-kincaid-1883/","tags":["Betty-Ann-Kincaid"]}
 ---
 
+***<font color="#00b0f0">Date Created:</font> Saturday, January 25th 2025, 3:01:35 pm*
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:34:42 pm***
+
 Born on  4/15/1883 in WV
 Death on <!-- link to date --> in <!-- link to place -->
 

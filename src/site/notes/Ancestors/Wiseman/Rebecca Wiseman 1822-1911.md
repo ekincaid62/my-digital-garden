@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ancestors/wiseman/rebecca-wiseman-1822-1911/","tags":["Rebecca-Wiseman"]}
 ---
 
+***<font color="#00b0f0">Date Created:</font> Sunday, February 16th 2025, 7:44:35 pm*
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 2:46:49 pm***
+
 Born on  6/4/1822 in Fayette County, WV
 Death on 4/1/1911 in Fayette County, WV
 

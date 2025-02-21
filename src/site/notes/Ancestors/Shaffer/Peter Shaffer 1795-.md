@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ancestors/shaffer/peter-shaffer-1795/","tags":["Peter-Shaffer"]}
 ---
 
+***<font color="#00b0f0">Date Created:</font> Saturday, February 15th 2025, 5:12:24 pm*
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:44:18 pm***
+
 Born on  2/24/1795 in Blue Sulphur Springs, Greenbrier County, VA
 Death on <!-- link to date --> in <!-- link to place -->
 

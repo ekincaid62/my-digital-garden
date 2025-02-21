@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ancestors/skaggs/cyrus-m-skaggs-1822-1899/","tags":["Cyrus-Skaggs"]}
 ---
 
+***<font color="#00b0f0">Date Created:</font> Thursday, February 6th 2025, 6:50:20 pm*
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:44:25 pm***
+
 Born on  12/28/1822 in <!-- link to place -->
 Death on <!-- link to date --> in <!-- link to place -->
 

@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ancestors/ramsey/elizabeth-ramsey-1813-1902/","tags":["Elizabeth-Ramsey"]}
 ---
 
+***<font color="#00b0f0">Date Created:</font> Saturday, January 25th 2025, 8:18:42 pm*
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:43:18 pm***
+
 Born on  11/6/1812 in Monroe County, VA
 Death on 12/11/1902 in Fayette County, WV
 

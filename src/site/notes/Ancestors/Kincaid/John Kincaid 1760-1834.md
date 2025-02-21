@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/john-kincaid-1760-1834/","tags":["John-Kincaid"]}
 ---
 
+***<font color="#00b0f0">Date Created:</font> Thursday, August 22nd 2024, 9:01:45 pm*
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:36:14 pm***
+
 Born on  10 Mar 1760 in Augusta VA
 Death on 21 Apr 1834 in Gauley Bridge WV
 

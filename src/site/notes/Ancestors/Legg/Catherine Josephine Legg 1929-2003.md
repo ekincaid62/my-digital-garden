@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ancestors/legg/catherine-josephine-legg-1929-2003/","tags":["Kata-Legg"]}
 ---
 
+***<font color="#00b0f0">Date Created:</font> Saturday, January 25th 2025, 5:38:32 pm*
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:38:41 pm***
+
 Born on  4/21/1929 in Mt Lookout, WV
 Death on 12/3/2003 in Mt Lookout, WV
 

@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ancestors/evans/sarah-evans-1814/","tags":["Sarah-Evans"]}
 ---
 
+***<font color="#00b0f0">Date Created:</font> Tuesday, February 18th 2025, 6:30:12 pm*
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:32:59 pm***
+
 Born on  1814 in <!-- link to place -->
 Death on <!-- link to date --> in <!-- link to place -->
 

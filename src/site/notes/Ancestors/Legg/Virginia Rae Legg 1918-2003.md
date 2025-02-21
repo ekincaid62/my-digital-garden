@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ancestors/legg/virginia-rae-legg-1918-2003/","tags":["Virginia-Legg"]}
 ---
 
+***<font color="#00b0f0">Date Created:</font> Saturday, January 25th 2025, 4:36:43 pm*
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:39:39 pm***
+
 Born on  1/24/1918 in Mt Lookout, WV
 Death on 3/27/2003 in Cabin Creek, WV
 

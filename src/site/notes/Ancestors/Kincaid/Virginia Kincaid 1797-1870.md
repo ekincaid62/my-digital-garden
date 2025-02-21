@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/virginia-kincaid-1797-1870/","tags":["Jane-Kincaid"]}
 ---
 
+***<font color="#00b0f0">Date Created:</font> Sunday, January 26th 2025, 12:28:01 pm*
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:38:00 pm***
+
 Born on  1797 in Greenbrier County, VA
 Death on 1870 in Nicholas County, VA
 

@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/john-a-kincaid-1818-1891/","tags":["John-A-Kincaid"]}
 ---
 
+***<font color="#00b0f0">Date Created:</font> Thursday, August 22nd 2024, 9:02:20 pm*
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:36:00 pm***
+
 Born on 1818 in Greenbrier County WV
 Death on 8/1891 in Fayette County WV
 The [[Vault/Records/Kincaid Family Bible\|Kincaid Family Bible]] shows John being the son of William and Jane. This now in the West Virginia State Archives and is no longer accessible.

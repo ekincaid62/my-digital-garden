@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ancestors/mc-gahee/margaret-mc-gahee-1783-1850/","tags":["Margaret-McGahee"]}
 ---
 
+***<font color="#00b0f0">Date Created:</font> Tuesday, February 18th 2025, 7:44:09 pm*
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:42:11 pm***
+
 Born on  1783 in <!-- link to place -->
 Death on 1850 in <!-- link to place -->
 
