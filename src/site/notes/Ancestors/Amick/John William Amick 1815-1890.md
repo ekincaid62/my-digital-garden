@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/amick/john-william-amick-1815-1890/","tags":["John-William-Amick"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:52:22 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:52:22 pm***
 
 Born on  1815 in <!-- link to place -->
 Death on 1890 in <!-- link to place -->
