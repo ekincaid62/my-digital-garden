@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/margaret-kincaid-1760-1840/","tags":["Margaret-Kincaid"]}
 ---
 
-***<font color="#00b0f0">Date Created:</font> Thursday, August 22nd 2024, 9:01:45 pm*
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:36:35 pm***
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:58:09 pm***
 
 Born on  1760 in Augusta VA
 Death on 1840 in Pawnee City Nebraska

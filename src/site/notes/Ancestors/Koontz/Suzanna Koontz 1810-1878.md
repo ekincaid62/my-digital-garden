@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/koontz/suzanna-koontz-1810-1878/","tags":["Susanna-Koontz"]}
 ---
 
-***<font color="#00b0f0">Date Created:</font> Wednesday, February 19th 2025, 9:42:39 am*
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:38:23 pm***
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:00:02 pm***
 
 Born on  1810 in <!-- link to place -->
 Death on 1878 in <!-- link to place -->

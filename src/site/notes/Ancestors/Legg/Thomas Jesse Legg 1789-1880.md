@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/legg/thomas-jesse-legg-1789-1880/","tags":["Thomas-Jesse-Legg"]}
 ---
 
-***<font color="#00b0f0">Date Created:</font> Thursday, February 6th 2025, 8:08:03 pm*
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:39:28 pm***
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:01:23 pm***
 
 Born on  1789 in <!-- link to place -->
 Death on 1880 in <!-- link to place -->

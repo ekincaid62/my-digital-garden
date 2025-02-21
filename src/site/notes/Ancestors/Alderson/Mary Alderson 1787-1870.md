@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/alderson/mary-alderson-1787-1870/","tags":["Mary-Alderson"]}
 ---
 
-***<font color="#00b0f0">Date Created:</font> Thursday, February 6th 2025, 10:08:07 pm*
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:32:21 pm***
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:52:12 pm***
 
 Born on  5/13/1787 in <!-- link to place -->
 Death on 5/13/1870 in <!-- link to place -->

@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/skaggs/james-a-skaggs-1786-1864/","tags":["James-A-Skaggs"]}
 ---
 
-***<font color="#00b0f0">Date Created:</font> Thursday, February 6th 2025, 6:52:42 pm*
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:44:42 pm***
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:07:17 pm***
 
 Born on  1786 in <!-- link to place -->
 Death on 1864 in <!-- link to place -->

@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/francis-kincaid-1784-1826/","tags":["Francis-Kincaid"]}
 ---
 
-***<font color="#00b0f0">Date Created:</font> Thursday, August 22nd 2024, 9:01:45 pm*
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:35:08 pm***
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:57:03 pm***
 
 Born on  1784 in VA
 Death on 1826 in Madison, IN

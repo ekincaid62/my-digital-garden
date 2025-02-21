@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/mollie-v-kincaid-1881-1892/","tags":["Mollie-V-Kincaid"]}
 ---
 
-***<font color="#00b0f0">Date Created:</font> Saturday, January 25th 2025, 2:56:12 pm*
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:36:55 pm***
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:58:29 pm***
 
 Born on  4/9/1881 in Mountain Cove, Fayette, WV
 Death on 1892 in Mountain Cove, Fayette, WV

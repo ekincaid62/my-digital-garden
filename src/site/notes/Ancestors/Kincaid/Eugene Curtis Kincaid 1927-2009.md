@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/eugene-curtis-kincaid-1927-2009/","tags":["Eugene-Kincaid"]}
 ---
 
-***<font color="#00b0f0">Date Created:</font> Friday, September 27th 2024, 6:08:41 pm*
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:34:59 pm***
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:56:53 pm***
 
 Born on  12/02/1927 in Mt Lookout, WV
 Death on 5/26/2009 in Pineville, NC

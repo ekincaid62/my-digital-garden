@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/tincher/hannah-tincher-1742-1819/","tags":["Hannah-Tincher"]}
 ---
 
-***<font color="#00b0f0">Date Created:</font> Sunday, February 2nd 2025, 8:29:29 pm*
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:45:11 pm***
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:07:59 pm***
 
 Born on  17442 in VA
 Death on 1819 in Greenbrier County, VA

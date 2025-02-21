@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/legg/retta-delphia-legg-1916-1997/","tags":["Retta-Legg"]}
 ---
 
-***<font color="#00b0f0">Date Created:</font> Saturday, January 25th 2025, 4:21:42 pm*
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:39:22 pm***
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:01:12 pm***
 
 Born on  4/10/1916 in Mt Lookout, WV
 Death on 5/10/1997 in Charleston, WV

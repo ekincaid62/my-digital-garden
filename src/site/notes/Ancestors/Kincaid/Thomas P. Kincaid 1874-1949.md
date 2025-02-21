@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/thomas-p-kincaid-1874-1949/","tags":["Thomas-P-Kincaid"]}
 ---
 
-***<font color="#00b0f0">Date Created:</font> Sunday, January 5th 2025, 5:29:51 pm*
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:37:50 pm***
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:59:22 pm***
 
 Born on  3/30/1874 in WV
 [[Vault/Records/Thomas P. Kincaid Obituary\|Death]] on 1949 in Nicholas County, WV

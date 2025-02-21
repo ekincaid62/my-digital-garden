@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/james-william-kincaid-1850-1919/","tags":["James-William-Kincaid"]}
 ---
 
-***<font color="#00b0f0">Date Created:</font> Thursday, August 22nd 2024, 9:02:20 pm*
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:35:33 pm***
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:57:31 pm***
 
 Born on  4/7/1850 in West Virginia
 Death on 7/3/1919 in Mt. Lookout WV

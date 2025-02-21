@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/ramsey/bartholomew-ramsey-1776-1843/","tags":["Bartholomew-Ramsey"]}
 ---
 
-***<font color="#00b0f0">Date Created:</font> Thursday, January 30th 2025, 10:20:18 pm*
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:43:06 pm***
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:05:22 pm***
 
 Born on  1776 in Berks County, PA
 Death on 1843 in Fayette County, VA

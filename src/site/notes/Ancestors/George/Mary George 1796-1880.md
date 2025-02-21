@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/george/mary-george-1796-1880/","tags":["Mary-George"]}
 ---
 
-***<font color="#00b0f0">Date Created:</font> Tuesday, February 18th 2025, 6:39:32 pm*
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:33:09 pm***
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:53:20 pm***
 
 Born on  1796 in <!-- link to place -->
 Death on 1880 in <!-- link to place -->

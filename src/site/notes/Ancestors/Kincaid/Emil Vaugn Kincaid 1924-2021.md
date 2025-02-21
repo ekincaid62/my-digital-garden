@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/emil-vaugn-kincaid-1924-2021/","tags":["Emil-Kincaid"]}
 ---
 
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:56:17 pm***
+
 Born on  2/18/1924 in Mt. Lookout,WV
 Death on 12/31/2021 in Woodbridge, VA
 

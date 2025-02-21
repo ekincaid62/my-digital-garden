@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/hawkins/nicholas-hawkins-1819-1869/","tags":["Nicholas-Hawkins"]}
 ---
 
-***<font color="#00b0f0">Date Created:</font> Sunday, February 16th 2025, 7:15:36 pm*
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:33:51 pm***
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:54:18 pm***
 
 Born on  3/9/1819 in Harrison County, KY
 Death on 12/13/1869 in Fayette County, WV

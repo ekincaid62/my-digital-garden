@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/nutter/elizabeth-nutter-1790-1869/","tags":["Elizabeth-Nutter"]}
 ---
 
-***<font color="#00b0f0">Date Created:</font> Thursday, February 6th 2025, 8:14:00 pm*
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:42:38 pm***
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:04:41 pm***
 
 Born on  1790 in <!-- link to place -->
 Death on 1869 in <!-- link to place -->

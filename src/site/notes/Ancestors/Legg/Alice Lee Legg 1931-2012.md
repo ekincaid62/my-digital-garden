@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/legg/alice-lee-legg-1931-2012/","tags":["Alice-Legg"]}
 ---
 
-***<font color="#00b0f0">Date Created:</font> Thursday, August 22nd 2024, 9:01:45 pm*
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:38:32 pm***
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:00:12 pm***
 
 Born on  7/29/1931 in Mt. Lookout WV
 Death on 6/13/2012 in Mt. Lookout WV

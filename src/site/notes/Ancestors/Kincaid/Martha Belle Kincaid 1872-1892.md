@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/martha-belle-kincaid-1872-1892/","tags":["Martha-Belle-Kincaid"]}
 ---
 
-***<font color="#00b0f0">Date Created:</font> Friday, January 24th 2025, 9:01:40 pm*
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:36:47 pm***
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:58:19 pm***
 
 Born on  2/2/1872 in WV
 Death on 1/24/1892 in WV

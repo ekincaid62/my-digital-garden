@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/hawkins/thomas-jefferson-hawkins-1794-1870/","tags":["Thomas-Jefferson-Hawkins"]}
 ---
 
-***<font color="#00b0f0">Date Created:</font> Wednesday, February 19th 2025, 10:01:47 am*
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:34:02 pm***
+*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:54:32 pm***
 
 Born on  1794 in <!-- link to place -->
 Death on 1870 in <!-- link to place -->
