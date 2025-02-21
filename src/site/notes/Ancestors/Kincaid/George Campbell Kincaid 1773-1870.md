@@ -20,8 +20,11 @@ Death on 1870 in <!-- link to place -->
 ---
 #### Spouse and Children
 [[Johannah Morris Baldwin\|Johannah Morris Baldwin]] on 23 Nov 1802 in VA
-<!-- Link to child -->
-
+Samuel B. Kincaid
+William C. Kincaid
+Willis F. Kincaid
+John Kincaid
+James Kincaid
 #### Census Records
 
 #### Land Transfers
