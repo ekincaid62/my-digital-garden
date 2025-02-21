@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/wiseman/margaret-wiseman-1777-1869/","tags":["Margaret-Wiseman"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:09:16 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:34:32 pm***
 
 Born on  1777 in Berks County, PA
 Death on 1869 in <!-- link to place -->

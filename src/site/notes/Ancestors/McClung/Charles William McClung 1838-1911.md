@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/mc-clung/charles-william-mc-clung-1838-1911/","tags":["Charles-William-McClung"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:02:25 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:26:42 pm***
 
 Often referred to as "Good Charley"
 Born on  3/1/1838 in WV

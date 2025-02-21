@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/thomas-kincaid-1740-1817/","tags":["Thomas-Kincaid"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:59:04 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:23:30 pm***
 
 Born on  1740 in Albemarle VA
 Death on 9/13/1817 in Greenbrier, WV

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/mc-clung/pansy-mc-clung-1880-1966/","tags":["Pansy-McClung"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:03:30 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:27:28 pm***
 
 Born on  9/6/1880 in Mt Lookout, WV
 Death on 5/17/1966 in <!-- link to place -->

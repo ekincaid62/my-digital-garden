@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/walker/lana-walker-1819-1911/","tags":["Lana-Walker"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:08:23 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:33:58 pm***
 
 Born on  1819 in <!-- link to place -->
 Death on 1911 in <!-- link to place -->

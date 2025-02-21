@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/walton/polly-walton-1810-1850/","tags":["Polly-Walton"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:08:53 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:34:20 pm***
 
 Born on  <!-- link to date --> in <!-- link to place -->
 Death on <!-- link to date --> in <!-- link to place -->

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/shaffer/joseph-allen-shaffer-1838-1911/","tags":["Joseph-Allen-Shaffer"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:06:22 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:32:34 pm***
 
 Born on  <!-- link to date --> in <!-- link to place -->
 Death on <!-- link to date --> in <!-- link to place -->

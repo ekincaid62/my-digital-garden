@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/elizabeth-kincaid-1785-1862/","tags":["Elizabeth-Kincaid"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:55:33 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:20:25 pm***
 
 Born on  1785 in Greenbrier VA
 Death on 18 Apr 1862 in Highland VA

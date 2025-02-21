@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/coleman/rachel-parish-coleman-1818-1894/","tags":["Rachel-Parish-Coleman"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:52:51 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:18:02 pm***
 
 Born on  1818 in <!-- link to place -->
 Death on 1894 in <!-- link to place -->

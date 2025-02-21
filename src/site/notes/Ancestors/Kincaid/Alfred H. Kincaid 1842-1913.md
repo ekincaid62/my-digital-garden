@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/alfred-h-kincaid-1842-1913/","tags":["Alfred-Kincaid"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:55:12 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:20:12 pm***
 
 Born on  4/6/1842 in Fayette County, WV
 Death on 2/14/1913 in Greene County, IL

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/mc-clung/john-mc-clung-1808-1886/","tags":["John-McClung"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:03:01 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:27:06 pm***
 
 Born on  1808 in <!-- link to place -->
 Death on 7/1886 in <!-- link to place -->

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/walker/elverton-p-walker-1770-1850/"}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:08:11 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:33:50 pm***
 
 Born on  1770 in Bath County, VA
 Death on 1850 in Nicholas County, VA

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/legg/william-mc-ginnis-legg-1849-1924/","tags":["William-McGinnis-Legg"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:02:15 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:26:30 pm***
 
 Born on  3/16/1849 in Leander WV
 Death on 9/16/1924 in Mt. Lookout WV

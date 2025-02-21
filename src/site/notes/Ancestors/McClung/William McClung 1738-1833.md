@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/mc-clung/william-mc-clung-1738-1833/","tags":["William-McClung"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:03:48 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:27:43 pm***
 
 Often referred to as "Grandfather Billie"
 Born on  1738 in <!-- link to place -->

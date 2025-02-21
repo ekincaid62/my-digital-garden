@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/perry/mary-level-perry-1799-1879/","tags":["Mary-Level-Perry"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:04:50 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:28:37 pm***
 
 Born on  1799 in <!-- link to place -->
 Death on 1879 in <!-- link to place -->

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/john-a-kincaid-1818-1891/","tags":["John-A-Kincaid"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:57:42 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:21:57 pm***
 
 Born on 1818 in Greenbrier County WV
 Death on 8/1891 in Fayette County WV

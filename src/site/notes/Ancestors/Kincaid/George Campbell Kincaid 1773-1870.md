@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/george-campbell-kincaid-1773-1870/","tags":["George-Campbell-Kincaid"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:57:12 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:21:16 pm***
 
 Born on  1773 in Greenbrier WV
 Death on 1870 in <!-- link to place -->

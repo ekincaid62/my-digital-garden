@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/shaffer/mamie-catherine-shaffer-1888-1962/","tags":["Mamie-Catherine-Shaffer"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:06:30 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:32:40 pm***
 
 Born on  10/22/1888 in Nicholas WV
 Death on 5/10/1962 in Nicholas WV

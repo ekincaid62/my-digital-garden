@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/emory-garfield-kincaid-1922-1992/","tags":["Emory-Garfield-Kincaid"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:56:31 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:20:39 pm***
 
 Born on  8/14/1922 in Mt. Lookout, WV
 Death on 7/11/1992 in Summersville WV

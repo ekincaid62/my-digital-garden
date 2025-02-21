@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/thomas-kincaid-1770-1831/","tags":["Thomas-Kincaid-Jr"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:59:13 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:23:57 pm***
 
 Born on  1770 in Augusta VA
 Death on 1831 in Madison, IN

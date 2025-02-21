@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/skaggs/laura-beatrice-skaggs-1901-1992/","tags":["Laura-Skaggs"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:07:47 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:33:36 pm***
 
 Born on  10/13/1901 in Victor WV
 Death on 2/9/1992 in Mt. Lookout WV

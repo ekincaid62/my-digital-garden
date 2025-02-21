@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/legg/mary-ann-legg-1921-1997/","tags":["Mary-Ann-Legg"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:01:02 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:25:39 pm***
 
 Born on  3/2/1921 in Mt Lookout, WV
 Death on 5/2/1997 in Charleston, WV

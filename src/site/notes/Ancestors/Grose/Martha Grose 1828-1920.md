@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/grose/martha-grose-1828-1920/"}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:53:50 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:18:40 pm***
 
 Born on  <11/19/1828 in <!-- link to place -->
 Death on <!-- link to date --> in <!-- link to place -->

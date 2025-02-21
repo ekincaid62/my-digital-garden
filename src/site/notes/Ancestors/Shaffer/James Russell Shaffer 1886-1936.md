@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/shaffer/james-russell-shaffer-1886-1936/","tags":["James-Russell-Shaffer"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:06:14 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:32:24 pm***
 
 Born on  6/9/1886 in <!-- link to place -->
 Death on <!-- link to date --> in <!-- link to place -->

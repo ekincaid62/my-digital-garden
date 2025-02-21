@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/keenan/james-marshall-keenan-1828-1884/"}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:54:41 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:19:55 pm***
 
 Born on  1828 in <!-- link to place -->
 Death on 1884 in <!-- link to place -->

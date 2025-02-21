@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/william-m-kincaid-1787-1860/","tags":["William-Kincaid"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:59:45 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:24:35 pm***
 
 Some refer to him as "Moccasin Bill"
 Born on  1787 in Greenbrier VA

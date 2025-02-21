@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/skaggs/james-skaggs-1820-1899/","tags":["James-Skaggs"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:07:26 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:33:20 pm***
 
 Born on  6/23/1820 in <!-- link to place -->
 Death on <!-- link to date --> in <!-- link to place -->

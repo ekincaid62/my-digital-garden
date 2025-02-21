@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/skaggs/james-woodson-skaggs-1854-1937/","tags":["James-Woodson-Skaggs"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:07:35 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:33:26 pm***
 
 Born on  3/17/1854 in <!-- link to place -->
 Death on 4/22/1937 in Fayette County, WV

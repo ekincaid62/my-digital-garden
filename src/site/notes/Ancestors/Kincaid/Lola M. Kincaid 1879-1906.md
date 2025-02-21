@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/lola-m-kincaid-1879-1906/","tags":["Lola-M-Kincaid"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:57:59 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:22:26 pm***
 
 Born on  7/17/1879 in WV
 Death on 1906 

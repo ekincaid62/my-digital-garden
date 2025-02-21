@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/ronnie-lynn-kincaid-1952-2010/","tags":["Ronnie-Lynn-Kincaid"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:58:46 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:23:08 pm***
 
 Born on  4/26/1952 in Fayette County, WV
 Death on 10/10/2010 in Mt Lookout, WV

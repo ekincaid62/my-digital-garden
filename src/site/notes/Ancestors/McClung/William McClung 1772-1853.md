@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/mc-clung/william-mc-clung-1772-1853/","tags":["William-McClung-ChunkyBillie"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:04:00 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:27:56 pm***
 
 Often referred to as "Chunky Billie"
 Born on  4/11/1772 in <!-- link to place -->

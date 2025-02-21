@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/shaffer/christopher-clayton-shaffer-1864-1944/","tags":["Christopher-Clayton-Shaffer"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:05:51 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:32:00 pm***
 
 Born on  1/26/1864 in Mt. Lookout, WV
 Death on 1944 in Mt. Lookout, WV

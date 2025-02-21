@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/shaffer/christopher-shaffer-1753-1847/","tags":["Christopher-Shaffer"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:06:05 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:32:16 pm***
 
 Born on  1753 in <!-- link to place -->
 Death on 1847 in <!-- link to place -->

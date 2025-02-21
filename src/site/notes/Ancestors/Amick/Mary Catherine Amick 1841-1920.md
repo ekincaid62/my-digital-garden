@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/amick/mary-catherine-amick-1841-1920/","tags":["Mary-C-Amick"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 3:52:36 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:17:49 pm***
 
 Born on  11/9/1841 in VA
 Death on 1920 in <!-- link to place -->

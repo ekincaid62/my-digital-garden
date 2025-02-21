@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/mc-clung/joseph-mc-clung-1777-1855/","tags":["Joseph-McClung"]}
 ---
 
-*<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:03:11 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:27:15 pm***
 
 Often referred to as "Cranberry Joe"
 Born on  12/20/1777 in <!-- link to place -->
