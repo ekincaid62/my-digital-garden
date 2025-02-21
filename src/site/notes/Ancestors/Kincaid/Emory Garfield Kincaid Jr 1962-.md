@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/emory-garfield-kincaid-jr-1962/"}
 ---
 
+<font color="#00b0f0">Date Created:</font> Thursday, August 22nd 2024, 9:02:20 pm
+<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 2:45:01 pm
+
 Born on  6/20/1962 in Summersville, WV
 
 ---

@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/ancestors/alderson/mary-alderson-1787-1870/","tags":["Mary-Alderson"]}
 ---
 
+Date created '= this.tags'
+
 Born on  5/13/1787 in <!-- link to place -->
 Death on 5/13/1870 in <!-- link to place -->
 
