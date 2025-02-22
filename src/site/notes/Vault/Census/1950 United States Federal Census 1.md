@@ -7,4 +7,4 @@ Household
 Fred Legg 64
 Mamie 60
 Charles W 22
-![Pasted image 20240705192750.png](/img/user/assets/Pasted%20image%2020240705192750.png)
+![1950 United States Federal Census.jpg](/img/user/assets/1950%20United%20States%20Federal%20Census.jpg)

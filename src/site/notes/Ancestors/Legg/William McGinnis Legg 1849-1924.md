@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/legg/william-mc-ginnis-legg-1849-1924/","tags":["William-McGinnis-Legg"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:26:30 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 11:25:34 pm***
 
 Born on  3/16/1849 in Leander WV
 Death on 9/16/1924 in Mt. Lookout WV
@@ -36,6 +36,7 @@ Death on 9/16/1924 in Mt. Lookout WV
 [[Esta Legg 1894-\|Esta Legg 1894-]]
 
 #### Census Records
+[[Vault/Census/1920 United States Federal Census\|1920 United States Federal Census]]
 [[Vault/Census/1910 United States Federal Census Record.4\|1910 United States Federal Census Record]]
 [[Vault/Census/1900 United States Federal Census Record.5\|1900 United States Federal Census Record]]
 [[Vault/Census/1880 United States Federal Census Record.4\|1880 United States Federal Census Record]]

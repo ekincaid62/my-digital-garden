@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/hawkins/mary-ann-hawkins-1853-1926/","tags":["Mary-Ann-Hawkins"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:18:56 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 11:31:44 pm***
 
 Born on  2/26/1853 in Fayette, WV
 Death on 6/17/1926 in Mt Lookout, WV
@@ -30,9 +30,11 @@ Death on 6/17/1926 in Mt Lookout, WV
 [[Esta Legg 1894-\|Esta Legg 1894-]]
 
 #### Census Records
+[[Vault/Census/1920 United States Federal Census\|1920 United States Federal Census]]
 [[Vault/Census/1910 United States Federal Census Record.4\|1910 United States Federal Census Record]]
 [[Vault/Census/1900 United States Federal Census Record.5\|1900 United States Federal Census Record]]
 [[Vault/Census/1880 United States Federal Census Record.4\|1880 United States Federal Census Record]]
+[[Vault/Census/1860 United States Federal Census Record.4\|1860 United States Federal Census Record]]
 #### Land Transfers
 
 #### Biography

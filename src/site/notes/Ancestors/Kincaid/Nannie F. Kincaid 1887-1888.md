@@ -10,7 +10,7 @@ Death on 1888 in Mt Lookout, WV
 ---
 #### Parents
 
-[[Ancestors/Kincaid/James William Kincaid 1850-1919\|James William Kincaid 1850-1919]] and [[Ancestors/Keenan/Sarah Virginia Keenan 1849-\|Sarah Virginia Keenan 1849-]]
+[[Ancestors/Kincaid/James William Kincaid 1850-1919\|James William Kincaid 1850-1919]] and [[Ancestors/Keenan/Sarah Virginia Keenan 1849-1920\|Sarah Virginia Keenan 1849-1920]]
 #### Siblings
 [[Ancestors/Kincaid/Martha Belle Kincaid 1872-1892\|Martha Belle Kincaid 1872-1892]] 
 [[Ancestors/Kincaid/Thomas P. Kincaid 1874-1949\|Thomas P. Kincaid 1874-1949]] 

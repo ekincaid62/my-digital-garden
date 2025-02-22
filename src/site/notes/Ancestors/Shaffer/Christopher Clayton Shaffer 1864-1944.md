@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/shaffer/christopher-clayton-shaffer-1864-1944/","tags":["Christopher-Clayton-Shaffer"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:32:00 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 8:22:15 pm***
 
 Born on  1/26/1864 in Mt. Lookout, WV
 Death on 1944 in Mt. Lookout, WV
@@ -36,6 +36,11 @@ Death on 1944 in Mt. Lookout, WV
 
 #### Census Records
 [[Vault/Census/1940 United States Federal Census 1\|1940 United States Federal Census]]
+[[Vault/Census/1930 United States Federal Census Record 2\|1930 United States Federal Census Record]]
+[[Vault/Census/1920 United States Federal Census Record.4\|1920 United States Federal Census Record]]
+[[Vault/Census/1910 United States Federal Census Record\|1910 United States Federal Census Record]]
+[[Vault/Census/1900 United States Federal Census Record.4\|1900 United States Federal Census Record]]
+[[Vault/Census/1880 United States Federal Census Record 1\|1880 United States Federal Census Record]]
 #### Land Transfers
 
 #### Biography

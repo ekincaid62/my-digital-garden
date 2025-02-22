@@ -38,7 +38,7 @@ Death on 1870 in Nicholas County, VA
 
 Perhaps Elizabeth Jane is incorrect the [History of the Kincaid Family](https://drive.google.com/file/d/0B0oZv34v0ajXVUstZkJEV2hUdW8/view?usp=sharing&resourcekey=0-gyR8XsVV5zkjlqS8Sd_HRw) mentions Betty being the only daughter.
 #### Census Records
-[[Vault/Census/1860 United States Federal Census\|1860 United States Federal Census]]
+[[Vault/Census/1860 United States Federal Census\|Vault/Census/1860 United States Federal Census]]
 [[Vault/Census/1850 United States Federal Census\|1850 United States Federal Census]]
 [[Vault/Census/1840 Census Record\|1840 Census Record]]
 

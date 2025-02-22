@@ -37,7 +37,7 @@ The [[Vault/Records/Kincaid Family Bible\|Kincaid Family Bible]] shows John bein
 
 #### Census Records
 [[Vault/Census/1880 United States Federal Census Record\|1880 United States Federal Census]]
-[[Vault/Census/1870 United States Federal Census\|1870 United States Federal Census]]
+[[Vault/Census/1870 United States Federal Census\|Vault/Census/1870 United States Federal Census]]
 [[Vault/Census/1860 United States Federal Census Record\|1860 United States Census]]
 [[Vault/Census/1850 United States Federal Census Record\|1850 United States Census]]
 

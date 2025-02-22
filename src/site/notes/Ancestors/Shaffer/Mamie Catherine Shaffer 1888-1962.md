@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/shaffer/mamie-catherine-shaffer-1888-1962/","tags":["Mamie-Catherine-Shaffer"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:32:40 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 8:23:31 pm***
 
 Born on  10/22/1888 in Nicholas WV
 Death on 5/10/1962 in Nicholas WV
@@ -33,10 +33,10 @@ Stillborn Legg 1920-1920
 
 #### Census Records
 [[Vault/Census/1950 United States Federal Census 1\|1950 United States Federal Census]]
-[[Vault/Census/1940 United States Federal Census 2\|1940 United States Federal Census]]
+[[Vault/Census/1940 United States Federal Census 1\|1940 United States Federal Census]]
 [[Vault/Census/1930 United States Federal Census Record 2\|1930 United States Federal Census Record]]
-[[Vault/Census/1920 United States Federal Census Record.3\|1920 United States Federal Census Record]]
-Missing the 1910 Census
+[[Vault/Census/1920 United States Federal Census Record.4\|1920 United States Federal Census Record]]
+[[Vault/Census/1910 United States Federal Census Record\|1910 United States Federal Census Record]]
 [[Vault/Census/1900 United States Federal Census Record.4\|1900 United States Federal Census Record]]
 #### Land Transfers
 

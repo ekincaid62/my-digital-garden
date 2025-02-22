@@ -30,7 +30,7 @@ Stillborn Legg 1920-1920
 [[George Warren Kincaid 1968-\|George Warren Kincaid 1968-]]
 
 #### Census Records
-[[Vault/Census/1950 United States Federal Census\|1950 United States Federal Census]]
+[[Vault/Census/1950 United States Federal Census\|Vault/Census/1950 United States Federal Census]]
 [[Vault/Census/1940 United States Federal Census 1\|1940 United States Federal Census]]
 #### Land Transfers
 

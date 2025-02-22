@@ -19,7 +19,7 @@ Death on 7/3/1919 in Mt. Lookout WV
 
 ---
 #### Spouse and Children
-[[Ancestors/Keenan/Sarah Virginia Keenan 1849-\|Sarah Virginia Keenan 1849-]] married 3/7/1871 in Fayette County WV
+[[Ancestors/Keenan/Sarah Virginia Keenan 1849-1920\|Sarah Virginia Keenan 1849-1920]] married 3/7/1871 in Fayette County WV
 [[Ancestors/Kincaid/Martha Belle Kincaid 1872-1892\|Martha Belle Kincaid 1872-1892]]
 [[Ancestors/Kincaid/Thomas P. Kincaid 1874-1949\|Thomas P. Kincaid 1874-1949]]
 [[Ancestors/Kincaid/Lola M. Kincaid 1879-1906\|Lola M. Kincaid 1879-1906]]

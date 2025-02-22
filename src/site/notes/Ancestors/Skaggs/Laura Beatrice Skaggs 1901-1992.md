@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/skaggs/laura-beatrice-skaggs-1901-1992/","tags":["Laura-Skaggs"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:33:36 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 9:16:47 pm***
 
 Born on  10/13/1901 in Victor WV
 Death on 2/9/1992 in Mt. Lookout WV
@@ -31,8 +31,8 @@ James and Harriet were first cousins
 [[Vault/Census/1950 United States Federal Census\|1950 United States Federal Census]]
 [[Vault/Census/1940 United States Federal Census\|1940 United States Federal Census]]
 [[Vault/Census/1930 United States Federal Census Record\|1930 United States Federal Census]]
-[[Vault/Census/1920 United States Federal Census Record 1\|1920 United States Federal Census Record 1]]
-[[Vault/Census/1910 United States Federal Census Record 1\|1910 United States Federal Census Record 1]]
+[[Vault/Census/1920 United States Federal Census Record 1\|1920 United States Federal Census Record]]
+[[Vault/Census/1910 United States Federal Census Record 1\|1910 United States Federal Census Record]]
 #### Land Transfers
 
 #### Biography

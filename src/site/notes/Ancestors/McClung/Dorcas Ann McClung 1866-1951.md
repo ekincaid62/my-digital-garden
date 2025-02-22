@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/mc-clung/dorcas-ann-mc-clung-1866-1951/","tags":["Dorcas-McClung"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:26:54 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 8:29:39 pm***
 
 Born on  3/18/1866 in Mt Lookout, WV
 Death on 6/6/1951 in Mt Lookout, WV
@@ -30,7 +30,12 @@ Death on 6/6/1951 in Mt Lookout, WV
 [[Leancy Shaffer 1904-\|Leancy Shaffer 1904-]]
 
 #### Census Records
+[[Vault/Census/1950 United States Federal Census\|1950 United States Federal Census]]
 [[Vault/Census/1940 United States Federal Census 1\|1940 United States Federal Census]]
+[[Vault/Census/1930 United States Federal Census Record 2\|1930 United States Federal Census Record]]
+[[Vault/Census/1920 United States Federal Census Record.4\|1920 United States Federal Census Record]]
+[[Vault/Census/1910 United States Federal Census Record\|1910 United States Federal Census Record]]
+[[Vault/Census/1900 United States Federal Census Record.4\|1900 United States Federal Census Record]]
 #### Land Transfers
 
 #### Biography

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1930-united-states-federal-census-record-2/","tags":["Clayton-Shaffer","Mamie-Catherine-Shaffer","Fred-Legg","Dorcas-McClung","Retta-Legg","Virginia-Legg","Mary-Ann-Legg","June-Legg","Charles-William-Legg","Kata-Legg"]}
+{"dg-publish":true,"permalink":"/vault/census/1930-united-states-federal-census-record-2/","tags":["Christopher-Clayton-Shaffer","Mamie-Catherine-Shaffer","Fred-Legg","Dorcas-McClung","Retta-Legg","Virginia-Legg","Mary-Ann-Legg","June-Legg","Charles-William-Legg","Kata-Legg"]}
 ---
 
 Household 93
