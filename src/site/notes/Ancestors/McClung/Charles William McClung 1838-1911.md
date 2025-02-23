@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/mc-clung/charles-william-mc-clung-1838-1911/","tags":["Charles-William-McClung"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:26:42 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, February 23rd 2025, 12:12:51 pm***
 
 Often referred to as "Good Charley"
 Born on  3/1/1838 in WV
@@ -33,6 +33,11 @@ Death on 6/24/1911 in Nicholas County, WV
 [[Mary Jane McClung 1879-1963\|Mary Jane McClung 1879-1963]]
 
 #### Census Records
+[[Vault/Census/1910 United States Federal Census\|1910 United States Federal Census]]
+[[Vault/Census/1900 United States Federal Census 1\|1900 United States Federal Census]]
+[[Vault/Census/1880 United States Federal Census 1\|1880 United States Federal Census]]
+[[Vault/Census/1870 United States Federal Census 3\|1870 United States Federal Census]]
+[[Vault/Census/1850 United States Federal Census 5\|1850 United States Federal Census]] Unsure about this
 
 #### Land Transfers
 

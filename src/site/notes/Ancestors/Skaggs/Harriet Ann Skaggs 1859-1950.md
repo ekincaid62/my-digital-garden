@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/skaggs/harriet-ann-skaggs-1859-1950/","tags":["Harriet-Ann-Skaggs"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 11:15:02 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, February 23rd 2025, 10:06:26 am***
 
 Born on  3/1859 in <!-- link to place -->
 Death on 8/11/1950 in Fayette County, WV
@@ -10,7 +10,7 @@ Death on 8/11/1950 in Fayette County, WV
 ---
 #### Parents
 
-[[Ancestors/Skaggs/James Skaggs 1820-1899\|James Skaggs 1820-1899]] and [[Ancestors/Porter/Martha Jane Porter 1825-1912\|Martha Jane Porter 1825-1912]]
+[[Ancestors/Skaggs/James Preston Skaggs 1820-1899\|James Preston Skaggs 1820-1899]] and [[Ancestors/Porter/Martha Jane Porter 1825-1912\|Martha Jane Porter 1825-1912]]
 #### Siblings
 <!-- Link to sibling -->
 

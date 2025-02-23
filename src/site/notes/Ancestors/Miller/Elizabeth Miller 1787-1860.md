@@ -24,7 +24,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 [[Francis Skaggs\|Francis Skaggs]]
 [[Cynthia Skaggs\|Cynthia Skaggs]]
 [[Hiram Skaggs\|Hiram Skaggs]]
-[[Ancestors/Skaggs/James Skaggs 1820-1899\|James Skaggs 1820-1899]]
+[[Ancestors/Skaggs/James Preston Skaggs 1820-1899\|James Preston Skaggs 1820-1899]]
 [[Ancestors/Skaggs/Cyrus M. Skaggs 1822-1899\|Cyrus M. Skaggs 1822-1899]]
 [[Elizabeth Skaggs\|Elizabeth Skaggs]]
 [[Leah Skaggs\|Leah Skaggs]]

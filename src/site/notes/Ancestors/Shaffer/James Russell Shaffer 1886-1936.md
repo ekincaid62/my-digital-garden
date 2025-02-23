@@ -40,7 +40,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 [[Margaret Shaffer 1936-\|Margaret Shaffer 1936-]]
 
 #### Census Records
-[[Vault/Census/1900 United States Federal Census\|1900 United States Federal Census]]
+[[Vault/Census/1900 United States Federal Census\|Vault/Census/1900 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

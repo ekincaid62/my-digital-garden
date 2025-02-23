@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/mc-clung/dorcas-ann-mc-clung-1866-1951/","tags":["Dorcas-McClung"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 8:29:39 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, February 23rd 2025, 12:13:18 pm***
 
 Born on  3/18/1866 in Mt Lookout, WV
 Death on 6/6/1951 in Mt Lookout, WV
@@ -36,6 +36,8 @@ Death on 6/6/1951 in Mt Lookout, WV
 [[Vault/Census/1920 United States Federal Census Record.4\|1920 United States Federal Census Record]]
 [[Vault/Census/1910 United States Federal Census Record\|1910 United States Federal Census Record]]
 [[Vault/Census/1900 United States Federal Census Record.4\|1900 United States Federal Census Record]]
+[[Vault/Census/1880 United States Federal Census 1\|1880 United States Federal Census]]
+[[Vault/Census/1870 United States Federal Census 3\|1870 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

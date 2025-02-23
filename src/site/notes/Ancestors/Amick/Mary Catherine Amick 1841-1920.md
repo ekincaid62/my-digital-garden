@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/amick/mary-catherine-amick-1841-1920/","tags":["Mary-C-Amick"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:17:49 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, February 23rd 2025, 12:13:07 pm***
 
 Born on  11/9/1841 in VA
 Death on 1920 in <!-- link to place -->
@@ -27,7 +27,11 @@ Death on 1920 in <!-- link to place -->
 
 
 #### Census Records
-
+[[Vault/Census/1910 United States Federal Census\|1910 United States Federal Census]]
+[[Vault/Census/1900 United States Federal Census 1\|1900 United States Federal Census]]
+[[Vault/Census/1880 United States Federal Census 1\|1880 United States Federal Census]]
+[[Vault/Census/1870 United States Federal Census 3\|1870 United States Federal Census]]
+[[Vault/Census/1850 United States Federal Census 6\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography
