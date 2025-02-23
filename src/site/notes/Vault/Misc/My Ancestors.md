@@ -5,7 +5,7 @@
 
 The image below has hot links to each of my ancestors. The links will open into a new tab. There are a number of them that I haven't vetted and won't link to anything, As I find time I hope to get more information added. The names in the graphics may be incorrect and will be corrected if necessary. I have spent the majority of my time on the Kincaid line and you will find it much more complete. I certainly welcome any help with additional information. 
 
-<!--- Image Map Generated for "Where the Waters flow North" --->
+<!-- Image Map Generated for "Where the Waters flow North" -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2455 1620">
   <image width="2455" height="1620" xlink:href="/img/user/assets/Tree.png"></image> <a xlink:href="/ancestors/kincaid/emory-garfield-kincaid-jr-1962/" target="_blank">
     <circle cx="1226" cy="1234" r="106" fill="#ffffff" opacity="0">
@@ -38,9 +38,9 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="712,1394,695,1334,686,1269,684,1206,693,1145,912,1180,908,1232,914,1282,923,1325" fill="#ffffff" opacity="0">
      <title>James William Kincaid 1850-1919</title>
      </polygon>
-  </a><a xlink:href="/ancestors/kincaid/keenan/sarah-virginia-keenan-1849/" target="_blank">
+  </a><a xlink:href="/ancestors/kincaid/keenan/sarah-virginia-keenan-1849-1920/" target="_blank">
     <polygon points="691,1141,706,1078,728,1021,754,965,788,913,966,1041,942,1082,923,1136,914,1175" fill="#ffffff" opacity="0">
-     <title>Sarah Virginia Keenan 1849-</title>
+     <title>Sarah Virginia Keenan 1849-1920</title>
      </polygon>
   </a><a xlink:href="/ancestors/skaggs/james-woodson-skaggs-1854-1937/" target="_blank">
     <polygon points="788,911,832,859,875,820,927,781,979,748,1081,943,1042,967,1005,995,968,1039" fill="#ffffff" opacity="0">
@@ -74,7 +74,7 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="478,1286,474,1243,474,1197,478,1154,485,1113,689,1147,682,1214,682,1269" fill="#ffffff" opacity="0">
      <title>Olive Walker 1823-1856</title>
      </polygon>
-  </a><a xlink:href="/james-marshall-keenan-1828-1884/" target="_blank">
+  </a><a xlink:href="/ancestors/keenan/james-marshall-keenan-1828-1884/" target="_blank">
     <polygon points="485,1108,493,1063,500,1026,515,982,530,943,723,1021,704,1080,689,1143" fill="#ffffff" opacity="0">
      <title>James Marshall Keenan 1828-1884</title>
      </polygon>

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/ramsey/elizabeth-ramsey-1813-1902/","tags":["Elizabeth-Ramsey"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:31:33 pm***
+***<font color="#00b0f0">Last Modified:</font> Saturday, February 22nd 2025, 11:22:36 am***
 
 Born on  11/6/1812 in Monroe County, VA
 Death on 12/11/1902 in Fayette County, WV
@@ -17,10 +17,17 @@ Death on 12/11/1902 in Fayette County, WV
 ---
 #### Spouse and Children
 [[Ancestors/Legg/William Legg 1817-1895\|William Legg 1817-1895]] on 12/7/1836 in Fayette County, WV
-<!-- Link to child -->
+[[Charles Henderson Legg 1839-1929\|Charles Henderson Legg 1839-1929]]
+[[Margaret Hamilton Legg 1841-1920\|Margaret Hamilton Legg 1841-1920]]
+[[Elizabeth Mary Legg 1844-1925\|Elizabeth Mary Legg 1844-1925]]
+[[Nancy Jennie Legg 1846-1878\|Nancy Jennie Legg 1846-1878]]
+[[Ancestors/Legg/William McGinnis Legg 1849-1924\|William McGinnis Legg 1849-1924]]
+[[Martha Ann Legg 1851-1881\|Martha Ann Legg 1851-1881]]
+[[Andrew Dixon Legg 1854-1928\|Andrew Dixon Legg 1854-1928]]
+[[Josiah Dwight Legg 1857-1940\|Josiah Dwight Legg 1857-1940]]
 
 #### Census Records
-
+[[Vault/Census/1850 United States Federal Census 2\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

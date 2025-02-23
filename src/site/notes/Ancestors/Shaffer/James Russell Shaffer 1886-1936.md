@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/shaffer/james-russell-shaffer-1886-1936/","tags":["James-Russell-Shaffer"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:32:24 pm***
+***<font color="#00b0f0">Last Modified:</font> Saturday, February 22nd 2025, 11:55:18 am***
 
 Born on  6/9/1886 in <!-- link to place -->
 Death on <!-- link to date --> in <!-- link to place -->
@@ -40,7 +40,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 [[Margaret Shaffer 1936-\|Margaret Shaffer 1936-]]
 
 #### Census Records
-
+[[Vault/Census/1900 United States Federal Census\|1900 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/legg/william-legg-1817-1895/","tags":["William-Legg"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:26:20 pm***
+***<font color="#00b0f0">Last Modified:</font> Saturday, February 22nd 2025, 11:16:09 am***
 
 Born on  4/13/1817 in Monroe County WV
 Death on 3/22/1895 in Leander WV
@@ -20,7 +20,7 @@ Death on 3/22/1895 in Leander WV
 
 ---
 #### Spouse and Children
-[[Elizabeth "Letty" Ramsey 1813-1902\|Elizabeth "Letty" Ramsey 1813-1902]] on 12/7/1836 in Fayette County WV
+[[Ancestors/Ramsey/Elizabeth Ramsey 1813-1902\|Elizabeth Ramsey 1813-1902]] on 12/7/1836 in Fayette County WV
 [[Charles Henderson Legg 1839-1929\|Charles Henderson Legg 1839-1929]]
 [[Margaret Hamilton Legg 1841-1920\|Margaret Hamilton Legg 1841-1920]]
 [[Elizabeth Mary Legg 1844-1925\|Elizabeth Mary Legg 1844-1925]]
@@ -31,7 +31,7 @@ Death on 3/22/1895 in Leander WV
 [[Josiah Dwight Legg 1857-1940\|Josiah Dwight Legg 1857-1940]]
 
 #### Census Records
-
+[[Vault/Census/1850 United States Federal Census 2\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

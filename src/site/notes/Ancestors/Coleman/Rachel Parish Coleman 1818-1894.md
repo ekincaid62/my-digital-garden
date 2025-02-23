@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/coleman/rachel-parish-coleman-1818-1894/","tags":["Rachel-Parish-Coleman"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:18:02 pm***
+***<font color="#00b0f0">Last Modified:</font> Saturday, February 22nd 2025, 7:36:40 pm***
 
 Born on  1818 in <!-- link to place -->
 Death on 1894 in <!-- link to place -->
@@ -19,7 +19,9 @@ Death on 1894 in <!-- link to place -->
 [[Ancestors/Skaggs/Cyrus M. Skaggs 1822-1899\|Cyrus M. Skaggs 1822-1899]]   married <!-- link to date --> in <!-- link to place -->.
 [[Ancestors/Skaggs/James Woodson Skaggs 1854-1937\|James Woodson Skaggs 1854-1937]]
 #### Census Records
-
+[[Vault/Census/1870 United States Federal Census 1\|1870 United States Federal Census]]
+[[Vault/Census/1860 United States Federal Census 2\|1860 United States Federal Census]]
+[[Vault/Census/1850 United States Federal Census 4\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/george/mary-george-1796-1880/","tags":["Mary-George"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:18:19 pm***
+***<font color="#00b0f0">Last Modified:</font> Saturday, February 22nd 2025, 12:15:11 pm***
 
 Born on  1796 in <!-- link to place -->
 Death on 1880 in <!-- link to place -->
@@ -28,7 +28,7 @@ Death on 1880 in <!-- link to place -->
 [[Will Shaffer\|Will Shaffer]]
 
 #### Census Records
-
+[[Vault/Census/1850 United States Federal Census 3\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/legg/william-mc-ginnis-legg-1849-1924/","tags":["William-McGinnis-Legg"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 11:25:34 pm***
+***<font color="#00b0f0">Last Modified:</font> Saturday, February 22nd 2025, 11:14:57 am***
 
 Born on  3/16/1849 in Leander WV
 Death on 9/16/1924 in Mt. Lookout WV
@@ -40,7 +40,7 @@ Death on 9/16/1924 in Mt. Lookout WV
 [[Vault/Census/1910 United States Federal Census Record.4\|1910 United States Federal Census Record]]
 [[Vault/Census/1900 United States Federal Census Record.5\|1900 United States Federal Census Record]]
 [[Vault/Census/1880 United States Federal Census Record.4\|1880 United States Federal Census Record]]
-
+[[Vault/Census/1850 United States Federal Census 2\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

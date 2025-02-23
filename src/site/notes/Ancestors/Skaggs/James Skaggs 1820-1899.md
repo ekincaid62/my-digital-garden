@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/skaggs/james-skaggs-1820-1899/","tags":["James-Skaggs"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:33:20 pm***
+***<font color="#00b0f0">Last Modified:</font> Saturday, February 22nd 2025, 4:49:28 pm***
 
 Born on  6/23/1820 in <!-- link to place -->
 Death on <!-- link to date --> in <!-- link to place -->
@@ -31,7 +31,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 [[Ancestors/Skaggs/Harriet Ann Skaggs 1859-1950\|Harriet Ann Skaggs 1859-1950]] 
 
 #### Census Records
-
+[[Vault/Census/1870 United States Federal Census 1\|1870 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

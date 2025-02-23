@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/john-a-kincaid-1818-1891/","tags":["John-A-Kincaid"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:21:57 pm***
+***<font color="#00b0f0">Last Modified:</font> Saturday, February 22nd 2025, 3:25:00 pm***
 
 Born on 1818 in Greenbrier County WV
 Death on 8/1891 in Fayette County WV
@@ -37,7 +37,7 @@ The [[Vault/Records/Kincaid Family Bible\|Kincaid Family Bible]] shows John bein
 
 #### Census Records
 [[Vault/Census/1880 United States Federal Census Record\|1880 United States Federal Census]]
-[[Vault/Census/1870 United States Federal Census\|Vault/Census/1870 United States Federal Census]]
+[[Vault/Census/1870 United States Federal Census\|1870 United States Federal Census]]
 [[Vault/Census/1860 United States Federal Census Record\|1860 United States Census]]
 [[Vault/Census/1850 United States Federal Census Record\|1850 United States Census]]
 

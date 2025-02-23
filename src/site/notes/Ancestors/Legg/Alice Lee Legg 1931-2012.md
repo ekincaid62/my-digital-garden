@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/legg/alice-lee-legg-1931-2012/","tags":["Alice-Legg"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:24:54 pm***
+***<font color="#00b0f0">Last Modified:</font> Saturday, February 22nd 2025, 11:01:26 am***
 
 Born on  7/29/1931 in Mt. Lookout WV
 Death on 6/13/2012 in Mt. Lookout WV
@@ -30,7 +30,7 @@ Stillborn Legg 1920-1920
 [[George Warren Kincaid 1968-\|George Warren Kincaid 1968-]]
 
 #### Census Records
-[[Vault/Census/1950 United States Federal Census\|Vault/Census/1950 United States Federal Census]]
+[[Vault/Census/1950 United States Federal Census\|1950 United States]]
 [[Vault/Census/1940 United States Federal Census 1\|1940 United States Federal Census]]
 #### Land Transfers
 

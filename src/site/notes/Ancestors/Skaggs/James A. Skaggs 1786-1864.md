@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/skaggs/james-a-skaggs-1786-1864/","tags":["James-A-Skaggs"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:33:13 pm***
+***<font color="#00b0f0">Last Modified:</font> Saturday, February 22nd 2025, 7:39:26 pm***
 
 Born on  1786 in <!-- link to place -->
 Death on 1864 in <!-- link to place -->
@@ -31,7 +31,7 @@ Death on 1864 in <!-- link to place -->
 [[Edna Skaggs\|Edna Skaggs]]
 
 #### Census Records
-
+[[Vault/Census/1860 United States Federal Census 2\|1860 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

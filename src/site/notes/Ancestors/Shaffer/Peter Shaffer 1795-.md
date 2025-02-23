@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/shaffer/peter-shaffer-1795/","tags":["Peter-Shaffer"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:32:54 pm***
+***<font color="#00b0f0">Last Modified:</font> Saturday, February 22nd 2025, 12:09:59 pm***
 
 Born on  2/24/1795 in Blue Sulphur Springs, Greenbrier County, VA
 Death on <!-- link to date --> in <!-- link to place -->
@@ -34,7 +34,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 [[Will Shaffer\|Will Shaffer]]
 
 #### Census Records
-
+[[Vault/Census/1850 United States Federal Census 3\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography
