@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/wiseman/rebecca-wiseman-1822-1911/","tags":["Rebecca-Wiseman"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:49:12 pm***
+***<font color="#00b0f0">Last Modified:</font> Wednesday, February 26th 2025, 8:04:01 pm***
 
 Born on  6/4/1822 in Fayette County, WV
 Death on 4/1/1911 in Fayette County, WV
@@ -20,7 +20,10 @@ Death on 4/1/1911 in Fayette County, WV
 <!-- Link to child -->
 
 #### Census Records
-
+[[Vault/Census/1880 United States Federal Census Record.5\|1880 United States Federal Census Record]]
+[[Vault/Census/1870 United States Federal Census Record.2\|1870 United States Federal Census Record]]
+[[Vault/Census/1860 United States Federal Census Record.3\|1860 United States Federal Census Record]]
+[[Vault/Census/1850 United States Federal Census 1\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

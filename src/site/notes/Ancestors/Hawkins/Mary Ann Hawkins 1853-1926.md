@@ -34,7 +34,7 @@ Death on 6/17/1926 in Mt Lookout, WV
 [[Vault/Census/1910 United States Federal Census Record.4\|1910 United States Federal Census Record]]
 [[Vault/Census/1900 United States Federal Census Record.5\|1900 United States Federal Census Record]]
 [[Vault/Census/1880 United States Federal Census Record.4\|1880 United States Federal Census Record]]
-[[Vault/Census/1860 United States Federal Census Record.4\|1860 United States Federal Census Record]]
+[[1860 United States Federal Census Record.4\|1860 United States Federal Census Record]]
 #### Land Transfers
 
 #### Biography

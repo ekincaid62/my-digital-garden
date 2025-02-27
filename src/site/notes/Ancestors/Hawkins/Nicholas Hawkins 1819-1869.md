@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/hawkins/nicholas-hawkins-1819-1869/","tags":["Nicholas-Hawkins"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:19:03 pm***
+***<font color="#00b0f0">Last Modified:</font> Wednesday, February 26th 2025, 8:03:43 pm***
 
 Born on  3/9/1819 in Harrison County, KY
 Death on 12/13/1869 in Fayette County, WV
@@ -20,7 +20,10 @@ Death on 12/13/1869 in Fayette County, WV
 <!-- Link to child -->
 
 #### Census Records
-
+[[Vault/Census/1880 United States Federal Census Record.5\|1880 United States Federal Census Record]]
+[[Vault/Census/1870 United States Federal Census Record.2\|1870 United States Federal Census Record]]
+[[Vault/Census/1860 United States Federal Census Record.3\|1860 United States Federal Census Record]]
+[[Vault/Census/1850 United States Federal Census 1\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

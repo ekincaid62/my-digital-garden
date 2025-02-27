@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/mc-gahee/margaret-mc-gahee-1783-1850/","tags":["Margaret-McGahee"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:28:04 pm***
+***<font color="#00b0f0">Last Modified:</font> Monday, February 24th 2025, 6:14:51 pm***
 
 Born on  1783 in <!-- link to place -->
 Death on 1850 in <!-- link to place -->
@@ -20,7 +20,7 @@ Death on 1850 in <!-- link to place -->
 [[Ancestors/Walker/Olive Walker 1823-1856\|Olive Walker 1823-1856]]
 
 #### Census Records
-
+[[Vault/Census/1850 United States Federal Census 7\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

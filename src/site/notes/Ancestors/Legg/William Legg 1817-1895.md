@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/legg/william-legg-1817-1895/","tags":["William-Legg"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Saturday, February 22nd 2025, 11:16:09 am***
+***<font color="#00b0f0">Last Modified:</font> Wednesday, February 26th 2025, 7:19:29 pm***
 
 Born on  4/13/1817 in Monroe County WV
 Death on 3/22/1895 in Leander WV
@@ -31,6 +31,10 @@ Death on 3/22/1895 in Leander WV
 [[Josiah Dwight Legg 1857-1940\|Josiah Dwight Legg 1857-1940]]
 
 #### Census Records
+[[Vault/Census/1900 United States Federal Census 2\|1900 United States Federal Census]]
+[[Vault/Census/1880 United States Federal Census 3\|1880 United States Federal Census]]
+[[Vault/Census/1870 United States Federal Census 5\|1870 United States Federal Census]]
+[[Vault/Census/1860 United States Federal Census 6\|1860 United States Federal Census]]
 [[Vault/Census/1850 United States Federal Census 2\|1850 United States Federal Census]]
 #### Land Transfers
 

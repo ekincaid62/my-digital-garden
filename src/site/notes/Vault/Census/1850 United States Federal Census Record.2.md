@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1850-united-states-federal-census-record-2/","tags":["Charles-William-McClung","Margaret-Wiseman"]}
+{"dg-publish":true,"permalink":"/vault/census/1850-united-states-federal-census-record-2/","tags":["Charles-William-McClung","Mary-C-Amick"]}
 ---
 
 

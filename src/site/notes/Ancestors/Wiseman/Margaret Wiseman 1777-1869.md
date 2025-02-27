@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/wiseman/margaret-wiseman-1777-1869/","tags":["Margaret-Wiseman"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:34:32 pm***
+***<font color="#00b0f0">Last Modified:</font> Wednesday, February 26th 2025, 7:02:08 pm***
 
 Born on  1777 in Berks County, PA
 Death on 1869 in <!-- link to place -->
@@ -37,7 +37,9 @@ List of siblings and children taken from [Ramsey Family History](https://drive.g
 [[Abner Ramsey 1816-1906\|Abner Ramsey 1816-1906]]
 [[Charles Ramsey 1823-1843\|Charles Ramsey 1823-1843]]
 #### Census Records
-
+[[Vault/Census/1870 United States Federal Census 5\|1870 United States Federal Census]]
+[[Vault/Census/1860 United States Federal Census 5\|1860 United States Federal Census]]
+[[Vault/Census/1850 United States Federal Census 2\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

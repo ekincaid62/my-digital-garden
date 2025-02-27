@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/ramsey/elizabeth-ramsey-1813-1902/","tags":["Elizabeth-Ramsey"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Saturday, February 22nd 2025, 11:22:36 am***
+***<font color="#00b0f0">Last Modified:</font> Wednesday, February 26th 2025, 7:21:01 pm***
 
 Born on  11/6/1812 in Monroe County, VA
 Death on 12/11/1902 in Fayette County, WV
@@ -27,6 +27,10 @@ Death on 12/11/1902 in Fayette County, WV
 [[Josiah Dwight Legg 1857-1940\|Josiah Dwight Legg 1857-1940]]
 
 #### Census Records
+[[Vault/Census/1900 United States Federal Census 2\|1900 United States Federal Census]]
+[[Vault/Census/1880 United States Federal Census 3\|1880 United States Federal Census]]
+[[Vault/Census/1870 United States Federal Census 5\|1870 United States Federal Census]]
+[[Vault/Census/1860 United States Federal Census 6\|1860 United States Federal Census]]
 [[Vault/Census/1850 United States Federal Census 2\|1850 United States Federal Census]]
 #### Land Transfers
 
