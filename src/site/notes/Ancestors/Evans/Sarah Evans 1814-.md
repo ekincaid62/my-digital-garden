@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/evans/sarah-evans-1814/","tags":["Sarah-Evans"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:18:10 pm***
+***<font color="#00b0f0">Last Modified:</font> Thursday, February 27th 2025, 8:55:21 pm***
 
 Born on  1814 in <!-- link to place -->
 Death on <!-- link to date --> in <!-- link to place -->
@@ -26,7 +26,8 @@ Death on <!-- link to date --> in <!-- link to place -->
 [[Granville Alderson McClung 1845-\|Granville Alderson McClung 1845-]]
 
 #### Census Records
-
+[[Vault/Census/1860 United States Federal Census 8\|1860 United States Federal Census]]
+[[Vault/Census/1850 United States Federal Census 11\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

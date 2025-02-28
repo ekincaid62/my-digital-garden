@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1860-united-states-federal-census-record-3/","tags":["Nicholas-Hawkins","Rebecca-Wiseman","Isaac-Wiseman","Mary-Neal"]}
+{"dg-publish":true,"permalink":"/vault/census/1860-united-states-federal-census-record-3/","tags":["Nicholas-Hawkins","Rebecca-Wiseman","Mary-Neal","Isaac-Ward-Wiseman"]}
 ---
 
 **Family 618**

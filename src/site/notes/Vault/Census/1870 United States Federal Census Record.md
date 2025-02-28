@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1870-united-states-federal-census-record/","tags":["Joseph-Allen-Shaffer","Polly-George-Shaffer"]}
+{"dg-publish":true,"permalink":"/vault/census/1870-united-states-federal-census-record/","tags":["Joseph-Allen-Shaffer","Mary-George"]}
 ---
 
 Family 122
