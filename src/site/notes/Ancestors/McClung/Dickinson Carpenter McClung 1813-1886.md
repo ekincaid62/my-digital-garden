@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/mc-clung/dickinson-carpenter-mc-clung-1813-1886/","tags":["Dickinson-Carpenter-McClung"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Thursday, February 27th 2025, 9:04:37 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 2:35:31 pm***
 
 Born on  1813 in <!-- link to place -->
 Death on 1886 in <!-- link to place -->
@@ -33,7 +33,7 @@ Death on 1886 in <!-- link to place -->
 [[Granville Alderson McClung 1845-\|Granville Alderson McClung 1845-]]
 
 #### Census Records
-[[Vault/Census/1880 United States Federal Census 1\|1880 United States Federal Census]]
+[[Vault/Census/1880 United States Federal Census Record.3\|1880 United States Federal Census]]
 [[Vault/Census/1860 United States Federal Census 8\|1860 United States Federal Census]]
 [[Vault/Census/1850 United States Federal Census 11\|1850 United States Federal Census]]
 #### Land Transfers

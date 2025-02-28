@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/mc-clung/john-mc-clung-1808-1886/","tags":["John-McClung"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:27:06 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 3:10:25 pm***
 
 Born on  1808 in <!-- link to place -->
 Death on 7/1886 in <!-- link to place -->
@@ -32,8 +32,14 @@ Death on 7/1886 in <!-- link to place -->
 [[Abigail Ann McClung\|Abigail Ann McClung]]
 [[Virginia Catherine McClung\|Virginia Catherine McClung]]
 [[Sarah Martha McClung\|Sarah Martha McClung]]
-#### Census Records
 
+#### Spouse and Children
+Martha McGraw married on 03/1854
+#### Census Records
+[[Vault/Census/1880 United States Federal Census Record.3\|1880 United States Federal Census Record]]
+[[Vault/Census/1870 United States Federal Census 7\|1870 United States Federal Census]]
+[[Vault/Census/1860 United States Federal Census 9\|1860 United States Federal Census]]
+[[Vault/Census/1850 United States Federal Census 12\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1850-united-states-federal-census-6/","tags":["Mary-C-Amick","John-William-Amick"]}
+{"dg-publish":true,"permalink":"/vault/census/1850-united-states-federal-census-6/","tags":["Mary-C-Amick","John-William-Amick","Lana-Walker"]}
 ---
 
 Family 225
