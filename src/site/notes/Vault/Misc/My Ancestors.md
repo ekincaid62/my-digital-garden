@@ -472,7 +472,7 @@ The image below has hot links to each of my ancestors. The links will open into 
      </polygon>
   </a><a xlink:href="/ancestors/alderson/mary-alderson-1787-1870/" target="_blank">
     <polygon points="2361,837,2380,900,2165,961,2148,911" fill="#ffffff" opacity="0">
-     <title>Mary Alderson 1787=1870</title>
+     <title>Mary Alderson 1787-1870</title>
      </polygon>
   </a><a xlink:href="/404">
     <polygon points="2380,902,2395,967,2178,1017,2165,963" fill="#ffffff" opacity="0">
@@ -488,7 +488,7 @@ The image below has hot links to each of my ancestors. The links will open into 
      </polygon>
   </a><a xlink:href="/ancestors/alderson/mary-alderson-1787-1870/" target="_blank">
     <polygon points="2421,1110,2426,1178,2202,1186,2198,1136" fill="#ffffff" opacity="0">
-     <title>Mary Alderson 1787=1870</title>
+     <title>Mary Alderson 1787-1870</title>
      </polygon>
   </a><a xlink:href="/404">
     <polygon points="2426,1182,2421,1251,2202,1245,2205,1191" fill="#ffffff" opacity="0">
