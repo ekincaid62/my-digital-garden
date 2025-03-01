@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/grose/jacob-samuel-grose-1767-1820/","tags":["Jacob-Samuel-Grose"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Saturday, March 1st 2025, 11:17:34 am***
+***<font color="#00b0f0">Last Modified:</font> Saturday, March 1st 2025, 11:33:57 am***
 
 Born on  2/28/1767 in Bath County, VA
 
