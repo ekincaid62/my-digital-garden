@@ -20,7 +20,7 @@ Death on 1847 in Fayette County VA
 
 ---
 #### Spouse and Children
-[[Mary Tincher 1767-1802\|Mary Tincher 1767-1802]] married 6/21/1785 in Greenbrier WV.
+[[Ancestors/Tincher/Mary Tincher 1767-1802\|Mary Tincher 1767-1802]] married 6/21/1785 in Greenbrier WV.
 [[Ancestors/Kincaid/William M. Kincaid 1787-1860\|William M. Kincaid 1787-1860]]
 [[John Kincaid 1798-\|John Kincaid 1798-]]
 

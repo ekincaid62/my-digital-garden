@@ -10,7 +10,7 @@ Death on 1860 in Fayette County WV
 
 ---
 #### Parents
-[[Ancestors/Kincaid/Samuel Kincaid 1765-1847\|Samuel Kincaid 1765-1847]] and [[Mary Tincher 1767-1802\|Mary Tincher 1767-1802]]
+[[Ancestors/Kincaid/Samuel Kincaid 1765-1847\|Samuel Kincaid 1765-1847]] and [[Ancestors/Tincher/Mary Tincher 1767-1802\|Mary Tincher 1767-1802]]
 #### Siblings
 [[John Kincaid 1798-\|John Kincaid 1798-]]
 [[Samuel Kincaid 1802-\|Samuel Kincaid 1802-]]
