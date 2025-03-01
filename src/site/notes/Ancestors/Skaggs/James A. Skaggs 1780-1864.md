@@ -1,22 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/miller/elizabeth-miller-1787-1860/","tags":["Elizabeth-Miller"]}
+{"dg-publish":true,"permalink":"/ancestors/skaggs/james-a-skaggs-1780-1864/","tags":["James-A-Skaggs"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Saturday, March 1st 2025, 3:39:17 pm***
+***<font color="#00b0f0">Last Modified:</font> Saturday, March 1st 2025, 3:36:57 pm***
 
-Born on  <!-- link to date --> in <!-- link to place -->
-Death on <!-- link to date --> in <!-- link to place -->
+Born on  2/25/1786 in Greenbrier County, VA
+Death on 1864 in Fayette County, VA
 
 ---
 #### Parents
 
-[[Ancestors/Miller/Valentine Fentin Miller 1762-1851\|Valentine Fentin Miller 1762-1851]] and <!-- Link to mother-->
+[[Charles Skaggs 1755-1800\|Charles Skaggs 1755-1800]] and 
 #### Siblings
-<!-- Link to sibling -->
 
 ---
 #### Spouse and Children
-[[Ancestors/Skaggs/James A. Skaggs 1780-1864\|James A. Skaggs 1780-1864]] married <!-- link to date --> in <!-- link to place -->.
+[[Ancestors/Miller/Elizabeth Miller 1787-1860\|Elizabeth Miller 1787-1860]] on <!-- link to date --> in <!-- link to place -->.
 [[Phebe Skaggs\|Phebe Skaggs]]
 [[Thomas Skaggs\|Thomas Skaggs]]
 [[Susan Skaggs\|Susan Skaggs]]

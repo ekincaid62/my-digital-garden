@@ -10,7 +10,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 ---
 #### Parents
 
-[[Ancestors/Skaggs/James A. Skaggs 1786-1864\|James A. Skaggs 1786-1864]] and [[Elizabeth Miller\|Elizabeth Miller]]
+[[Ancestors/Skaggs/James A. Skaggs 1780-1864\|James A. Skaggs 1780-1864]] and [[Elizabeth Miller\|Elizabeth Miller]]
 #### Siblings
 [[Phebe Skaggs\|Phebe Skaggs]]
 [[Thomas Skaggs\|Thomas Skaggs]]
