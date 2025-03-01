@@ -10,7 +10,7 @@ Death on 1880 in <!-- link to place -->
 ---
 #### Parents
 
-[[Jacob Samuel Grose 1767-1820\|Jacob Samuel Grose 1767-1820]] and [[Mary Ganssel 1764-1830\|Mary Ganssel 1764-1830]]
+[[Ancestors/Grose/Jacob Samuel Grose 1767-1820\|Jacob Samuel Grose 1767-1820]] and [[Ancestors/Ganssel/Mary Ganssel 1764-1830\|Mary Ganssel 1764-1830]]
 #### Siblings
 <!-- Link to sibling -->
 
