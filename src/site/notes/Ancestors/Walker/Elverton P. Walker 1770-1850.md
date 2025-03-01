@@ -10,7 +10,7 @@ Death on 1850 in Nicholas County, VA
 ---
 #### Parents
 
-[[William Walker 1724-1805\|William Walker 1724-1805]] and [[Mary Lewis 1759-\|Mary Lewis 1759-]]
+[[Ancestors/Walker/William Walker 1724-1805\|William Walker 1724-1805]] and [[Ancestors/Lewis/Mary Lewis 1759-\|Mary Lewis 1759-]]
 #### Siblings
 <!-- Link to sibling -->
 

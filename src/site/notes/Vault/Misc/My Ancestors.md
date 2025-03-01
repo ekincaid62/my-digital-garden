@@ -262,9 +262,9 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="83,1598,64,1531,279,1477,296,1529" fill="#ffffff" opacity="0">
      <title>Samuel Kincaid 1765-1847</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/tincher/mary-tincher-1767-1802/">
     <polygon points="64,1527,47,1462,266,1418,279,1473" fill="#ffffff" opacity="0">
-     <title>Mary Tincher</title>
+     <title>Mary Tincher 1767-1802</title>
      </polygon>
   </a><a xlink:href="/ancestors/kincaid/john-kincaid-1760-1834/" target="_blank">
     <polygon points="47,1457,36,1394,257,1360,266,1414" fill="#ffffff" opacity="0">
@@ -274,13 +274,13 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="36,1390,29,1321,250,1306,257,1358" fill="#ffffff" opacity="0">
      <title>Elizabeth Hannah Gillespie 1760-1829</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/walker/william-walker-1724-1805/">
     <polygon points="29,1316,27,1253,248,1247,250,1301" fill="#ffffff" opacity="0">
-     <title>No Data yet for William Walker</title>
+     <title>William Walker 1724-1805</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/lewis/mary-lewis-1759/">
     <polygon points="25,1249,25,1184,246,1191,246,1243" fill="#ffffff" opacity="0">
-     <title>No Data yet for Mary Lewis</title>
+     <title>Mary Lewis 1759-</title>
      </polygon>
   </a><a xlink:href="/404">
     <polygon points="27,1178,34,1113,250,1132,246,1184" fill="#ffffff" opacity="0">
