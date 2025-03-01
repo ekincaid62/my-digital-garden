@@ -16,7 +16,7 @@ Death on 1821 in Nicholas County, VA
 
 ---
 #### Spouse and Children
-[[Schaffer/Suzanna Schaffer 1770-1830\|Suzanna Schaffer 1770-1830]] married <!-- link to date --> in <!-- link to place -->.
+[[Ancestors/Schaffer/Suzanna Schaffer 1770-1830\|Suzanna Schaffer 1770-1830]] married <!-- link to date --> in <!-- link to place -->.
 [[Ancestors/Koontz/Suzanna Koontz 1810-1878\|Suzanna Koontz 1810-1878]]
 
 #### Census Records

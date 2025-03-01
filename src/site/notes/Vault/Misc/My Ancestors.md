@@ -314,13 +314,13 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="146,705,179,646,368,750,344,798" fill="#ffffff" opacity="0">
      <title>Mary Ganssel 1764-1830</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/koontz/heinrich-koontz-1765-1821/" target="_blank">
     <polygon points="179,640,216,586,400,700,370,746" fill="#ffffff" opacity="0">
-     <title>No Data yet for Henrich Koontz</title>
+     <title>Heinrich Koontz 1765-1821</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/schaffer/suzanna-schaffer-1770-1830/" target="_blank">
     <polygon points="216,581,253,525,433,653,402,698" fill="#ffffff" opacity="0">
-     <title>No Data yet for Elizabeth Bowyer</title>
+     <title>Suzanna Schaffer 1770-1830</title>
      </polygon>
   </a><a xlink:href="/404">
     <polygon points="255,523,294,468,467,607,435,651" fill="#ffffff" opacity="0">
