@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1870-united-states-federal-census-4/","tags":["William--Grose","Susanna-Koontz"]}
+{"dg-publish":true,"permalink":"/vault/census/1870-united-states-federal-census-4/","tags":["William-Grose","Susanna-Koontz"]}
 ---
 
 Family 117

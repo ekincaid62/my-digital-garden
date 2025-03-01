@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1880-united-states-federal-census-2/","tags":["William--Grose"]}
+{"dg-publish":true,"permalink":"/vault/census/1880-united-states-federal-census-2/","tags":["William-Grose"]}
 ---
 
 Family 29

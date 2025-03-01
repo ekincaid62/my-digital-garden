@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/grose/william-grose-1799-1880/","tags":["William--Grose"]}
+{"dg-publish":true,"permalink":"/ancestors/grose/william-grose-1799-1880/","tags":["William-Grose"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Wednesday, February 26th 2025, 6:17:03 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 8:41:51 pm***
 
 Born on  1799 in <!-- link to place -->
 Death on 1880 in <!-- link to place -->

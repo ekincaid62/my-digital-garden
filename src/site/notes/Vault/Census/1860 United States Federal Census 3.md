@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1860-united-states-federal-census-3/","tags":["William--Grose","Susanna-Koontz"]}
+{"dg-publish":true,"permalink":"/vault/census/1860-united-states-federal-census-3/","tags":["William-Grose","Susanna-Koontz"]}
 ---
 
 Family 785

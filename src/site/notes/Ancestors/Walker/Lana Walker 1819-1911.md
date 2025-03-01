@@ -20,6 +20,7 @@ Death on 1911 in <!-- link to place -->
 [[Ancestors/Amick/Mary Catherine Amick 1841-1920\|Mary Catherine Amick 1841-1920]]
 
 #### Census Records
+[[Vault/Census/1900 United States Federal Census 3\|1900 United States Federal Census]]
 [[Vault/Census/1880 United States Federal Census 1\|1880 United States Federal Census]]
 [[Vault/Census/1870 United States Federal Census 8\|1870 United States Federal Census]]
 [[Vault/Census/1860 United States Federal Census 10\|1860 United States Federal Census]]
