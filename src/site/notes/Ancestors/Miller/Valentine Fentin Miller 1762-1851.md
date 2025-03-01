@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/miller/valentine-fentin-miller-1762-1851/","tags":["Valentine-Fentin-Miller"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Saturday, March 1st 2025, 3:39:56 pm***
+***<font color="#00b0f0">Last Modified:</font> Saturday, March 1st 2025, 4:03:50 pm***
 
 Born on  1/12/1762 in Augusta County, VA
 Death on 1851 in Monroe County, WV

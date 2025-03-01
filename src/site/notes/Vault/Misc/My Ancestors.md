@@ -330,9 +330,9 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="300,466,344,419,504,562,467,601" fill="#ffffff" opacity="0">
      <title>No Data yet for Charles Skaggs Wife</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/miller/valentine-fentin-miller-1762-1851/" target="_blank">
     <polygon points="344,414,394,367,550,523,506,562" fill="#ffffff" opacity="0">
-     <title>No Data yet for Valentine Miller</title>
+     <title>Valentine F Miller 1762-1851</title>
      </polygon>
   </a><a xlink:href="/404">
     <polygon points="396,362,448,314,591,484,552,518" fill="#ffffff" opacity="0">
@@ -362,9 +362,9 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="747,130,810,104,888,310,834,330" fill="#ffffff" opacity="0">
      <title>No Data yet for Charles Skaggs Wife</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/miller/valentine-fentin-miller-1762-1851/" target=">
     <polygon points="812,102,875,85,942,291,886,306" fill="#ffffff" opacity="0">
-     <title>No Data yet for Valentine Miller</title>
+     <title>Valentine F Miller 1762-1851</title>
      </polygon>
   </a><a xlink:href="/404">
     <polygon points="877,80,947,63,997,273,944,291" fill="#ffffff" opacity="0">
