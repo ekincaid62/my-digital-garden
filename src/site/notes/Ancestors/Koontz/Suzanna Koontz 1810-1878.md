@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/koontz/suzanna-koontz-1810-1878/","tags":["Susanna-Koontz"]}
+{"dg-publish":true,"permalink":"/ancestors/koontz/suzanna-koontz-1810-1878/","tags":["Suzanna-Koontz"]}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 11:24:00 pm***
@@ -10,7 +10,7 @@ Death on 1878 in <!-- link to place -->
 ---
 #### Parents
 
-[[Heinrich Koontz 1765-1821\|Heinrich Koontz 1765-1821]] and [[Suzanna Schaffer 1770-1830\|Suzanna Schaffer 1770-1830]]
+[[Ancestors/Koontz/Heinrich Koontz 1765-1821\|Heinrich Koontz 1765-1821]] and [[Schaffer/Suzanna Schaffer 1770-1830\|Suzanna Schaffer 1770-1830]]
 #### Siblings
 <!-- Link to sibling -->
 
