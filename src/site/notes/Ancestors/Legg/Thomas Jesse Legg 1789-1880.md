@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/legg/thomas-jesse-legg-1789-1880/","tags":["Thomas-Jesse-Legg"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Wednesday, February 26th 2025, 6:28:21 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 11:32:33 pm***
 
 Born on  1789 in <!-- link to place -->
 Death on 1880 in <!-- link to place -->
@@ -10,7 +10,7 @@ Death on 1880 in <!-- link to place -->
 ---
 #### Parents
 
-<!-- Link to father --> and <!-- Link to mother-->
+[[Thomas Legg 1748-1812\|Thomas Legg 1748-1812]] and [[Elizabeth Hughes 1758-1830\|Elizabeth Hughes 1758-1830]]
 #### Siblings
 <!-- Link to sibling -->
 

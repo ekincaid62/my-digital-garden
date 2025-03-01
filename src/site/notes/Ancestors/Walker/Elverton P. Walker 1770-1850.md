@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/walker/elverton-p-walker-1770-1850/"}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:33:50 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 11:06:57 pm***
 
 Born on  1770 in Bath County, VA
 Death on 1850 in Nicholas County, VA
@@ -10,7 +10,7 @@ Death on 1850 in Nicholas County, VA
 ---
 #### Parents
 
-<!-- Link to father --> and <!-- Link to mother-->
+[[William Walker 1724-1805\|William Walker 1724-1805]] and [[Mary Lewis 1759-\|Mary Lewis 1759-]]
 #### Siblings
 <!-- Link to sibling -->
 

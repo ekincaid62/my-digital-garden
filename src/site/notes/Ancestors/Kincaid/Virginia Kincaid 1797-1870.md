@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/virginia-kincaid-1797-1870/","tags":["Jane-Kincaid"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Sunday, February 23rd 2025, 1:14:36 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 10:35:45 pm***
 
 Born on  1797 in Greenbrier County, VA
 Death on 1870 in Nicholas County, VA
@@ -12,7 +12,7 @@ Death on 1870 in Nicholas County, VA
 
 [[Ancestors/Kincaid/John Kincaid 1760-1834\|John Kincaid 1760-1834]] and [[Ancestors/Gillespie/Elizabeth Hannah Gillespie 1760-1829\|Elizabeth Hannah Gillespie 1760-1829]]
 #### Siblings
-[[Hannah Kincaid\|Hannah Kincaid]]
+[[Hannah Kincaid 1777-1871\|Hannah Kincaid 1777-1871]]
 [[Sarah Kincaid\|Sarah Kincaid]]
 [[Matthew Kincaid\|Matthew Kincaid]]
 [[Samuel Kincaid\|Samuel Kincaid]]

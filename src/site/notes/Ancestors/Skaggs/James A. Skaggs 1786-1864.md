@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/skaggs/james-a-skaggs-1786-1864/","tags":["James-A-Skaggs"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 8:55:58 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 11:25:49 pm***
 
 Born on  1786 in <!-- link to place -->
 Death on 1864 in <!-- link to place -->
@@ -10,7 +10,7 @@ Death on 1864 in <!-- link to place -->
 ---
 #### Parents
 
-[[Charles Skaggs\|Charles Skaggs]] and 
+[[Charles Skaggs 1755-1800\|Charles Skaggs 1755-1800]] and 
 #### Siblings
 
 ---

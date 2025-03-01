@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/grose/william-grose-1799-1880/","tags":["William-Grose"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 8:41:51 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 11:15:26 pm***
 
 Born on  1799 in <!-- link to place -->
 Death on 1880 in <!-- link to place -->
@@ -10,7 +10,7 @@ Death on 1880 in <!-- link to place -->
 ---
 #### Parents
 
-[[Jacob Samuel Grose\|Jacob Samuel Grose]] and [[Mary Ganssel\|Mary Ganssel]]
+[[Jacob Samuel Grose 1767-1820\|Jacob Samuel Grose 1767-1820]] and [[Mary Ganssel 1764-1830\|Mary Ganssel 1764-1830]]
 #### Siblings
 <!-- Link to sibling -->
 

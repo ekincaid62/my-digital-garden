@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/john-kincaid-1760-1834/","tags":["John-Kincaid"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:22:07 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 10:25:05 pm***
 
 Born on  10 Mar 1760 in Augusta VA
 Death on 21 Apr 1834 in Gauley Bridge WV
@@ -22,7 +22,7 @@ Death on 21 Apr 1834 in Gauley Bridge WV
 ---
 #### Spouse and Children
 [[Ancestors/Gillespie/Elizabeth Hannah Gillespie 1760-1829\|Elizabeth Hannah Gillespie 1760-1829]] on <!-- link to date --> in <!-- link to place -->.
-[[Hannah Kincaid\|Hannah Kincaid]]
+[[Hannah Kincaid 1777-1871\|Hannah Kincaid 1777-1871]]
 [[Sarah Kincaid\|Sarah Kincaid]]
 [[Matthew Kincaid\|Matthew Kincaid]]
 [[Samuel Kincaid\|Samuel Kincaid]]

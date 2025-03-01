@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/miller/elizabeth-miller-1787-1860/","tags":["Elizabeth-Miller"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 9:05:28 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 11:28:53 pm***
 
 Born on  <!-- link to date --> in <!-- link to place -->
 Death on <!-- link to date --> in <!-- link to place -->
@@ -10,7 +10,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 ---
 #### Parents
 
-<!-- Link to father --> and <!-- Link to mother-->
+[[Valentine Fentin Miller 1762-1851\|Valentine Fentin Miller 1762-1851]] and <!-- Link to mother-->
 #### Siblings
 <!-- Link to sibling -->
 

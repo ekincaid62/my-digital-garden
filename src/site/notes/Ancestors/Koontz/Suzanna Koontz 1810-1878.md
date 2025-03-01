@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/koontz/suzanna-koontz-1810-1878/","tags":["Susanna-Koontz"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Monday, February 24th 2025, 8:00:29 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 11:24:00 pm***
 
 Born on  1810 in <!-- link to place -->
 Death on 1878 in <!-- link to place -->
@@ -10,7 +10,7 @@ Death on 1878 in <!-- link to place -->
 ---
 #### Parents
 
-[[Heinrich Koontz\|Heinrich Koontz]] and [[Elizabeth Bowyer\|Elizabeth Bowyer]]
+[[Heinrich Koontz 1765-1821\|Heinrich Koontz 1765-1821]] and [[Suzanna Schaffer 1770-1830\|Suzanna Schaffer 1770-1830]]
 #### Siblings
 <!-- Link to sibling -->
 
