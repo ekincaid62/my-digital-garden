@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/cottle/ruth-cottle-1770-1810/","tags":["Ruth-Cottle"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 6:10:23 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 6:25:02 pm***
 
 Born on  7/10/1770 in Somerset, MD
 Death on 7/10/1810 in Monroe County, VA

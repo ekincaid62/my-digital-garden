@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/ramsey/bartholomew-ramsey-1776-1843/","tags":["Bartholomew-Ramsey"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:31:25 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 6:33:20 pm***
 
 Born on  1776 in Berks County, PA
 Death on 1843 in Fayette County, VA
@@ -10,7 +10,7 @@ Death on 1843 in Fayette County, VA
 ---
 #### Parents
 
-[[Richard Ramsey 1759-1825\|Richard Ramsey 1759-1825]] and Elizabeth
+[[Ancestors/Ramsey/Richard Ramsey 1759-1825\|Richard Ramsey 1759-1825]] and [[Ancestors/Wiseman/Elizabeth Wiseman 1761-1824\|Elizabeth Wiseman 1761-1824]]
 #### Siblings
 [[George Ramsey\|George Ramsey]]
 [[John Ramsey\|John Ramsey]]

@@ -10,7 +10,7 @@ Death on 1801 in <!-- link to place -->
 ---
 #### Parents
 
-[[Richard Ramsey 1759-1825\|Richard Ramsey 1759-1825]] and Elizabeth
+[[Ancestors/Ramsey/Richard Ramsey 1759-1825\|Richard Ramsey 1759-1825]] and Elizabeth
 #### Siblings
 [[George Ramsey\|George Ramsey]]
 [[Ancestors/Ramsey/Bartholomew Ramsey 1776-1843\|Bartholomew Ramsey 1776-1843]]
