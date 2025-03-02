@@ -10,7 +10,7 @@ Death on 1869 in <!-- link to place -->
 ---
 #### Parents
 
-[[David Nutter 1769-1851\|David Nutter 1769-1851]] and [[Ruth Cottle 1770-1810\|Ruth Cottle 1770-1810]]
+[[Ancestors/Nutter/David Nutter 1769-1851\|David Nutter 1769-1851]] and [[Cottle/Ruth Cottle 1770-1810\|Ruth Cottle 1770-1810]]
 #### Siblings
 <!-- Link to sibling -->
 
