@@ -16,7 +16,7 @@ Death on 2/14/1851 in Nicholas County, VA
 
 ---
 #### Spouse and Children
-[[Cottle/Ruth Cottle 1770-1810\|Ruth Cottle 1770-1810]] married 1789 in VA
+[[Ancestors/Cottle/Ruth Cottle 1770-1810\|Ruth Cottle 1770-1810]] married 1789 in VA
 [[Ancestors/Nutter/Elizabeth Nutter 1790-1869\|Elizabeth Nutter 1790-1869]]
 
 #### Census Records
