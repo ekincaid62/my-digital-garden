@@ -10,7 +10,7 @@ Death on 1880 in <!-- link to place -->
 ---
 #### Parents
 
-[[Thomas Legg 1748-1812\|Thomas Legg 1748-1812]] and [[Elizabeth Hughes 1758-1830\|Elizabeth Hughes 1758-1830]]
+[[Ancestors/Legg/Thomas Legg 1748-1812\|Thomas Legg 1748-1812]] and [[Ancestors/Hughes/Elizabeth Hughes 1758-1830\|Elizabeth Hughes 1758-1830]]
 #### Siblings
 <!-- Link to sibling -->
 

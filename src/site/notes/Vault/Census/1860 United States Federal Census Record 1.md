@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1860-united-states-federal-census-record-1/","tags":["Thomas-Legg","Elisabeth-Nutter"]}
+{"dg-publish":true,"permalink":"/vault/census/1860-united-states-federal-census-record-1/","tags":["Thomas-Jesse-Legg","Elisabeth-Nutter"]}
 ---
 
 **Family 406**
