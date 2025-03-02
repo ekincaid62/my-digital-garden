@@ -362,7 +362,7 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="747,130,810,104,888,310,834,330" fill="#ffffff" opacity="0">
      <title>No Data yet for Charles Skaggs Wife</title>
      </polygon>
-  </a><a xlink:href="/ancestors/miller/valentine-fentin-miller-1762-1851/" target=">
+  </a><a xlink:href="/ancestors/miller/valentine-fentin-miller-1762-1851/" target="_blank">
     <polygon points="812,102,875,85,942,291,886,306" fill="#ffffff" opacity="0">
      <title>Valentine F Miller 1762-1851</title>
      </polygon>
