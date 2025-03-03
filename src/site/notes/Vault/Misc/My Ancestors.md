@@ -426,29 +426,29 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="1834,191,1886,228,1766,412,1723,382" fill="#ffffff" opacity="0">
      <title>Elizabeth Scott 1777-1842</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/perry/peter-perry-1770-1858/" target="_blank">
     <polygon points="1890,226,1951,267,1812,447,1766,410" fill="#ffffff" opacity="0">
-     <title>No Data yet for Peter Perry</title>
+     <title>Peter Perry 1770-1858</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/faulconer/lucinda-faulconer-1772-1846/">
     <polygon points="1951,271,2003,314,1858,481,1818,447" fill="#ffffff" opacity="0">
-     <title>No Data yet for Lucinda Faulconer</title>
+     <title>Lucinda Faulconer 1772-1846</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/wiseman/william-wiseman/" target="_blank">
     <polygon points="2005,314,2055,360,1903,525,1860,486" fill="#ffffff" opacity="0">
-     <title>No Data yet for Isaac Wiseman Dad</title>
+     <title>William Wiseman</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/ramsey/mary-ramsey-1801/" target="_blank">
     <polygon points="2059,362,2105,412,1946,562,1905,520" fill="#ffffff" opacity="0">
-     <title>No Data yet for Isaac Wiseman Mom</title>
+     <title>Mary Ramsey -1801</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/neal/william-neal-1779-1844/" target="_blank">
     <polygon points="2109,416,2152,466,1985,607,1948,562" fill="#ffffff" opacity="0">
-     <title>No Data yet for William Neal</title>
+     <title>William Neal 1779-1844</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/neal/emelia-neal-1779-1851/" target="_blank">
     <polygon points="2152,466,2194,518,2018,651,1985,609" fill="#ffffff" opacity="0">
-     <title>No Data yet for Emelia Neal</title>
+     <title>Emelia Neal 1779-1851</title>
      </polygon>
   </a><a xlink:href="/ancestors/shaffer/christopher-shaffer-1753-1847/" target="_blank">
     <polygon points="2196,520,2235,577,2051,698,2020,651" fill="#ffffff" opacity="0">
