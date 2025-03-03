@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/davis/elizabeth-davis-1738-1807/","tags":["Elizabeth-Davis"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 7:27:14 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 7:35:02 pm***
 
 Born on  8/26/1738 in Berks County, PA
 Death on 7/19/1807 in Monroe County, VA
