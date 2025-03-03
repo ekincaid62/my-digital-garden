@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/evans/sarah-evans-1814/","tags":["Sarah-Evans"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Thursday, February 27th 2025, 8:55:21 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 9:33:38 pm***
 
 Born on  1814 in <!-- link to place -->
 Death on <!-- link to date --> in <!-- link to place -->
@@ -10,7 +10,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 ---
 #### Parents
 
-<!-- Link to father --> and <!-- Link to mother-->
+[[Ancestors/Evans/David Evans 1787-1850\|David Evans 1787-1850]] and [[Ancestors/Alderson/Ruth Alderson 1785-1860\|Ruth Alderson 1785-1860]]
 #### Siblings
 <!-- Link to sibling -->
 
