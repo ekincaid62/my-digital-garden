@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/wiseman/elizabeth-wiseman-1761-1824/","tags":["Elizabeth-Wiseman"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 6:45:25 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 7:11:35 pm***
 
 Born on  1761 in Berks County, PA
 Death on 1824 in Monroe County, VA
@@ -10,7 +10,7 @@ Death on 1824 in Monroe County, VA
 ---
 #### Parents
 
-Isaac Wiseman and <!-- Link to mother-->
+[[Isaac Wiseman 1700-1779\|Isaac Wiseman 1700-1779]] and <!-- Link to mother-->
 #### Siblings
 <!-- Link to sibling -->
 

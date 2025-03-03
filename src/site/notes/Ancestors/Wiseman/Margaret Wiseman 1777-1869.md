@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/wiseman/margaret-wiseman-1777-1869/","tags":["Margaret-Wiseman"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Wednesday, February 26th 2025, 7:02:08 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 7:07:56 pm***
 
 Born on  1777 in Berks County, PA
 Death on 1869 in <!-- link to place -->
@@ -10,7 +10,7 @@ Death on 1869 in <!-- link to place -->
 ---
 #### Parents
 
-[[Isaac Wiseman\|Isaac Wiseman]] and [[Elizabeth Davis\|Elizabeth Davis]]
+[[Ancestors/Wiseman/Isaac Wiseman 1738-1818\|Isaac Wiseman 1738-1818]] and [[Ancestors/Davis/Elizabeth Davis 1738-1807\|Elizabeth Davis 1738-1807]]
 #### Siblings
 [[Joseph Wiseman\|Joseph Wiseman]]
 [[John Wiseman\|John Wiseman]]
