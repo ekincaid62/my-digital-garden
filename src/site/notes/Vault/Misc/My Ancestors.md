@@ -474,13 +474,13 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="2361,837,2380,900,2165,961,2148,911" fill="#ffffff" opacity="0">
      <title>Mary Alderson 1787-1870</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/evans/david-evans-1787-1850/">
     <polygon points="2380,902,2395,967,2178,1017,2165,963" fill="#ffffff" opacity="0">
-     <title>No Data yet for David Evans</title>
+     <title>David Evans 1787-1850</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/alderson/ruth-alderson-1785-1860/">
     <polygon points="2181,1019,2395,972,2411,1039,2189,1076" fill="#ffffff" opacity="0">
-     <title>No Data yet for Ruth Alderson</title>
+     <title>Ruth Alderson 1785-1860</title>
      </polygon>
   </a><a xlink:href="/ancestors/mc-clung/james-mc-clung-1770-1824/" target="_blank">
     <polygon points="2415,1041,2421,1106,2200,1134,2189,1076" fill="#ffffff" opacity="0">
@@ -490,13 +490,13 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="2421,1110,2426,1178,2202,1186,2198,1136" fill="#ffffff" opacity="0">
      <title>Mary Alderson 1787-1870</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/walton/james-walton-1740-1815/" target="_blank">
     <polygon points="2426,1182,2421,1251,2202,1245,2205,1191" fill="#ffffff" opacity="0">
-     <title>No Data yet for James Walton</title>
+     <title>James Walton 1740-1815</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/mc-clung/nancy-mc-clung-1780-1818/" target="_blank">
     <polygon points="2426,1253,2419,1319,2200,1306,2202,1249" fill="#ffffff" opacity="0">
-     <title>No Data yet for Nancy McClung</title>
+     <title>Nancy McClung 1780-1818</title>
      </polygon>
   </a><a xlink:href="/404">
     <polygon points="2421,1323,2415,1392,2191,1362,2200,1308" fill="#ffffff" opacity="0">
