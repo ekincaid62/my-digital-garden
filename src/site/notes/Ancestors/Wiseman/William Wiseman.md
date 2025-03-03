@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/wiseman/william-wiseman/","tags":["William-Wiseman"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 8:43:49 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 8:54:19 pm***
 
 Born on  <!-- link to date --> in <!-- link to place -->
 
