@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/walton/polly-walton-1810-1850/","tags":["Polly-Walton"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:34:20 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 9:56:39 pm***
 
 Born on  <!-- link to date --> in <!-- link to place -->
 Death on <!-- link to date --> in <!-- link to place -->
@@ -10,7 +10,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 ---
 #### Parents
 
-<!-- Link to father --> and <!-- Link to mother-->
+[[Ancestors/Walton/James Walton 1740-1815\|James Walton 1740-1815]] and [[Ancestors/McClung/Nancy McClung 1780-1818\|Nancy McClung 1780-1818]]
 #### Siblings
 <!-- Link to sibling -->
 

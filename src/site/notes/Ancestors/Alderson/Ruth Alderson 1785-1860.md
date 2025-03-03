@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/alderson/ruth-alderson-1785-1860/","tags":["Ruth-Alderson"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 9:42:49 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 9:52:02 pm***
 
 Born on  12/12/1785 in Greenbrier County, VA
 
