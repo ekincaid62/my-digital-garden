@@ -386,45 +386,45 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="1224,24,1224,252,1161,252,1152,35" fill="#ffffff" opacity="0">
      <title>No Data yet for 96</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/legg/thomas-legg-1748-1812/" target="_blank">
     <polygon points="1222,26,1294,30,1283,249,1224,247" fill="#ffffff" opacity="0">
-     <title>No Data yet for Thomas Legg</title>
+     <title>Thomas Legg 1748-1812</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/hughes/elizabeth-hughes-1758-1830/" target="_blank">
     <polygon points="1298,33,1365,37,1339,254,1285,249" fill="#ffffff" opacity="0">
-     <title>No Data yet for Elizabeth Hughes</title>
+     <title>Elizabeth Hughes 1758-1830</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/nutter/david-nutter-1769-1851/" target="_blank">
     <polygon points="1367,37,1432,48,1398,262,1341,254" fill="#ffffff" opacity="0">
-     <title>No Data yet for David Nutter</title>
+     <title>David Nutter 1768-1851</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/cottle/ruth-cottle-1770-1810/" target="_blank">
     <polygon points="1435,46,1504,59,1450,273,1398,260" fill="#ffffff" opacity="0">
-     <title>No Data yet for Ruth Cottle</title>
+     <title>Ruth Cottle 1770-1810</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/ramsey/richard-ramsey-1759-1825/" target="_blank">
     <polygon points="1504,63,1573,82,1508,293,1454,273" fill="#ffffff" opacity="0">
-     <title>No Data yet for Richard Ramsey</title>
+     <title>Richard Ramsey 1759-1825</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/wiseman/elizabeth-wiseman-1761-1824/" target="_blank">
     <polygon points="1573,80,1641,102,1563,308,1511,291" fill="#ffffff" opacity="0">
-     <title>No Data yet for Letitia Wiseman</title>
+     <title>Elizabeth Wiseman 1761-1824</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/wiseman/isaac-wiseman-1738-1818/" target="_blank">
     <polygon points="1643,104,1701,130,1617,330,1563,310" fill="#ffffff" opacity="0">
-     <title>No Data yet for Isaac Wiseman Jr</title>
+     <title>Isaac Wiseman 1738-1818</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/davis/elizabeth-davis-1738-1807/" target="_blank">
     <polygon points="1704,130,1771,158,1669,356,1619,327" fill="#ffffff" opacity="0">
-     <title>No Data yet for Elizabeth Davis</title>
+     <title>Elizabeth Davis 1738-1807</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/hawkins/elijah-hawkins-1774-1820/" target="_blank">
     <polygon points="1773,160,1831,191,1719,382,1669,356" fill="#ffffff" opacity="0">
-     <title>No Data yet for Elijah Hawkins</title>
+     <title>Elijah Hawkins 1774-1820</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/scott/elizabeth-scott-1777-1842/" target="_blank">
     <polygon points="1834,191,1886,228,1766,412,1723,382" fill="#ffffff" opacity="0">
-     <title>No Data yet for Elizabeth Scott</title>
+     <title>Elizabeth Scott 1777-1842</title>
      </polygon>
   </a><a xlink:href="/404">
     <polygon points="1890,226,1951,267,1812,447,1766,410" fill="#ffffff" opacity="0">
