@@ -10,7 +10,7 @@ Death on 1890 in <!-- link to place -->
 ---
 #### Parents
 
-<!-- Link to father --> and <!-- Link to mother-->
+[[Jacob Amick 1788-1868\|Jacob Amick 1788-1868]] and [[Rachel Shroyer 1797-1894\|Rachel Shroyer 1797-1894]]
 #### Siblings
 <!-- Link to sibling -->
 

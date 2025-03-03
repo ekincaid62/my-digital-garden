@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/walker/lana-walker-1819-1911/","tags":["Lana-Walker"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 10:05:36 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 10:23:23 pm***
 
 Born on  1819 in <!-- link to place -->
 Death on 1911 in <!-- link to place -->
@@ -10,7 +10,7 @@ Death on 1911 in <!-- link to place -->
 ---
 #### Parents
 
-[[James Walker \|James Walker ]] and [[Hannah Kincaid\|Hannah Kincaid]]
+[[James Walker 1771-1871\|James Walker 1771-1871]] and [[Hannah Kincaid 1777-1871\|Hannah Kincaid 1777-1871]]
 #### Siblings
 <!-- Link to sibling -->
 
