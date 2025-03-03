@@ -10,7 +10,7 @@ Death on 1892 in <!-- link to place -->
 ---
 #### Parents
 
-[[William Wiseman\|William Wiseman]] and [[Ancestors/Ramsey/Mary Ramsey -1801\|Mary Ramsey -1801]]
+[[Ancestors/Wiseman/William Wiseman\|William Wiseman]] and [[Ancestors/Ramsey/Mary Ramsey -1801\|Mary Ramsey -1801]]
 #### Siblings
 <!-- Link to sibling -->
 

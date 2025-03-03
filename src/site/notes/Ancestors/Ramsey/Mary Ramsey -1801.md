@@ -26,7 +26,7 @@ Death on 1801 in <!-- link to place -->
 
 ---
 #### Spouse and Children
-[[William Wiseman\|William Wiseman]] married <!-- link to date --> in <!-- link to place -->.
+[[Ancestors/Wiseman/William Wiseman\|William Wiseman]] married <!-- link to date --> in <!-- link to place -->.
 [[Ancestors/Wiseman/Isaac Ward Wiseman 1802-1892\|Isaac Ward Wiseman 1802-1892]]
 
 Ward was raised with Bartholomew's family after Mary passed away.

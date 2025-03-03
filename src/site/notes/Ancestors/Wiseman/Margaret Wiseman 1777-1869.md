@@ -20,7 +20,7 @@ Death on 1869 in <!-- link to place -->
 [[Rachel Wiseman\|Rachel Wiseman]]
 [[Samuel Wiseman\|Samuel Wiseman]]
 [[Abner Wiseman\|Abner Wiseman]]
-[[William Wiseman\|William Wiseman]]
+[[Ancestors/Wiseman/William Wiseman\|William Wiseman]]
 
 List of siblings and children taken from [Ramsey Family History](https://drive.google.com/file/d/0B0oZv34v0ajXejR4V3pqMlB6UEk/view?usp=drive_link&resourcekey=0-aRa0H6wsvVjU9uv38-PDLQ)
 
