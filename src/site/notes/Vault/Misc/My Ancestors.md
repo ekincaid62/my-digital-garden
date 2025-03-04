@@ -498,13 +498,13 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="2426,1253,2419,1319,2200,1306,2202,1249" fill="#ffffff" opacity="0">
      <title>Nancy McClung 1780-1818</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/amick/jacob-amick-1788-1868/" target="_blank">
     <polygon points="2421,1323,2415,1392,2191,1362,2200,1308" fill="#ffffff" opacity="0">
-     <title>No Data yet for Jacob Amick</title>
+     <title>Jacob Amick 1788-1868</title>
      </polygon>
-  </a><a xlink:href="/404">
+  </a><a xlink:href="/ancestors/shroyer/rachel-shroyer-1797-1894/" target="_blank">
     <polygon points="2415,1394,2404,1462,2183,1414,2194,1366" fill="#ffffff" opacity="0">
-     <title>No Data yet for Rachel Shroyer</title>
+     <title>Rachel Shroyer 1797-1894</title>
      </polygon>
   </a><a xlink:href="/404">
     <polygon points="2404,1464,2387,1529,2170,1470,2187,1418" fill="#ffffff" opacity="0">
