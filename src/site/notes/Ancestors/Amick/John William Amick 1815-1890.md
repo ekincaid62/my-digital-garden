@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/amick/john-william-amick-1815-1890/","tags":["John-William-Amick"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 3:37:10 pm***
+***<font color="#00b0f0">Last Modified:</font> Monday, March 3rd 2025, 7:26:51 pm***
 
 Born on  1815 in <!-- link to place -->
 Death on 1890 in <!-- link to place -->
@@ -10,7 +10,7 @@ Death on 1890 in <!-- link to place -->
 ---
 #### Parents
 
-[[Jacob Amick 1788-1868\|Jacob Amick 1788-1868]] and [[Rachel Shroyer 1797-1894\|Rachel Shroyer 1797-1894]]
+[[Ancestors/Amick/Jacob Amick 1788-1868\|Jacob Amick 1788-1868]] and [[Ancestors/Shroyer/Rachel Shroyer 1797-1894\|Rachel Shroyer 1797-1894]]
 #### Siblings
 <!-- Link to sibling -->
 
