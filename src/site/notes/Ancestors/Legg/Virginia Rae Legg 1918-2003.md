@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/legg/virginia-rae-legg-1918-2003/","tags":["Virginia-Legg"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:26:02 pm***
+***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:28:09 pm***
 
 Born on  1/24/1918 in Mt Lookout, WV
 Death on 3/27/2003 in Cabin Creek, WV
@@ -46,4 +46,4 @@ Stillborn Legg 1920-1920
 [[Vault/Records/Allen & Virginia Kincaid\|Allen & Virginia Kincaid]]
 [[Vault/Records/Allen & Virginia Kincaid 2\|Allen & Virginia Kincaid 2]]
 #### Sources
-
+[Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p30

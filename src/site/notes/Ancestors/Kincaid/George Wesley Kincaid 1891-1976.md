@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/george-wesley-kincaid-1891-1976/","tags":["George-Wesley-Kincaid"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Saturday, February 22nd 2025, 3:15:53 pm***
+***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:23:35 pm***
 
 Born on  3/13/1891 in Mt Lookout, WV
 Death on 6/1976 in Summersville WV
@@ -48,5 +48,5 @@ Death on 6/1976 in Summersville WV
 [[Vault/Records/U.S. World War II Draft Registration Card, 1942 George Wesley Kincaid\|U.S. World War II Draft Registration Card, 1942 George Wesley Kincaid]]
 
 #### Sources
-
+[Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p40
 

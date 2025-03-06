@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/legg/retta-delphia-legg-1916-1997/","tags":["Retta-Legg"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:25:47 pm***
+***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:27:33 pm***
 
 Born on  4/10/1916 in Mt Lookout, WV
 Death on 5/10/1997 in Charleston, WV
@@ -38,4 +38,4 @@ Stillborn Legg 1920-1920
 #### Photos
 [[Vault/Records/Fred Legg with Daughters\|Fred Legg with Daughters]]
 #### Sources
-
+[Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p30

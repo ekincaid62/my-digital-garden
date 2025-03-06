@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/legg/alice-lee-legg-1931-2012/","tags":["Alice-Legg"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Saturday, February 22nd 2025, 11:01:26 am***
+***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:26:37 pm***
 
 Born on  7/29/1931 in Mt. Lookout WV
 Death on 6/13/2012 in Mt. Lookout WV
@@ -64,7 +64,7 @@ Stillborn Legg 1920-1920
 [[Evernote/Archive/Mawmawporch.jpg\|Evernote/Archive/Mawmawporch.jpg]]
 [[Vault/Records/Mawmawsitting\|Mawmawsitting]]
 #### Sources
-
+[Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p30
 #### Misc
 [[Vault/Records/Report Card\|Report Card]]
 [[Vault/Records/Report Card 1946\|Report Card 1946]]

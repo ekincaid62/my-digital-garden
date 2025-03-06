@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/emory-garfield-kincaid-1922-1992/","tags":["Emory-Garfield-Kincaid"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Saturday, February 22nd 2025, 10:52:31 am***
+***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:22:13 pm***
 
 Born on  8/14/1922 in Mt. Lookout, WV
 Death on 7/11/1992 in Summersville WV
@@ -54,4 +54,4 @@ served in the 280th Engineering Combat Battalion
 [[Vault/Records/Harry Truman Letter\|Harry Truman Letter]]
 [[Vault/Records/National Service Life Insurance\|National Service Life Insurance]]
 #### Sources
-
+[Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p40

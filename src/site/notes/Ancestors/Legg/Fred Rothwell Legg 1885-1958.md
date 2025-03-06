@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/legg/fred-rothwell-legg-1885-1958/","tags":["Fred-Legg"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:25:25 pm***
+***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:26:49 pm***
 
 Born on  11/4/1885 in Clifty, WV
 Death on 9/5/1958 in Mt. Lookout, WV
@@ -51,4 +51,4 @@ Stillborn Legg 1920-1920
 [[Vault/Records/Fred Legg Family.1\|Fred Legg Family]]
 [[Vault/Records/Fred Legg with Daughters\|Fred Legg with Daughters]]
 #### Sources
-
+[Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p30

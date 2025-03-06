@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/legg/june-kathleen-legg-1923-2008/","tags":["June-Legg"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:25:32 pm***
+***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:27:15 pm***
 
 Born on  6/14/1928 in Mt Lookout, WV
 Death on 8/20/2008 in Ansted, WV
@@ -41,4 +41,4 @@ Stillborn Legg 1920-1920
 #### Photos
 
 #### Sources
-
+[Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p30

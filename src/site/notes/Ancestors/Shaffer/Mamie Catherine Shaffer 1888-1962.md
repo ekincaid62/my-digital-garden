@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/shaffer/mamie-catherine-shaffer-1888-1962/","tags":["Mamie-Catherine-Shaffer"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 8:23:31 pm***
+***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:31:47 pm***
 
 Born on  10/22/1888 in Nicholas WV
 Death on 5/10/1962 in Nicholas WV
@@ -46,4 +46,4 @@ Stillborn Legg 1920-1920
 [[Vault/Records/Fred and Mamie Shaffer Legg\|Fred and Mamie Shaffer Legg]]
 [[Vault/Records/Fred Legg Family.1\|Fred Legg Family]]
 #### Sources
-
+[Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p29,30
