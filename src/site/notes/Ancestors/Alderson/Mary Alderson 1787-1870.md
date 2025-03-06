@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/alderson/mary-alderson-1787-1870/","tags":["Mary-Alderson"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:14:39 pm***
+***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 5:55:04 pm***
 
 Born on  5/13/1787 in <!-- link to place -->
 Death on 5/13/1870 in <!-- link to place -->
@@ -36,4 +36,4 @@ Death on 5/13/1870 in <!-- link to place -->
 #### Photos
 
 #### Sources
-
+[McClung Genealogy 1904](https://drive.google.com/file/d/0B0oZv34v0ajXUWNUVmVwTUNhZ1E/view?usp=drive_link&resourcekey=0-GGNON3kTqpLoMdz3hRxyPQ) p160

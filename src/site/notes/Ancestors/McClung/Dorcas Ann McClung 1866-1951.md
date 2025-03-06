@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/mc-clung/dorcas-ann-mc-clung-1866-1951/","tags":["Dorcas-McClung"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 2:33:54 pm***
+***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 5:47:33 pm***
 
 Born on  3/18/1866 in Mt Lookout, WV
 Death on 6/6/1951 in Mt Lookout, WV
@@ -47,4 +47,5 @@ Death on 6/6/1951 in Mt Lookout, WV
 [[Vault/Records/Dorcas Ann Shaffer & Granddaughters\|Dorcas Ann Shaffer & Granddaughters]]
 [[Vault/Records/Dorcas and Anna\|Dorcas and Anna]]
 #### Sources
-
+[McClung Genealogy 1904](https://drive.google.com/file/d/0B0oZv34v0ajXUWNUVmVwTUNhZ1E/view?usp=drive_link&resourcekey=0-GGNON3kTqpLoMdz3hRxyPQ) p161
+[Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA) p13

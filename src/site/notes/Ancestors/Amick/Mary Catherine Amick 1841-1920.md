@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/amick/mary-catherine-amick-1841-1920/","tags":["Mary-C-Amick"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 6:17:01 pm***
+***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 5:47:07 pm***
 
 Born on  11/9/1841 in VA
 Death on 1920 in <!-- link to place -->
@@ -40,4 +40,5 @@ Death on 1920 in <!-- link to place -->
 #### Photos
 
 #### Sources
-
+[McClung Genealogy 1904](https://drive.google.com/file/d/0B0oZv34v0ajXUWNUVmVwTUNhZ1E/view?usp=drive_link&resourcekey=0-GGNON3kTqpLoMdz3hRxyPQ) p161
+[Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA) p13

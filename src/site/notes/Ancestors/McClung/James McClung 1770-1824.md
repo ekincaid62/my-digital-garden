@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/mc-clung/james-mc-clung-1770-1824/","tags":["James-McClung"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:27:00 pm***
+***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 5:54:25 pm***
 
 Born on  3/24/1770 in <!-- link to place -->
 Death on 7/24/1824 in <!-- link to place -->
@@ -44,4 +44,4 @@ Death on 7/24/1824 in <!-- link to place -->
 #### Photos
 
 #### Sources
-
+[McClung Genealogy 1904](https://drive.google.com/file/d/0B0oZv34v0ajXUWNUVmVwTUNhZ1E/view?usp=drive_link&resourcekey=0-GGNON3kTqpLoMdz3hRxyPQ) p160

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/mc-clung/mary-francis-mc-clung-1838-1865/","tags":["Mary-Francis-McClung"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:27:21 pm***
+***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 6:14:51 pm***
 
 Born on  1838 in <!-- link to place -->
 Death on 1865 in <!-- link to place -->
@@ -29,4 +29,4 @@ Death on 1865 in <!-- link to place -->
 #### Photos
 
 #### Sources
-
+[McClung Genealogy 1904](https://drive.google.com/file/d/0B0oZv34v0ajXUWNUVmVwTUNhZ1E/view?usp=drive_link&resourcekey=0-GGNON3kTqpLoMdz3hRxyPQ) p163

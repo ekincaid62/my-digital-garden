@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/mc-clung/john-mc-clung-1808-1886/","tags":["John-McClung"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 3:10:25 pm***
+***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 5:56:47 pm***
 
 Born on  1808 in <!-- link to place -->
 Death on 7/1886 in <!-- link to place -->
@@ -47,4 +47,4 @@ Martha McGraw married on 03/1854
 #### Photos
 
 #### Sources
-
+[McClung Genealogy 1904](https://drive.google.com/file/d/0B0oZv34v0ajXUWNUVmVwTUNhZ1E/view?usp=drive_link&resourcekey=0-GGNON3kTqpLoMdz3hRxyPQ) p161

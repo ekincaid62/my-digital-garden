@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/mc-clung/charles-william-mc-clung-1838-1911/","tags":["Charles-William-McClung"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 2:34:10 pm***
+***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 5:45:32 pm***
 
 Often referred to as "Good Charley"
 Born on  3/1/1838 in WV
@@ -46,4 +46,5 @@ Death on 6/24/1911 in Nicholas County, WV
 #### Photos
 [[Vault/Records/Rev. Charles William McClung\|Rev. Charles William McClung]]
 #### Sources
-
+[McClung Genealogy 1904](https://drive.google.com/file/d/0B0oZv34v0ajXUWNUVmVwTUNhZ1E/view?usp=drive_link&resourcekey=0-GGNON3kTqpLoMdz3hRxyPQ) p161
+[Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA) p13

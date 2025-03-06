@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/evans/sarah-evans-1814/","tags":["Sarah-Evans"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 9:33:38 pm***
+***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 5:52:54 pm***
 
 Born on  1814 in <!-- link to place -->
 Death on <!-- link to date --> in <!-- link to place -->
@@ -35,4 +35,4 @@ Death on <!-- link to date --> in <!-- link to place -->
 #### Photos
 
 #### Sources
-
+[McClung Genealogy 1904](https://drive.google.com/file/d/0B0oZv34v0ajXUWNUVmVwTUNhZ1E/view?usp=drive_link&resourcekey=0-GGNON3kTqpLoMdz3hRxyPQ) p163

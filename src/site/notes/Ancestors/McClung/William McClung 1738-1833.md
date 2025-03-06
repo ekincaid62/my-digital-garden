@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/mc-clung/william-mc-clung-1738-1833/","tags":["William-McClung"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:27:43 pm***
+***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 6:20:46 pm***
 
 Often referred to as "Grandfather Billie"
 Born on  1738 in <!-- link to place -->
@@ -36,4 +36,4 @@ now Nicholas Co., W. Va.
 #### Photos
 
 #### Sources
-
+[McClung Genealogy 1904](https://drive.google.com/file/d/0B0oZv34v0ajXUWNUVmVwTUNhZ1E/view?usp=drive_link&resourcekey=0-GGNON3kTqpLoMdz3hRxyPQ)p153

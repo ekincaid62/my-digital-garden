@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/walton/polly-walton-1810-1850/","tags":["Polly-Walton"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 9:56:39 pm***
+***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 5:57:19 pm***
 
 Born on  <!-- link to date --> in <!-- link to place -->
 Death on <!-- link to date --> in <!-- link to place -->
@@ -35,4 +35,4 @@ Death on <!-- link to date --> in <!-- link to place -->
 #### Photos
 
 #### Sources
-
+[McClung Genealogy 1904](https://drive.google.com/file/d/0B0oZv34v0ajXUWNUVmVwTUNhZ1E/view?usp=drive_link&resourcekey=0-GGNON3kTqpLoMdz3hRxyPQ) p161
