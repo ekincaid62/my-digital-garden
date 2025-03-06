@@ -38,7 +38,7 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="712,1394,695,1334,686,1269,684,1206,693,1145,912,1180,908,1232,914,1282,923,1325" fill="#ffffff" opacity="0">
      <title>James William Kincaid 1850-1919</title>
      </polygon>
-  </a><a xlink:href="/ancestors/kincaid/keenan/sarah-virginia-keenan-1849-1920/" target="_blank">
+  </a><a xlink:href="/ancestors/keenan/sarah-virginia-keenan-1849-1920/" target="_blank">
     <polygon points="691,1141,706,1078,728,1021,754,965,788,913,966,1041,942,1082,923,1136,914,1175" fill="#ffffff" opacity="0">
      <title>Sarah Virginia Keenan 1849-1920</title>
      </polygon>
@@ -90,9 +90,9 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="738,657,780,627,884,562,977,744,925,774,875,811" fill="#ffffff" opacity="0">
      <title>Rachel Parish Coleman 1818-1894</title>
      </polygon>
-  </a><a xlink:href="/ancestors/skaggs/james-skaggs-1820-1899/" target="_blank">
+  </a><a xlink:href="/ancestors/skaggs/james-preston-skaggs-1820-1899/" target="_blank">
     <polygon points="888,560,931,540,966,525,1049,501,1096,700,1038,718,979,744" fill="#ffffff" opacity="0">
-     <title>James Skaggs 1820-1899</title>
+     <title>James Preston Skaggs 1820-1899</title>
      </polygon>
   </a><a xlink:href="/ancestors/porter/martha-jane-porter-1825-1912/" target="_blank">
     <polygon points="1053,501,1098,490,1135,484,1181,479,1224,477,1226,685,1153,690,1096,698" fill="#ffffff" opacity="0">
@@ -102,7 +102,7 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="1229,479,1278,479,1313,481,1357,488,1400,497,1350,700,1287,687,1229,685" fill="#ffffff" opacity="0">
      <title>William Legg 1817-1895</title>
      </polygon>
-  </a><a xlink:href="/elizabeth-ramsey-1813-1902/" target="_blank">
+  </a><a xlink:href="/ancestors/ramsey/elizabeth-ramsey-1813-1902/" target="_blank">
     <polygon points="1404,501,1445,510,1484,525,1524,542,1563,557,1471,742,1409,716,1352,698" fill="#ffffff" opacity="0">
      <title>Elizabeth Ramsey 1813-1902</title>
      </polygon>
@@ -118,7 +118,7 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="1834,789,1860,826,1881,861,1901,900,1918,939,1730,1019,1699,963,1667,907" fill="#ffffff" opacity="0">
      <title>Joseph Allen Shaffer 1838-1911</title>
      </polygon>
-  </a><a xlink:href="/ancestors/mc-clung/mary-francis-mc-clung-1838-1865/" target="_blank">
+  </a><a xlink:href="/ancestors/mc-clung/mary-frances-mc-clung-1838-1865/" target="_blank">
     <polygon points="1918,943,1938,987,1949,1021,1959,1067,1966,1108,1760,1139,1751,1078,1732,1021" fill="#ffffff" opacity="0">
      <title>Mary Frances McClung 1838-1865</title>
      </polygon>
@@ -162,7 +162,7 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="374,748,437,657,615,783,567,854" fill="#ffffff" opacity="0">
      <title>Susanna Koontz 1810-1878</title>
      </polygon>
-  </a><a xlink:href="/ancestors/skaggs/james-a-skaggs-1786-1864/" target="_blank">
+  </a><a xlink:href="/ancestors/skaggs/james-a-skaggs-1780-1864/" target="_blank">
     <polygon points="437,655,509,568,671,713,617,781" fill="#ffffff" opacity="0">
      <title>James A. Skaggs 1786-1864</title>
      </polygon>
@@ -430,7 +430,7 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="1890,226,1951,267,1812,447,1766,410" fill="#ffffff" opacity="0">
      <title>Peter Perry 1770-1858</title>
      </polygon>
-  </a><a xlink:href="/ancestors/faulconer/lucinda-faulconer-1772-1846/">
+  </a><a xlink:href="/ancestors/faulconer/lucinda-faulconer-1772-1846/" target="_blank">
     <polygon points="1951,271,2003,314,1858,481,1818,447" fill="#ffffff" opacity="0">
      <title>Lucinda Faulconer 1772-1846</title>
      </polygon>
@@ -474,11 +474,11 @@ The image below has hot links to each of my ancestors. The links will open into 
     <polygon points="2361,837,2380,900,2165,961,2148,911" fill="#ffffff" opacity="0">
      <title>Mary Alderson 1787-1870</title>
      </polygon>
-  </a><a xlink:href="/ancestors/evans/david-evans-1787-1850/">
+  </a><a xlink:href="/ancestors/evans/david-evans-1787-1850/" target="_blank">
     <polygon points="2380,902,2395,967,2178,1017,2165,963" fill="#ffffff" opacity="0">
      <title>David Evans 1787-1850</title>
      </polygon>
-  </a><a xlink:href="/ancestors/alderson/ruth-alderson-1785-1860/">
+  </a><a xlink:href="/ancestors/alderson/ruth-alderson-1785-1860/" target="_blank">
     <polygon points="2181,1019,2395,972,2411,1039,2189,1076" fill="#ffffff" opacity="0">
      <title>Ruth Alderson 1785-1860</title>
      </polygon>

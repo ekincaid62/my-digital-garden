@@ -19,7 +19,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 [[Ancestors/McClung/Dickinson Carpenter McClung 1813-1886\|Dickinson Carpenter McClung 1813-1886]] married <!-- link to date --> in <!-- link to place -->.
 [[Rufus Davis McClung\|Rufus Davis McClung]]
 [[James Evans McClung\|James Evans McClung]]
-[[Ancestors/McClung/Mary Francis McClung 1838-1865\|Mary Francis McClung 1838-1865]]
+[[Ancestors/McClung/Mary Frances McClung 1838-1865\|Mary Frances McClung 1838-1865]]
 [[Matthew Thomas McClung 1841-\|Matthew Thomas McClung 1841-]]
 [[Matilda McClung\|Matilda McClung]]
 [[Ruth McClung\|Ruth McClung]]

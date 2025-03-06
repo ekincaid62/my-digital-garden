@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/mc-clung/dickinson-carpenter-mc-clung-1813-1886/","tags":["Dickinson-Carpenter-McClung"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 5:51:02 pm***
+***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:16:24 pm***
 
 Born on  1813 in <!-- link to place -->
 Death on 1886 in <!-- link to place -->
@@ -26,7 +26,7 @@ Death on 1886 in <!-- link to place -->
 [[Ancestors/Evans/Sarah Evans 1814-\|Sarah Evans 1814-]] married <!-- link to date --> in <!-- link to place -->.
 [[Rufus Davis McClung\|Rufus Davis McClung]]
 [[James Evans McClung\|James Evans McClung]]
-[[Ancestors/McClung/Mary Francis McClung 1838-1865\|Mary Francis McClung 1838-1865]]
+[[Ancestors/McClung/Mary Frances McClung 1838-1865\|Mary Frances McClung 1838-1865]]
 [[Matthew Thomas McClung 1841-\|Matthew Thomas McClung 1841-]]
 [[Matilda McClung\|Matilda McClung]]
 [[Ruth McClung\|Ruth McClung]]
