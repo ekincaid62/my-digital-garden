@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1870-united-states-federal-census-1/","tags":["James-Woodson-Skaggs","Harriet-Ann-Skaggs","Cyrus-Skaggs","Rachel-Parish-Coleman","James-Preston-Skaggs","Martha-Jane-Porter"]}
+{"dg-publish":true,"permalink":"/vault/census/1870-united-states-federal-census-1/","tags":["James-Woodson-Skaggs","Harriet-Ann-Skaggs","Cyrus-Skaggs","Rachel-Parish-Coleman","James-Preston-Skaggs","Martha-Jane-Potter"]}
 ---
 
 Family 219

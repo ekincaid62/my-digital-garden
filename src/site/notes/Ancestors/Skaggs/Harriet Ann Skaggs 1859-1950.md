@@ -10,7 +10,7 @@ Death on 8/11/1950 in Fayette County, WV
 ---
 #### Parents
 
-[[Ancestors/Skaggs/James Preston Skaggs 1820-1899\|James Preston Skaggs 1820-1899]] and [[Ancestors/Porter/Martha Jane Porter 1825-1912\|Martha Jane Porter 1825-1912]]
+[[Ancestors/Skaggs/James Preston Skaggs 1820-1899\|James Preston Skaggs 1820-1899]] and [[Ancestors/Potter/Martha Jane Potter 1825-1912\|Martha Jane Potter 1825-1912]]
 #### Siblings
 <!-- Link to sibling -->
 

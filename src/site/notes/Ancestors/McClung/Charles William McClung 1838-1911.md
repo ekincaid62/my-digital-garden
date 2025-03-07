@@ -33,7 +33,7 @@ Death on 6/24/1911 in Nicholas County, WV
 [[Mary Jane McClung 1879-1963\|Mary Jane McClung 1879-1963]]
 
 #### Census Records
-[[Vault/Census/1910 United States Federal Census\|1910 United States Federal Census]]
+[[Vault/Census/1910 United States Federal Census\|Vault/Census/1910 United States Federal Census]]
 [[Vault/Census/1900 United States Federal Census 1\|1900 United States Federal Census]]
 [[Vault/Census/1880 United States Federal Census Record.3\|1880 United States Federal Census]]
 [[Vault/Census/1870 United States Federal Census 3\|1870 United States Federal Census]]
