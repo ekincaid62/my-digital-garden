@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/james-william-kincaid-1850-1919/","tags":["James-William-Kincaid"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Saturday, February 22nd 2025, 11:02:35 am***
+***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:07:39 pm***
 
 Born on  4/7/1850 in West Virginia
 Death on 7/3/1919 in Mt. Lookout WV
@@ -48,4 +48,4 @@ The family moved to Mt Lookout in the spring of 1886 according to  [Mt Lookout F
 [[Vault/Records/Will & Sarah Virginia Keenan Kincaid\|Will & Sarah Virginia Keenan Kincaid]]
 
 #### Sources
-
+[Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p39

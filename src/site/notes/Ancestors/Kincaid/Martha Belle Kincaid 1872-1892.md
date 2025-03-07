@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/martha-belle-kincaid-1872-1892/","tags":["Martha-Belle-Kincaid"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:22:45 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:09:12 pm***
 
 Born on  2/2/1872 in WV
 Death on 1/24/1892 in WV
@@ -35,4 +35,4 @@ Death on 1/24/1892 in WV
 #### Photos
 [[Vault/Records/Martha Belle Kincaid\|Martha Belle Kincaid]]
 #### Sources
-
+[Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p39

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/keenan/sarah-virginia-keenan-1849-1920/","tags":["Sarah-Virginia-Keenan"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 7:31:59 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:09:03 pm***
 
 Born on  3/1849 in Fayette, WV
 Death on after 1920 in Mt Lookout, WV
@@ -48,4 +48,4 @@ The family moved to Mt Lookout in 1886 according to  [Mt Lookout Family Record B
 [[Vault/Records/James William Kincaid Family\|James William Kincaid Family]]
 
 #### Sources
-
+[Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p39

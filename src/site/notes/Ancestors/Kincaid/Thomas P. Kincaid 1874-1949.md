@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/thomas-p-kincaid-1874-1949/","tags":["Thomas-P-Kincaid"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:24:05 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:09:26 pm***
 
 Born on  3/30/1874 in WV
 [[Vault/Records/Thomas P. Kincaid Obituary\|Death]] on 1949 in Nicholas County, WV
@@ -44,4 +44,4 @@ Born on  3/30/1874 in WV
 [[Vault/Records/Thomas P. Kincaid 2\|Thomas P. Kincaid 2]]
 [[Vault/Records/Thomas P. Kincaid\|Thomas P. Kincaid]]
 #### Sources
-
+[Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p39

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/betty-ann-kincaid-1883/","tags":["Betty-Ann-Kincaid"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:20:19 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:10:41 pm***
 
 Born on  4/15/1883 in WV
 Death on <!-- link to date --> in <!-- link to place -->
@@ -34,4 +34,4 @@ Death on <!-- link to date --> in <!-- link to place -->
 #### Photos
 [[Vault/Records/Adam & Betty Myers\|Adam & Betty Myers]]
 #### Sources
-
+[Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p39

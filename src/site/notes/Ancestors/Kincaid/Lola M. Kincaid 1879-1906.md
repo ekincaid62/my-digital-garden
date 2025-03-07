@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/lola-m-kincaid-1879-1906/","tags":["Lola-M-Kincaid"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:22:26 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:09:35 pm***
 
 Born on  7/17/1879 in WV
 Death on 1906 
@@ -34,4 +34,4 @@ Death on 1906
 #### Photos
 [[Vault/Records/Lola Kincaid Chapman\|Lola Kincaid Chapman]]
 #### Sources
-
+[Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p39

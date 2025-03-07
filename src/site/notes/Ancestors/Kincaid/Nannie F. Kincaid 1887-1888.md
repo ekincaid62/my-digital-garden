@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/nannie-f-kincaid-1887-1888/","tags":["Nannie-F-Kincaid"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:23:01 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:10:56 pm***
 
 Born on  6/20/1887 in Mt Lookout, WV
 Death on 1888 in Mt Lookout, WV
@@ -26,4 +26,4 @@ Died at 1 as per [Mt Lookout Family Record Book](https://drive.google.com/file/d
 #### Photos
 
 #### Sources
-
+[Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p39

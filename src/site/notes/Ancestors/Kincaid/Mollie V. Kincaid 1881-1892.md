@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/mollie-v-kincaid-1881-1892/","tags":["Mollie-V-Kincaid"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:22:52 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:10:28 pm***
 
 Born on  4/9/1881 in Mountain Cove, Fayette, WV
 Death on 1892 in Mountain Cove, Fayette, WV
@@ -24,4 +24,4 @@ Died at 11 years old as per  [Mt Lookout Family Record Book](https://drive.googl
 #### Photos
 
 #### Sources
-
+[Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p39
