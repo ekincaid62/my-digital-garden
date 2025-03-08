@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/perry/peter-perry-1770-1858/","tags":["Peter-Perry"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 8:25:17 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 7:40:20 pm***
 
 Born on  1770 in Orange County, VA
 Death on 12/1858 in Orange County, VA
@@ -20,7 +20,7 @@ Death on 12/1858 in Orange County, VA
 [[Ancestors/Perry/Mary Level Perry 1799-1879\|Mary Level Perry 1799-1879]]
 
 #### Census Records
-
+[[Vault/Census/1850 United States Federal Census 16\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

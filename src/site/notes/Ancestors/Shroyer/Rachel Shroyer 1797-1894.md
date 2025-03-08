@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/shroyer/rachel-shroyer-1797-1894/","tags":["Rachel-Shroyer"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Monday, March 3rd 2025, 7:43:41 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 7:36:55 pm***
 
 Born on  <!-- link to date --> in Pendleton County, VA
 Death on <!-- link to date --> in Pool, Nicholas County, VA
@@ -20,7 +20,9 @@ Death on <!-- link to date --> in Pool, Nicholas County, VA
 [[Ancestors/Amick/John William Amick 1815-1890\|John William Amick 1815-1890]]
 
 #### Census Records
-
+[[Vault/Census/1880 United States Federal Census 5\|1880 United States Federal Census]]
+[[Vault/Census/1870 United States Federal Census 6\|1870 United States Federal Census]]
+[[Vault/Census/1850 United States Federal Census 15\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

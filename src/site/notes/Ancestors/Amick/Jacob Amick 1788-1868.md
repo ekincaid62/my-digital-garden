@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/amick/jacob-amick-1788-1868/","tags":["Jacob-Amick"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Monday, March 3rd 2025, 7:46:40 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 7:15:09 pm***
 
 Born on  1/13/1788 in Bedminister Township, PA
 Death on 9/6/1868 in Anglins Creek, Nicholas County, VA
@@ -21,7 +21,7 @@ Death on 9/6/1868 in Anglins Creek, Nicholas County, VA
 #### Census Records
 
 #### Land Transfers
-
+[[Vault/Census/1850 United States Federal Census 15\|1850 United States Federal Census]]
 #### Biography
 
 #### Photos
