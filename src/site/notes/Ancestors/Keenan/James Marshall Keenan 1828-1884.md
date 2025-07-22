@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/keenan/james-marshall-keenan-1828-1884/"}
+{"dg-publish":true,"permalink":"/ancestors/keenan/james-marshall-keenan-1828-1884/","tags":["Marshall-Keenan"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Monday, February 24th 2025, 7:23:11 pm***
+***<font color="#00b0f0">Last Modified:</font> Tuesday, March 11th 2025, 8:52:16 pm***
 
 Born on  1828 in <!-- link to place -->
 Death on 1884 in <!-- link to place -->

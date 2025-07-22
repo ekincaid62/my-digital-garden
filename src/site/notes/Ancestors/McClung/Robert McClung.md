@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/mc-clung/robert-mc-clung/","tags":["Rpbert-McClung"]}
+{"dg-publish":true,"permalink":"/ancestors/mc-clung/robert-mc-clung/","tags":["Robert-McClung"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:27:35 pm***
+***<font color="#00b0f0">Last Modified:</font> Monday, July 21st 2025, 9:41:09 am***
 
 Born on  <!-- link to date --> in <!-- link to place -->
 Death on <!-- link to date --> in <!-- link to place -->

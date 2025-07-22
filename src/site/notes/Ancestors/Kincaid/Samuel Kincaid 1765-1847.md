@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/samuel-kincaid-1765-1847/","tags":["Samuel-Kincaid"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:23:23 pm***
+***<font color="#00b0f0">Last Modified:</font> Monday, July 21st 2025, 9:28:39 am***
 
 Born on 1765 in Augusta VA
 Death on 1847 in Fayette County VA
@@ -45,7 +45,8 @@ Here's a **[Map](https://drive.google.com/open?id=1Ovf8lrLFB4BTWTWKfye1fDldFYQ&u
 The following 2 deeds (12Ac to Bennett, 195 Ac to Butler) show how the 207 Ac listed in DB 1 Pg 144 was transferred from Samuel and this [map](https://www.google.com/maps/d/edit?mid=1jr6PpFN_5rfXCAzAiAUWEf9H2zY&ll=37.80694748007256%2C-80.61598907681034&z=13)shows how they fit together.
 [[Vault/Land Transfers/Greenbrier County, DB 7 Pg 95 dated 4 Dec 1816 (Samuel and Huldy to Thomas Bennett)\|Greenbrier County, DB 7 Pg 95 dated 4 Dec 1816 (Samuel and Huldy to Thomas Bennett)]] 
 [[Vault/Land Transfers/Greenbrier County, DB 10 Pg 43 dated 4 Dec 1816 (Samuel and Huldy to John Butler)\|Greenbrier County, DB 10 Pg 43 dated 4 Dec 1816 (Samuel and Huldy to John Butler)]]
-Should be a deed around this time from Butler to Samuel (240 Ac Ephraim's Creek)
+These deeds confirm that this Samuel was married to Huldy Osborn.
+Should be a deed around this time from Butler to Samuel (240 Ac Ephraim's Creek) 
 
 ---
 Little Meadow River
@@ -55,8 +56,10 @@ The following 2 deeds show the land deeded to the Harrahs
 [[Vault/Land Transfers/Greenbrier County, DB 10 Pg 163 dated 29 Aug 1825 (Samuel and Huldah to Robert Harrah)\|Greenbrier County, DB 10 Pg 163 dated 29 Aug 1825 (Samuel and Huldah to Robert Harrah)]]
 [[Vault/Land Transfers/Fayette County, WV DB C Pg 331 dated 17 Oct 1842 (Samuel and Diane to Thomas Harra)\|Fayette County, WV DB C Pg 331 dated 17 Oct 1842 (Samuel and Diane to Thomas Harra)]]
 
+These two deeds confirm that this is the Samuel of three wifes with the first listing Hulda as his wife and the second showing Diana.
+
 ---
-It has been assumed that the following to tracts were traded to Samuel for 240 Ac on Epraim's Creek (I have been unable to find anything confirming this.)
+It has been assumed that the following two tracts were traded to Samuel for 240 Ac on Epraim's Creek (I have been unable to find anything confirming this.)
 [[Vault/Land Transfers/Fayette Co. DB A Pg 288 dated 17 Dec 1832 (Richard Tyree and wife Sarah to Samuel)\|Fayette Co. DB A Pg 288 dated 17 Dec 1832 (Richard Tyree and wife Sarah to Samuel)]]
 [[Vault/Land Transfers/Fayette Co. DB A Pg 287 dated 10 Jan 1833 (Richard Tyree and wife Sarah to Samuel)\|Fayette Co. DB A Pg 287 dated 10 Jan 1833 (Richard Tyree and wife Sarah to Samuel)]]
 Should be a deed around this time from Samuel to Tyree (240 Ac Ephraim's Creek)
