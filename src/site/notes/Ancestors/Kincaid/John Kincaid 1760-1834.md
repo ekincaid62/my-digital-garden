@@ -26,7 +26,7 @@ Death on 21 Apr 1834 in Gauley Bridge WV
 [[Sarah Kincaid\|Sarah Kincaid]] married Thomas Terry on 10-23-1798 Greenbrier Co.
 [[Matthew Kincaid\|Matthew Kincaid]] married Polly Murdock 2 Jun 1807 in Monroe Co., Virginia
 [[Samuel Kincaid\|Samuel Kincaid]] married Betsy Walker on 04-26-1809
-[[James Gillespie Kincaid 1792-1852\|James Gillespie Kincaid 1792-1852]] married Mary Magdalene "Polly" Tritt 9 Dec 1809
+[[Ancestors/Kincaid/James Gillespie Kincaid 1792-1852\|James Gillespie Kincaid 1792-1852]] married Mary Magdalene "Polly" Tritt 9 Dec 1809
 [[Nancy Kincaid 1799-\|Nancy Kincaid 1799-]] married Thomas Hughes on 02-24-1825 in Nicholas Co., West Virginia
 [[Elizabeth Kincaid 1793-1850\|Elizabeth Kincaid 1793-1850]] "Betsy" married 1st Samuel Linegar and 2nd Squire James Sturgess (Sturgeon)
 [[Margaret Kincaid\|Margaret Kincaid]] "Peggy" married James Ingram on 10-24-1809 in VA
