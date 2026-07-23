@@ -22,10 +22,10 @@ Back in Scotland, four nephews of the above David Kincaid by the names of Samuel
 
 At the advice of their uncle David Kincaid, back in Albemarle/Augusta County, Virginia at this time, they brought plenty of "Siller" (silver) with them. The brothers came first to Pennsylvania, as David had probably done, then to Virginia.
 
-Of the above family, David, the uncle, was said to be born about 1680-1700. The nephews were probably born about 1700-1720. [[Vault/Records/Kincaid History - Richard Bradley#^Brantley1\|1]]
+Of the above family, David, the uncle, was said to be born about 1680-1700. The nephews were probably born about 1700-1720. [[#^Brantley1|1]]
 
 
-Regarding such traditions, the only thing that can be said for certain was that David Kincaid did appear in Spotsylvania and Orange Co. records as early as the 1730's. I was informed by Robert Walters that there is a marriage record in Spotsylvania Co. in late 1728 or early 1729 for the marriage of David Kincaid to Winifred Hobson Tillary (she being the widow of Samuel Tillary). [[Vault/Records/Kincaid History - Richard Bradley#^Brantley2\|2]] This firmly places David as the earliest Kincaid in Virginia and one would suspect him to be the father or grandfather of all subsequent generations. However, as we shall see, there were other Kincaids in Virginia records who were old enough to be brothers or cousins to David.
+Regarding such traditions, the only thing that can be said for certain was that David Kincaid did appear in Spotsylvania and Orange Co. records as early as the 1730's. I was informed by Robert Walters that there is a marriage record in Spotsylvania Co. in late 1728 or early 1729 for the marriage of David Kincaid to Winifred Hobson Tillary (she being the widow of Samuel Tillary). [[#^Brantley2|2]] This firmly places David as the earliest Kincaid in Virginia and one would suspect him to be the father or grandfather of all subsequent generations. However, as we shall see, there were other Kincaids in Virginia records who were old enough to be brothers or cousins to David.
 
 The following are abstracts of land records for David Kincaid. Although not an exhaustive list, all records of Albemarle County and related records from other counties are included:
 
@@ -33,7 +33,7 @@ June 20, 1733: Spotsylvania Co. Patent to David Kincade for 400 acres in the For
 
 &
 
-March 21, 1743: Orange Co. Deed from David Kinkead, builder [[Vault/Records/Kincaid History - Richard Bradley#3\|#3]], & Winifred Kinkead of Co. Of Orange, parish of St Mark, to James Jones of King George Co., parish of Hanover, 400 acres for L 50. Orange Co. On Rappahanock River on the North side of a branch called Devil's Run. Granted to David Kinkead in 1733. Witnesses: Richd Tule, Thos Covington, Mathew Tule.
+March 21, 1743: Orange Co. Deed from David Kinkead, builder [[#3]], & Winifred Kinkead of Co. Of Orange, parish of St Mark, to James Jones of King George Co., parish of Hanover, 400 acres for L 50. Orange Co. On Rappahanock River on the North side of a branch called Devil's Run. Granted to David Kinkead in 1733. Witnesses: Richd Tule, Thos Covington, Mathew Tule.
 
 Aug 1, 1734: Spotsylvania Co. Patent to David Kinkead for 660 acres in the Goard vine fork, beginning & extending at the mouth of a branch of Kinkead run. (Patent 15, p. 267)
 
@@ -103,7 +103,7 @@ He, born 1687, she 1786 in
 
 Devonshire, Scot.; married
 
-1704; Eliz. died in OH or VA [[Vault/Records/Kincaid History - Richard Bradley#5\|#5]]
+1704; Eliz. died in OH or VA [[#5]]
 
 _or_
 
@@ -123,27 +123,27 @@ Kincaid went to near Dublin,
 
 Ireland in 1701. Robert married
 
-married Eliz. In 1705. [[Vault/Records/Kincaid History - Richard Bradley#6\|#6]]
+married Eliz. In 1705. [[#6]]
 
 _A son of one of the above lineages:_
 
-Thomas Kincaid = Margaret Lockhart [[Vault/Records/Kincaid History - Richard Bradley#7\|#7]]
+Thomas Kincaid = Margaret Lockhart [[#7]]
 
 B. 1704-1705 d. 1750
 
-Came from Carlisle, Cumberland Co., PA [[Vault/Records/Kincaid History - Richard Bradley#8\|#8]]
+Came from Carlisle, Cumberland Co., PA [[#8]]
 
 to Augusta Co., VA in 1747.
 
-The children and probable children of Thomas and Margaret Kincaid, according to Larry Shuck, were William, _Thomas_, John and Andrew. According to Doug McGuire, there were two William Kincaids in Augusta County, one who married Eleanor Guy and whose children were the victims of a famous Indian abduction which has been written about extensively. The other William, according to Doug McGuire was William the Stiller [[Vault/Records/Kincaid History - Richard Bradley#8a\|#8a]] who remained in Augusta County while the other William went to Woodford County, Kentucky. There is documentation that a William was the son of Thomas Kincaid and Margaret Lockhart. It is the information about his brothers and sisters which seems to be as much speculation as fact. Doug McGuire has provided me with information on his research in which he traces another Thomas Kincaid, Jr., the one married to Isabella, as the son of Thomas Kincaid and Margaret Lockhart. This Thomas Kincaid, Jr. was referred to as a Blacksmith in deeds in mid 1770's. He and his brother, William Kincaid, the Stiller, owned land on the Calfpasture River. Thomas was born about 1741, according to Doug McGuire, and the children of Thomas & Isabella were Elizabeth, Andrew, Thomas, David, Archibald, John, William, and Robert who later show up in Bath and Monroe Co., VA The following Augusta Co. Records apparently belong to this other Thomas Kincaid although it is possible that some may concern our Thomas Kincaid of Muddy Creek Mountain:
+The children and probable children of Thomas and Margaret Kincaid, according to Larry Shuck, were William, _Thomas_, John and Andrew. According to Doug McGuire, there were two William Kincaids in Augusta County, one who married Eleanor Guy and whose children were the victims of a famous Indian abduction which has been written about extensively. The other William, according to Doug McGuire was William the Stiller [[#8a]] who remained in Augusta County while the other William went to Woodford County, Kentucky. There is documentation that a William was the son of Thomas Kincaid and Margaret Lockhart. It is the information about his brothers and sisters which seems to be as much speculation as fact. Doug McGuire has provided me with information on his research in which he traces another Thomas Kincaid, Jr., the one married to Isabella, as the son of Thomas Kincaid and Margaret Lockhart. This Thomas Kincaid, Jr. was referred to as a Blacksmith in deeds in mid 1770's. He and his brother, William Kincaid, the Stiller, owned land on the Calfpasture River. Thomas was born about 1741, according to Doug McGuire, and the children of Thomas & Isabella were Elizabeth, Andrew, Thomas, David, Archibald, John, William, and Robert who later show up in Bath and Monroe Co., VA The following Augusta Co. Records apparently belong to this other Thomas Kincaid although it is possible that some may concern our Thomas Kincaid of Muddy Creek Mountain:
 
-Following allowed Certificates for land for military service... Wm. Kinkead, _Thomas Kinkead_, John Montgomery, of Capt. Lewis' Company, Boquet's Expedition, 1764. [[Vault/Records/Kincaid History - Richard Bradley#9\|#9]]
+Following allowed Certificates for land for military service... Wm. Kinkead, _Thomas Kinkead_, John Montgomery, of Capt. Lewis' Company, Boquet's Expedition, 1764. [[#9]]
 
-June 15, 1770: Moses McElvain and wife Margaret of the County of Augusta sold to _Thomas Kincaid_ of Augusta County 260 acres on the south side of the great river of the Calfpasture lying between William Kinkeads and Robert Gwins land originally conveyed by James Loughridge to McElvain. Witnesses: John Kinkead, William Kinkead. [[Vault/Records/Kincaid History - Richard Bradley#10\|#10]]
+June 15, 1770: Moses McElvain and wife Margaret of the County of Augusta sold to _Thomas Kincaid_ of Augusta County 260 acres on the south side of the great river of the Calfpasture lying between William Kinkeads and Robert Gwins land originally conveyed by James Loughridge to McElvain. Witnesses: John Kinkead, William Kinkead. [[#10]]
 
-Thomas Kinkead, in 1771, purchased from Jacob Passinger a tract of land in Greenbrier called Spring Lick, once the property of Christian Sanders, orphan. [[Vault/Records/Kincaid History - Richard Bradley#11\|#11]]
+Thomas Kinkead, in 1771, purchased from Jacob Passinger a tract of land in Greenbrier called Spring Lick, once the property of Christian Sanders, orphan. [[#11]]
 
-May 18, 1772: Robert Guin of Augusta County sold to _Thomas Kinkead_, _Blacksmith_, of the county of Augusta 43 acres on great river of Calfpasture, "joining a tract of land in the possession of Wm. Kinkead and said _Thomas Kinkead_". Witnesses: Thomas Hughart, James Hodge, John Carlile. [[Vault/Records/Kincaid History - Richard Bradley#12\|#12]]
+May 18, 1772: Robert Guin of Augusta County sold to _Thomas Kinkead_, _Blacksmith_, of the county of Augusta 43 acres on great river of Calfpasture, "joining a tract of land in the possession of Wm. Kinkead and said _Thomas Kinkead_". Witnesses: Thomas Hughart, James Hodge, John Carlile. [[#12]]
 
 John Marshall summoned, 1780, to show cause why grant shall not issue to _Thoma\_\_Kinkead_ for land in Greenbrier claimed by settlement. (Augusta Co., VA Court records, Nov., 1782, p. 378)
 
@@ -157,13 +157,13 @@ Bill Filed 1803: Kinkade vs. Cunningham. _Thomas Kinkade_ was a very ignorant an
 
 ### Part 3 ... David, James, & Joseph Kincaid in Albemarle Co.
 
-By the 1740's David Kincaid had purchased land in Augusta County (formed from Orange Co. In 1738) and in Albemarle County (formed from Louisa and Goochland Counties in 1744). Although he owned land in Augusta County, I believe he lived primarily in Albemarle County. According to Wood's History of Albemarle County, three brothers named David, Joseph, and James Kinkead [[Vault/Records/Kincaid History - Richard Bradley#13\|#13]] settled in far western Albemarle County (which is near the Augusta County border). [[Vault/Records/Kincaid History - Richard Bradley#14\|#14]]
+By the 1740's David Kincaid had purchased land in Augusta County (formed from Orange Co. In 1738) and in Albemarle County (formed from Louisa and Goochland Counties in 1744). Although he owned land in Augusta County, I believe he lived primarily in Albemarle County. According to Wood's History of Albemarle County, three brothers named David, Joseph, and James Kinkead [[#13]] settled in far western Albemarle County (which is near the Augusta County border). [[#14]]
 
 **XXXXXXXX NEED TINKLING SPRING CHURCH RECORDS HERE XXXXXXXX**
 
-James died in 1762. Leaving three sons, Thomas, John, and James, and probably two more, Matthew and Andrew, and a daughter, the wife of Ninian Clyde. Joseph died in 1774. His children were Jean, the wife of Hugh Alexander, John, and Ruth, the wife of Andrew Grier. . . .All of the kindred bearing the name, seem to have removed from the county before the close of the last century \[18th Century\]. Its latest appearance on the records occurs in 1784, when Jean, the widow of James, sold to Abner Wood, a parcel of land in what is known as the Piper and Patrick neighborhood. She was at that time a resident of Rockbridge County. [[Vault/Records/Kincaid History - Richard Bradley#15\|#15]]
+James died in 1762. Leaving three sons, Thomas, John, and James, and probably two more, Matthew and Andrew, and a daughter, the wife of Ninian Clyde. Joseph died in 1774. His children were Jean, the wife of Hugh Alexander, John, and Ruth, the wife of Andrew Grier. . . .All of the kindred bearing the name, seem to have removed from the county before the close of the last century \[18th Century\]. Its latest appearance on the records occurs in 1784, when Jean, the widow of James, sold to Abner Wood, a parcel of land in what is known as the Piper and Patrick neighborhood. She was at that time a resident of Rockbridge County. [[#15]]
 
-Sherrralyn Kincaid Nichols, [[Vault/Records/Kincaid History - Richard Bradley#16\|#16]] in her Kincaid web page, indicated that our Thomas Kincaid of Muddy Creek Mountain was born in Albemarle County in 1742 and she suggested he may be the above named son of James (who died in 1762) and Jean Kincaid of that county. The interesting thing about the widow Jean (sometimes spelled Jane) Kinkead is that she is a neighbor of Daniel O'Hara, Sr. when he owned land in Albemarle Co. In 1771-1775. Could her son Thomas be the Thomas Kincaid of Muddy Creek Mountain? The answer is apparently "No". A review of the Albemarle County records reveals that the Widow Jean Kincaid gave 207 acres to her son Thomas Kinkead in 1774. [[Vault/Records/Kincaid History - Richard Bradley#17\|#17]] Thomas and his wife _Mary_ later sold this same land to Samuel Muse in 1779. [[Vault/Records/Kincaid History - Richard Bradley#18\|#18]] (This is obviously not the same Thomas married to Hannah Tincher).
+Sherrralyn Kincaid Nichols, [[#16]] in her Kincaid web page, indicated that our Thomas Kincaid of Muddy Creek Mountain was born in Albemarle County in 1742 and she suggested he may be the above named son of James (who died in 1762) and Jean Kincaid of that county. The interesting thing about the widow Jean (sometimes spelled Jane) Kinkead is that she is a neighbor of Daniel O'Hara, Sr. when he owned land in Albemarle Co. In 1771-1775. Could her son Thomas be the Thomas Kincaid of Muddy Creek Mountain? The answer is apparently "No". A review of the Albemarle County records reveals that the Widow Jean Kincaid gave 207 acres to her son Thomas Kinkead in 1774. [[#17]] Thomas and his wife _Mary_ later sold this same land to Samuel Muse in 1779. [[#18]] (This is obviously not the same Thomas married to Hannah Tincher).
 
 The early deeds involving the widow Jean Kincaid (Kinkead) and her son Thomas are as follows:
 
@@ -216,29 +216,29 @@ Nov 24, 1766 (from notes) Deed from John Kinkead, now of Albemarle, to Gabriel J
 
 Mortgage. On 26 Feb 1753 John Kinkade of Tredyffrin, clerk, to Lewis James of TreHaidd in Pembrokeshire of South Wales in Old England, gentleman. John Kinkade stands bound to Lewis James for 1000 pounds conditioned on payment of 500 pounds on I May 1754. John Kinkade to better secure said payment grants to Lewis James a tract in the Great Valley bounded by land of David John, Valley Creek, land of Walker, Hobard & Isaac Davis, containing 322 acres, being the same land Lewis James by deed dated 24 Feb 1753 granted to
 
-John Kinkade. Signed John Kinkade. Delivered in the presence of Francis Alison, Thomas Bartholemew & Paul Isaac. Recorded 16 May 1753. (H8:624). [[Vault/Records/Kincaid History - Richard Bradley#20\|#20]]
+John Kinkade. Signed John Kinkade. Delivered in the presence of Francis Alison, Thomas Bartholemew & Paul Isaac. Recorded 16 May 1753. (H8:624). [[#20]]
 
-Mortgage. On 7 Apr 1753 Francis Alison of the City of Philadelphia, clerk, & Hannah his wife, to William Allen of the City of Philadelphia, Esq. Francis Alison stands bound to William Allen for 1000 ponds conditioned on payment of 500 pounds plus interest on 7 Apr 1754. Francis Alison & Hannah his wife to better secure said payment grant to William Allen a tract in Tredyffrin bounded by land of David Johns, John Kinkade, Valley Creek & near the mill containing 400 acres. Signed Francis Alison & Hannah Alison. Delivered in the presence of Lewis James & Paul Isaac. Recorded 22 June 1753. (H8:550). [[Vault/Records/Kincaid History - Richard Bradley#21\|#21]]
+Mortgage. On 7 Apr 1753 Francis Alison of the City of Philadelphia, clerk, & Hannah his wife, to William Allen of the City of Philadelphia, Esq. Francis Alison stands bound to William Allen for 1000 ponds conditioned on payment of 500 pounds plus interest on 7 Apr 1754. Francis Alison & Hannah his wife to better secure said payment grant to William Allen a tract in Tredyffrin bounded by land of David Johns, John Kinkade, Valley Creek & near the mill containing 400 acres. Signed Francis Alison & Hannah Alison. Delivered in the presence of Lewis James & Paul Isaac. Recorded 22 June 1753. (H8:550). [[#21]]
 
 Assignment of Mortgage. On I June 1763 Lewis James of Tre Haidd in Pembroke Shire in South Wales, gentleman, to Robert Moore of the city of Philadelphia, merchant, Whereas John Kinkead of Tredyffrin in the county of Chester, clerk, by deed dated 26 Feb last became bound to James Lewis for 1000 pounds conditioned on payment of 500 pounds plus interest on 1 May 1754. Whereas John Kinkead by way of security for the debt granted a tract of land in the Great Valley bounded by land of David John, Valley Creek, land of Walker, Hobard & Isaac Davis containing 322 acres, recorded in Chester, Book H, Vol 8, Page 524. Now Lewis James for 500 pounds paid by Robert Moore, grants to Robert Moore the said mortgage. Signed Lewis James.
 
-Delivered in the presence of James Johnston & Josiah Jackson. Recorded 2 Oct 1753. (IJ9:43). [[Vault/Records/Kincaid History - Richard Bradley#22\|#22]]
+Delivered in the presence of James Johnston & Josiah Jackson. Recorded 2 Oct 1753. (IJ9:43). [[#22]]
 
-Mortgage. On 5 Dec 1757 John Kinkead of Tredyffrin, clerk & Annie his wife to Doctor Bernhard Van Leer of Marple. John Kinkead & Annie his wife for 55 pounds granted to Dr. Bernhard Van Leer a tract of land in the Great Valley bounded by land of David John, Valley Creek, Walker's land, Hobbard's land & land of Isaac Davis containing 322 acres (except 40 acres). John Kinkead to pay 55 pounds on 1 Sep 1758. Signed John Kinkead & Annie Kinkead. Delivered in the presence of James Mather & Rebecca Mather. Recorded 27 Jan 1758. (K10:529). [[Vault/Records/Kincaid History - Richard Bradley#23\|#23]]
+Mortgage. On 5 Dec 1757 John Kinkead of Tredyffrin, clerk & Annie his wife to Doctor Bernhard Van Leer of Marple. John Kinkead & Annie his wife for 55 pounds granted to Dr. Bernhard Van Leer a tract of land in the Great Valley bounded by land of David John, Valley Creek, Walker's land, Hobbard's land & land of Isaac Davis containing 322 acres (except 40 acres). John Kinkead to pay 55 pounds on 1 Sep 1758. Signed John Kinkead & Annie Kinkead. Delivered in the presence of James Mather & Rebecca Mather. Recorded 27 Jan 1758. (K10:529). [[#23]]
 
-Sheriff's Deed. On 13 Sep 1760 Benjamin Davis, Sheriff of Chester County to John Wilson of Tredyffrin, Esquire. Whereas John Kinkead of Chester County, clerk by mortgage dated 26 Feb 1753 did mortgage the here after described tract of land to Lewis James to secure payment of 500 pounds on the date mentioned, long since passed. Whereas the mortgage monies not being paid the said Lewis James by deed dated 1 June 1753 did granted to Robert Moore all the monies mentioned & the tract of land. Whereas Robert Moore made his will in writing & appointed William Moore, executor. Whereas William Moore in the Court of Common Pleas recovered against John Kinkead a debt of 500 pounds & 72 shillings damages to be levied on the lands of John Kinkead. Whereas Benjamin Davis, Sheriff, for 500 pounds granted to John Wilson a tract of land in the Great Valley bounded by land of David John, Valley Creek & land of Isaac Davis containing 322 acres. Signed Benjamin Davis, sheriff. Delivered in the presence of Henry H. Graham & E. Price. Recorded 17 Sep 1760. (L11:493). [[Vault/Records/Kincaid History - Richard Bradley#24\|#24]]
+Sheriff's Deed. On 13 Sep 1760 Benjamin Davis, Sheriff of Chester County to John Wilson of Tredyffrin, Esquire. Whereas John Kinkead of Chester County, clerk by mortgage dated 26 Feb 1753 did mortgage the here after described tract of land to Lewis James to secure payment of 500 pounds on the date mentioned, long since passed. Whereas the mortgage monies not being paid the said Lewis James by deed dated 1 June 1753 did granted to Robert Moore all the monies mentioned & the tract of land. Whereas Robert Moore made his will in writing & appointed William Moore, executor. Whereas William Moore in the Court of Common Pleas recovered against John Kinkead a debt of 500 pounds & 72 shillings damages to be levied on the lands of John Kinkead. Whereas Benjamin Davis, Sheriff, for 500 pounds granted to John Wilson a tract of land in the Great Valley bounded by land of David John, Valley Creek & land of Isaac Davis containing 322 acres. Signed Benjamin Davis, sheriff. Delivered in the presence of Henry H. Graham & E. Price. Recorded 17 Sep 1760. (L11:493). [[#24]]
 
 Mortgage. On 18 Sep 1760 John Wilson of the County of Chester, yeoman to John Kinkead of Chester County, clerk. John Wilson stands bound to John Kinkead for 200 pounds yearly conditioned on payment of 100 pounds plus interest on 1 May 1761 through 1 May 1766. John Wilson to better secure said 600 pounds granted to John Kinkead a tract of land in the Great Valley bounded by land of David John, the Valley Creek, land of Walker, Hobard, Isaac David containing 322 acres, excepting 30 acres lately granted by John Wilson to Isaac Davis. Signed John Wilson & Judeth Wilson. Delivered in the presence of Isaac Wayne & John Johnston. Recorded 1 Nov 1760. (Lll:508).
 
-Assignment of Mortgage. On 22 Sep 1760 John Kinkead of Chester County, clerk to Mary Maddox of the City of Philadelphia, widow. John Kinkead for 613.12 pounds granted & assigned bond or mortgage from John Wilson to John Kinkead dated 18 Sep 1760. Signed John Kinkead. Delivered in the presence of Paul Isaac Voto & Sarah Voto. Recorded 7 Nov 1760. (L11.509). [[Vault/Records/Kincaid History - Richard Bradley#25\|#25]]
+Assignment of Mortgage. On 22 Sep 1760 John Kinkead of Chester County, clerk to Mary Maddox of the City of Philadelphia, widow. John Kinkead for 613.12 pounds granted & assigned bond or mortgage from John Wilson to John Kinkead dated 18 Sep 1760. Signed John Kinkead. Delivered in the presence of Paul Isaac Voto & Sarah Voto. Recorded 7 Nov 1760. (L11.509). [[#25]]
 
-Dec, 24, 1760: Town of Windham, New Hampshire voted for Samuel Kincaid, a resident of that town, to go to Philadelphia in order to be helpful in the transportation of the goods and family of the Rev. John Kincaid who was called to that town as a minister. [[Vault/Records/Kincaid History - Richard Bradley#26\|#26]]
+Dec, 24, 1760: Town of Windham, New Hampshire voted for Samuel Kincaid, a resident of that town, to go to Philadelphia in order to be helpful in the transportation of the goods and family of the Rev. John Kincaid who was called to that town as a minister. [[#26]]
 
 1766, 21 Apr: Warrant issued by William Bowyer, Augusta Co., VA. Whereas, complaint has this day been made to me by the Rev. John Kingkade that on Wednesday, the 22nd day of this instant, about twelve of the clock at night, when he and his family were in bed and asleep, they were awakened by a noise out of ye house, upon which Mrs. Kingkade rose up and looking out saw two men which to the best of her knowledge, she says was Robert Nox and William Hamilton, dressed in women's clothes, on which she asked what they wanted, they making no answer, ran against the door and made several attempts to beat it open, but finding they could not, they pulled a table cloth out of the window, or hole in the house, and after it to pieces, went off. As the said John Kingkade and his wife, fearing they did intend some harm to their estate, or lives, and will still pursue their intended wickedness, these are, in his Majesty's name, to command you to take the said Robert Nox and William Hamilton and bring them before me, or some other justice of the peace for this county to answer the said complaint.
 
 1767, Mar: Suit of Campbell vs. Kinkead, Augusta Co., VA. The Rev. John Kinkead, debtor to John Campbell, 1 Mar., 1766, sundries; cash lent to Mrs. Kinkead.
 
-1769, Mar: Rev. John Kinkead, debtor to Morris Terrell, Augusta Co., VA. [[Vault/Records/Kincaid History - Richard Bradley#27\|#27]]
+1769, Mar: Rev. John Kinkead, debtor to Morris Terrell, Augusta Co., VA. [[#27]]
 
 #### 2) John Kincaid. Weaver
 of Albemarle Co., was the recipient of land in 1753 from John Kincaid, Clerk. John Kincaid, weaver was an adult by 1754.
@@ -283,7 +283,7 @@ James Kincaid, adult in 1771
 
 Robert Kincaid, adult in 1766, m. Anna Helena
 
-The will of John Kincaid of Bath County, Virginia (who I believe to be the same as the Weaver [[Vault/Records/Kincaid History - Richard Bradley#27a\|#27a]]) was dated July 2nd, 1801, and was probated in court at Bath County in April, 1813. The will is abstracted as follows:
+The will of John Kincaid of Bath County, Virginia (who I believe to be the same as the Weaver [[#27a]]) was dated July 2nd, 1801, and was probated in court at Bath County in April, 1813. The will is abstracted as follows:
 
 ITEM: To wife Elizabeth, all movable property and living on my lands during her life.
 
@@ -301,7 +301,7 @@ ITEM: To son Charles L., all of the remaining land between the above two runs wi
 
 ITEM: Son Isaac to have his living on my lands during his life.
 
-Elizabeth, wife of the above John Kincaid, followed her husband in death in 18\_\_. The terms of her and her husband's will, in which they appear to distinguish between "his children" and "her children" have led to the assumption that she was wife number two. John's first wife is also supposed to have been an Elizabeth. [[Vault/Records/Kincaid History - Richard Bradley#28\|#28]] The terms of (2nd wife's?) Elizabeth's will are abstracted as follows:
+Elizabeth, wife of the above John Kincaid, followed her husband in death in 18\_\_. The terms of her and her husband's will, in which they appear to distinguish between "his children" and "her children" have led to the assumption that she was wife number two. John's first wife is also supposed to have been an Elizabeth. [[#28]] The terms of (2nd wife's?) Elizabeth's will are abstracted as follows:
 
 ... I Elizabeth Kinkead of Bath County and commonwealth of Virginia relict and Widow of the late John Kinkead of said county and state ...
 
@@ -347,7 +347,7 @@ May 12, 1764: Deed from Richard & Agnes Stockton to David Kinkead, all of Albema
 May 28, 1764: Deed from David & Winifred Kinkead to their son John Kinkead, all of Albemarle, 400 acres for 5 S. Both sides of Stocktons branch of Meechums River. No neighbors given. Witnesses: Thomas Kinkead, Matthew Kinkead, James Black.
 
 
-September 8, 1768: Deed from John & Elizabeth Kinkead of Albemarle to James Turk of Augusta, 200 acres for L 75. Tract having been conveyed to John by his parents David & Winifred, part of a larger tract of 400 acres. On Stocktons Branch. Witnesses, Robert Logan, Bethial Logan [[Vault/Records/Kincaid History - Richard Bradley#29\|#29]], William Jones, James Logan..
+September 8, 1768: Deed from John & Elizabeth Kinkead of Albemarle to James Turk of Augusta, 200 acres for L 75. Tract having been conveyed to John by his parents David & Winifred, part of a larger tract of 400 acres. On Stocktons Branch. Witnesses, Robert Logan, Bethial Logan [[#29]], William Jones, James Logan..
 
 Nov. 2, 1768: Deed from John & Elizabeth Kinkead of Albemarle to William Teas of Augusta, 500 acres for L 50. Both sides of Stocktons Branch of Meechums River. Witnesses, Robert Logan, Bethial Logan, James Logan.
 
@@ -383,7 +383,7 @@ John McMurry was born May 17, 1787.
 
 Samel T. McMurry was born Thursday Sept. 24th, 1791
 
-Simon McMurry was born Tuesday April 25th, 1796 [[Vault/Records/Kincaid History - Richard Bradley#30\|#30]]
+Simon McMurry was born Tuesday April 25th, 1796 [[#30]]
 
 #### 5) John Kincaid, son of James & Jean
 
@@ -404,9 +404,9 @@ The following is my estimated reconstruction of the early families of Albemarle 
 
 	Matthew Kincaid, d. 1775 = Elizabeth McTeer
 
-	Andrew Kincaid, b.c1734 [[Vault/Records/Kincaid History - Richard Bradley#31\|#31]] = Jean
+	Andrew Kincaid, b.c1734 [[#31]] = Jean
 
-	John Kincaid, Jr.,b.c1734 = Ann Graham [[Vault/Records/Kincaid History - Richard Bradley#31a\|#31a]]
+	John Kincaid, Jr.,b.c1734 = Ann Graham [[#31a]]
 
 	James Kincaid
 
@@ -432,9 +432,9 @@ The following is my estimated reconstruction of the early families of Albemarle 
 
 	children:
 
-	Thomas Kincaid = Mary [[Vault/Records/Kincaid History - Richard Bradley#32\|#32]] (Possibly Alexander?)
+	Thomas Kincaid = Mary [[#32]] (Possibly Alexander?)
 
-	John Kincaid (1741-1804) = Agnes \_\_\_ (he went to Madison Co. KY and died there) [[Vault/Records/Kincaid History - Richard Bradley#33\|#33]]
+	John Kincaid (1741-1804) = Agnes \_\_\_ (he went to Madison Co. KY and died there) [[#33]]
 
 	James Kincaid =
 
@@ -448,7 +448,7 @@ The following is my estimated reconstruction of the early families of Albemarle 
 
 	Jean Kincaid=Hugh Alexander
 
-	Ruth Kincaid = Andrew Grier, b. c1730 [[Vault/Records/Kincaid History - Richard Bradley#34\|#34]]
+	Ruth Kincaid = Andrew Grier, b. c1730 [[#34]]
 
 5) David Kincaid, b. c1700, d. 1779 Washington Co., VA and Winifred Hobson Tillery
 
@@ -505,15 +505,15 @@ A few years later, our Thomas Kincaid purchased land in Augusta County, Virginia
 
 *August 17, 1770: Andrew Kinkead and wife Jean of the County of Augusta sold to _Thomas Kinkead_ of the County of Augusta 45 acres on the main branch of the Calfpasture River, "corner to said _Thomas Kinkead's_ land". Witnesses: Jno. Poage, John Finley, William Tincher.
 
-*November 18, 1770: George Campbell & _Samuel Tincher_ and wife _Margaret_ of the County of _Albemarle_ sold to _Thos. Kinkead_ of the County of Augusta 115 acres lying on the great river of the Calfpasture originally granted to Wm. Preston by patent and conveyed by Preston to Campbell & _Tincher_. Witnesses: John Bigham, Andrew Kinkead, Joseph Kinkead. [[Vault/Records/Kincaid History - Richard Bradley#36\|#36]]
+*November 18, 1770: George Campbell & _Samuel Tincher_ and wife _Margaret_ of the County of _Albemarle_ sold to _Thos. Kinkead_ of the County of Augusta 115 acres lying on the great river of the Calfpasture originally granted to Wm. Preston by patent and conveyed by Preston to Campbell & _Tincher_. Witnesses: John Bigham, Andrew Kinkead, Joseph Kinkead. [[#36]]
 
 The above two parcels of land were sold by Thomas and Hannah Kincaid just before the beginning of the Revolutionary War:
 
-*February 15, 1776: _Thomas Kinkead_ and wife _Hannah_ of Augusta County sold to Tully Davitt of Augusta County 260 acres on the great river of the Calfpasture, originally a part of a patent to Preston and conveyed (215 acres of it) to Campbell & _Tincher_ and conveyed by them to _Thomas Kinkead_ _and_ another parcel of 45 acres which had been conveyed to _Thomas Kinkead_ by Andrew Kinkead who had received the land by patent. Witnesses: William Bowyer, Robert Gambell, Thomas Bell. [[Vault/Records/Kincaid History - Richard Bradley#37\|#37]]
+*February 15, 1776: _Thomas Kinkead_ and wife _Hannah_ of Augusta County sold to Tully Davitt of Augusta County 260 acres on the great river of the Calfpasture, originally a part of a patent to Preston and conveyed (215 acres of it) to Campbell & _Tincher_ and conveyed by them to _Thomas Kinkead_ _and_ another parcel of 45 acres which had been conveyed to _Thomas Kinkead_ by Andrew Kinkead who had received the land by patent. Witnesses: William Bowyer, Robert Gambell, Thomas Bell. [[#37]]
 
 In 1781 Thomas Kincaid purchased land in Botetourt County, which was cut off from Augusta County in 1770. The purchase was as follows:
 
-*April 10, 1781: Thomas Jefferson Esquire Governor of the Commonwealth of Virginia...unto the said _Thomas Kinkead_ assignee of John Anderson who was assignee of William Greenlee a certain tract or parcel of land containing one hundred and sixty acres by survey bearing date the ninth day of June one thousand seven hundred & seventy one lying and being in the County of Botetourt joining the lands of Hugh Barkleys land in the fork of James River...near Cedar Bridge.. [[Vault/Records/Kincaid History - Richard Bradley#38\|#38]]
+*April 10, 1781: Thomas Jefferson Esquire Governor of the Commonwealth of Virginia...unto the said _Thomas Kinkead_ assignee of John Anderson who was assignee of William Greenlee a certain tract or parcel of land containing one hundred and sixty acres by survey bearing date the ninth day of June one thousand seven hundred & seventy one lying and being in the County of Botetourt joining the lands of Hugh Barkleys land in the fork of James River...near Cedar Bridge.. [[#38]]
 
 Cedar Bridge was the name then given to the natural rock formation more commonly named "Natural Bridge", which is located in the extreme southern end of Rockbridge County near the Bedford County line. Rockbridge County (named after the natural bridge) was formed from Botetourt Co. in 1778.
 
@@ -523,21 +523,21 @@ had apparently moved from Albemarle/Augusta Counties to Botetourt/Rockbridge Cou
 On August 21, 1783 there is a court matter involving Thomas Kincaid which is not routine:
 
 _Thomas Kinkade_
-was "charged with felony in stealing one Cuting knife the property of William Crawford". Thomas was committed to jail and appeared on this date before the court testifying in his own defense. Witnesses were called and a probably case of guilt was found and he was required to put up bond to appear before the next Grand Jury. Hugh Barclay and Hugh Bradford put up bonds of 250 pounds each, levied upon their goods and chattels. Witnesses for the Commonwealth against _Thomas Kincaid_ who were to appear at the Grand Jury were Margaret Crawford, William Millar, and Joseph Stephenson. [[Vault/Records/Kincaid History - Richard Bradley#39\|#39]]
+was "charged with felony in stealing one Cuting knife the property of William Crawford". Thomas was committed to jail and appeared on this date before the court testifying in his own defense. Witnesses were called and a probably case of guilt was found and he was required to put up bond to appear before the next Grand Jury. Hugh Barclay and Hugh Bradford put up bonds of 250 pounds each, levied upon their goods and chattels. Witnesses for the Commonwealth against _Thomas Kincaid_ who were to appear at the Grand Jury were Margaret Crawford, William Millar, and Joseph Stephenson. [[#39]]
 
 The reason I believe the above record pertains to our Thomas Kincaid is because he was the only Thomas Kincaid in Rockbridge County at this time and the bondsmen, Hugh Barclay and Hugh Bradford, were his neighbors, as evidenced by the deeds. The last record in Rockbridge County for Thomas Kincaid was as follows:
 
-*December 11, 1783: _Thomas Kinkaid_ and wife _Hannah_ of Rockbridge County sold to James Ochiltree of Rockbridge County 160 acres "in the forks of James River". Witnesses: Wm. McElhaney, Hugh Bradford, and Caleb Sisson. [[Vault/Records/Kincaid History - Richard Bradley#40\|#40]]
+*December 11, 1783: _Thomas Kinkaid_ and wife _Hannah_ of Rockbridge County sold to James Ochiltree of Rockbridge County 160 acres "in the forks of James River". Witnesses: Wm. McElhaney, Hugh Bradford, and Caleb Sisson. [[#40]]
 
 In a book about the Ochiltree family, a somewhat confusing history of the above land is given:
 
-Another interesting old document is the survey and plat of 160 acres of land, made for William Greenlee, June 17,1771, by John Trimble; granted to _Thomas Kinkead_, by patent, Apr. 10, 1791; re-granted to James Ochiltree, inclusively, with 21 3/4 acres more, under warrant, 14,274. To the southwest of this tract, is the tract, marked in the copy of the survey, "T. Jefferson, 157 acres surveyed by John Trimble." The patent is dated July 8, 1774. [[Vault/Records/Kincaid History - Richard Bradley#41\|#41]]
+Another interesting old document is the survey and plat of 160 acres of land, made for William Greenlee, June 17,1771, by John Trimble; granted to _Thomas Kinkead_, by patent, Apr. 10, 1791; re-granted to James Ochiltree, inclusively, with 21 3/4 acres more, under warrant, 14,274. To the southwest of this tract, is the tract, marked in the copy of the survey, "T. Jefferson, 157 acres surveyed by John Trimble." The patent is dated July 8, 1774. [[#41]]
 
 I found the patent listed above. It is dated Apr. 10, 1981. Therefore the patent was not obtained after the sale to Ochiltree.
 
 The above indicates Thos. Kincaid obtained the patent after the sale. The book indicates in other passages that James Ochiltree owned land near natural bridge which further pinpoints the land of Thomas Kincaid as bordering the Natural Bridge. The Natural Bridge itself was purchased by Thomas Jefferson, who as Governor of Virginia, had signed the original land grant in Botetourt/Rockbridge County to Thomas Kincaid.
 
-Our Thomas Kincaid settled in Greenbrier County by the early 1780's based on routine court records in that County. He had married Hannah Tincher [[Vault/Records/Kincaid History - Richard Bradley#42\|#42]] about 1760. His birth date is estimated at about 1740. He would have been of the right age to sign the deed from Arthur Woods to Jean Kincaid in 1765. [[Vault/Records/Kincaid History - Richard Bradley#43\|#43]]
+Our Thomas Kincaid settled in Greenbrier County by the early 1780's based on routine court records in that County. He had married Hannah Tincher [[#42]] about 1760. His birth date is estimated at about 1740. He would have been of the right age to sign the deed from Arthur Woods to Jean Kincaid in 1765. [[#43]]
 
 The children of Thomas Kincaid and Hannah Tincher were:
 
@@ -547,10 +547,10 @@ Elizabeth Kincaid (1766-after 1850) married Daniel Harrah, Jr.
 [[Ancestors/Kincaid/Samuel Kincaid 1765-1847\|Samuel Kincaid]] (1767-1843) married Mary Tincher
 Thomas Kincaid (1770-1844) married Hannah Viney and/or Elizabeth Murdoch
 Francis Kincaid (1773-1826) married Nancy Murdock
-George Campbell Kincaid (1773- ) married Joanna Baldwin [[Vault/Records/Kincaid History - Richard Bradley#44\|#44]]
+George Campbell Kincaid (1773- ) married Joanna Baldwin [[#44]]
 William Kincaid (1777-1860) married Mary Ann Tincher
 Hannah Kincaid (1777- ) married James M. Walker
-Sarah (Salle) Kincaid (1781- ) married Thomas Terry [[Vault/Records/Kincaid History - Richard Bradley#45\|#45]]
+Sarah (Salle) Kincaid (1781- ) married Thomas Terry [[#45]]
 
 Most of the definitive proof of the children of Thomas Kincaid is provided by a lawsuit instigated in 1811 by the heirs of [[Vault/Records/SAMUEL FORD JR.\|Samuel Baldwin]] against Thomas Kincaid. I have excerpted here only those records which generally explain the lawsuit and which provide proof that Elizabeth Harrah was Thomas Kincaid's daughter and Elizabeth's sons were Thomas Harrah and probably Matthew Harrah:
 
@@ -580,7 +580,7 @@ Question - "do you know whether he gave his daughters any land or not or any oth
 
 Answer - "I do not know. I heard he give his daughter _Elizabeth_ some land in the Little Meadow..."
 
-April Term, 1835: in Fayette County Circuit Superior Court of Law & Chancery. Case, having been transferred from Greenbrier Co. To Fayette Co. For trial, case was then transferred back to Greenbrier Co. [[Vault/Records/Kincaid History - Richard Bradley#46\|#46]]
+April Term, 1835: in Fayette County Circuit Superior Court of Law & Chancery. Case, having been transferred from Greenbrier Co. To Fayette Co. For trial, case was then transferred back to Greenbrier Co. [[#46]]
 
 Thomas and Hannah Kincaid
 lived on Muddy Creek Mountain adjacent to land owned by the Harrahs. It was therefore natural that two of his daughters, Margaret and Elizabeth would have married Harrahs. Besides the connection on Muddy Creek Mountain, there is an acquaintance between the families that dates back to the early 1770's when Daniel O'Hara. Sr. purchased land in Albemarle County near Armour's Mountain.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/james-gillespie-kincaid-1792-1852/"}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Tuesday, July 22nd 2025, 5:27:08 pm***
+***<font color="#00b0f0">Last Modified:</font> Friday, August 1st 2025, 5:03:52 pm***
 
 Born on  12/19/1792 in <!-- link to place -->
 

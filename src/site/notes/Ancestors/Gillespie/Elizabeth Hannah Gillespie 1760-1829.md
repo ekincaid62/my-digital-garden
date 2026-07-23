@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/gillespie/elizabeth-hannah-gillespie-1760-1829/","tags":["Elizabeth-Hannah-Gillespie"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Tuesday, July 22nd 2025, 5:13:10 pm***
+***<font color="#00b0f0">Last Modified:</font> Monday, July 21st 2025, 10:41:00 am***
 
 Born on  5/31/1760 in Augusta County, VA
 Death on 1829 in Gauley Bridge, WV

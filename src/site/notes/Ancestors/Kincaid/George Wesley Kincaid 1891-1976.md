@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/kincaid/george-wesley-kincaid-1891-1976/","tags":["George-Wesley-Kincaid"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:23:35 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, October 12th 2025, 2:57:59 pm***
 
 Born on  3/13/1891 in Mt Lookout, WV
 Death on 6/1976 in Summersville WV

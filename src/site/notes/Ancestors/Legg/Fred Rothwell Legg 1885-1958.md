@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/legg/fred-rothwell-legg-1885-1958/","tags":["Fred-Legg"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:26:49 pm***
+***<font color="#00b0f0">Last Modified:</font> Wednesday, July 22nd 2026, 7:41:08 pm***
 
 Born on  11/4/1885 in Clifty, WV
 Death on 9/5/1958 in Mt. Lookout, WV
