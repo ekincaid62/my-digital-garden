@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/thomas-kincaid-1740-1817/","tags":["Thomas-Kincaid"]}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/thomas-kincaid-1740-1817/","tags":["#Thomas-Kincaid"]}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:23:30 pm***
@@ -10,7 +10,7 @@ Death on 9/13/1817 in Greenbrier, WV
 ---
 #### Parents
 
-[[Vault/Records/Kincaid History - Richard Bradley#Part 5 ... Which John Kincaid was the father of Thomas Kincaid of Muddy Creek Mountain?\|John]] and <!-- Link to mother-->
+[[Vault/Records/Kincaid History - Richard Bradley#Part 5 ... Which John Kincaid was the father of Thomas Kincaid of Muddy Creek Mountain?\|John Kincaid]] and <!-- Link to mother-->
 #### Siblings
 <!-- Link to sibling -->
 
