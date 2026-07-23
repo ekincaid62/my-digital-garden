@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/emory-garfield-kincaid-1922-1992/","tags":["Emory-Garfield-Kincaid"]}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/emory-garfield-kincaid-1922-1992/","tags":["#Emory-Garfield-Kincaid"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Sunday, October 12th 2025, 2:52:31 pm***
+***<font color="#00b0f0">Last Modified:</font> Thursday, July 23rd 2026, 11:47:38 am***
 
 Born on  8/14/1922 in Mt. Lookout, WV
 Death on 7/11/1992 in Summersville WV
@@ -40,10 +40,10 @@ served in the 280th Engineering Combat Battalion
 [[Vault/Records/Dad.2\|Dad.2]]
 [[Vault/Records/Dad.3\|Dad.3]]
 [[Vault/Records/Dad.4\|Dad.4]]
-[[Evernote/Archive/Emil & Emory Kincaid.jpg\|Evernote/Archive/Emil & Emory Kincaid.jpg]]
-[[Evernote/Archive/Emory and Alice Legg Kincaid Family.jpg\|Evernote/Archive/Emory and Alice Legg Kincaid Family.jpg]]
-[[Evernote/Archive/Emory Kincaid.jpg\|Evernote/Archive/Emory Kincaid.jpg]]
-[[Evernote/Archive/Eugene & Emory Kincaid.jpg\|Evernote/Archive/Eugene & Emory Kincaid.jpg]]
+[[Vault/Records/Emil & Emory Kincaid\|Emil & Emory Kincaid]]
+[[Vault/Records/Emory and Alice Legg Kincaid Family\|Emory and Alice Legg Kincaid Family]]
+[[Vault/Records/Emory Kincaid\|Emory Kincaid]]
+[[Vault/Records/Eugene & Emory Kincaid\|Eugene & Emory Kincaid]]
 
 #### Military Records
 [[Vault/Records/Military Photo\|Military Photo]]

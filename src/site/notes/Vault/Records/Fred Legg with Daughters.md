@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/records/fred-legg-with-daughters/","tags":["Fred-Legg","Virginia-Legg","Retta-Legg"]}
+{"dg-publish":true,"permalink":"/vault/records/fred-legg-with-daughters/","tags":["#Fred-Legg","#Virginia-Legg","#Retta-Legg"]}
 ---
 
 

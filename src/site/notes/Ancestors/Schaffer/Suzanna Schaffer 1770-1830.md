@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/schaffer/suzanna-schaffer-1770-1830/","tags":["Suzanna-Schaffer"]}
+{"dg-publish":true,"permalink":"/ancestors/schaffer/suzanna-schaffer-1770-1830/","tags":["#Suzanna-Schaffer"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Saturday, March 1st 2025, 11:45:26 am***
+***<font color="#00b0f0">Last Modified:</font> Thursday, July 23rd 2026, 11:15:44 am***
 
 Born on  1770 in Virginia
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ancestors/legg/william-legg-1817-1895/","tags":["William-Legg"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Wednesday, February 26th 2025, 7:19:29 pm***
+***<font color="#00b0f0">Last Modified:</font> Thursday, July 23rd 2026, 12:10:21 pm***
 
 Born on  4/13/1817 in Monroe County WV
 Death on 3/22/1895 in Leander WV

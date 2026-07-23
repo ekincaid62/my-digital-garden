@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/records/george-and-laura-skaggs-kincaid/","tags":["George-Wesley-Kincaid","Laura-Skaggs","Eugene-Kincaid"]}
+{"dg-publish":true,"permalink":"/vault/records/george-and-laura-skaggs-kincaid/","tags":["#George-Wesley-Kincaid","#Laura-Skaggs","#Eugene-Kincaid"]}
 ---
 
 ![assets/George_&_Laura_Skaggs_Kincaid.jpg.1.resources/George & Laura Skaggs Kincaid.jpg](/img/user/assets/George_&_Laura_Skaggs_Kincaid.jpg.1.resources/George%20&%20Laura%20Skaggs%20Kincaid.jpg)

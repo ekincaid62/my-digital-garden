@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/legg/alice-lee-legg-1931-2012/","tags":["Alice-Legg"]}
+{"dg-publish":true,"permalink":"/ancestors/legg/alice-lee-legg-1931-2012/","tags":["#Alice-Legg"]}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:26:37 pm***
+***<font color="#00b0f0">Last Modified:</font> Thursday, July 23rd 2026, 12:05:47 pm***
 
 Born on  7/29/1931 in Mt. Lookout WV
 Death on 6/13/2012 in Mt. Lookout WV
@@ -37,12 +37,12 @@ Stillborn Legg 1920-1920
 #### Biography
 
 #### Photos
-[[Evernote/Archive/1948.jpg\|Evernote/Archive/1948.jpg]]
-[[Evernote/Archive/1948a.jpg\|Evernote/Archive/1948a.jpg]]
-[[Evernote/Archive/Aug 57.jpg\|Evernote/Archive/Aug 57.jpg]]
-[[Evernote/Archive/Aug1957a.jpg\|Evernote/Archive/Aug1957a.jpg]]
-[[Evernote/Archive/Both Sides.jpg\|Evernote/Archive/Both Sides.jpg]]
-[[Evernote/Archive/Emory and Alice Legg Kincaid Family.jpg\|Evernote/Archive/Emory and Alice Legg Kincaid Family.jpg]]
+[[Vault/Records/1948\|1948]]
+[[Vault/Records/1948a\|1948a]]
+[[Vault/Records/Aug 57\|Aug 57]]
+[[Vault/Records/Aug1957\|Aug1957]]
+[[Vault/Records/Both Sides\|Both Sides]]
+[[Vault/Records/Emory and Alice Legg Kincaid Family\|Emory and Alice Legg Kincaid Family]]
 [[Vault/Records/Mom\|Mom]]
 [[Vault/Records/Mom and Dad\|Mom and Dad]]
 [[Vault/Records/Mom,Dad and Sis\|Mom,Dad and Sis]]
@@ -56,12 +56,12 @@ Stillborn Legg 1920-1920
 [[Vault/Records/Mom.8\|Mom.8]]
 [[Vault/Records/Mom.9\|Mom.9]]
 [[Vault/Records/Mom.10\|Mom.10]]
-[[Evernote/Archive/Mawmaw and Robert.jpg\|Evernote/Archive/Mawmaw and Robert.jpg]]
-[[Evernote/Archive/Mawmaw.jpg\|Evernote/Archive/Mawmaw.jpg]]
-[[Evernote/Archive/MawmawdressNEW.jpg\|Evernote/Archive/MawmawdressNEW.jpg]]
-[[Evernote/Archive/Mawmawonhill.jpg\|Evernote/Archive/Mawmawonhill.jpg]]
-[[Evernote/Archive/Mawmawonroad.jpg\|Evernote/Archive/Mawmawonroad.jpg]]
-[[Evernote/Archive/Mawmawporch.jpg\|Evernote/Archive/Mawmawporch.jpg]]
+[[Vault/Records/Mawmaw and Robert\|Mawmaw and Robert]]
+[[Vault/Records/Mawmaw\|Mawmaw]]
+[[Vault/Records/MawmawdressNEW\|MawmawdressNEW]]
+[[Vault/Records/Mawmawonhill\|Mawmawonhill]]
+[[Vault/Records/Mawmawonroad\|Mawmawonroad]]
+[[Vault/Records/Mawmawporch\|Mawmawporch]]
 [[Vault/Records/Mawmawsitting\|Mawmawsitting]]
 #### Sources
 [Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p30
