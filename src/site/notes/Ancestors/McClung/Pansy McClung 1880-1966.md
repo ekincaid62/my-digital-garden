@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/mc-clung/pansy-mc-clung-1880-1966/","tags":["#Pansy-McClung"]}
+{"dg-publish":true,"permalink":"/ancestors/mc-clung/pansy-mc-clung-1880-1966/","tags":["Pansy-McClung"]}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Thursday, July 23rd 2026, 10:58:58 am***

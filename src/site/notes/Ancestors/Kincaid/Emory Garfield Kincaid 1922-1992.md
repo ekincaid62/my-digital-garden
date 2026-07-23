@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/emory-garfield-kincaid-1922-1992/","tags":["#Emory-Garfield-Kincaid"]}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/emory-garfield-kincaid-1922-1992/","tags":["Emory-Garfield-Kincaid"]}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Thursday, July 23rd 2026, 11:47:38 am***

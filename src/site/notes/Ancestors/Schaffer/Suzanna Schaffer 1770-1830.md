@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/schaffer/suzanna-schaffer-1770-1830/","tags":["#Suzanna-Schaffer"]}
+{"dg-publish":true,"permalink":"/ancestors/schaffer/suzanna-schaffer-1770-1830/","tags":["Suzanna-Schaffer"]}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Thursday, July 23rd 2026, 11:15:44 am***

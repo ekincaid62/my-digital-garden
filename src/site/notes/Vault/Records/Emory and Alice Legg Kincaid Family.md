@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/records/emory-and-alice-legg-kincaid-family/","tags":["#Emory-Garfield-Kincaid","#Alice-Legg"]}
+{"dg-publish":true,"permalink":"/vault/records/emory-and-alice-legg-kincaid-family/","tags":["Emory-Garfield-Kincaid","Alice-Legg"]}
 ---
 
 # Emory and Alice Legg Kincaid Family

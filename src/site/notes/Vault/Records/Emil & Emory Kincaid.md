@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/records/emil-and-emory-kincaid/","tags":["#Emory-Garfield-Kincaid","#Emil-Kincaid"]}
+{"dg-publish":true,"permalink":"/vault/records/emil-and-emory-kincaid/","tags":["Emory-Garfield-Kincaid","Emil-Kincaid"]}
 ---
 
 

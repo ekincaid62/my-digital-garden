@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/records/community-world-war-i-veterans/","tags":["#George-Wesley-Kincaid","#Group-Photos","#Crosby-McClung","#Alex-Hendrickson"]}
+{"dg-publish":true,"permalink":"/vault/records/community-world-war-i-veterans/","tags":["George-Wesley-Kincaid","Group-Photos","Crosby-McClung","Alex-Hendrickson"]}
 ---
 
 Community World War I Veterans
