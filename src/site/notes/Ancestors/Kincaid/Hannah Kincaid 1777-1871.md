@@ -1,23 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/gillespie/elizabeth-hannah-gillespie-1760-1829/","tags":["Elizabeth-Hannah-Gillespie"]}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/hannah-kincaid-1777-1871/"}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Monday, July 21st 2025, 10:41:00 am***
+***<font color="#00b0f0">Last Modified:</font> Thursday, July 23rd 2026, 8:20:37 pm***
 
-Born on  5/31/1760 in Augusta County, VA
-Death on 1829 in Gauley Bridge, WV
+Born on  <!-- link to date --> in <!-- link to place -->
 
+Death on <!-- link to date --> in <!-- link to place -->
+   
 ---
 #### Parents
 
-[[James Gillespie 1737-\|James Gillespie 1737-]] and [[Elizabeth Finley 1741-1794\|Elizabeth Finley 1741-1794]]
+[[Ancestors/Kincaid/John Kincaid 1760-1834\|John Kincaid 1760-1834]] and [[Ancestors/Gillespie/Elizabeth Hannah Gillespie 1760-1829\|Elizabeth Hannah Gillespie 1760-1829]]
 #### Siblings
-<!-- Link to sibling -->
-
----
-#### Spouse and Children
-[[Ancestors/Kincaid/John Kincaid 1760-1834\|John Kincaid 1760-1834]] on <!-- link to date --> in <!-- link to place -->.
-[[Ancestors/Kincaid/Hannah Kincaid 1777-1871\|Hannah Kincaid 1777-1871]] married James Walker on 12-13-1798 in Greenbrier Co.
 [[Sarah Kincaid\|Sarah Kincaid]] married Thomas Terry on 10-23-1798 Greenbrier Co.
 [[Matthew Kincaid\|Matthew Kincaid]] married Polly Murdock 2 Jun 1807 in Monroe Co., Virginia
 [[Samuel Kincaid\|Samuel Kincaid]] married Betsy Walker on 04-26-1809
@@ -28,8 +23,11 @@ Death on 1829 in Gauley Bridge, WV
 [[Ancestors/Kincaid/Virginia Kincaid 1797-1870\|Virginia Kincaid 1797-1870]] "Jane"
 [[Magdaline Kincaid\|Magdaline Kincaid]] "Lina" married Reuben Wyatt on 06-25-1823; moved to Lawrence Co., OH in 1830
 [[Lanty Kincaid 1806-\|Lanty Kincaid 1806-]] married #1 Nancy Flanagan on 12-25-1827; married #2 Agnes Holcomb ca1831 Greenbrier Co.
-The information on the Children was provided by [[Vault/Records/RootsWeb KINCAID-L KINCAID Children of John and Elizabeth Gillespie Kincaid\|Linda Perdue]]
 
+---
+#### Spouse and Children
+[[James Walker\|James Walker]] married 12/13/1798 in Greenbrier County.
+<!-- Link to child -->
 
 #### Census Records
 

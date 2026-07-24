@@ -13,7 +13,7 @@ Death on 7/18/1852 in <!-- link to place -->
 
 [[Ancestors/Kincaid/John Kincaid 1760-1834\|John Kincaid 1760-1834]] and [[Ancestors/Gillespie/Elizabeth Hannah Gillespie 1760-1829\|Elizabeth Hannah Gillespie 1760-1829]]
 #### Siblings
-[[Hannah Kincaid 1777-1871\|Hannah Kincaid 1777-1871]] 
+[[Ancestors/Kincaid/Hannah Kincaid 1777-1871\|Hannah Kincaid 1777-1871]] 
 [[Sarah Kincaid\|Sarah Kincaid]] 
 [[Matthew Kincaid\|Matthew Kincaid]] 
 [[Samuel Kincaid\|Samuel Kincaid]] 

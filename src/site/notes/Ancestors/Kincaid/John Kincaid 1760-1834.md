@@ -22,7 +22,7 @@ Death on 21 Apr 1834 in Gauley Bridge WV
 ---
 #### Spouse and Children
 [[Ancestors/Gillespie/Elizabeth Hannah Gillespie 1760-1829\|Elizabeth Hannah Gillespie 1760-1829]] on <!-- link to date --> in <!-- link to place -->.
-[[Hannah Kincaid 1777-1871\|Hannah Kincaid 1777-1871]] married James Walker on 12-13-1798 in Greenbrier Co.
+[[Ancestors/Kincaid/Hannah Kincaid 1777-1871\|Hannah Kincaid 1777-1871]] married James Walker on 12-13-1798 in Greenbrier Co.
 [[Sarah Kincaid\|Sarah Kincaid]] married Thomas Terry on 10-23-1798 Greenbrier Co.
 [[Matthew Kincaid\|Matthew Kincaid]] married Polly Murdock 2 Jun 1807 in Monroe Co., Virginia
 [[Samuel Kincaid\|Samuel Kincaid]] married Betsy Walker on 04-26-1809
