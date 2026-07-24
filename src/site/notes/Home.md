@@ -8,11 +8,11 @@
 
 In the heart of West Virginia, where the **New River**, **Monongahela River**, and **Meadow River** carve their paths northward, family ties run deep. I grew up in **Mt. Lookout, WV**, less than two miles from **Meadow River** and just a short drive from the **New River**. In a place where everyone seemed connected, I never questioned how or why—we just were.
 
-My older brother passed away in 2010, leaving behind a wealth of information he had collected about our family and the community. My goal was to preserve it in digital format and make it accessible to anyone interested. While I succeeded in digitizing everything, I never quite found an easy way to share it—until [[Vault/Misc/About this Site\|now]]. This website is my attempt to bring that history to life and make it available to all who seek to explore these roots.
+My older brother passed away in 2010, leaving behind a wealth of information he had collected about our family and the community. My goal was to preserve it in digital format and make it accessible to anyone interested. While I succeeded in digitizing everything, I never quite found an easy way to share it—until [[About this Site\|now]]. This website is my attempt to bring that history to life and make it available to all who seek to explore these roots.
 
 **You <font color="#c00000">MUST</font> try the Search!** It works extremely well in finding notes that have been published on this site. Just type a name or any key word and the results will start showing!
 
-To help get an overview of my ancestors you can review my [[Vault/Misc/My Ancestors\|family tree]]. It is best viewed with a device that has a touch screen to be able to zoom in.
+To help get an overview of my ancestors you can review my [[My Ancestors\|family tree]]. It is best viewed with a device that has a touch screen to be able to zoom in.
 
 If you have any comments, questions, or additions, please leave comments through GitHub at the bottom of each page.
 

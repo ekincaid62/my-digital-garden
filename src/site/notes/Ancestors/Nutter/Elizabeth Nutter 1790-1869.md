@@ -16,12 +16,12 @@ Death on 1869 in <!-- link to place -->
 
 ---
 #### Spouse and Children
-[[Ancestors/Legg/Thomas Jesse Legg 1789-1880\|Thomas Jesse Legg 1789-1880]] [[Vault/Records/Marriage Record\|married]] 4/19/1810 in <!-- link to place -->.
+[[Ancestors/Legg/Thomas Jesse Legg 1789-1880\|Thomas Jesse Legg 1789-1880]] [[Records/Marriage Record\|married]] 4/19/1810 in <!-- link to place -->.
 <!-- Link to child -->
 
 #### Census Records
-[[Vault/Census/1860 United States Federal Census 4\|1860 United States Federal Census]]
-[[Vault/Census/1850 United States Federal Census 8\|1850 United States Federal Census]]
+[[Census/1860 United States Federal Census 4\|1860 United States Federal Census]]
+[[Census/1850 United States Federal Census 8\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

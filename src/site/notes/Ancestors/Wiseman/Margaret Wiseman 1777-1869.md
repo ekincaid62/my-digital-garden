@@ -26,7 +26,7 @@ List of siblings and children taken from [Ramsey Family History](https://drive.g
 
 ---
 #### Spouse and Children
-[[Ancestors/Ramsey/Bartholomew Ramsey 1776-1843\|Bartholomew Ramsey 1776-1843]]  [[Vault/Records/Bartholomew Ramsey and Margaret Wiseman Marriage Record\|married]] 1799 in Monroe County, WV 
+[[Ancestors/Ramsey/Bartholomew Ramsey 1776-1843\|Bartholomew Ramsey 1776-1843]]  [[Records/Bartholomew Ramsey and Margaret Wiseman Marriage Record\|married]] 1799 in Monroe County, WV 
 [[William Ramsey 1800-1880\|William Ramsey 1800-1880]]
 [[Isaac Ramsey 1802-\|Isaac Ramsey 1802-]]
 [[Richard Ramsey 1805-1895\|Richard Ramsey 1805-1895]]
@@ -37,9 +37,9 @@ List of siblings and children taken from [Ramsey Family History](https://drive.g
 [[Abner Ramsey 1816-1906\|Abner Ramsey 1816-1906]]
 [[Charles Ramsey 1823-1843\|Charles Ramsey 1823-1843]]
 #### Census Records
-[[Vault/Census/1870 United States Federal Census 5\|1870 United States Federal Census]]
-[[Vault/Census/1860 United States Federal Census 5\|1860 United States Federal Census]]
-[[Vault/Census/1850 United States Federal Census 2\|1850 United States Federal Census]]
+[[Census/1870 United States Federal Census 5\|1870 United States Federal Census]]
+[[Census/1860 United States Federal Census 5\|1860 United States Federal Census]]
+[[Census/1850 United States Federal Census 2\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

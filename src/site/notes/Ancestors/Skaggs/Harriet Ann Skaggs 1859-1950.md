@@ -27,14 +27,14 @@ Death on 8/11/1950 in Fayette County, WV
 [[Gilbert Skaggs 1904-\|Gilbert Skaggs 1904-]]
 
 #### Census Records
-[[Vault/Census/1950 United States Federal Census 2\|1950 United States Federal Census]]
-[[Vault/Census/1940 United States Federal Census 3\|1940 United States Federal Census]]
-[[Vault/Census/1930 United States Federal Census Record 1\|1930 United States Federal Census Record]]
-[[Vault/Census/1920 United States Federal Census Record 1\|1920 United States Federal Census Record]]
-[[Vault/Census/1910 United States Federal Census Record 1\|1910 United States Federal Census Record]]
-[[Vault/Census/1900 United States Federal Census Record.3\|1900 United States Federal Census Record]]
-[[Vault/Census/1870 United States Federal Census 1\|1870 United States Federal Census]]
-[[Vault/Census/1860 United States Federal Census 1\|1860 United States Federal Census]]
+[[Census/1950 United States Federal Census 2\|1950 United States Federal Census]]
+[[Census/1940 United States Federal Census 3\|1940 United States Federal Census]]
+[[Census/1930 United States Federal Census Record 1\|1930 United States Federal Census Record]]
+[[Census/1920 United States Federal Census Record 1\|1920 United States Federal Census Record]]
+[[Census/1910 United States Federal Census Record 1\|1910 United States Federal Census Record]]
+[[Census/1900 United States Federal Census Record.3\|1900 United States Federal Census Record]]
+[[Census/1870 United States Federal Census 1\|1870 United States Federal Census]]
+[[Census/1860 United States Federal Census 1\|1860 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

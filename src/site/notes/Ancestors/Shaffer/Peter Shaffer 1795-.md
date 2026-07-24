@@ -34,8 +34,8 @@ Death on <!-- link to date --> in <!-- link to place -->
 [[Will Shaffer\|Will Shaffer]]
 
 #### Census Records
-[[Vault/Census/1860 United States Federal Census 7\|1860 United States Federal Census]]
-[[Vault/Census/1850 United States Federal Census 3\|1850 United States Federal Census]]
+[[Census/1860 United States Federal Census 7\|1860 United States Federal Census]]
+[[Census/1850 United States Federal Census 3\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

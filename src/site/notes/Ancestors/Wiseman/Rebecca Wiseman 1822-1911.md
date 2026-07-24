@@ -20,10 +20,10 @@ Death on 4/1/1911 in Fayette County, WV
 <!-- Link to child -->
 
 #### Census Records
-[[Vault/Census/1880 United States Federal Census Record.5\|1880 United States Federal Census Record]]
-[[Vault/Census/1870 United States Federal Census Record.2\|1870 United States Federal Census Record]]
-[[Vault/Census/1860 United States Federal Census Record.3\|1860 United States Federal Census Record]]
-[[Vault/Census/1850 United States Federal Census 1\|1850 United States Federal Census]]
+[[Census/1880 United States Federal Census Record.5\|1880 United States Federal Census Record]]
+[[Census/1870 United States Federal Census Record.2\|1870 United States Federal Census Record]]
+[[Census/1860 United States Federal Census Record.3\|1860 United States Federal Census Record]]
+[[Census/1850 United States Federal Census 1\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

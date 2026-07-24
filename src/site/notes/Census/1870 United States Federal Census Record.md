@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/census/1870-united-states-federal-census-record/","tags":["#Joseph-Allen-Shaffer","#Mary-George"]}
+---
+
+Family 122
+
+![assets/1870_United_States_Federal_Census_Record.resources/image.x.jpg](/img/user/assets/1870_United_States_Federal_Census_Record.resources/image.x.jpg)

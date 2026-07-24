@@ -31,8 +31,8 @@ Death on 1864 in Fayette County, VA
 [[Edna Skaggs\|Edna Skaggs]]
 
 #### Census Records
-[[Vault/Census/1860 United States Federal Census 2\|1860 United States Federal Census]]
-[[Vault/Census/1850 United States Federal Census 13\|1850 United States Federal Census]]
+[[Census/1860 United States Federal Census 2\|1860 United States Federal Census]]
+[[Census/1850 United States Federal Census 13\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography
