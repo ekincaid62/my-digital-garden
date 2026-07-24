@@ -20,11 +20,11 @@ Death on 1912 in <!-- link to place -->
 [[Ancestors/Skaggs/Harriet Ann Skaggs 1859-1950\|Harriet Ann Skaggs 1859-1950]] 
 
 #### Census Records
-[[Vault/Census/1910 United States Federal Census 1\|1910 United States Federal Census]]
+[[Census/1910 United States Federal Census 1\|1910 United States Federal Census]]
 1880 Census illegible
-[[Vault/Census/1870 United States Federal Census 1\|1870 United States Federal Census]]
-[[Vault/Census/1860 United States Federal Census 1\|1860 United States Federal Census]]
-[[Vault/Census/1850 United States Federal Census 14\|1850 United States Federal Census]]
+[[Census/1870 United States Federal Census 1\|1870 United States Federal Census]]
+[[Census/1860 United States Federal Census 1\|1860 United States Federal Census]]
+[[Census/1850 United States Federal Census 14\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

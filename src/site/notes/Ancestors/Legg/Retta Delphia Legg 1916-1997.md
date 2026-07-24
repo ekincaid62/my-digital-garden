@@ -27,8 +27,8 @@ Stillborn Legg 1920-1920
 [[Carl A. Walker 1937-\|Carl A. Walker 1937-]]
 [[Gary Marshall Walker 1938-2013\|Gary Marshall Walker 1938-2013]]
 #### Census Records
-[[Vault/Census/1930 United States Federal Census Record 2\|1930 United States Federal Census Record]]
-[[Vault/Census/1920 United States Federal Census Record.3\|1920 United States Federal Census Record]]
+[[Census/1930 United States Federal Census Record 2\|1930 United States Federal Census Record]]
+[[Census/1920 United States Federal Census Record.3\|1920 United States Federal Census Record]]
 
 
 #### Land Transfers
@@ -36,6 +36,6 @@ Stillborn Legg 1920-1920
 #### Biography
 
 #### Photos
-[[Vault/Records/Fred Legg with Daughters\|Fred Legg with Daughters]]
+[[Records/Fred Legg with Daughters\|Fred Legg with Daughters]]
 #### Sources
 [Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p30

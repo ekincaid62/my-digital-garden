@@ -27,11 +27,11 @@ Death on 12/11/1902 in Fayette County, WV
 [[Josiah Dwight Legg 1857-1940\|Josiah Dwight Legg 1857-1940]]
 
 #### Census Records
-[[Vault/Census/1900 United States Federal Census 2\|1900 United States Federal Census]]
-[[Vault/Census/1880 United States Federal Census 3\|1880 United States Federal Census]]
-[[Vault/Census/1870 United States Federal Census 5\|1870 United States Federal Census]]
-[[Vault/Census/1860 United States Federal Census 6\|1860 United States Federal Census]]
-[[Vault/Census/1850 United States Federal Census 2\|1850 United States Federal Census]]
+[[Census/1900 United States Federal Census 2\|1900 United States Federal Census]]
+[[Census/1880 United States Federal Census 3\|1880 United States Federal Census]]
+[[Census/1870 United States Federal Census 5\|1870 United States Federal Census]]
+[[Census/1860 United States Federal Census 6\|1860 United States Federal Census]]
+[[Census/1850 United States Federal Census 2\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

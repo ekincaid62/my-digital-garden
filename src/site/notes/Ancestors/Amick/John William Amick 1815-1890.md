@@ -26,10 +26,10 @@ Franklin Amick
 Elizabeth Amick
 Anna Amick
 #### Census Records
-[[Vault/Census/1880 United States Federal Census 1\|1880 United States Federal Census]]
-[[Vault/Census/1870 United States Federal Census 8\|1870 United States Federal Census]]
-[[Vault/Census/1860 United States Federal Census 10\|1860 United States Federal Census]]
-[[Vault/Census/1850 United States Federal Census 6\|1850 United States Federal Census]]
+[[Census/1880 United States Federal Census 1\|1880 United States Federal Census]]
+[[Census/1870 United States Federal Census 8\|1870 United States Federal Census]]
+[[Census/1860 United States Federal Census 10\|1860 United States Federal Census]]
+[[Census/1850 United States Federal Census 6\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

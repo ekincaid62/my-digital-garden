@@ -33,20 +33,20 @@ Death on 21 Apr 1834 in Gauley Bridge WV
 [[Ancestors/Kincaid/Virginia Kincaid 1797-1870\|Virginia Kincaid 1797-1870]] "Jane"
 [[Magdaline Kincaid\|Magdaline Kincaid]] "Lina" married Reuben Wyatt on 06-25-1823; moved to Lawrence Co., OH in 1830
 [[Lanty Kincaid 1806-\|Lanty Kincaid 1806-]] married #1 Nancy Flanagan on 12-25-1827; married #2 Agnes Holcomb ca1831 Greenbrier Co.
-The information on the Children was provided by [[Vault/Records/RootsWeb KINCAID-L KINCAID Children of John and Elizabeth Gillespie Kincaid\|Linda Perdue]]
+The information on the Children was provided by [[Records/RootsWeb KINCAID-L KINCAID Children of John and Elizabeth Gillespie Kincaid\|Linda Perdue]]
 
 #### Census Records
 
 #### Land Transfers
-[[Vault/Land Transfers/Greenbrier County, DB 1 Pg 96 dated 26 June 1792 (Thomas and Hannah to John)\|Greenbrier County, DB 1 Pg 96 dated 26 June 1792 (Thomas and Hannah to John)]]
+[[Land Transfers/Greenbrier County, DB 1 Pg 96 dated 26 June 1792 (Thomas and Hannah to John)\|Greenbrier County, DB 1 Pg 96 dated 26 June 1792 (Thomas and Hannah to John)]]
 
 #### Biography
 
-John served as a private for 10 months in the [[Vault/Records/West Virginians in the Revolution\|revolutionary war]]. His [[Vault/Records/Pension Records for John Kincaid\|Pension Records]] give more detail of what he did during his service.
+John served as a private for 10 months in the [[Records/West Virginians in the Revolution\|revolutionary war]]. His [[Records/Pension Records for John Kincaid\|Pension Records]] give more detail of what he did during his service.
 
-John was listed as an heir of Thomas Kincaid in [[Vault/Records/Baldwin vs Kincaid\|Baldwin vs Kincaid]]
+John was listed as an heir of Thomas Kincaid in [[Records/Baldwin vs Kincaid\|Baldwin vs Kincaid]]
 
-John was convicted of burning [[Vault/Records/John Kincaid and the burning of Gauley Bridge\|Gauley Bridge]] along with his son Matthew.
+John was convicted of burning [[Records/John Kincaid and the burning of Gauley Bridge\|Gauley Bridge]] along with his son Matthew.
 
 #### Photos
 

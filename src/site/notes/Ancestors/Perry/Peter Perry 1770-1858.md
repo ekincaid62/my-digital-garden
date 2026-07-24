@@ -20,7 +20,7 @@ Death on 12/1858 in Orange County, VA
 [[Ancestors/Perry/Mary Level Perry 1799-1879\|Mary Level Perry 1799-1879]]
 
 #### Census Records
-[[Vault/Census/1850 United States Federal Census 16\|1850 United States Federal Census]]
+[[Census/1850 United States Federal Census 16\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

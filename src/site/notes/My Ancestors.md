@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"\"Chart\"","permalink":"/chart/","dgHomeLink":"x","dgShowBacklinks":"x","dgShowLocalGraph":"x","dgShowInlineTitle":"x","dgShowToc":"x"}
+{"dg-publish":true,"permalink":"/my-ancestors/","dgHomeLink":"x","dgShowBacklinks":"x","dgShowLocalGraph":"x","dgShowInlineTitle":"x","dgShowToc":"x"}
 ---
 
 

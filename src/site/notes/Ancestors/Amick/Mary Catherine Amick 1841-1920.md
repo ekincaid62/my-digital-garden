@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/amick/mary-catherine-amick-1841-1920/","tags":["Mary-C-Amick"]}
+{"dg-publish":true,"permalink":"/ancestors/amick/mary-catherine-amick-1841-1920/","tags":["#Mary-C-Amick"]}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 5:47:07 pm***
@@ -27,12 +27,12 @@ Death on 1920 in <!-- link to place -->
 
 
 #### Census Records
-[[Vault/Census/1910 United States Federal Census\|Vault/Census/1910 United States Federal Census]]
-[[Vault/Census/1900 United States Federal Census 1\|1900 United States Federal Census]]
-[[Vault/Census/1880 United States Federal Census Record.3\|1880 United States Federal Census]]
-[[Vault/Census/1870 United States Federal Census 3\|1870 United States Federal Census]]
-[[Vault/Census/1860 United States Federal Census 10\|1860 United States Federal Census]]
-[[Vault/Census/1850 United States Federal Census 6\|1850 United States Federal Census]]
+[[Census/1910 United States Federal Census\|1910 United States Federal Census]]
+[[Census/1900 United States Federal Census 1\|1900 United States Federal Census]]
+[[Census/1880 United States Federal Census Record.3\|1880 United States Federal Census]]
+[[Census/1870 United States Federal Census 3\|1870 United States Federal Census]]
+[[Census/1860 United States Federal Census 10\|1860 United States Federal Census]]
+[[Census/1850 United States Federal Census 6\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

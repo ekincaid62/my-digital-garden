@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/betty-ann-kincaid-1883/","tags":["Betty-Ann-Kincaid"]}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/betty-ann-kincaid-1883/","tags":["#Betty-Ann-Kincaid"]}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:10:41 pm***
@@ -25,13 +25,13 @@ Death on <!-- link to date --> in <!-- link to place -->
 <!-- Link to child -->
 
 #### Census Records
-[[Vault/Census/1900 United States Federal Census Record\|1900 United States Federal Census]]
+[[Census/1900 United States Federal Census Record\|1900 United States Federal Census]]
 
 #### Land Transfers
 
 #### Biography
 
 #### Photos
-[[Vault/Records/Adam & Betty Myers\|Adam & Betty Myers]]
+[[Records/Adam & Betty Myers\|Adam & Betty Myers]]
 #### Sources
 [Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p39

@@ -23,13 +23,13 @@ Death on 1884 in <!-- link to place -->
 [[Maria Keenan 1856-\|Maria Keenan 1856-]]
 [[Jerusha Keenan 1860-\|Jerusha Keenan 1860-]]
 #### Census Records
-[[Vault/Census/1860 US Federal Census\|1860 US Federal Census]]
-[[Vault/Census/1850 United States Federal Census Record 1\|1850 United States Federal Census Record]]
+[[Census/1860 US Federal Census\|1860 US Federal Census]]
+[[Census/1850 United States Federal Census Record 1\|1850 United States Federal Census Record]]
 #### Land Transfers
 
 #### Biography
-Here is his [[Vault/Records/Marshall Keenan Will\|Will]]
+Here is his [[Records/Marshall Keenan Will\|Will]]
 #### Photos
-[[Vault/Records/Marshall and Martha\|Marshall and Martha]]
+[[Records/Marshall and Martha\|Marshall and Martha]]
 #### Sources
 

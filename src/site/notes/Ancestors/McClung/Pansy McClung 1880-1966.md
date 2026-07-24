@@ -37,11 +37,11 @@ Luella A. Legg 1923-
 #### Biography
 
 #### Photos
-[[Vault/Records/Aunt Pansy McClung Legg\|Aunt Pansy McClung Legg]]
-[[Vault/Records/Aunt Pansy Legg\|Aunt Pansy Legg]]
-[[Vault/Records/Walter & Pansy Legg\|Walter & Pansy Legg]]
-[[Vault/Records/Walter & Pansy Legg Family\|Walter & Pansy Legg Family]]
-[[Vault/Records/Walter & Pansy Legg.1\|Walter & Pansy Legg]]
+[[Records/Aunt Pansy McClung Legg\|Aunt Pansy McClung Legg]]
+[[Records/Aunt Pansy Legg\|Aunt Pansy Legg]]
+[[Records/Walter & Pansy Legg\|Walter & Pansy Legg]]
+[[Records/Walter & Pansy Legg Family\|Walter & Pansy Legg Family]]
+[[Records/Walter & Pansy Legg.1\|Walter & Pansy Legg]]
 #### Sources
 [McClung Genealogy 1904](https://drive.google.com/file/d/0B0oZv34v0ajXUWNUVmVwTUNhZ1E/view?usp=drive_link&resourcekey=0-GGNON3kTqpLoMdz3hRxyPQ) p166
 [Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA) p75

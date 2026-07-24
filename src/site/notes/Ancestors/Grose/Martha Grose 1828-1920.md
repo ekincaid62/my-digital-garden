@@ -27,19 +27,19 @@ Death on <!-- link to date --> in <!-- link to place -->
 [[Valentine Felton Skaggs\|Valentine Felton Skaggs]] married before 1880 in <!-- link to place -->.
 
 #### Census Records
-[[Vault/Census/1910 United States Federal Census Record.5\|1910 United States Federal Census Record]]
-[[Vault/Census/1900 United States Federal Census Record 1\|1900 United States Federal Census Record]]
-[[Vault/Census/1880 US Federal Census\|1880 US Federal Census]]
-[[Vault/Census/1870 US Federal Census\|1870 US Federal Census]]
-[[Vault/Census/1860 US Federal Census\|1860 US Federal Census]]
-[[Vault/Census/1850 United States Federal Census Record 1\|1850 United States Federal Census Record]]
+[[Census/1910 United States Federal Census Record.5\|1910 United States Federal Census Record]]
+[[Census/1900 United States Federal Census Record 1\|1900 United States Federal Census Record]]
+[[Census/1880 US Federal Census\|1880 US Federal Census]]
+[[Census/1870 US Federal Census\|1870 US Federal Census]]
+[[Census/1860 US Federal Census\|1860 US Federal Census]]
+[[Census/1850 United States Federal Census Record 1\|1850 United States Federal Census Record]]
 #### Land Transfers
 
 #### Biography
 
 #### Photos
-[[Vault/Records/Marshall and Martha\|Marshall and Martha]]
-[[Vault/Records/Martha Grose Keenan\|Martha Grose Keenan]]
-[[Vault/Records/Martha Grose Keenan Skaggs\|Martha Grose Keenan Skaggs]]
+[[Records/Marshall and Martha\|Marshall and Martha]]
+[[Records/Martha Grose Keenan\|Martha Grose Keenan]]
+[[Records/Martha Grose Keenan Skaggs\|Martha Grose Keenan Skaggs]]
 #### Sources
 

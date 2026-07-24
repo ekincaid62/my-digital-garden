@@ -20,9 +20,9 @@ Death on 1878 in <!-- link to place -->
 [[Ancestors/Grose/Martha Grose 1828-1920\|Martha Grose 1828-1920]]
 
 #### Census Records
-[[Vault/Census/1870 United States Federal Census 4\|1870 United States Federal Census]]
-[[Vault/Census/1860 United States Federal Census 3\|1860 United States Federal Census]]
-[[Vault/Census/1850 United States Federal Census Record 1\|1850 United States Federal Census Record]]
+[[Census/1870 United States Federal Census 4\|1870 United States Federal Census]]
+[[Census/1860 United States Federal Census 3\|1860 United States Federal Census]]
+[[Census/1850 United States Federal Census Record 1\|1850 United States Federal Census Record]]
 #### Land Transfers
 
 #### Biography

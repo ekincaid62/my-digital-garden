@@ -20,8 +20,8 @@ Death on 1870 in <!-- link to place -->
 [[Ancestors/Hawkins/Nicholas Hawkins 1819-1869\|Nicholas Hawkins 1819-1869]]
 
 #### Census Records
-[[Vault/Census/1860 United States Federal Census 11\|1860 United States Federal Census]]
-[[Vault/Census/1850 United States Federal Census 9\|1850 United States Federal Census]]
+[[Census/1860 United States Federal Census 11\|1860 United States Federal Census]]
+[[Census/1850 United States Federal Census 9\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

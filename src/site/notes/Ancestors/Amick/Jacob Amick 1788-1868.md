@@ -21,7 +21,7 @@ Death on 9/6/1868 in Anglins Creek, Nicholas County, VA
 #### Census Records
 
 #### Land Transfers
-[[Vault/Census/1850 United States Federal Census 15\|1850 United States Federal Census]]
+[[Census/1850 United States Federal Census 15\|1850 United States Federal Census]]
 #### Biography
 
 #### Photos

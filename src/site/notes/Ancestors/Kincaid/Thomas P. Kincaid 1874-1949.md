@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/thomas-p-kincaid-1874-1949/","tags":["Thomas-P-Kincaid"]}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/thomas-p-kincaid-1874-1949/","tags":["#Thomas-P-Kincaid"]}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:09:26 pm***
 
 Born on  3/30/1874 in WV
-[[Vault/Records/Thomas P. Kincaid Obituary\|Death]] on 1949 in Nicholas County, WV
+[[Records/Thomas P. Kincaid Obituary\|Death]] on 1949 in Nicholas County, WV
 
 ----
 #### Parents
@@ -29,19 +29,19 @@ Born on  3/30/1874 in WV
 [[Nancy P. Kincaid 1911-\|Nancy P. Kincaid 1911-]]
 [[Walter C. Kincaid 1917-\|Walter C. Kincaid 1917-]]
 #### Census Records
-[[Vault/Census/1880 United States Federal Census Record\|1880 United States Federal Census]]
+[[Census/1880 United States Federal Census Record\|1880 United States Federal Census]]
 
 #### Land Transfers
 
 #### Biography
 
 #### Photos
-[[Vault/Records/Family of Thomas P. Kincaid\|Family of Thomas P. Kincaid]]
-[[Vault/Records/Children of Thomas P. and Martha Stull Kincaid\|Children of Thomas P. and Martha Stull Kincaid]]
-[[Vault/Records/Children of Thomas P. and Martha Stull Kincaid.1\|Children of Thomas P. and Martha Stull Kincaid.1]]
-[[Vault/Records/Thomas & Martha Stull Kincaid\|Thomas & Martha Stull Kincaid]]
-[[Vault/Records/Thomas & Martha Stull Kincaid Family\|Thomas & Martha Stull Kincaid Family]]
-[[Vault/Records/Thomas P. Kincaid 2\|Thomas P. Kincaid 2]]
-[[Vault/Records/Thomas P. Kincaid\|Thomas P. Kincaid]]
+[[Records/Family of Thomas P. Kincaid\|Family of Thomas P. Kincaid]]
+[[Records/Children of Thomas P. and Martha Stull Kincaid\|Children of Thomas P. and Martha Stull Kincaid]]
+[[Records/Children of Thomas P. and Martha Stull Kincaid.1\|Children of Thomas P. and Martha Stull Kincaid.1]]
+[[Records/Thomas & Martha Stull Kincaid\|Thomas & Martha Stull Kincaid]]
+[[Records/Thomas & Martha Stull Kincaid Family\|Thomas & Martha Stull Kincaid Family]]
+[[Records/Thomas P. Kincaid 2\|Thomas P. Kincaid 2]]
+[[Records/Thomas P. Kincaid\|Thomas P. Kincaid]]
 #### Sources
 [Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p39

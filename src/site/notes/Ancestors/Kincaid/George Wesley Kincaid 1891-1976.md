@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/george-wesley-kincaid-1891-1976/","tags":["George-Wesley-Kincaid"]}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/george-wesley-kincaid-1891-1976/","tags":["#George-Wesley-Kincaid"]}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, October 12th 2025, 2:57:59 pm***
@@ -26,26 +26,26 @@ Death on 6/1976 in Summersville WV
 [[Ancestors/Kincaid/Eugene Curtis Kincaid 1927-2009\|Eugene Curtis Kincaid 1927-2009]]
 
 #### Census Records
-[[Vault/Census/1950 United States Federal Census\|1950 United States Federal Census]]
-[[Vault/Census/1940 United States Federal Census\|1940 United States Federal Census]]
-[[Vault/Census/1930 United States Federal Census Record\|1930 United States Federal Census]]
-[[Vault/Census/1920 United States Federal Census Record\|1920 United States Federal Census]]
-[[Vault/Census/1910 United States Federal Census Record\|1910 United States Federal Census]]
-[[Vault/Census/1900 United States Federal Census Record\|1900 United States Federal Census]]
+[[Census/1950 United States Federal Census\|1950 United States Federal Census]]
+[[Census/1940 United States Federal Census\|1940 United States Federal Census]]
+[[Census/1930 United States Federal Census Record\|1930 United States Federal Census]]
+[[Census/1920 United States Federal Census Record\|1920 United States Federal Census]]
+[[Census/1910 United States Federal Census Record\|1910 United States Federal Census]]
+[[Census/1900 United States Federal Census Record\|1900 United States Federal Census]]
 #### Land Transfers
 
 #### Biography
 
 #### Photos
-[[Vault/Records/George Wesley Kincaid\|Vault/Records/George Wesley Kincaid]]
-[[Vault/Records/George & Laura Skaggs Kincaid\|Vault/Records/George & Laura Skaggs Kincaid]]
-[[Vault/Records/George Kincaid & Fred Shaffer\|George Kincaid & Fred Shaffer]]
-[[Vault/Records/Mt Lookout String Band\|Mt Lookout String Band]]
-[[Vault/Records/Wilderness Lumber Company\|Vault/Records/Wilderness Lumber Company]]
-[[Vault/Records/Community World War I Veterans\|Community World War I Veterans]]
+[[Records/George Wesley Kincaid\|George Wesley Kincaid]]
+[[Records/George & Laura Skaggs Kincaid\|George & Laura Skaggs Kincaid]]
+[[Records/George Kincaid & Fred Shaffer\|George Kincaid & Fred Shaffer]]
+[[Records/Mt Lookout String Band\|Mt Lookout String Band]]
+[[Records/Wilderness Lumber Company\|Wilderness Lumber Company]]
+[[Records/Community World War I Veterans\|Community World War I Veterans]]
 #### Military Records
-[[Vault/Records/World War I Draft Registration Cards, 1917-1918 Record for George Wesley Kincaid\|World War I Draft Registration Cards, 1917-1918 Record for George Wesley Kincaid]]
-[[Vault/Records/U.S. World War II Draft Registration Card, 1942 George Wesley Kincaid\|U.S. World War II Draft Registration Card, 1942 George Wesley Kincaid]]
+[[Records/World War I Draft Registration Cards, 1917-1918 Record for George Wesley Kincaid\|World War I Draft Registration Cards, 1917-1918 Record for George Wesley Kincaid]]
+[[Records/U.S. World War II Draft Registration Card, 1942 George Wesley Kincaid\|U.S. World War II Draft Registration Card, 1942 George Wesley Kincaid]]
 
 #### Sources
 [Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p40

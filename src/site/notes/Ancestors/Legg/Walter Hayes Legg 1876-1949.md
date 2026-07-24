@@ -40,18 +40,18 @@ Eva M. Legg 1921-
 Luella A. Legg 1923-
 
 #### Census Records
-[[Vault/Census/1900 United States Federal Census Record.5\|1900 United States Federal Census Record]]
-[[Vault/Census/1880 United States Federal Census Record.4\|1880 United States Federal Census Record]]
+[[Census/1900 United States Federal Census Record.5\|1900 United States Federal Census Record]]
+[[Census/1880 United States Federal Census Record.4\|1880 United States Federal Census Record]]
 #### Land Transfers
 
 #### Biography
 
 #### Photos
-[[Vault/Records/Walter & Pansy Legg\|Walter & Pansy Legg]]
-[[Vault/Records/Walter & Pansy Legg Family\|Walter & Pansy Legg Family]]
-[[Vault/Records/Walter & Pansy Legg.1\|Walter & Pansy Legg]]
-[[Vault/Records/Legg's Store\|Legg's Store]]
-[[Vault/Records/Walter Legg Home\|Walter Legg Home]]
+[[Records/Walter & Pansy Legg\|Walter & Pansy Legg]]
+[[Records/Walter & Pansy Legg Family\|Walter & Pansy Legg Family]]
+[[Records/Walter & Pansy Legg.1\|Walter & Pansy Legg]]
+[[Records/Legg's Store\|Legg's Store]]
+[[Records/Walter Legg Home\|Walter Legg Home]]
 #### Sources
 [McClung Genealogy 1904](https://drive.google.com/file/d/0B0oZv34v0ajXUWNUVmVwTUNhZ1E/view?usp=drive_link&resourcekey=0-GGNON3kTqpLoMdz3hRxyPQ) p166
 [Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA) p75

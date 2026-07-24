@@ -28,7 +28,7 @@ Death on 1829 in Gauley Bridge, WV
 [[Ancestors/Kincaid/Virginia Kincaid 1797-1870\|Virginia Kincaid 1797-1870]] "Jane"
 [[Magdaline Kincaid\|Magdaline Kincaid]] "Lina" married Reuben Wyatt on 06-25-1823; moved to Lawrence Co., OH in 1830
 [[Lanty Kincaid 1806-\|Lanty Kincaid 1806-]] married #1 Nancy Flanagan on 12-25-1827; married #2 Agnes Holcomb ca1831 Greenbrier Co.
-The information on the Children was provided by [[Vault/Records/RootsWeb KINCAID-L KINCAID Children of John and Elizabeth Gillespie Kincaid\|Linda Perdue]]
+The information on the Children was provided by [[Records/RootsWeb KINCAID-L KINCAID Children of John and Elizabeth Gillespie Kincaid\|Linda Perdue]]
 
 
 #### Census Records

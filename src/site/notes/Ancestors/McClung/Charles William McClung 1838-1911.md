@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/mc-clung/charles-william-mc-clung-1838-1911/","tags":["Charles-William-McClung"]}
+{"dg-publish":true,"permalink":"/ancestors/mc-clung/charles-william-mc-clung-1838-1911/","tags":["#Charles-William-McClung"]}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 5:45:32 pm***
@@ -33,18 +33,18 @@ Death on 6/24/1911 in Nicholas County, WV
 [[Mary Jane McClung 1879-1963\|Mary Jane McClung 1879-1963]]
 
 #### Census Records
-[[Vault/Census/1910 United States Federal Census\|Vault/Census/1910 United States Federal Census]]
-[[Vault/Census/1900 United States Federal Census 1\|1900 United States Federal Census]]
-[[Vault/Census/1880 United States Federal Census Record.3\|1880 United States Federal Census]]
-[[Vault/Census/1870 United States Federal Census 3\|1870 United States Federal Census]]
-[[Vault/Census/1850 United States Federal Census 5\|1850 United States Federal Census]] Unsure about this
+[[Census/1910 United States Federal Census\|1910 United States Federal Census]]
+[[Census/1900 United States Federal Census 1\|1900 United States Federal Census]]
+[[Census/1880 United States Federal Census Record.3\|1880 United States Federal Census]]
+[[Census/1870 United States Federal Census 3\|1870 United States Federal Census]]
+[[Census/1850 United States Federal Census 5\|1850 United States Federal Census]] Unsure about this
 
 #### Land Transfers
 
 #### Biography
 
 #### Photos
-[[Vault/Records/Rev. Charles William McClung\|Rev. Charles William McClung]]
+[[Records/Rev. Charles William McClung\|Rev. Charles William McClung]]
 #### Sources
 [McClung Genealogy 1904](https://drive.google.com/file/d/0B0oZv34v0ajXUWNUVmVwTUNhZ1E/view?usp=drive_link&resourcekey=0-GGNON3kTqpLoMdz3hRxyPQ) p161
 [Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA) p13

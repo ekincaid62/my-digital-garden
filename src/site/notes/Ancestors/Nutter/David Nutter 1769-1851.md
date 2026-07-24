@@ -20,7 +20,7 @@ Death on 2/14/1851 in Nicholas County, VA
 [[Ancestors/Nutter/Elizabeth Nutter 1790-1869\|Elizabeth Nutter 1790-1869]]
 
 #### Census Records
-[[Vault/Census/1850 United States Federal Census Record.3\|1850 United States Federal Census Record]]
+[[Census/1850 United States Federal Census Record.3\|1850 United States Federal Census Record]]
 #### Land Transfers
 
 #### Biography

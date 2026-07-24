@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/martha-belle-kincaid-1872-1892/","tags":["Martha-Belle-Kincaid"]}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/martha-belle-kincaid-1872-1892/","tags":["#Martha-Belle-Kincaid"]}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:09:12 pm***
@@ -26,13 +26,13 @@ Death on 1/24/1892 in WV
 <!-- Link to child -->
 
 #### Census Records
-[[Vault/Census/1880 United States Federal Census Record\|1880 United States Federal Census]]
+[[Census/1880 United States Federal Census Record\|1880 United States Federal Census]]
 
 #### Land Transfers
 
 #### Biography
 
 #### Photos
-[[Vault/Records/Martha Belle Kincaid\|Martha Belle Kincaid]]
+[[Records/Martha Belle Kincaid\|Martha Belle Kincaid]]
 #### Sources
 [Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p39

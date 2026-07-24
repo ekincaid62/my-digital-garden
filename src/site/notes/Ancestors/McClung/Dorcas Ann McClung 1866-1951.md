@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/mc-clung/dorcas-ann-mc-clung-1866-1951/","tags":["Dorcas-McClung"]}
+{"dg-publish":true,"permalink":"/ancestors/mc-clung/dorcas-ann-mc-clung-1866-1951/","tags":["#Dorcas-McClung"]}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:32:37 pm***
@@ -30,22 +30,22 @@ Death on 6/6/1951 in Mt Lookout, WV
 [[Leancy Shaffer 1904-\|Leancy Shaffer 1904-]]
 
 #### Census Records
-[[Vault/Census/1950 United States Federal Census\|1950 United States Federal Census]]
-[[Vault/Census/1940 United States Federal Census 1\|1940 United States Federal Census]]
-[[Vault/Census/1930 United States Federal Census Record 2\|1930 United States Federal Census Record]]
-[[Vault/Census/1920 United States Federal Census Record.4\|1920 United States Federal Census Record]]
-[[Vault/Census/1910 United States Federal Census Record\|1910 United States Federal Census Record]]
-[[Vault/Census/1900 United States Federal Census Record.4\|1900 United States Federal Census Record]]
-[[Vault/Census/1880 United States Federal Census Record.3\|1880 United States Federal Census]]
-[[Vault/Census/1870 United States Federal Census 3\|1870 United States Federal Census]]
+[[Census/1950 United States Federal Census\|1950 United States Federal Census]]
+[[Census/1940 United States Federal Census 1\|1940 United States Federal Census]]
+[[Census/1930 United States Federal Census Record 2\|1930 United States Federal Census Record]]
+[[Census/1920 United States Federal Census Record.4\|1920 United States Federal Census Record]]
+[[Census/1910 United States Federal Census Record\|1910 United States Federal Census Record]]
+[[Census/1900 United States Federal Census Record.4\|1900 United States Federal Census Record]]
+[[Census/1880 United States Federal Census Record.3\|1880 United States Federal Census]]
+[[Census/1870 United States Federal Census 3\|1870 United States Federal Census]]
 #### Land Transfers
 
 #### Biography
 
 #### Photos
-[[Vault/Records/Dorcas Ann Shaffer & Chilldren\|Dorcas Ann Shaffer & Chilldren]]
-[[Vault/Records/Dorcas Ann Shaffer & Granddaughters\|Dorcas Ann Shaffer & Granddaughters]]
-[[Vault/Records/Dorcas and Anna\|Dorcas and Anna]]
+[[Records/Dorcas Ann Shaffer & Chilldren\|Dorcas Ann Shaffer & Chilldren]]
+[[Records/Dorcas Ann Shaffer & Granddaughters\|Dorcas Ann Shaffer & Granddaughters]]
+[[Records/Dorcas and Anna\|Dorcas and Anna]]
 #### Sources
 [McClung Genealogy 1904](https://drive.google.com/file/d/0B0oZv34v0ajXUWNUVmVwTUNhZ1E/view?usp=drive_link&resourcekey=0-GGNON3kTqpLoMdz3hRxyPQ) p161
 [Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA) p13,29,30

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/alfred-h-kincaid-1842-1913/","tags":["Alfred-Kincaid"]}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/alfred-h-kincaid-1842-1913/","tags":["#Alfred-Kincaid"]}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:20:12 pm***
@@ -26,18 +26,18 @@ Death on 2/14/1913 in Greene County, IL
 [[Dora A Kincaid 1872-1876\|Dora A Kincaid 1872-1876]]*
 [[Johnny Kincaid 1875-1877\|Johnny Kincaid 1875-1877]]*
 [[Infant Kincaid 1877-1877\|Infant Kincaid 1877-1877]]*
-*All three children died of black diptheria and were buried [[Vault/Records/Kincade Cemetery Information\|here]]
+*All three children died of black diptheria and were buried [[Records/Kincade Cemetery Information\|here]]
 
 #### Census Records
-[[Vault/Census/1860 United States Federal Census Record\|1860 United States Census]]
-[[Vault/Census/1850 United States Federal Census Record\|1850 United States Census]]
+[[Census/1860 United States Federal Census Record\|1860 United States Census]]
+[[Census/1850 United States Federal Census Record\|1850 United States Census]]
 
 #### Land Transfers
 
 #### Biography
 
 #### Photos
-[[Vault/Records/Alfred Kincaid\|Alfred Kincaid]]
-[[Vault/Records/Alfred Kincaid Family\|Alfred Kincaid Family]]
+[[Records/Alfred Kincaid\|Alfred Kincaid]]
+[[Records/Alfred Kincaid Family\|Alfred Kincaid Family]]
 #### Sources
 

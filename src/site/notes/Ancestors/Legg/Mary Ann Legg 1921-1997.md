@@ -28,7 +28,7 @@ Stillborn Legg 1920-1920
 [[Carolyn Shaffer\|Carolyn Shaffer]]
 [[Anna Shaffer\|Anna Shaffer]]
 #### Census Records
-[[Vault/Census/1930 United States Federal Census Record 2\|1930 United States Federal Census Record]]
+[[Census/1930 United States Federal Census Record 2\|1930 United States Federal Census Record]]
 
 
 #### Land Transfers

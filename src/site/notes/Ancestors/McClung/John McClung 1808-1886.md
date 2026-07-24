@@ -36,10 +36,10 @@ Death on 7/1886 in <!-- link to place -->
 #### Spouse and Children
 Martha McGraw married on 03/1854
 #### Census Records
-[[Vault/Census/1880 United States Federal Census Record.3\|1880 United States Federal Census Record]]
-[[Vault/Census/1870 United States Federal Census 7\|1870 United States Federal Census]]
-[[Vault/Census/1860 United States Federal Census 9\|1860 United States Federal Census]]
-[[Vault/Census/1850 United States Federal Census 12\|1850 United States Federal Census]]
+[[Census/1880 United States Federal Census Record.3\|1880 United States Federal Census Record]]
+[[Census/1870 United States Federal Census 7\|1870 United States Federal Census]]
+[[Census/1860 United States Federal Census 9\|1860 United States Federal Census]]
+[[Census/1850 United States Federal Census 12\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

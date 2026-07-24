@@ -30,19 +30,19 @@ Death on 6/17/1926 in Mt Lookout, WV
 [[Esta Legg 1894-\|Esta Legg 1894-]]
 
 #### Census Records
-[[Vault/Census/1920 United States Federal Census\|1920 United States Federal Census]]
-[[Vault/Census/1910 United States Federal Census Record.4\|1910 United States Federal Census Record]]
-[[Vault/Census/1900 United States Federal Census Record.5\|1900 United States Federal Census Record]]
-[[Vault/Census/1880 United States Federal Census Record.4\|1880 United States Federal Census Record]]
+[[Census/1920 United States Federal Census\|1920 United States Federal Census]]
+[[Census/1910 United States Federal Census Record.4\|1910 United States Federal Census Record]]
+[[Census/1900 United States Federal Census Record.5\|1900 United States Federal Census Record]]
+[[Census/1880 United States Federal Census Record.4\|1880 United States Federal Census Record]]
 [[1860 United States Federal Census Record.4\|1860 United States Federal Census Record]]
 #### Land Transfers
 
 #### Biography
 
 #### Photos
-[[Vault/Records/Mack & Polly Ann Hawkins Legg\|Mack & Polly Ann Hawkins Legg]]
-[[Vault/Records/Mack & Polly Ann Hawkins Legg.1\|Mack & Polly Ann Hawkins Legg]]
-[[Vault/Records/Polly Ann Hawkins Legg\|Polly Ann Hawkins Legg]]
+[[Records/Mack & Polly Ann Hawkins Legg\|Mack & Polly Ann Hawkins Legg]]
+[[Records/Mack & Polly Ann Hawkins Legg.1\|Mack & Polly Ann Hawkins Legg]]
+[[Records/Polly Ann Hawkins Legg\|Polly Ann Hawkins Legg]]
 
 #### Sources
 

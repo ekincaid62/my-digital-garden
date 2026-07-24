@@ -22,7 +22,7 @@ Death on 9/16/1924 in Mt. Lookout WV
 
 ---
 #### Spouse and Children
-[[Ancestors/Hawkins/Mary Ann Hawkins 1853-1926\|Mary Ann Hawkins 1853-1926]] [[Vault/Records/William M. Legg and Mary Ann Hawkins Marriage Record 1869 Fayetteville, WV\|married]] 11/12/1869 in Fayette WV
+[[Ancestors/Hawkins/Mary Ann Hawkins 1853-1926\|Mary Ann Hawkins 1853-1926]] [[Records/William M. Legg and Mary Ann Hawkins Marriage Record 1869 Fayetteville, WV\|married]] 11/12/1869 in Fayette WV
 [[Wilson Legg 1871-\|Wilson Legg 1871-]]
 [[Nicholas Legg 1872-\|Nicholas Legg 1872-]]
 [[William Legg 1875-\|William Legg 1875-]]
@@ -36,17 +36,17 @@ Death on 9/16/1924 in Mt. Lookout WV
 [[Esta Legg 1894-\|Esta Legg 1894-]]
 
 #### Census Records
-[[Vault/Census/1920 United States Federal Census\|1920 United States Federal Census]]
-[[Vault/Census/1910 United States Federal Census Record.4\|1910 United States Federal Census Record]]
-[[Vault/Census/1900 United States Federal Census Record.5\|1900 United States Federal Census Record]]
-[[Vault/Census/1880 United States Federal Census Record.4\|1880 United States Federal Census Record]]
-[[Vault/Census/1850 United States Federal Census 2\|1850 United States Federal Census]]
+[[Census/1920 United States Federal Census\|1920 United States Federal Census]]
+[[Census/1910 United States Federal Census Record.4\|1910 United States Federal Census Record]]
+[[Census/1900 United States Federal Census Record.5\|1900 United States Federal Census Record]]
+[[Census/1880 United States Federal Census Record.4\|1880 United States Federal Census Record]]
+[[Census/1850 United States Federal Census 2\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography
 
 ### Photos
-[[Vault/Records/Mack & Polly Ann Hawkins Legg\|Mack & Polly Ann Hawkins Legg]]
-[[Vault/Records/Mack & Polly Ann Hawkins Legg.1\|Mack & Polly Ann Hawkins Legg]]
+[[Records/Mack & Polly Ann Hawkins Legg\|Mack & Polly Ann Hawkins Legg]]
+[[Records/Mack & Polly Ann Hawkins Legg.1\|Mack & Polly Ann Hawkins Legg]]
 #### Sources
 

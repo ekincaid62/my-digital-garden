@@ -30,8 +30,8 @@ Stillborn Legg 1920-1920
 [[Rosemary Underwood\|Rosemary Underwood]]
 
 #### Census Records
-[[Vault/Census/1940 United States Federal Census 1\|1940 United States Federal Census]]
-[[Vault/Census/1930 United States Federal Census Record 2\|1930 United States Federal Census Record]]
+[[Census/1940 United States Federal Census 1\|1940 United States Federal Census]]
+[[Census/1930 United States Federal Census Record 2\|1930 United States Federal Census Record]]
 
 
 #### Land Transfers

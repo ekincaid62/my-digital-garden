@@ -35,18 +35,18 @@ Death on 1944 in Mt. Lookout, WV
 [[Leancy Shaffer 1904-\|Leancy Shaffer 1904-]]
 
 #### Census Records
-[[Vault/Census/1940 United States Federal Census 1\|1940 United States Federal Census]]
-[[Vault/Census/1930 United States Federal Census Record 2\|1930 United States Federal Census Record]]
-[[Vault/Census/1920 United States Federal Census Record.4\|1920 United States Federal Census Record]]
-[[Vault/Census/1910 United States Federal Census Record\|1910 United States Federal Census Record]]
-[[Vault/Census/1900 United States Federal Census Record.4\|1900 United States Federal Census Record]]
-[[Vault/Census/1880 United States Federal Census Record 1\|1880 United States Federal Census Record]]
+[[Census/1940 United States Federal Census 1\|1940 United States Federal Census]]
+[[Census/1930 United States Federal Census Record 2\|1930 United States Federal Census Record]]
+[[Census/1920 United States Federal Census Record.4\|1920 United States Federal Census Record]]
+[[Census/1910 United States Federal Census Record\|1910 United States Federal Census Record]]
+[[Census/1900 United States Federal Census Record.4\|1900 United States Federal Census Record]]
+[[Census/1880 United States Federal Census Record 1\|1880 United States Federal Census Record]]
 #### Land Transfers
 
 #### Biography
 
 #### Photos
-[[Vault/Records/Clayton & Dorcas Shaffer Family\|Clayton & Dorcas Shaffer Family]]
-[[Vault/Records/Clayton & Lee Shaffer\|Clayton & Lee Shaffer]]
+[[Records/Clayton & Dorcas Shaffer Family\|Clayton & Dorcas Shaffer Family]]
+[[Records/Clayton & Lee Shaffer\|Clayton & Lee Shaffer]]
 #### Sources
 [Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p29

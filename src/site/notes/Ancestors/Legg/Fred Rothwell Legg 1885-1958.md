@@ -36,19 +36,19 @@ Stillborn Legg 1920-1920
 [[Ancestors/Legg/Catherine Josephine Legg 1929-2003\|Catherine Josephine Legg 1929-2003]] "Kata"
 [[Ancestors/Legg/Alice Lee Legg 1931-2012\|Alice Lee Legg 1931-2012]] "Tootie"
 #### Census Records
-[[Vault/Census/1950 United States Federal Census 1\|1950 United States Federal Census]]
-[[Vault/Census/1940 United States Federal Census 2\|1940 United States Federal Census]]
-[[Vault/Census/1930 United States Federal Census Record 2\|1930 United States Federal Census Record]]
-[[Vault/Census/1920 United States Federal Census Record.3\|1920 United States Federal Census Record]]
-[[Vault/Census/1910 United States Federal Census Record.4\|1910 United States Federal Census Record]]
-[[Vault/Census/1900 United States Federal Census Record.5\|1900 United States Federal Census Record]]
+[[Census/1950 United States Federal Census 1\|1950 United States Federal Census]]
+[[Census/1940 United States Federal Census 2\|1940 United States Federal Census]]
+[[Census/1930 United States Federal Census Record 2\|1930 United States Federal Census Record]]
+[[Census/1920 United States Federal Census Record.3\|1920 United States Federal Census Record]]
+[[Census/1910 United States Federal Census Record.4\|1910 United States Federal Census Record]]
+[[Census/1900 United States Federal Census Record.5\|1900 United States Federal Census Record]]
 #### Land Transfers
 
 #### Biography
 
 #### Photos
-[[Vault/Records/Fred and Mamie Shaffer Legg\|Fred and Mamie Shaffer Legg]]
-[[Vault/Records/Fred Legg Family.1\|Fred Legg Family]]
-[[Vault/Records/Fred Legg with Daughters\|Fred Legg with Daughters]]
+[[Records/Fred and Mamie Shaffer Legg\|Fred and Mamie Shaffer Legg]]
+[[Records/Fred Legg Family.1\|Fred Legg Family]]
+[[Records/Fred Legg with Daughters\|Fred Legg with Daughters]]
 #### Sources
 [Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p30

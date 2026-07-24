@@ -26,8 +26,8 @@ Death on <!-- link to date --> in <!-- link to place -->
 [[Granville Alderson McClung 1845-\|Granville Alderson McClung 1845-]]
 
 #### Census Records
-[[Vault/Census/1860 United States Federal Census 8\|1860 United States Federal Census]]
-[[Vault/Census/1850 United States Federal Census 11\|1850 United States Federal Census]]
+[[Census/1860 United States Federal Census 8\|1860 United States Federal Census]]
+[[Census/1850 United States Federal Census 11\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography
