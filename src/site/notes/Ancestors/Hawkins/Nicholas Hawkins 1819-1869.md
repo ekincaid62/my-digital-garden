@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/hawkins/nicholas-hawkins-1819-1869/","tags":["Nicholas-Hawkins"]}
+{"dg-publish":true,"permalink":"/ancestors/hawkins/nicholas-hawkins-1819-1869/","tags":["Nicholas-Hawkins"],"dg-note-properties":{"tags":["Nicholas-Hawkins"],"date-created":"Sunday, February 16th 2025, 7:15:36 pm","date-modified":"Wednesday, February 26th 2025, 8:03:43 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Wednesday, February 26th 2025, 8:03:43 pm***

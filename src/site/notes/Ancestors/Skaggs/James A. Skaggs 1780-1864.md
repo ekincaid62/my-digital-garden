@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/skaggs/james-a-skaggs-1780-1864/","tags":["James-A-Skaggs"]}
+{"dg-publish":true,"permalink":"/ancestors/skaggs/james-a-skaggs-1780-1864/","tags":["James-A-Skaggs"],"dg-note-properties":{"tags":["James-A-Skaggs"],"date-created":"Thursday, February 6th 2025, 6:52:42 pm","date-modified":"Saturday, March 1st 2025, 3:36:57 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Saturday, March 1st 2025, 3:36:57 pm***

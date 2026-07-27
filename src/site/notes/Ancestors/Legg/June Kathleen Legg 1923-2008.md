@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/legg/june-kathleen-legg-1923-2008/","tags":["June-Legg"]}
+{"dg-publish":true,"permalink":"/ancestors/legg/june-kathleen-legg-1923-2008/","tags":["June-Legg"],"dg-note-properties":{"tags":["June-Legg"],"date-created":"Saturday, January 25th 2025, 5:14:56 pm","date-modified":"Wednesday, March 5th 2025, 7:27:15 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:27:15 pm***

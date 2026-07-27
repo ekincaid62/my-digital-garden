@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1870-united-states-federal-census-7/","tags":["#John-McClung"]}
+{"dg-publish":true,"permalink":"/census/1870-united-states-federal-census-7/","tags":["John-McClung"],"dg-note-properties":{"tags":["John-McClung"],"date-created":"Friday, February 28th 2025, 3:04:01 pm","date-modified":"Friday, February 28th 2025, 3:05:59 pm"}}
 ---
 
 Family 130

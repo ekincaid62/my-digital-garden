@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/ronnie-lynn-kincaid-1952-2010/","tags":["Ronnie-Lynn-Kincaid"]}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/ronnie-lynn-kincaid-1952-2010/","tags":["Ronnie-Lynn-Kincaid"],"dg-note-properties":{"tags":["Ronnie-Lynn-Kincaid"],"date-created":"Saturday, January 25th 2025, 2:28:53 pm","date-modified":"Friday, February 21st 2025, 4:23:08 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:23:08 pm***

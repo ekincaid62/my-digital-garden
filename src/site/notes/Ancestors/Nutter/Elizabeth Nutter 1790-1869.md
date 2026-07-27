@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/nutter/elizabeth-nutter-1790-1869/","tags":["Elizabeth-Nutter"]}
+{"dg-publish":true,"permalink":"/ancestors/nutter/elizabeth-nutter-1790-1869/","tags":["Elizabeth-Nutter"],"dg-note-properties":{"tags":["Elizabeth-Nutter"],"date-created":"Thursday, February 6th 2025, 8:14:00 pm","date-modified":"Saturday, March 1st 2025, 10:36:37 am"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Saturday, March 1st 2025, 10:36:37 am***

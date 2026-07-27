@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/mollie-v-kincaid-1881-1892/","tags":["Mollie-V-Kincaid"]}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/mollie-v-kincaid-1881-1892/","tags":["Mollie-V-Kincaid"],"dg-note-properties":{"tags":["Mollie-V-Kincaid"],"date-created":"Saturday, January 25th 2025, 2:56:12 pm","date-modified":"Friday, March 7th 2025, 12:10:28 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:10:28 pm***

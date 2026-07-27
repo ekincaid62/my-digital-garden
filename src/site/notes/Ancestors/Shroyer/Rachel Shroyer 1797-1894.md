@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/shroyer/rachel-shroyer-1797-1894/","tags":["Rachel-Shroyer"]}
+{"dg-publish":true,"permalink":"/ancestors/shroyer/rachel-shroyer-1797-1894/","tags":["Rachel-Shroyer"],"dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Friday, March 7th 2025, 7:36:55 pm","tags":["Rachel-Shroyer"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 7:36:55 pm***

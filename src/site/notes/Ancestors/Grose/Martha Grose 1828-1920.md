@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/grose/martha-grose-1828-1920/"}
+{"dg-publish":true,"permalink":"/ancestors/grose/martha-grose-1828-1920/","dg-note-properties":{"date-created":"Thursday, February 13th 2025, 3:40:07 pm","date-modified":"Friday, July 18th 2025, 5:16:58 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, July 18th 2025, 5:16:58 pm***

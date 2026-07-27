@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/shaffer/christopher-shaffer-1753-1847/","tags":["Christopher-Shaffer"]}
+{"dg-publish":true,"permalink":"/ancestors/shaffer/christopher-shaffer-1753-1847/","tags":["Christopher-Shaffer"],"dg-note-properties":{"tags":["Christopher-Shaffer"],"date-created":"Sunday, February 16th 2025, 2:06:12 pm","date-modified":"Friday, February 21st 2025, 4:32:16 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:32:16 pm***

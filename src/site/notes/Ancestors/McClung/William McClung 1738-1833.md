@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/mc-clung/william-mc-clung-1738-1833/","tags":["William-McClung"]}
+{"dg-publish":true,"permalink":"/ancestors/mc-clung/william-mc-clung-1738-1833/","tags":["William-McClung"],"dg-note-properties":{"tags":["William-McClung"],"date-created":"Sunday, February 9th 2025, 8:47:24 pm","date-modified":"Tuesday, March 4th 2025, 6:20:46 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 6:20:46 pm***

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/lola-m-kincaid-1879-1906/","tags":["#Lola-M-Kincaid"]}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/lola-m-kincaid-1879-1906/","tags":["Lola-M-Kincaid"],"dg-note-properties":{"tags":["Lola-M-Kincaid"],"date-created":"Saturday, January 25th 2025, 2:46:28 pm","date-modified":"Friday, March 7th 2025, 12:09:35 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:09:35 pm***

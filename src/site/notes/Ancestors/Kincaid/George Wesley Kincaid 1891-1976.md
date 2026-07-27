@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/george-wesley-kincaid-1891-1976/","tags":["#George-Wesley-Kincaid"]}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/george-wesley-kincaid-1891-1976/","tags":["George-Wesley-Kincaid"],"dg-note-properties":{"tags":["George-Wesley-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, October 12th 2025, 2:57:59 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, October 12th 2025, 2:57:59 pm***

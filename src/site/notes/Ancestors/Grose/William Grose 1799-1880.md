@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/grose/william-grose-1799-1880/","tags":["William-Grose"]}
+{"dg-publish":true,"permalink":"/ancestors/grose/william-grose-1799-1880/","tags":["William-Grose"],"dg-note-properties":{"tags":["William-Grose"],"date-created":"Wednesday, February 19th 2025, 9:38:22 am","date-modified":"Friday, February 28th 2025, 11:15:26 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 11:15:26 pm***

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/nannie-f-kincaid-1887-1888/","tags":["Nannie-F-Kincaid"]}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/nannie-f-kincaid-1887-1888/","tags":["Nannie-F-Kincaid"],"dg-note-properties":{"tags":["Nannie-F-Kincaid"],"date-created":"Saturday, January 25th 2025, 3:07:51 pm","date-modified":"Friday, March 7th 2025, 12:10:56 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:10:56 pm***

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/betty-ann-kincaid-1883/","tags":["#Betty-Ann-Kincaid"]}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/betty-ann-kincaid-1883/","tags":["Betty-Ann-Kincaid"],"dg-note-properties":{"tags":["Betty-Ann-Kincaid"],"date-created":"Saturday, January 25th 2025, 3:01:35 pm","date-modified":"Friday, March 7th 2025, 12:10:41 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:10:41 pm***

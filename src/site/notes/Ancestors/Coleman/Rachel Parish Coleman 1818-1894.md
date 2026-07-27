@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/coleman/rachel-parish-coleman-1818-1894/","tags":["#Rachel-Parish-Coleman"]}
+{"dg-publish":true,"permalink":"/ancestors/coleman/rachel-parish-coleman-1818-1894/","tags":["Rachel-Parish-Coleman"],"dg-note-properties":{"tags":["Rachel-Parish-Coleman"],"date-created":"Sunday, February 16th 2025, 6:54:20 pm","date-modified":"Friday, March 7th 2025, 1:09:58 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 1:09:58 pm***

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/records/pension-records-for-john-kincaid/","tags":["#John-Kincaid"]}
+{"dg-publish":true,"permalink":"/records/pension-records-for-john-kincaid/","dg-note-properties":{"date-created":"Friday, January 17th 2025, 7:15:43 pm","date-modified":"Friday, February 21st 2025, 2:59:36 pm"}}
 ---
 
 #John-Kincaid 
 
 
 He states he was born in Amherst County, VA. Amherst County was created out of Albemarle County in 1761. 
-![[s19367.pdf]]
+<iframe src="/img/user/assets/s19367.pdf" width="100%" height="900px" title="s19367.pdf" style="border:1px solid #ccc;"></iframe>

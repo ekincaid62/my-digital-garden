@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/skaggs/james-woodson-skaggs-1854-1937/","tags":["James-Woodson-Skaggs"]}
+{"dg-publish":true,"permalink":"/ancestors/skaggs/james-woodson-skaggs-1854-1937/","tags":["James-Woodson-Skaggs"],"dg-note-properties":{"tags":["James-Woodson-Skaggs"],"date-created":"Thursday, February 6th 2025, 6:46:09 pm","date-modified":"Saturday, February 22nd 2025, 11:10:49 am"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Saturday, February 22nd 2025, 11:10:49 am***

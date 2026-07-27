@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/amick/john-william-amick-1815-1890/","tags":["John-William-Amick"]}
+{"dg-publish":true,"permalink":"/ancestors/amick/john-william-amick-1815-1890/","tags":["John-William-Amick"],"dg-note-properties":{"tags":["John-William-Amick"],"date-created":"Tuesday, February 18th 2025, 7:24:59 pm","date-modified":"Monday, March 3rd 2025, 7:26:51 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Monday, March 3rd 2025, 7:26:51 pm***

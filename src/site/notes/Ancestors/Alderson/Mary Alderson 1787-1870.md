@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/alderson/mary-alderson-1787-1870/","tags":["Mary-Alderson"]}
+{"dg-publish":true,"permalink":"/ancestors/alderson/mary-alderson-1787-1870/","tags":["Mary-Alderson"],"dg-note-properties":{"tags":["Mary-Alderson"],"date-created":"Thursday, February 6th 2025, 10:08:07 pm","date-modified":"Tuesday, March 4th 2025, 5:55:04 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 5:55:04 pm***

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/ramsey/mary-ramsey-1801/","tags":["Mary-Ramsey"]}
+{"dg-publish":true,"permalink":"/ancestors/ramsey/mary-ramsey-1801/","tags":["Mary-Ramsey"],"dg-note-properties":{"tags":["Mary-Ramsey"],"date-created":"Thursday, February 20th 2025, 12:38:03 pm","date-modified":"Friday, February 21st 2025, 4:31:50 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:31:50 pm***

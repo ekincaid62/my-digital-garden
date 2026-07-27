@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/keenan/james-marshall-keenan-1828-1884/","tags":["Marshall-Keenan"]}
+{"dg-publish":true,"permalink":"/ancestors/keenan/james-marshall-keenan-1828-1884/","tags":["Marshall-Keenan"],"dg-note-properties":{"date-created":"Friday, February 14th 2025, 4:56:39 pm","date-modified":"Tuesday, March 11th 2025, 8:52:16 pm","tags":["Marshall-Keenan"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Tuesday, March 11th 2025, 8:52:16 pm***

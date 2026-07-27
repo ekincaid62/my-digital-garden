@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/shaffer/peter-shaffer-1795/","tags":["Peter-Shaffer"]}
+{"dg-publish":true,"permalink":"/ancestors/shaffer/peter-shaffer-1795/","tags":["Peter-Shaffer"],"dg-note-properties":{"tags":["Peter-Shaffer"],"date-created":"Saturday, February 15th 2025, 5:12:24 pm","date-modified":"Thursday, February 27th 2025, 8:16:41 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Thursday, February 27th 2025, 8:16:41 pm***

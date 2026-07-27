@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/evans/sarah-evans-1814/","tags":["Sarah-Evans"]}
+{"dg-publish":true,"permalink":"/ancestors/evans/sarah-evans-1814/","tags":["Sarah-Evans"],"dg-note-properties":{"tags":["Sarah-Evans"],"date-created":"Tuesday, February 18th 2025, 6:30:12 pm","date-modified":"Tuesday, March 4th 2025, 5:52:54 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 5:52:54 pm***

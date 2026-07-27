@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/records/samuel-ford-jr/"}
+{"dg-publish":true,"permalink":"/records/samuel-ford-jr/","dg-note-properties":{"page-title":"SAMUEL FORD JR.","url":"https://thomasstephenneel.com/b-samuelford.html","date":"2024-07-08 18:52:58","date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Friday, February 21st 2025, 3:00:15 pm"}}
 ---
 
 
@@ -14,4 +14,4 @@ Samuel Ford Jr. married three times. He first married Grace Kitchell on January 
 - He was a partner in 1775-1778 with [Robert Caldwell](https://www.americansilversmiths.org/makers/silversmiths/247197.htm) in , Botetourt, VA as CALDWELL & BALDWIN (Ford's assumed name). [43](https://www.americansilversmiths.org/makers/silversmiths/sources.htm#43)
 
   
-![[genealogy_morris-county.pdf]]
+<iframe src="/img/user/assets/genealogy_morris-county.pdf" width="100%" height="900px" title="genealogy_morris-county.pdf" style="border:1px solid #ccc;"></iframe>

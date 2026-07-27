@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/mc-clung/mary-frances-mc-clung-1838-1865/","tags":["Mary-Francis-McClung"]}
+{"dg-publish":true,"permalink":"/ancestors/mc-clung/mary-frances-mc-clung-1838-1865/","tags":["Mary-Francis-McClung"],"dg-note-properties":{"tags":["Mary-Francis-McClung"],"date-created":"Sunday, February 16th 2025, 8:08:48 pm","date-modified":"Tuesday, March 4th 2025, 6:14:51 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 6:14:51 pm***

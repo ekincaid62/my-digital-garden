@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/koontz/heinrich-koontz-1765-1821/","tags":["Heinrich-Koontz"]}
+{"dg-publish":true,"permalink":"/ancestors/koontz/heinrich-koontz-1765-1821/","tags":["Heinrich-Koontz"],"dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Saturday, March 1st 2025, 11:45:58 am","tags":["Heinrich-Koontz"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Saturday, March 1st 2025, 11:45:58 am***

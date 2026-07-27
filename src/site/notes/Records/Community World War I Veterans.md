@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/records/community-world-war-i-veterans/","tags":["#George-Wesley-Kincaid","#Group-Photos","#Crosby-McClung","#Alex-Hendrickson"]}
+{"dg-publish":true,"permalink":"/records/community-world-war-i-veterans/","tags":["George-Wesley-Kincaid","Group-Photos","Crosby-McClung","Alex-Hendrickson"],"dg-note-properties":{"tags":"George-Wesley-Kincaid,Group-Photos,Crosby-McClung,Alex-Hendrickson","source":"https://plus.google.com/u/0/photos/111778790079482395556/albums/5612681670560345073/5614883372238855138","date-created":"Thursday, August 22nd 2024, 9:02:06 pm","date-modified":"Thursday, July 23rd 2026, 11:50:32 am"}}
 ---
 
 Community World War I Veterans

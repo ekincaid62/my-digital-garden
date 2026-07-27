@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/mc-clung/joseph-mc-clung-1777-1855/","tags":["Joseph-McClung"]}
+{"dg-publish":true,"permalink":"/ancestors/mc-clung/joseph-mc-clung-1777-1855/","tags":["Joseph-McClung"],"dg-note-properties":{"tags":["Joseph-McClung"],"date-created":"Tuesday, February 18th 2025, 9:23:59 pm","date-modified":"Tuesday, March 4th 2025, 6:08:25 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 6:08:25 pm***

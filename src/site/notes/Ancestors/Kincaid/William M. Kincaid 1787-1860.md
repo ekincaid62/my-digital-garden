@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/william-m-kincaid-1787-1860/","tags":["#William-Kincaid"]}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/william-m-kincaid-1787-1860/","tags":["William-Kincaid"],"dg-note-properties":{"tags":["William-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, October 12th 2025, 12:00:16 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, October 12th 2025, 12:00:16 pm***

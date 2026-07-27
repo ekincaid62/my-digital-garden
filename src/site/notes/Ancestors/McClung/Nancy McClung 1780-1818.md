@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/mc-clung/nancy-mc-clung-1780-1818/","tags":["Nancy-McClung"]}
+{"dg-publish":true,"permalink":"/ancestors/mc-clung/nancy-mc-clung-1780-1818/","tags":["Nancy-McClung"],"dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, March 2nd 2025, 10:04:55 pm","tags":["Nancy-McClung"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 10:04:55 pm***

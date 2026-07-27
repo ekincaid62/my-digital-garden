@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/legg/fred-rothwell-legg-1885-1958/","tags":["Fred-Legg"]}
+{"dg-publish":true,"permalink":"/ancestors/legg/fred-rothwell-legg-1885-1958/","tags":["Fred-Legg"],"dg-note-properties":{"tags":["Fred-Legg"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Wednesday, July 22nd 2026, 7:41:08 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Wednesday, July 22nd 2026, 7:41:08 pm***

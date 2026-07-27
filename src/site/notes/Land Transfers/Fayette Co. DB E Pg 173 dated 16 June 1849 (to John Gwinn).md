@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/land-transfers/fayette-co-db-e-pg-173-dated-16-june-1849-to-john-gwinn/","tags":["#William-Kincaid","#Samuel-Kincaid","#Jane-Kincaid","#john-gwinn","#fayette","#Thomas-Kincaid-Jr"]}
+{"dg-publish":true,"permalink":"/land-transfers/fayette-co-db-e-pg-173-dated-16-june-1849-to-john-gwinn/","tags":["William-Kincaid","Samuel-Kincaid","Jane-Kincaid","john-gwinn","fayette","Thomas-Kincaid-Jr"],"dg-note-properties":{"tags":["William-Kincaid","Samuel-Kincaid","Jane-Kincaid","john-gwinn","fayette","Thomas-Kincaid-Jr"],"date-created":"Thursday, August 22nd 2024, 9:02:21 pm","date-modified":"Friday, February 21st 2025, 2:48:04 pm"}}
 ---
 
 16 Jun 1849

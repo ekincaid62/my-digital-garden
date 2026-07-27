@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/legg/retta-delphia-legg-1916-1997/","tags":["Retta-Legg"]}
+{"dg-publish":true,"permalink":"/ancestors/legg/retta-delphia-legg-1916-1997/","tags":["Retta-Legg"],"dg-note-properties":{"tags":["Retta-Legg"],"date-created":"Saturday, January 25th 2025, 4:21:42 pm","date-modified":"Wednesday, March 5th 2025, 7:27:33 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:27:33 pm***
