@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/wiseman/william-wiseman/","tags":["William-Wiseman"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, March 2nd 2025, 8:54:19 pm","tags":["William-Wiseman"]}}
+---
+
+***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 8:54:19 pm***
+
+Born on  <!-- link to date --> in <!-- link to place -->
+
+Death on <!-- link to date --> in <!-- link to place -->
+   
+---
+#### Parents
+
+[[Isaac Wiseman 1700-1779\|Isaac Wiseman 1700-1779]] and <!-- Link to mother-->
+#### Siblings
+<!-- Link to sibling -->
+
+---
+#### Spouse and Children
+[[Ancestors by Last Name/Ramsey/Mary Ramsey -1801\|Mary Ramsey -1801]] married <!-- link to date --> in <!-- link to place -->.
+[[Ancestors by Last Name/Wiseman/Isaac Ward Wiseman 1802-1892\|Isaac Ward Wiseman 1802-1892]]
+#### Census Records
+
+#### Land Transfers
+
+#### Biography
+
+#### Photos
+
+#### Sources
+

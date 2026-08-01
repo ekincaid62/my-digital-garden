@@ -1,0 +1,32 @@
+---
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/legg/thomas-legg-1748-1812/","tags":["Thomas-Legg"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, March 2nd 2025, 5:32:54 pm","tags":["Thomas-Legg"]}}
+---
+
+***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 5:32:54 pm***
+
+Born on  1748 in Prince William, VA
+
+Death on 1812 in Monroe County, VA
+   
+---
+#### Parents
+
+<!-- Link to father --> and <!-- Link to mother-->
+#### Siblings
+<!-- Link to sibling -->
+
+---
+#### Spouse and Children
+[[Ancestors by Last Name/Hughes/Elizabeth Hughes 1758-1830\|Elizabeth Hughes 1758-1830]] married 1779 in <!-- link to place -->.
+[[Ancestors by Last Name/Legg/Thomas Jesse Legg 1789-1880\|Thomas Jesse Legg 1789-1880]]
+
+#### Census Records
+
+#### Land Transfers
+
+#### Biography
+
+#### Photos
+
+#### Sources
+

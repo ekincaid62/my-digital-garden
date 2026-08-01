@@ -1,0 +1,36 @@
+---
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/francis-kincaid-1784-1826/","tags":["Francis-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Francis-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Friday, February 21st 2025, 4:21:05 pm"}}
+---
+
+***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:21:05 pm***
+
+Born on  1784 in VA
+Death on 1826 in Madison, IN
+
+---
+#### Parents
+
+[[Ancestors by Last Name/Kincaid/Thomas Kincaid 1740-1817\|Thomas Kincaid 1740-1817]] and [[Ancestors by Last Name/Tincher/Hannah Tincher 1742-1819\|Hannah Tincher 1742-1819]]
+#### Siblings
+[[Ancestors by Last Name/Kincaid/Margaret Kincaid 1760-1840\|Margaret Kincaid 1760-1840]]
+[[Ancestors by Last Name/Kincaid/John Kincaid 1760-1834\|John Kincaid 1760-1834]]
+[[Ancestors by Last Name/Kincaid/Samuel Kincaid 1765-1847\|Samuel Kincaid 1765-1847]]
+[[Ancestors by Last Name/Kincaid/Thomas Kincaid 1770-1831\|Thomas Kincaid 1770-1831]]
+[[Ancestors by Last Name/Kincaid/George Campbell Kincaid 1773-1870\|George Campbell Kincaid 1773-1870]]
+[[Ancestors by Last Name/Kincaid/Elizabeth Kincaid 1785-1862\|Elizabeth Kincaid 1785-1862]]
+
+---
+#### Spouse and Children
+<!-- Link to spouse --> on <!-- link to date --> in <!-- link to place -->.
+<!-- Link to child -->
+
+#### Census Records
+
+#### Land Transfers
+[[Land Transfers/Greenbrier County, DB 1 Pg 706 dated 31 Oct 1797 (Thomas and Hannah to Francis)\|Greenbrier County, DB 1 Pg 706 dated 31 Oct 1797 (Thomas and Hannah to Francis)]]
+#### Biography
+
+#### Photos
+
+#### Sources
+

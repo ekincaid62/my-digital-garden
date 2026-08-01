@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/mc-gahee/margaret-mc-gahee-1783-1850/","tags":["Margaret-McGahee"],"noteIcon":"","dg-note-properties":{"tags":["Margaret-McGahee"],"date-created":"Tuesday, February 18th 2025, 7:44:09 pm","date-modified":"Sunday, July 20th 2025, 9:03:53 pm"}}
+---
+
+***<font color="#00b0f0">Last Modified:</font> Sunday, July 20th 2025, 9:03:53 pm***
+
+Born on  1783 in <!-- link to place -->
+Death on 1850 in <!-- link to place -->
+
+---
+#### Parents
+
+[[Andrew McGahee\|Andrew McGahee]] and [[Mary Craig\|Mary Craig]]
+#### Siblings
+<!-- Link to sibling -->
+
+---
+#### Spouse and Children
+[[Ancestors by Last Name/Walker/Elverton P. Walker 1770-1850\|Elverton P. Walker 1770-1850]] married 1804 in Greenbrier County, VA
+[[Ancestors by Last Name/Walker/Olive Walker 1823-1856\|Olive Walker 1823-1856]]
+
+#### Census Records
+[[Census/1850 United States Federal Census 7\|1850 United States Federal Census]]
+#### Land Transfers
+
+#### Biography
+
+#### Photos
+
+#### Sources
+
