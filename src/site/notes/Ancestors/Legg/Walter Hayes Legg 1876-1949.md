@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/legg/walter-hayes-legg-1876-1949/","tags":["Walter-Hayes-Legg"]}
+{"dg-publish":true,"permalink":"/ancestors/legg/walter-hayes-legg-1876-1949/","tags":["Walter-Hayes-Legg"],"dg-note-properties":{"tags":["Walter-Hayes-Legg"],"date-created":"Friday, February 7th 2025, 7:16:01 pm","date-modified":"Thursday, July 23rd 2026, 11:06:23 am"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Thursday, July 23rd 2026, 11:06:23 am***
