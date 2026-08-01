@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/john-kincaid-1760-1834/","tags":["John-Kincaid"],"dg-note-properties":{"tags":["John-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Monday, July 21st 2025, 10:33:10 am"}}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/john-kincaid-1760-1834/","tags":["John-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["John-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Monday, July 21st 2025, 10:33:10 am"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Monday, July 21st 2025, 10:33:10 am***

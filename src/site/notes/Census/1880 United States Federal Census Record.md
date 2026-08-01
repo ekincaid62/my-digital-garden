@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1880-united-states-federal-census-record/","tags":["James-William-Kincaid","Sarah-Virginia-Keenan","John-A-Kincaid","Sarah-Cavendish"],"dg-note-properties":{"tags":"James-William-Kincaid,Sarah-Virginia-Keenan,John-A-Kincaid,Sarah-Cavendish","date-created":"Thursday, August 22nd 2024, 9:02:13 pm","date-modified":"Friday, February 21st 2025, 2:47:21 pm"}}
+{"dg-publish":true,"permalink":"/census/1880-united-states-federal-census-record/","tags":["James-William-Kincaid","Sarah-Virginia-Keenan","John-A-Kincaid","Sarah-Cavendish"],"noteIcon":"","dg-note-properties":{"tags":"James-William-Kincaid,Sarah-Virginia-Keenan,John-A-Kincaid,Sarah-Cavendish","date-created":"Thursday, August 22nd 2024, 9:02:13 pm","date-modified":"Friday, February 21st 2025, 2:47:21 pm"}}
 ---
 
 Household 450

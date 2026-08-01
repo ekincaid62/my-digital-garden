@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/legg/william-mc-ginnis-legg-1849-1924/","tags":["William-McGinnis-Legg"],"dg-note-properties":{"tags":["William-McGinnis-Legg"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Thursday, July 23rd 2026, 12:09:52 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/legg/william-mc-ginnis-legg-1849-1924/","tags":["William-McGinnis-Legg"],"noteIcon":"","dg-note-properties":{"tags":["William-McGinnis-Legg"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Thursday, July 23rd 2026, 12:09:52 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Thursday, July 23rd 2026, 12:09:52 pm***

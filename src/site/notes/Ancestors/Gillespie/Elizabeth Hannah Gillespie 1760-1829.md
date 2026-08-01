@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/gillespie/elizabeth-hannah-gillespie-1760-1829/","tags":["Elizabeth-Hannah-Gillespie"],"dg-note-properties":{"tags":["Elizabeth-Hannah-Gillespie"],"date-created":"Sunday, January 26th 2025, 12:44:23 pm","date-modified":"Monday, July 21st 2025, 10:41:00 am"}}
+{"dg-publish":true,"permalink":"/ancestors/gillespie/elizabeth-hannah-gillespie-1760-1829/","tags":["Elizabeth-Hannah-Gillespie"],"noteIcon":"","dg-note-properties":{"tags":["Elizabeth-Hannah-Gillespie"],"date-created":"Sunday, January 26th 2025, 12:44:23 pm","date-modified":"Monday, July 21st 2025, 10:41:00 am"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Monday, July 21st 2025, 10:41:00 am***

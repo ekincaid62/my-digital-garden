@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{"date-created":"Monday, February 3rd 2025, 10:24:22 pm","date-modified":"Friday, July 31st 2026, 9:45:48 pm"}}
+{"dg-publish":true,"permalink":"/home/","pinned":"true","tags":["gardenEntry"],"noteIcon":"","dg-note-properties":{"date-created":"Monday, February 3rd 2025, 10:24:22 pm","date-modified":"Friday, July 31st 2026, 10:41:05 pm"}}
 ---
 
 ![Ace.png\|Header4.png](/img/user/assets/Ace.png)

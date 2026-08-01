@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1870-united-states-federal-census-5/","tags":["Margaret-Wiseman","William-Legg","Elizabeth-Ramsey"],"dg-note-properties":{"tags":["Margaret-Wiseman","William-Legg","Elizabeth-Ramsey"],"date-created":"Wednesday, February 26th 2025, 6:55:57 pm","date-modified":"Wednesday, February 26th 2025, 6:59:09 pm"}}
+{"dg-publish":true,"permalink":"/census/1870-united-states-federal-census-5/","tags":["Margaret-Wiseman","William-Legg","Elizabeth-Ramsey"],"noteIcon":"","dg-note-properties":{"tags":["Margaret-Wiseman","William-Legg","Elizabeth-Ramsey"],"date-created":"Wednesday, February 26th 2025, 6:55:57 pm","date-modified":"Wednesday, February 26th 2025, 6:59:09 pm"}}
 ---
 
 Family 194

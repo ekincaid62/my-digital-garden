@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/land-transfers/greenbrier-county-db-1-pg-701-dated-31-oct-1797-thomas-and-hannah-to-george-c/","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Friday, February 21st 2025, 2:48:14 pm"}}
+{"dg-publish":true,"permalink":"/land-transfers/greenbrier-county-db-1-pg-701-dated-31-oct-1797-thomas-and-hannah-to-george-c/","noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Friday, February 21st 2025, 2:48:14 pm"}}
 ---
 
 #Thomas-Kincaid 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/mc-gahee/margaret-mc-gahee-1783-1850/","tags":["Margaret-McGahee"],"dg-note-properties":{"tags":["Margaret-McGahee"],"date-created":"Tuesday, February 18th 2025, 7:44:09 pm","date-modified":"Sunday, July 20th 2025, 9:03:53 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/mc-gahee/margaret-mc-gahee-1783-1850/","tags":["Margaret-McGahee"],"noteIcon":"","dg-note-properties":{"tags":["Margaret-McGahee"],"date-created":"Tuesday, February 18th 2025, 7:44:09 pm","date-modified":"Sunday, July 20th 2025, 9:03:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, July 20th 2025, 9:03:53 pm***

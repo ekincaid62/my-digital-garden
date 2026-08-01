@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/walton/polly-walton-1810-1850/","tags":["Polly-Walton"],"dg-note-properties":{"tags":["Polly-Walton"],"date-created":"Thursday, February 6th 2025, 9:36:55 pm","date-modified":"Tuesday, March 4th 2025, 5:57:19 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/walton/polly-walton-1810-1850/","tags":["Polly-Walton"],"noteIcon":"","dg-note-properties":{"tags":["Polly-Walton"],"date-created":"Thursday, February 6th 2025, 9:36:55 pm","date-modified":"Tuesday, March 4th 2025, 5:57:19 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 5:57:19 pm***

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-ancestors/","dgHomeLink":"x","dgShowBacklinks":"x","dgShowLocalGraph":"x","dgShowInlineTitle":"x","dgShowToc":"x","dg-note-properties":{"date-created":"Monday, February 10th 2025, 7:36:23 pm","date-modified":"Friday, July 24th 2026, 6:59:42 pm"}}
+{"dg-publish":true,"permalink":"/my-ancestors/","pinned":"true","dgHomeLink":"x","dgShowBacklinks":"x","dgShowLocalGraph":"x","dgShowInlineTitle":"x","dgShowToc":"x","noteIcon":"1","dg-note-properties":{"date-created":"Monday, February 10th 2025, 7:36:23 pm","date-modified":"Friday, July 24th 2026, 6:59:42 pm"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/legg/william-legg-1817-1895/","tags":["William-Legg"],"dg-note-properties":{"tags":["William-Legg"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Thursday, July 23rd 2026, 12:10:21 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/legg/william-legg-1817-1895/","tags":["William-Legg"],"noteIcon":"","dg-note-properties":{"tags":["William-Legg"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Thursday, July 23rd 2026, 12:10:21 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Thursday, July 23rd 2026, 12:10:21 pm***

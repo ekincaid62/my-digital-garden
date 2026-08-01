@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1880-united-states-federal-census-4/","tags":["Mary-George"],"dg-note-properties":{"tags":["Mary-George"],"date-created":"Thursday, February 27th 2025, 8:21:15 pm","date-modified":"Thursday, February 27th 2025, 8:37:19 pm"}}
+{"dg-publish":true,"permalink":"/census/1880-united-states-federal-census-4/","tags":["Mary-George"],"noteIcon":"","dg-note-properties":{"tags":["Mary-George"],"date-created":"Thursday, February 27th 2025, 8:21:15 pm","date-modified":"Thursday, February 27th 2025, 8:37:19 pm"}}
 ---
 
 Family 88

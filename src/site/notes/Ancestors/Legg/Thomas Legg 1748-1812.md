@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/legg/thomas-legg-1748-1812/","tags":["Thomas-Legg"],"dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, March 2nd 2025, 5:32:54 pm","tags":["Thomas-Legg"]}}
+{"dg-publish":true,"permalink":"/ancestors/legg/thomas-legg-1748-1812/","tags":["Thomas-Legg"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, March 2nd 2025, 5:32:54 pm","tags":["Thomas-Legg"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 5:32:54 pm***

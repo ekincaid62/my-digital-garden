@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/legg/charles-william-legg-1927-1979/","tags":["Charles-William-Legg"],"dg-note-properties":{"tags":["Charles-William-Legg"],"date-created":"Saturday, January 25th 2025, 5:31:27 pm","date-modified":"Wednesday, March 5th 2025, 7:27:06 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/legg/charles-william-legg-1927-1979/","tags":["Charles-William-Legg"],"noteIcon":"","dg-note-properties":{"tags":["Charles-William-Legg"],"date-created":"Saturday, January 25th 2025, 5:31:27 pm","date-modified":"Wednesday, March 5th 2025, 7:27:06 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:27:06 pm***

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/margaret-kincaid-1760-1840/","tags":["Margaret-Kincaid"],"dg-note-properties":{"tags":["Margaret-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Friday, February 21st 2025, 4:22:36 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/margaret-kincaid-1760-1840/","tags":["Margaret-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Margaret-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Friday, February 21st 2025, 4:22:36 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:22:36 pm***

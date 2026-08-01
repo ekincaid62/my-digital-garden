@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1920-united-states-federal-census-record-3/","tags":["Mamie-Catherine-Shaffer","Fred-Legg","Retta-Legg","Virginia-Legg"],"dg-note-properties":{"tags":"Mamie-Catherine-Shaffer,Fred-Legg,Retta-Legg,Virginia-Legg","date-created":"Thursday, August 22nd 2024, 9:02:10 pm","date-modified":"Friday, February 21st 2025, 2:47:44 pm"}}
+{"dg-publish":true,"permalink":"/census/1920-united-states-federal-census-record-3/","tags":["Mamie-Catherine-Shaffer","Fred-Legg","Retta-Legg","Virginia-Legg"],"noteIcon":"","dg-note-properties":{"tags":"Mamie-Catherine-Shaffer,Fred-Legg,Retta-Legg,Virginia-Legg","date-created":"Thursday, August 22nd 2024, 9:02:10 pm","date-modified":"Friday, February 21st 2025, 2:47:44 pm"}}
 ---
 
 Household 115

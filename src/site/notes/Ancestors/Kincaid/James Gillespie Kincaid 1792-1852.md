@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/james-gillespie-kincaid-1792-1852/","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Friday, August 1st 2025, 5:03:52 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/james-gillespie-kincaid-1792-1852/","noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Friday, August 1st 2025, 5:03:52 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, August 1st 2025, 5:03:52 pm***

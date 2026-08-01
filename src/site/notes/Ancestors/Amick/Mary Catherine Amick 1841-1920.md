@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/amick/mary-catherine-amick-1841-1920/","tags":["Mary-C-Amick"],"dg-note-properties":{"tags":["Mary-C-Amick"],"date-created":"Thursday, February 6th 2025, 9:07:09 pm","date-modified":"Tuesday, March 4th 2025, 5:47:07 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/amick/mary-catherine-amick-1841-1920/","tags":["Mary-C-Amick"],"noteIcon":"","dg-note-properties":{"tags":["Mary-C-Amick"],"date-created":"Thursday, February 6th 2025, 9:07:09 pm","date-modified":"Tuesday, March 4th 2025, 5:47:07 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 5:47:07 pm***

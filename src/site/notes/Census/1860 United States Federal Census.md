@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1860-united-states-federal-census/","tags":["William-Kincaid","Jane-Kincaid"],"dg-note-properties":{"tags":"William-Kincaid,Jane-Kincaid","date-created":"Thursday, August 22nd 2024, 9:02:13 pm","date-modified":"Sunday, October 12th 2025, 12:21:22 pm"}}
+{"dg-publish":true,"permalink":"/census/1860-united-states-federal-census/","tags":["William-Kincaid","Jane-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":"William-Kincaid,Jane-Kincaid","date-created":"Thursday, August 22nd 2024, 9:02:13 pm","date-modified":"Sunday, October 12th 2025, 12:21:22 pm"}}
 ---
 
 

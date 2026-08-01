@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/grose/jacob-samuel-grose-1767-1820/","tags":["Jacob-Samuel-Grose"],"dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Saturday, March 1st 2025, 11:33:57 am","tags":["Jacob-Samuel-Grose"]}}
+{"dg-publish":true,"permalink":"/ancestors/grose/jacob-samuel-grose-1767-1820/","tags":["Jacob-Samuel-Grose"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Saturday, March 1st 2025, 11:33:57 am","tags":["Jacob-Samuel-Grose"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Saturday, March 1st 2025, 11:33:57 am***

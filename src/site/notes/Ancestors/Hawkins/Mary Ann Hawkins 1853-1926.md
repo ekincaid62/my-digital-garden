@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/hawkins/mary-ann-hawkins-1853-1926/","tags":["Mary-Ann-Hawkins"],"dg-note-properties":{"tags":["Mary-Ann-Hawkins"],"date-created":"Friday, September 27th 2024, 6:39:21 pm","date-modified":"Friday, February 21st 2025, 11:31:44 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/hawkins/mary-ann-hawkins-1853-1926/","tags":["Mary-Ann-Hawkins"],"noteIcon":"","dg-note-properties":{"tags":["Mary-Ann-Hawkins"],"date-created":"Friday, September 27th 2024, 6:39:21 pm","date-modified":"Friday, February 21st 2025, 11:31:44 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 11:31:44 pm***

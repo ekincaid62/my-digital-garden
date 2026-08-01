@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/thomas-kincaid-1740-1817/","tags":["Thomas-Kincaid"],"dg-note-properties":{"tags":["Thomas-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:21 pm","date-modified":"Thursday, July 23rd 2026, 8:09:39 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/thomas-kincaid-1740-1817/","tags":["Thomas-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:21 pm","date-modified":"Thursday, July 23rd 2026, 8:09:39 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Thursday, July 23rd 2026, 8:09:39 pm***

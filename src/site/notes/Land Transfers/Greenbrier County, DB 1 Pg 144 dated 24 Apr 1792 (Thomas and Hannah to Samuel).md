@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/land-transfers/greenbrier-county-db-1-pg-144-dated-24-apr-1792-thomas-and-hannah-to-samuel/","tags":["Thomas-Kincaid","Samuel-Kincaid","Hannah-Tincher","Meadow-River","greenbrier"],"dg-note-properties":{"tags":"Thomas-Kincaid,Samuel-Kincaid,Hannah-Tincher,Meadow-River,greenbrier","date-created":"Thursday, August 22nd 2024, 9:02:21 pm","date-modified":"Friday, February 21st 2025, 2:48:09 pm"}}
+{"dg-publish":true,"permalink":"/land-transfers/greenbrier-county-db-1-pg-144-dated-24-apr-1792-thomas-and-hannah-to-samuel/","tags":["Thomas-Kincaid","Samuel-Kincaid","Hannah-Tincher","Meadow-River","greenbrier"],"noteIcon":"","dg-note-properties":{"tags":"Thomas-Kincaid,Samuel-Kincaid,Hannah-Tincher,Meadow-River,greenbrier","date-created":"Thursday, August 22nd 2024, 9:02:21 pm","date-modified":"Friday, February 21st 2025, 2:48:09 pm"}}
 ---
 
 **This tract is a portion of the 1000 Ac Patent to Daniel McDowell dated 5 July 1774**

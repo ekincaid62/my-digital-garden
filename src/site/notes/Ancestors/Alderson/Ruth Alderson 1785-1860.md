@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/alderson/ruth-alderson-1785-1860/","tags":["Ruth-Alderson"],"dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, March 2nd 2025, 9:52:02 pm","tags":["Ruth-Alderson"]}}
+{"dg-publish":true,"permalink":"/ancestors/alderson/ruth-alderson-1785-1860/","tags":["Ruth-Alderson"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, March 2nd 2025, 9:52:02 pm","tags":["Ruth-Alderson"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 9:52:02 pm***
