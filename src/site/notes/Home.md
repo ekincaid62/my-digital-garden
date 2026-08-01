@@ -14,7 +14,7 @@ My older brother passed away in 2010, leaving behind a wealth of information he 
 
 To help get an overview of my ancestors you can review my [[My Ancestor Chart\|family tree]]. It is best viewed with a device that has a touch screen to be able to zoom in.
 
-If you have any comments, questions, or additions, please leave comments through GitHub at the bottom of each page.
+I hope to add more as I find the time. If you have any comments, questions, or additions, please leave comments through GitHub at the bottom of each page.
 
 ### Reference Materials
 
