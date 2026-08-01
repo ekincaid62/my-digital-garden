@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1880-united-states-federal-census-3/","tags":["William-Legg","Elizabeth-Ramsey"],"noteIcon":"","dg-note-properties":{"tags":["William-Legg","Elizabeth-Ramsey"],"date-created":"Wednesday, February 26th 2025, 7:08:11 pm","date-modified":"Wednesday, February 26th 2025, 7:11:31 pm"}}
+{"dg-publish":true,"permalink":"/census/1880-united-states-federal-census-3/","hideInFiletree":"true","tags":["William-Legg","Elizabeth-Ramsey"],"noteIcon":"","dg-note-properties":{"tags":["William-Legg","Elizabeth-Ramsey"],"date-created":"Wednesday, February 26th 2025, 7:08:11 pm","date-modified":"Wednesday, February 26th 2025, 7:11:31 pm"}}
 ---
 
 Family 371

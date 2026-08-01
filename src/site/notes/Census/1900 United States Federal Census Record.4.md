@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1900-united-states-federal-census-record-4/","tags":["Christopher-Clayton-Shaffer","Mamie-Catherine-Shaffer","Dorcas-McClung","Charles-William-McClung","Mary-C-Amick"],"noteIcon":"","dg-note-properties":{"tags":"Christopher-Clayton-Shaffer,Mamie-Catherine-Shaffer,Dorcas-McClung,Charles-William-McClung,Mary-C-Amick","date-created":"Thursday, August 22nd 2024, 9:02:07 pm","date-modified":"Friday, February 21st 2025, 8:16:21 pm"}}
+{"dg-publish":true,"permalink":"/census/1900-united-states-federal-census-record-4/","hideInFiletree":"true","tags":["Christopher-Clayton-Shaffer","Mamie-Catherine-Shaffer","Dorcas-McClung","Charles-William-McClung","Mary-C-Amick"],"noteIcon":"","dg-note-properties":{"tags":"Christopher-Clayton-Shaffer,Mamie-Catherine-Shaffer,Dorcas-McClung,Charles-William-McClung,Mary-C-Amick","date-created":"Thursday, August 22nd 2024, 9:02:07 pm","date-modified":"Friday, February 21st 2025, 8:16:21 pm"}}
 ---
 
 Family 46

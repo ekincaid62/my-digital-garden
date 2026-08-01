@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1860-us-federal-census/","tags":["Martha-Grose","Sarah-Virginia-Keenan","Marshall-Keenan"],"noteIcon":"","dg-note-properties":{"tags":["Martha-Grose","Sarah-Virginia-Keenan","Marshall-Keenan"],"date-created":"Friday, February 21st 2025, 6:55:21 pm","date-modified":"Friday, February 21st 2025, 7:08:10 pm"}}
+{"dg-publish":true,"permalink":"/census/1860-us-federal-census/","hideInFiletree":"true","tags":["Martha-Grose","Sarah-Virginia-Keenan","Marshall-Keenan"],"noteIcon":"","dg-note-properties":{"tags":["Martha-Grose","Sarah-Virginia-Keenan","Marshall-Keenan"],"date-created":"Friday, February 21st 2025, 6:55:21 pm","date-modified":"Friday, February 21st 2025, 7:08:10 pm"}}
 ---
 
 Page 80 - Nicholas County

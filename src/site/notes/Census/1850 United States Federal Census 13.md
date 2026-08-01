@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1850-united-states-federal-census-13/","tags":["James-A-Skaggs","Elizabeth-Miller"],"noteIcon":"","dg-note-properties":{"tags":["James-A-Skaggs","Elizabeth-Miller"],"date-created":"Friday, February 28th 2025, 8:51:00 pm","date-modified":"Friday, February 28th 2025, 8:54:09 pm"}}
+{"dg-publish":true,"permalink":"/census/1850-united-states-federal-census-13/","hideInFiletree":"true","tags":["James-A-Skaggs","Elizabeth-Miller"],"noteIcon":"","dg-note-properties":{"tags":["James-A-Skaggs","Elizabeth-Miller"],"date-created":"Friday, February 28th 2025, 8:51:00 pm","date-modified":"Friday, February 28th 2025, 8:54:09 pm"}}
 ---
 
 Family 188

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1850-united-states-federal-census-12/","tags":["John-McClung"],"noteIcon":"","dg-note-properties":{"tags":["John-McClung"],"date-created":"Friday, February 28th 2025, 2:45:14 pm","date-modified":"Friday, February 28th 2025, 2:50:57 pm"}}
+{"dg-publish":true,"permalink":"/census/1850-united-states-federal-census-12/","hideInFiletree":"true","tags":["John-McClung"],"noteIcon":"","dg-note-properties":{"tags":["John-McClung"],"date-created":"Friday, February 28th 2025, 2:45:14 pm","date-modified":"Friday, February 28th 2025, 2:50:57 pm"}}
 ---
 
 Family 132

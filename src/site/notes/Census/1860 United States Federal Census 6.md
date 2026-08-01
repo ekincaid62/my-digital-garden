@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1860-united-states-federal-census-6/","tags":["William-Legg","Elizabeth-Ramsey"],"noteIcon":"","dg-note-properties":{"tags":["William-Legg","Elizabeth-Ramsey"],"date-created":"Wednesday, February 26th 2025, 7:03:46 pm","date-modified":"Wednesday, February 26th 2025, 7:05:28 pm"}}
+{"dg-publish":true,"permalink":"/census/1860-united-states-federal-census-6/","hideInFiletree":"true","tags":["William-Legg","Elizabeth-Ramsey"],"noteIcon":"","dg-note-properties":{"tags":["William-Legg","Elizabeth-Ramsey"],"date-created":"Wednesday, February 26th 2025, 7:03:46 pm","date-modified":"Wednesday, February 26th 2025, 7:05:28 pm"}}
 ---
 
 Family 630

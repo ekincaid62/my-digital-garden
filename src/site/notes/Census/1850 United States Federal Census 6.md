@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1850-united-states-federal-census-6/","tags":["Mary-C-Amick","John-William-Amick","Lana-Walker"],"noteIcon":"","dg-note-properties":{"tags":["Mary-C-Amick","John-William-Amick","Lana-Walker"],"date-created":"Sunday, February 23rd 2025, 12:18:39 pm","date-modified":"Friday, February 28th 2025, 3:19:09 pm"}}
+{"dg-publish":true,"permalink":"/census/1850-united-states-federal-census-6/","hideInFiletree":"true","tags":["Mary-C-Amick","John-William-Amick","Lana-Walker"],"noteIcon":"","dg-note-properties":{"tags":["Mary-C-Amick","John-William-Amick","Lana-Walker"],"date-created":"Sunday, February 23rd 2025, 12:18:39 pm","date-modified":"Friday, February 28th 2025, 3:19:09 pm"}}
 ---
 
 Family 225

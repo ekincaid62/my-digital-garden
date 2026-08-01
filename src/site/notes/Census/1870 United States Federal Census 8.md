@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1870-united-states-federal-census-8/","tags":["John-William-Amick","Lana-Walker"],"noteIcon":"","dg-note-properties":{"tags":["John-William-Amick","Lana-Walker"],"date-created":"Friday, February 28th 2025, 3:20:16 pm","date-modified":"Friday, February 28th 2025, 3:21:53 pm"}}
+{"dg-publish":true,"permalink":"/census/1870-united-states-federal-census-8/","hideInFiletree":"true","tags":["John-William-Amick","Lana-Walker"],"noteIcon":"","dg-note-properties":{"tags":["John-William-Amick","Lana-Walker"],"date-created":"Friday, February 28th 2025, 3:20:16 pm","date-modified":"Friday, February 28th 2025, 3:21:53 pm"}}
 ---
 
 Family 138

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1940-united-states-federal-census-2/","tags":["Mamie-Catherine-Shaffer","Fred-Legg","Alice-Legg","Kata-Legg","June-Legg","Charles-William-Legg"],"noteIcon":"","dg-note-properties":{"tags":"Mamie-Catherine-Shaffer,Fred-Legg,Alice-Legg,Kata-Legg,June-Legg,Charles-William-Legg","date-created":"Thursday, August 22nd 2024, 9:02:10 pm","date-modified":"Friday, February 21st 2025, 2:47:54 pm"}}
+{"dg-publish":true,"permalink":"/census/1940-united-states-federal-census-2/","hideInFiletree":"true","tags":["Mamie-Catherine-Shaffer","Fred-Legg","Alice-Legg","Kata-Legg","June-Legg","Charles-William-Legg"],"noteIcon":"","dg-note-properties":{"tags":"Mamie-Catherine-Shaffer,Fred-Legg,Alice-Legg,Kata-Legg,June-Legg,Charles-William-Legg","date-created":"Thursday, August 22nd 2024, 9:02:10 pm","date-modified":"Friday, February 21st 2025, 2:47:54 pm"}}
 ---
 
 Household 50

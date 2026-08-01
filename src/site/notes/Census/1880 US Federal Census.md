@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1880-us-federal-census/","tags":["Martha-Grose","Valentine-Skaggs"],"noteIcon":"","dg-note-properties":{"date-created":"Friday, February 21st 2025, 7:15:31 pm","date-modified":"Friday, February 21st 2025, 7:20:55 pm","tags":["Martha-Grose","Valentine-Skaggs"]}}
+{"dg-publish":true,"permalink":"/census/1880-us-federal-census/","hideInFiletree":"true","tags":["Martha-Grose","Valentine-Skaggs"],"noteIcon":"","dg-note-properties":{"date-created":"Friday, February 21st 2025, 7:15:31 pm","date-modified":"Friday, February 21st 2025, 7:20:55 pm","tags":["Martha-Grose","Valentine-Skaggs"]}}
 ---
 
 Page 10 - County of Nicholas
