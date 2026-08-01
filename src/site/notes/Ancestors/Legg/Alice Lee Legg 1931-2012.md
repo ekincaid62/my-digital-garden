@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/legg/alice-lee-legg-1931-2012/","tags":["#Alice-Legg"]}
+{"dg-publish":true,"permalink":"/ancestors/legg/alice-lee-legg-1931-2012/","tags":["Alice-Legg"],"dg-note-properties":{"tags":["Alice-Legg"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Thursday, July 23rd 2026, 12:05:47 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Thursday, July 23rd 2026, 12:05:47 pm***

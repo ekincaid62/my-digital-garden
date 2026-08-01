@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/keenan/sarah-virginia-keenan-1849-1920/","tags":["#Sarah-Virginia-Keenan"]}
+{"dg-publish":true,"permalink":"/ancestors/keenan/sarah-virginia-keenan-1849-1920/","tags":["Sarah-Virginia-Keenan"],"dg-note-properties":{"tags":["Sarah-Virginia-Keenan"],"date-created":"Friday, September 27th 2024, 6:46:55 pm","date-modified":"Friday, March 7th 2025, 12:09:03 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:09:03 pm***

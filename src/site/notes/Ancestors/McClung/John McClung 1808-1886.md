@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/mc-clung/john-mc-clung-1808-1886/","tags":["John-McClung"]}
+{"dg-publish":true,"permalink":"/ancestors/mc-clung/john-mc-clung-1808-1886/","tags":["John-McClung"],"dg-note-properties":{"tags":["John-McClung"],"date-created":"Thursday, February 6th 2025, 9:24:41 pm","date-modified":"Tuesday, March 4th 2025, 5:56:47 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 5:56:47 pm***

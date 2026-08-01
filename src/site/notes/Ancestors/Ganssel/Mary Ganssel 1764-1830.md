@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/ganssel/mary-ganssel-1764-1830/","tags":["Mary-Ganssel"]}
+{"dg-publish":true,"permalink":"/ancestors/ganssel/mary-ganssel-1764-1830/","tags":["Mary-Ganssel"],"dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Saturday, March 1st 2025, 11:24:00 am","tags":["Mary-Ganssel"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Saturday, March 1st 2025, 11:24:00 am***

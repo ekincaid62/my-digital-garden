@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/records/kincade-cemetery-information/","tags":["#Alfred-Kincaid","#Eliza-Nettles-Lorton"]}
+{"dg-publish":true,"permalink":"/records/kincade-cemetery-information/","tags":["Alfred-Kincaid","Eliza-Nettles-Lorton"],"dg-note-properties":{"tags":"Alfred-Kincaid,Eliza-Nettles-Lorton","source":"http://www.rootsweb.ancestry.com/~ksscgscm/kincaidinfo.html","date-created":"Thursday, August 22nd 2024, 9:02:09 pm","date-modified":"Friday, February 21st 2025, 2:57:49 pm"}}
 ---
 
 The following children were buried at the Kincaid Cemetery in Kansas. Three of these children (died of consumption) were the family of Alfred and Eliza. Here is a [map](https://www.google.com/maps/d/edit?mid=1jR6WG2jYRuOLpG_JvQCuutccTRY&usp=sharing) of the original location of the cemetery. I was told that at some point the remains were removed and relocated according to this [[Records/FW Kincade Cemetery\|email]]

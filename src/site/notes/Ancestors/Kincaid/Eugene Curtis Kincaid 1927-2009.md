@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/eugene-curtis-kincaid-1927-2009/","tags":["Eugene-Kincaid"]}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/eugene-curtis-kincaid-1927-2009/","tags":["Eugene-Kincaid"],"dg-note-properties":{"tags":["Eugene-Kincaid"],"date-created":"Friday, September 27th 2024, 6:08:41 pm","date-modified":"Wednesday, March 5th 2025, 7:23:12 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:23:12 pm***

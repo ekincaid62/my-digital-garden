@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/wiseman/isaac-wiseman-1738-1818/","tags":["Isaac-Wiseman-Jr"]}
+{"dg-publish":true,"permalink":"/ancestors/wiseman/isaac-wiseman-1738-1818/","tags":["Isaac-Wiseman-Jr"],"dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, March 2nd 2025, 7:21:46 pm","tags":["Isaac-Wiseman-Jr"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 7:21:46 pm***

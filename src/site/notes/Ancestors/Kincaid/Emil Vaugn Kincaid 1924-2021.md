@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/emil-vaugn-kincaid-1924-2021/","tags":["Emil-Kincaid"]}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/emil-vaugn-kincaid-1924-2021/","tags":["Emil-Kincaid"],"dg-note-properties":{"tags":["Emil-Kincaid"],"date-created":"Friday, September 27th 2024, 5:54:43 pm","date-modified":"Wednesday, March 5th 2025, 7:22:56 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:22:56 pm***

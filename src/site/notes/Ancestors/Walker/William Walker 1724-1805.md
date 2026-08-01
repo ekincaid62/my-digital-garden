@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/walker/william-walker-1724-1805/","tags":["William-Walker"]}
+{"dg-publish":true,"permalink":"/ancestors/walker/william-walker-1724-1805/","tags":["William-Walker"],"dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Saturday, March 1st 2025, 10:58:45 am","tags":["William-Walker"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Saturday, March 1st 2025, 10:58:45 am***

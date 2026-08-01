@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/skaggs/cyrus-m-skaggs-1822-1899/","tags":["#Cyrus-Skaggs"]}
+{"dg-publish":true,"permalink":"/ancestors/skaggs/cyrus-m-skaggs-1822-1899/","tags":["Cyrus-Skaggs"],"dg-note-properties":{"tags":["Cyrus-Skaggs"],"date-created":"Thursday, February 6th 2025, 6:50:20 pm","date-modified":"Sunday, February 23rd 2025, 9:53:57 am"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, February 23rd 2025, 9:53:57 am***

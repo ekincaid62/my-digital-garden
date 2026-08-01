@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1850-united-states-federal-census-7/","tags":["#Margaret-McGahee"]}
+{"dg-publish":true,"permalink":"/census/1850-united-states-federal-census-7/","tags":["Margaret-McGahee"],"dg-note-properties":{"tags":["Margaret-McGahee"],"date-created":"Sunday, February 23rd 2025, 1:33:54 pm","date-modified":"Sunday, February 23rd 2025, 1:36:17 pm"}}
 ---
 
 Family 200

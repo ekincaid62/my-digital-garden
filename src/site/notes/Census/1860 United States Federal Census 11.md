@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1860-united-states-federal-census-11/","tags":["#Thomas-Jefferson-Hawkins","#Mary-Level-Perry"]}
+{"dg-publish":true,"permalink":"/census/1860-united-states-federal-census-11/","tags":["Thomas-Jefferson-Hawkins","Mary-Level-Perry"],"dg-note-properties":{"tags":["Thomas-Jefferson-Hawkins","Mary-Level-Perry"],"date-created":"Friday, February 28th 2025, 9:22:25 pm","date-modified":"Friday, February 28th 2025, 9:26:24 pm"}}
 ---
 
 Family 978

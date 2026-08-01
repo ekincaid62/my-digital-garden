@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/legg/virginia-rae-legg-1918-2003/","tags":["Virginia-Legg"]}
+{"dg-publish":true,"permalink":"/ancestors/legg/virginia-rae-legg-1918-2003/","tags":["Virginia-Legg"],"dg-note-properties":{"tags":["Virginia-Legg"],"date-created":"Saturday, January 25th 2025, 4:36:43 pm","date-modified":"Wednesday, July 22nd 2026, 7:52:33 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Wednesday, July 22nd 2026, 7:52:33 pm***

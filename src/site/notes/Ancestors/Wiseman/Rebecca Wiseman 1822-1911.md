@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/wiseman/rebecca-wiseman-1822-1911/","tags":["Rebecca-Wiseman"]}
+{"dg-publish":true,"permalink":"/ancestors/wiseman/rebecca-wiseman-1822-1911/","tags":["Rebecca-Wiseman"],"dg-note-properties":{"tags":["Rebecca-Wiseman"],"date-created":"Sunday, February 16th 2025, 7:44:35 pm","date-modified":"Wednesday, February 26th 2025, 8:04:01 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Wednesday, February 26th 2025, 8:04:01 pm***

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/tincher/hannah-tincher-1742-1819/","tags":["Hannah-Tincher"]}
+{"dg-publish":true,"permalink":"/ancestors/tincher/hannah-tincher-1742-1819/","tags":["Hannah-Tincher"],"dg-note-properties":{"tags":["Hannah-Tincher"],"date-created":"Sunday, February 2nd 2025, 8:29:29 pm","date-modified":"Friday, February 21st 2025, 4:33:43 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:33:43 pm***

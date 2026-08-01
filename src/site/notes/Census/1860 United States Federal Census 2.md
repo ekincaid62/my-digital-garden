@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1860-united-states-federal-census-2/","tags":["#Cyrus-Skaggs","#Rachel-Parish-Coleman","#James-A-Skaggs","#Elizabeth-Miller"]}
+{"dg-publish":true,"permalink":"/census/1860-united-states-federal-census-2/","tags":["Cyrus-Skaggs","Rachel-Parish-Coleman","James-A-Skaggs","Elizabeth-Miller"],"dg-note-properties":{"tags":["Cyrus-Skaggs","Rachel-Parish-Coleman","James-A-Skaggs","Elizabeth-Miller"],"date-created":"Saturday, February 22nd 2025, 5:04:20 pm","date-modified":"Saturday, February 22nd 2025, 7:39:54 pm"}}
 ---
 
 Family 433

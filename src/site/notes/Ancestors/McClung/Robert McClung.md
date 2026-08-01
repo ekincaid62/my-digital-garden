@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/mc-clung/robert-mc-clung/","tags":["Rpbert-McClung"]}
+{"dg-publish":true,"permalink":"/ancestors/mc-clung/robert-mc-clung/","tags":["Rpbert-McClung"],"dg-note-properties":{"tags":["Rpbert-McClung"],"date-created":"Sunday, February 9th 2025, 8:54:24 pm","date-modified":"Friday, February 21st 2025, 4:27:35 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:27:35 pm***

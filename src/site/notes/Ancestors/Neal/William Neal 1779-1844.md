@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/neal/william-neal-1779-1844/","tags":["William-Neal"]}
+{"dg-publish":true,"permalink":"/ancestors/neal/william-neal-1779-1844/","tags":["William-Neal"],"dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, March 2nd 2025, 9:07:01 pm","tags":["William-Neal"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 9:07:01 pm***

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1880-united-states-federal-census-record-3/","tags":["#Dorcas-McClung","#Charles-William-McClung","#Mary-C-Amick","#John-McClung"]}
+{"dg-publish":true,"permalink":"/census/1880-united-states-federal-census-record-3/","tags":["Dorcas-McClung","Charles-William-McClung","Mary-C-Amick","John-McClung"],"dg-note-properties":{"tags":"Dorcas-McClung,Charles-William-McClung,Mary-C-Amick,John-McClung","date-created":"Thursday, August 22nd 2024, 9:02:07 pm","date-modified":"Friday, February 28th 2025, 2:31:21 pm"}}
 ---
 
 Family 65

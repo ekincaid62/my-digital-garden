@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/potter/martha-jane-potter-1825-1912/","tags":["Martha-Jane-Potter"]}
+{"dg-publish":true,"permalink":"/ancestors/potter/martha-jane-potter-1825-1912/","tags":["Martha-Jane-Potter"],"dg-note-properties":{"tags":["Martha-Jane-Potter"],"date-created":"Sunday, February 16th 2025, 6:57:23 pm","date-modified":"Friday, March 7th 2025, 7:02:54 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 7:02:54 pm***

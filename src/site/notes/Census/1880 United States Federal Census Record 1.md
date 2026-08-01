@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1880-united-states-federal-census-record-1/","tags":["#Christopher-Clayton-Shaffer","#Joseph-Allen-Shaffer"]}
+{"dg-publish":true,"permalink":"/census/1880-united-states-federal-census-record-1/","tags":["Christopher-Clayton-Shaffer","Joseph-Allen-Shaffer"],"dg-note-properties":{"tags":"Christopher-Clayton-Shaffer,Joseph-Allen-Shaffer","date-created":"Thursday, August 22nd 2024, 9:02:07 pm","date-modified":"Friday, February 21st 2025, 8:15:13 pm"}}
 ---
 
 Family 70

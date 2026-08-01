@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/wiseman/margaret-wiseman-1777-1869/","tags":["Margaret-Wiseman"]}
+{"dg-publish":true,"permalink":"/ancestors/wiseman/margaret-wiseman-1777-1869/","tags":["Margaret-Wiseman"],"dg-note-properties":{"tags":["Margaret-Wiseman"],"date-created":"Wednesday, February 19th 2025, 9:54:21 am","date-modified":"Sunday, March 2nd 2025, 7:07:56 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 7:07:56 pm***

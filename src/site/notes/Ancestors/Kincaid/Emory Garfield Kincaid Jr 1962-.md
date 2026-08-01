@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/emory-garfield-kincaid-jr-1962/"}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/emory-garfield-kincaid-jr-1962/","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Friday, February 21st 2025, 4:20:46 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:20:46 pm***

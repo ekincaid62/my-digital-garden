@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1850-united-states-federal-census-10/","tags":["#Isaac-Ward-Wiseman","#Mary-Neal"]}
+{"dg-publish":true,"permalink":"/census/1850-united-states-federal-census-10/","tags":["Isaac-Ward-Wiseman","Mary-Neal"],"dg-note-properties":{"tags":["Isaac-Ward-Wiseman","Mary-Neal"],"date-created":"Wednesday, February 26th 2025, 7:50:14 pm","date-modified":"Wednesday, February 26th 2025, 7:54:29 pm"}}
 ---
 
 Family 508

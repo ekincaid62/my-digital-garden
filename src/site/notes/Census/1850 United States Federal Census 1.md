@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1850-united-states-federal-census-1/","tags":["#Nicholas-Hawkins","#Rebecca-Wiseman"]}
+{"dg-publish":true,"permalink":"/census/1850-united-states-federal-census-1/","tags":["Nicholas-Hawkins","Rebecca-Wiseman"],"dg-note-properties":{"tags":"Nicholas-Hawkins,Rebecca-Wiseman","date-created":"Thursday, August 22nd 2024, 9:02:07 pm","date-modified":"Friday, February 21st 2025, 2:47:03 pm"}}
 ---
 
 **Household 124**

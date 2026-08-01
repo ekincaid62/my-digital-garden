@@ -20,8 +20,9 @@ If you have any comments, questions, or additions, please leave comments through
 
 The following documents have been scanned into pdf files and are text searchable.
 
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 | [They Hacked the Clearings](https://drive.google.com/file/d/0B0oZv34v0ajXaGwwYzJENDZwaDg/view?usp=sharing&resourcekey=0-0m1j2Of9c7zyWLrlfdyAZA)                          | [The Story of Mt Lookout 1957](https://drive.google.com/file/d/0B0oZv34v0ajXNGJBMzB5NFZWLTA/view?usp=sharing&resourcekey=0-hcU8xApVTo4BZptpwRhBow)                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [The Kincaids of Ramsey WV](https://drive.google.com/file/d/0B0oZv34v0ajXS0RIRzU3VWt0NnM/view?usp=sharing&resourcekey=0-UJgjTLOde1dIhxzdDUaL-g)                          | [Stumps and Stones](https://drive.google.com/file/d/0B0oZv34v0ajXTWZQSTZlTGttcms/view?usp=sharing&resourcekey=0-XaX3qwC98_LK95s3xRtuow)                                    |
 | [History of the Kincaid Family](https://drive.google.com/file/d/0B0oZv34v0ajXVUstZkJEV2hUdW8/view?usp=drive_link&resourcekey=0-gyR8XsVV5zkjlqS8Sd_HRw)                   | [Legg Archives](https://drive.google.com/file/d/0B0oZv34v0ajXdmloZDlQbjZMV0k/view?usp=drive_link&resourcekey=0-tdP1z0sA_g0M3_1hXEoNzQ)                                     |
 | [McClung Genealogy 1904](https://drive.google.com/file/d/0B0oZv34v0ajXUWNUVmVwTUNhZ1E/view?usp=drive_link&resourcekey=0-GGNON3kTqpLoMdz3hRxyPQ)                          | [Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)                |
@@ -30,8 +31,9 @@ The following documents have been scanned into pdf files and are text searchable
 
 ### Useful Resources...
 
-| ---------------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------- |
+
 | [FamilySearch](https://www.familysearch.org/)              | [USGenWeb Project](http://www.usgenweb.org/)        | [Ancestry](https://www.ancestry.com/)                      |
+| ---------------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------- |
 | [Chronicling America](https://chroniclingamerica.loc.gov/) | [Cyndi's List](https://www.cyndislist.com/)         | [Library of Virginia](https://lva-virginia.libguides.com/) |
 | [FindAGrave](https://www.findagrave.com/)                  | [Digital Public Library of America](https://dp.la/) | [Europeana](https://www.europeana.eu/en)                   |
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/elizabeth-kincaid-1785-1862/","tags":["Elizabeth-Kincaid"]}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/elizabeth-kincaid-1785-1862/","tags":["Elizabeth-Kincaid"],"dg-note-properties":{"tags":["Elizabeth-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Friday, February 21st 2025, 4:20:25 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:20:25 pm***

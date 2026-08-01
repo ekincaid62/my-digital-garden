@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1850-united-states-federal-census-16/","tags":["#Peter-Perry"]}
+{"dg-publish":true,"permalink":"/census/1850-united-states-federal-census-16/","tags":["Peter-Perry"],"dg-note-properties":{"tags":["Peter-Perry"],"date-created":"Friday, March 7th 2025, 7:37:02 pm","date-modified":"Friday, March 7th 2025, 7:39:21 pm"}}
 ---
 
 Family 181

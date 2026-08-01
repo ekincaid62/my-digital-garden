@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/miller/valentine-fentin-miller-1762-1851/","tags":["Valentine-Fentin-Miller"]}
+{"dg-publish":true,"permalink":"/ancestors/miller/valentine-fentin-miller-1762-1851/","tags":["Valentine-Fentin-Miller"],"dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Saturday, March 1st 2025, 4:03:50 pm","tags":["Valentine-Fentin-Miller"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Saturday, March 1st 2025, 4:03:50 pm***

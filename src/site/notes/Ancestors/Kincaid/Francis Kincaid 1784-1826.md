@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/francis-kincaid-1784-1826/","tags":["Francis-Kincaid"]}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/francis-kincaid-1784-1826/","tags":["Francis-Kincaid"],"dg-note-properties":{"tags":["Francis-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Friday, February 21st 2025, 4:21:05 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:21:05 pm***

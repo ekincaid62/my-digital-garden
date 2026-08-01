@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/george/mary-george-1796-1880/","tags":["Mary-George"]}
+{"dg-publish":true,"permalink":"/ancestors/george/mary-george-1796-1880/","tags":["Mary-George"],"dg-note-properties":{"tags":["Mary-George"],"date-created":"Tuesday, February 18th 2025, 6:39:32 pm","date-modified":"Thursday, February 27th 2025, 8:38:54 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Thursday, February 27th 2025, 8:38:54 pm***
