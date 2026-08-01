@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/records/alkanah-evans/","tags":["Alkanah-Evans"],"noteIcon":"","dg-note-properties":{"tags":["Alkanah-Evans"],"date-created":"Thursday, August 22nd 2024, 9:02:06 pm","date-modified":"Saturday, August 1st 2026, 3:43:22 pm"}}
+{"dg-publish":true,"permalink":"/records/alkanah-evans/","hideInFiletree":"true","tags":["Alkanah-Evans"],"noteIcon":"","dg-note-properties":{"tags":["Alkanah-Evans"],"date-created":"Thursday, August 22nd 2024, 9:02:06 pm","date-modified":"Saturday, August 1st 2026, 3:43:22 pm"}}
 ---
 
 ![Alkanah Evans Export.jpg](/img/user/assets/Alkanah_Evans_Export.jpg.resources/Alkanah%20Evans%20Export.jpg)

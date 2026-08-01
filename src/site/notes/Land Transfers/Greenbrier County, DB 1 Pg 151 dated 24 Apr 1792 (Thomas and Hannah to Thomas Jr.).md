@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/land-transfers/greenbrier-county-db-1-pg-151-dated-24-apr-1792-thomas-and-hannah-to-thomas-jr/","tags":["Thomas-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Friday, February 21st 2025, 2:48:10 pm"}}
+{"dg-publish":true,"permalink":"/land-transfers/greenbrier-county-db-1-pg-151-dated-24-apr-1792-thomas-and-hannah-to-thomas-jr/","hideInFiletree":"true","tags":["Thomas-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Friday, February 21st 2025, 2:48:10 pm"}}
 ---
 
 
