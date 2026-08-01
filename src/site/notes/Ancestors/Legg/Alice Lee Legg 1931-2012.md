@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/legg/alice-lee-legg-1931-2012/","tags":["Alice-Legg"],"noteIcon":"","dg-note-properties":{"tags":["Alice-Legg"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Thursday, July 23rd 2026, 12:05:47 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/legg/alice-lee-legg-1931-2012/","tags":["Alice-Legg"],"noteIcon":"","dg-note-properties":{"tags":["Alice-Legg"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Saturday, August 1st 2026, 2:18:07 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Thursday, July 23rd 2026, 12:05:47 pm***
+***<font color="#00b0f0">Last Modified:</font> Saturday, August 1st 2026, 2:18:07 pm***
 
 Born on  7/29/1931 in Mt. Lookout WV
 Death on 6/13/2012 in Mt. Lookout WV
@@ -22,7 +22,7 @@ Stillborn Legg 1920-1920
 
 ---
 #### Spouse and Children
-[[Ancestors/Kincaid/Emory Garfield Kincaid 1922-1992\|Emory Garfield Kincaid 1922-1992]] on [[Records/Marriage License\|12/29/1948]] in Nicholas County, WV 
+[[Ancestors/Kincaid/Emory Garfield Kincaid 1922-1992\|Emory Garfield Kincaid 1922-1992]] on [[Records/Marriage License\|12/29/1948]] in Nicholas County, WV [[assets/Marriage License\|Marriage License]]
 [[Brenda Lee Kincaid 1949-\|Brenda Lee Kincaid 1949-]]
 [[Ancestors/Kincaid/Ronnie Lynn Kincaid 1952-2010\|Ronnie Lynn Kincaid 1952-2010]]
 [[Ancestors/Kincaid/Emory Garfield Kincaid Jr 1962-\|Emory Garfield Kincaid Jr 1962-]]

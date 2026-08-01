@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/legg/retta-delphia-legg-1916-1997/","tags":["Retta-Legg"],"noteIcon":"","dg-note-properties":{"tags":["Retta-Legg"],"date-created":"Saturday, January 25th 2025, 4:21:42 pm","date-modified":"Wednesday, March 5th 2025, 7:27:33 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/legg/retta-delphia-legg-1916-1997/","tags":["Retta-Legg"],"noteIcon":"","dg-note-properties":{"tags":["Retta-Legg"],"date-created":"Saturday, January 25th 2025, 4:21:42 pm","date-modified":"Saturday, August 1st 2026, 2:20:55 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:27:33 pm***
+***<font color="#00b0f0">Last Modified:</font> Saturday, August 1st 2026, 2:20:55 pm***
 
 Born on  4/10/1916 in Mt Lookout, WV
 Death on 5/10/1997 in Charleston, WV

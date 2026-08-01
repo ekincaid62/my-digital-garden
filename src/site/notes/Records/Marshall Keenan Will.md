@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/records/marshall-keenan-will/","tags":["Marshall-Keenan"],"noteIcon":"","dg-note-properties":{"tags":["Marshall-Keenan"],"date-created":"Friday, February 21st 2025, 7:37:03 pm","date-modified":"Friday, February 21st 2025, 7:41:50 pm"}}
+{"dg-publish":true,"permalink":"/records/marshall-keenan-will/","tags":["Marshall-Keenan"],"noteIcon":"","dg-note-properties":{"tags":["Marshall-Keenan"],"date-created":"Friday, February 21st 2025, 7:37:03 pm","date-modified":"Saturday, August 1st 2026, 3:03:34 pm"}}
 ---
 
 dated 5/31/1862

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/mc-clung/charles-william-mc-clung-1838-1911/","tags":["Charles-William-McClung"],"noteIcon":"","dg-note-properties":{"tags":["Charles-William-McClung"],"date-created":"Thursday, February 6th 2025, 8:48:26 pm","date-modified":"Tuesday, March 4th 2025, 5:45:32 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/mc-clung/charles-william-mc-clung-1838-1911/","tags":["Charles-William-McClung"],"noteIcon":"","dg-note-properties":{"tags":["Charles-William-McClung"],"date-created":"Thursday, February 6th 2025, 8:48:26 pm","date-modified":"Saturday, August 1st 2026, 2:23:20 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 5:45:32 pm***
+***<font color="#00b0f0">Last Modified:</font> Saturday, August 1st 2026, 2:23:20 pm***
 
 Often referred to as "Good Charley"
 Born on  3/1/1838 in WV

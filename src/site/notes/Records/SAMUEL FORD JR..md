@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/records/samuel-ford-jr/","noteIcon":"","dg-note-properties":{"page-title":"SAMUEL FORD JR.","url":"https://thomasstephenneel.com/b-samuelford.html","date":"2024-07-08 18:52:58","date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Friday, February 21st 2025, 3:00:15 pm"}}
+{"dg-publish":true,"permalink":"/records/samuel-ford-jr/","noteIcon":"","dg-note-properties":{"page-title":"SAMUEL FORD JR.","url":"https://thomasstephenneel.com/b-samuelford.html","date":"2024-07-08 18:52:58","date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Saturday, August 1st 2026, 3:12:00 pm"}}
 ---
 
 

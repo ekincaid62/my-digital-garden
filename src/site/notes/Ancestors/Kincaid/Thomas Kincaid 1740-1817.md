@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/thomas-kincaid-1740-1817/","tags":["Thomas-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:21 pm","date-modified":"Thursday, July 23rd 2026, 8:09:39 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/thomas-kincaid-1740-1817/","tags":["Thomas-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:21 pm","date-modified":"Saturday, August 1st 2026, 2:11:29 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Thursday, July 23rd 2026, 8:09:39 pm***
+***<font color="#00b0f0">Last Modified:</font> Saturday, August 1st 2026, 2:11:29 pm***
 
 Born on  1740 in Albemarle VA
 Death on 9/13/1817 in Greenbrier, WV
@@ -59,5 +59,5 @@ Little Meadow River
 #### Photos
 
 #### Sources
-Will of Samuel Tincher Greenbrier Co. Book 1 page 43 entered in court January, 1791, written 15th day of March 1790. Bequeaths given to daughter Hannah, eldest son William, son Francis "I hereby constitute and appoint Thomas Kinkead the husband of my aforesaid
-daughter Hannah the sole Executor of this my last will and Testament." Witnessed by Charles O'Harra, margrate O'Harra and W.H. Cavendish
+
+[[assets/Samuel Tincher Will\|Samuel Tincher Will]] appoints Thomas (husband of Hannah) as the sole executor.
