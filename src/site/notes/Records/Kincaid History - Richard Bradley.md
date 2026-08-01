@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/records/kincaid-history-richard-bradley/","tags":["Thomas-Kincaid","Hannah-Tincher"],"dg-note-properties":{"tags":["Thomas-Kincaid","Hannah-Tincher"],"source":"http://myplace.frontier.com/~skincaid2/kincaidchapter.htm","date-created":"Thursday, August 22nd 2024, 9:02:09 pm","date-modified":"Friday, February 21st 2025, 2:57:53 pm"}}
+{"dg-publish":true,"permalink":"/records/kincaid-history-richard-bradley/","tags":["Thomas-Kincaid","Hannah-Tincher"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Kincaid","Hannah-Tincher"],"source":"http://myplace.frontier.com/~skincaid2/kincaidchapter.htm","date-created":"Thursday, August 22nd 2024, 9:02:09 pm","date-modified":"Friday, February 21st 2025, 2:57:53 pm"}}
 ---
 
 

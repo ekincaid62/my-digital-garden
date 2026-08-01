@@ -12,7 +12,7 @@ My older brother passed away in 2010, leaving behind a wealth of information he 
 
 **You <font color="#c00000">MUST</font> try the Search!** It works extremely well in finding notes that have been published on this site. Just type a name or any key word and the results will start showing!
 
-To help get an overview of my ancestors you can review my [[My Ancestors\|family tree]]. It is best viewed with a device that has a touch screen to be able to zoom in.
+To help get an overview of my ancestors you can review my [[My Ancestor Chart\|family tree]]. It is best viewed with a device that has a touch screen to be able to zoom in.
 
 If you have any comments, questions, or additions, please leave comments through GitHub at the bottom of each page.
 

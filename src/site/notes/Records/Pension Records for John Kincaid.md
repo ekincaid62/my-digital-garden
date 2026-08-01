@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/records/pension-records-for-john-kincaid/","dg-note-properties":{"date-created":"Friday, January 17th 2025, 7:15:43 pm","date-modified":"Friday, February 21st 2025, 2:59:36 pm"}}
+{"dg-publish":true,"permalink":"/records/pension-records-for-john-kincaid/","noteIcon":"","dg-note-properties":{"date-created":"Friday, January 17th 2025, 7:15:43 pm","date-modified":"Friday, February 21st 2025, 2:59:36 pm"}}
 ---
 
 #John-Kincaid 
