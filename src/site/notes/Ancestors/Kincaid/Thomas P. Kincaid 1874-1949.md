@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/thomas-p-kincaid-1874-1949/","tags":["Thomas-P-Kincaid"],"dg-note-properties":{"tags":["Thomas-P-Kincaid"],"date-created":"Sunday, January 5th 2025, 5:29:51 pm","date-modified":"Friday, March 7th 2025, 12:09:26 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/thomas-p-kincaid-1874-1949/","tags":["Thomas-P-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-P-Kincaid"],"date-created":"Sunday, January 5th 2025, 5:29:51 pm","date-modified":"Friday, March 7th 2025, 12:09:26 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:09:26 pm***

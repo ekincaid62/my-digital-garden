@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/shaffer/joseph-allen-shaffer-1838-1911/","tags":["Joseph-Allen-Shaffer"],"dg-note-properties":{"tags":["Joseph-Allen-Shaffer"],"date-created":"Saturday, February 15th 2025, 3:07:18 pm","date-modified":"Wednesday, February 26th 2025, 7:30:53 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/shaffer/joseph-allen-shaffer-1838-1911/","tags":["Joseph-Allen-Shaffer"],"noteIcon":"","dg-note-properties":{"tags":["Joseph-Allen-Shaffer"],"date-created":"Saturday, February 15th 2025, 3:07:18 pm","date-modified":"Wednesday, February 26th 2025, 7:30:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Wednesday, February 26th 2025, 7:30:53 pm***

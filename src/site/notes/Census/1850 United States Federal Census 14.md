@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1850-united-states-federal-census-14/","tags":["Martha-Jane-Potter","James-Preston-Skaggs"],"dg-note-properties":{"tags":["Martha-Jane-Potter","James-Preston-Skaggs"],"date-created":"Friday, March 7th 2025, 1:18:09 pm","date-modified":"Friday, March 7th 2025, 1:21:14 pm"}}
+{"dg-publish":true,"permalink":"/census/1850-united-states-federal-census-14/","tags":["Martha-Jane-Potter","James-Preston-Skaggs"],"noteIcon":"","dg-note-properties":{"tags":["Martha-Jane-Potter","James-Preston-Skaggs"],"date-created":"Friday, March 7th 2025, 1:18:09 pm","date-modified":"Friday, March 7th 2025, 1:21:14 pm"}}
 ---
 
 Family 148

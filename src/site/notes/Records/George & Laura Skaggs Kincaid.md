@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/records/george-and-laura-skaggs-kincaid/","tags":["George-Wesley-Kincaid","Laura-Skaggs","Eugene-Kincaid"],"dg-note-properties":{"tags":"George-Wesley-Kincaid,Laura-Skaggs,Eugene-Kincaid","date-created":"Thursday, August 22nd 2024, 9:02:10 pm","date-modified":"Thursday, July 23rd 2026, 11:49:58 am"}}
+{"dg-publish":true,"permalink":"/records/george-and-laura-skaggs-kincaid/","tags":["George-Wesley-Kincaid","Laura-Skaggs","Eugene-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":"George-Wesley-Kincaid,Laura-Skaggs,Eugene-Kincaid","date-created":"Thursday, August 22nd 2024, 9:02:10 pm","date-modified":"Thursday, July 23rd 2026, 11:49:58 am"}}
 ---
 
 ![assets/George_&_Laura_Skaggs_Kincaid.jpg.1.resources/George & Laura Skaggs Kincaid.jpg](/img/user/assets/George_&_Laura_Skaggs_Kincaid.jpg.1.resources/George%20&%20Laura%20Skaggs%20Kincaid.jpg)

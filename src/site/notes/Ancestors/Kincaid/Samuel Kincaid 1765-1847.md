@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/samuel-kincaid-1765-1847/","tags":["Samuel-Kincaid"],"dg-note-properties":{"tags":["Samuel-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:21 pm","date-modified":"Friday, July 31st 2026, 9:26:52 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/samuel-kincaid-1765-1847/","tags":["Samuel-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Samuel-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:21 pm","date-modified":"Friday, July 31st 2026, 9:26:52 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, July 31st 2026, 9:26:52 pm***

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/koontz/suzanna-koontz-1810-1878/","tags":["Suzanna-Koontz"],"dg-note-properties":{"tags":["Suzanna-Koontz"],"date-created":"Wednesday, February 19th 2025, 9:42:39 am","date-modified":"Saturday, March 1st 2025, 11:55:59 am"}}
+{"dg-publish":true,"permalink":"/ancestors/koontz/suzanna-koontz-1810-1878/","tags":["Suzanna-Koontz"],"noteIcon":"","dg-note-properties":{"tags":["Suzanna-Koontz"],"date-created":"Wednesday, February 19th 2025, 9:42:39 am","date-modified":"Saturday, March 1st 2025, 11:55:59 am"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Saturday, March 1st 2025, 11:55:59 am***

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/shaffer/james-russell-shaffer-1886-1936/","tags":["James-Russell-Shaffer"],"dg-note-properties":{"tags":["James-Russell-Shaffer"],"date-created":"Saturday, February 15th 2025, 4:06:20 pm","date-modified":"Saturday, February 22nd 2025, 11:55:18 am"}}
+{"dg-publish":true,"permalink":"/ancestors/shaffer/james-russell-shaffer-1886-1936/","tags":["James-Russell-Shaffer"],"noteIcon":"","dg-note-properties":{"tags":["James-Russell-Shaffer"],"date-created":"Saturday, February 15th 2025, 4:06:20 pm","date-modified":"Saturday, February 22nd 2025, 11:55:18 am"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Saturday, February 22nd 2025, 11:55:18 am***

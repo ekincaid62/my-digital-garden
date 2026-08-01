@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/records/wilderness-lumber-company/","tags":["George-Wesley-Kincaid"],"dg-note-properties":{"tags":["George-Wesley-Kincaid"],"date-created":"Saturday, February 1st 2025, 6:00:26 pm","date-modified":"Friday, February 21st 2025, 3:01:02 pm"}}
+{"dg-publish":true,"permalink":"/records/wilderness-lumber-company/","tags":["George-Wesley-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["George-Wesley-Kincaid"],"date-created":"Saturday, February 1st 2025, 6:00:26 pm","date-modified":"Friday, February 21st 2025, 3:01:02 pm"}}
 ---
 
 George Kincaid in the Center

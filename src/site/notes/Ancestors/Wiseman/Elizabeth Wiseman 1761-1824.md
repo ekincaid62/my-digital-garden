@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/wiseman/elizabeth-wiseman-1761-1824/","tags":["Elizabeth-Wiseman"],"dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, March 2nd 2025, 7:11:35 pm","tags":["Elizabeth-Wiseman"]}}
+{"dg-publish":true,"permalink":"/ancestors/wiseman/elizabeth-wiseman-1761-1824/","tags":["Elizabeth-Wiseman"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, March 2nd 2025, 7:11:35 pm","tags":["Elizabeth-Wiseman"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 7:11:35 pm***

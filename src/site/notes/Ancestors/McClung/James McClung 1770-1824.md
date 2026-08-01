@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/mc-clung/james-mc-clung-1770-1824/","tags":["James-McClung"],"dg-note-properties":{"tags":["James-McClung"],"date-created":"Thursday, February 6th 2025, 9:51:23 pm","date-modified":"Tuesday, March 4th 2025, 5:54:25 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/mc-clung/james-mc-clung-1770-1824/","tags":["James-McClung"],"noteIcon":"","dg-note-properties":{"tags":["James-McClung"],"date-created":"Thursday, February 6th 2025, 9:51:23 pm","date-modified":"Tuesday, March 4th 2025, 5:54:25 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 5:54:25 pm***

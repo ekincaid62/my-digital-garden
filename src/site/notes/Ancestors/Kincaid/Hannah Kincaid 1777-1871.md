@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/hannah-kincaid-1777-1871/","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Thursday, July 23rd 2026, 8:20:37 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/hannah-kincaid-1777-1871/","noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Thursday, July 23rd 2026, 8:20:37 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Thursday, July 23rd 2026, 8:20:37 pm***

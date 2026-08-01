@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/records/emory-and-alice-legg-kincaid-family/","tags":["Emory-Garfield-Kincaid","Alice-Legg"],"dg-note-properties":{"tags":["Emory-Garfield-Kincaid","Alice-Legg"],"date-created":"Thursday, August 22nd 2024, 9:02:06 pm","date-modified":"Thursday, July 23rd 2026, 11:48:16 am"}}
+{"dg-publish":true,"permalink":"/records/emory-and-alice-legg-kincaid-family/","tags":["Emory-Garfield-Kincaid","Alice-Legg"],"noteIcon":"","dg-note-properties":{"tags":["Emory-Garfield-Kincaid","Alice-Legg"],"date-created":"Thursday, August 22nd 2024, 9:02:06 pm","date-modified":"Thursday, July 23rd 2026, 11:48:16 am"}}
 ---
 
 # Emory and Alice Legg Kincaid Family

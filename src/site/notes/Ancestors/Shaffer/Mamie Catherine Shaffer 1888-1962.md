@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/shaffer/mamie-catherine-shaffer-1888-1962/","tags":["Mamie-Catherine-Shaffer"],"dg-note-properties":{"tags":["Mamie-Catherine-Shaffer"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Thursday, July 23rd 2026, 12:09:07 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/shaffer/mamie-catherine-shaffer-1888-1962/","tags":["Mamie-Catherine-Shaffer"],"noteIcon":"","dg-note-properties":{"tags":["Mamie-Catherine-Shaffer"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Thursday, July 23rd 2026, 12:09:07 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Thursday, July 23rd 2026, 12:09:07 pm***

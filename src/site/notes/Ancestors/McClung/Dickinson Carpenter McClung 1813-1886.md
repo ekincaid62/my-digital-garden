@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/mc-clung/dickinson-carpenter-mc-clung-1813-1886/","tags":["Dickinson-Carpenter-McClung"],"dg-note-properties":{"tags":["Dickinson-Carpenter-McClung"],"date-created":"Sunday, February 16th 2025, 9:56:53 pm","date-modified":"Sunday, July 20th 2025, 9:03:57 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/mc-clung/dickinson-carpenter-mc-clung-1813-1886/","tags":["Dickinson-Carpenter-McClung"],"noteIcon":"","dg-note-properties":{"tags":["Dickinson-Carpenter-McClung"],"date-created":"Sunday, February 16th 2025, 9:56:53 pm","date-modified":"Sunday, July 20th 2025, 9:03:57 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, July 20th 2025, 9:03:57 pm***

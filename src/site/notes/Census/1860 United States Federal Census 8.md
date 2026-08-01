@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1860-united-states-federal-census-8/","tags":["Dickinson-Carpenter-McClung","Sarah-Evans"],"dg-note-properties":{"tags":["Dickinson-Carpenter-McClung","Sarah-Evans"],"date-created":"Thursday, February 27th 2025, 8:50:04 pm","date-modified":"Thursday, February 27th 2025, 8:51:59 pm"}}
+{"dg-publish":true,"permalink":"/census/1860-united-states-federal-census-8/","tags":["Dickinson-Carpenter-McClung","Sarah-Evans"],"noteIcon":"","dg-note-properties":{"tags":["Dickinson-Carpenter-McClung","Sarah-Evans"],"date-created":"Thursday, February 27th 2025, 8:50:04 pm","date-modified":"Thursday, February 27th 2025, 8:51:59 pm"}}
 ---
 
 Family 155

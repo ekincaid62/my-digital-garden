@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/kincaid/martha-belle-kincaid-1872-1892/","tags":["Martha-Belle-Kincaid"],"dg-note-properties":{"tags":["Martha-Belle-Kincaid"],"date-created":"Friday, January 24th 2025, 9:01:40 pm","date-modified":"Friday, March 7th 2025, 12:09:12 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/kincaid/martha-belle-kincaid-1872-1892/","tags":["Martha-Belle-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Martha-Belle-Kincaid"],"date-created":"Friday, January 24th 2025, 9:01:40 pm","date-modified":"Friday, March 7th 2025, 12:09:12 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:09:12 pm***

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/shaffer/christopher-clayton-shaffer-1864-1944/","tags":["Christopher-Clayton-Shaffer"],"dg-note-properties":{"tags":["Christopher-Clayton-Shaffer"],"date-created":"Friday, September 27th 2024, 6:24:13 pm","date-modified":"Friday, March 7th 2025, 12:06:44 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/shaffer/christopher-clayton-shaffer-1864-1944/","tags":["Christopher-Clayton-Shaffer"],"noteIcon":"","dg-note-properties":{"tags":["Christopher-Clayton-Shaffer"],"date-created":"Friday, September 27th 2024, 6:24:13 pm","date-modified":"Friday, March 7th 2025, 12:06:44 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:06:44 pm***

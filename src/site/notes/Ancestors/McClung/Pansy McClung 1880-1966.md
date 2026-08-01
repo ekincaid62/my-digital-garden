@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/mc-clung/pansy-mc-clung-1880-1966/","tags":["Pansy-McClung"],"dg-note-properties":{"tags":["Pansy-McClung"],"date-created":"Friday, February 7th 2025, 7:25:29 pm","date-modified":"Thursday, July 23rd 2026, 10:58:58 am"}}
+{"dg-publish":true,"permalink":"/ancestors/mc-clung/pansy-mc-clung-1880-1966/","tags":["Pansy-McClung"],"noteIcon":"","dg-note-properties":{"tags":["Pansy-McClung"],"date-created":"Friday, February 7th 2025, 7:25:29 pm","date-modified":"Thursday, July 23rd 2026, 10:58:58 am"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Thursday, July 23rd 2026, 10:58:58 am***

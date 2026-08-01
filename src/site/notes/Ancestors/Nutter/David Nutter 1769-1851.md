@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/nutter/david-nutter-1769-1851/","tags":["David-Nutter"],"dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Friday, March 7th 2025, 7:56:45 pm","tags":["David-Nutter"]}}
+{"dg-publish":true,"permalink":"/ancestors/nutter/david-nutter-1769-1851/","tags":["David-Nutter"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Friday, March 7th 2025, 7:56:45 pm","tags":["David-Nutter"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 7:56:45 pm***

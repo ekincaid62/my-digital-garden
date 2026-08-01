@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/scott/elizabeth-scott-1777-1842/","tags":["Elizabeth-Scott"],"dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, March 2nd 2025, 7:46:08 pm","tags":["Elizabeth-Scott"]}}
+{"dg-publish":true,"permalink":"/ancestors/scott/elizabeth-scott-1777-1842/","tags":["Elizabeth-Scott"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, March 2nd 2025, 7:46:08 pm","tags":["Elizabeth-Scott"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 7:46:08 pm***

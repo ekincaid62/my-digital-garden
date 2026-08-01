@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/legg/thomas-jesse-legg-1789-1880/","tags":["Thomas-Jesse-Legg"],"dg-note-properties":{"tags":["Thomas-Jesse-Legg"],"date-created":"Thursday, February 6th 2025, 8:08:03 pm","date-modified":"Friday, February 28th 2025, 11:32:33 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/legg/thomas-jesse-legg-1789-1880/","tags":["Thomas-Jesse-Legg"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Jesse-Legg"],"date-created":"Thursday, February 6th 2025, 8:08:03 pm","date-modified":"Friday, February 28th 2025, 11:32:33 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 11:32:33 pm***

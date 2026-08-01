@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/ramsey/elizabeth-ramsey-1813-1902/","tags":["Elizabeth-Ramsey"],"dg-note-properties":{"tags":["Elizabeth-Ramsey"],"date-created":"Saturday, January 25th 2025, 8:18:42 pm","date-modified":"Wednesday, February 26th 2025, 7:21:01 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/ramsey/elizabeth-ramsey-1813-1902/","tags":["Elizabeth-Ramsey"],"noteIcon":"","dg-note-properties":{"tags":["Elizabeth-Ramsey"],"date-created":"Saturday, January 25th 2025, 8:18:42 pm","date-modified":"Wednesday, February 26th 2025, 7:21:01 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Wednesday, February 26th 2025, 7:21:01 pm***

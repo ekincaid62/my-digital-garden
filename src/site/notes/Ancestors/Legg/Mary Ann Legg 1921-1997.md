@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors/legg/mary-ann-legg-1921-1997/","tags":["Mary-Ann-Legg"],"dg-note-properties":{"tags":["Mary-Ann-Legg"],"date-created":"Saturday, January 25th 2025, 5:02:17 pm","date-modified":"Wednesday, March 5th 2025, 7:27:23 pm"}}
+{"dg-publish":true,"permalink":"/ancestors/legg/mary-ann-legg-1921-1997/","tags":["Mary-Ann-Legg"],"noteIcon":"","dg-note-properties":{"tags":["Mary-Ann-Legg"],"date-created":"Saturday, January 25th 2025, 5:02:17 pm","date-modified":"Wednesday, March 5th 2025, 7:27:23 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:27:23 pm***
