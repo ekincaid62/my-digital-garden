@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/records/william-a-and-jerusha-stull/","tags":["William-A-Stull","Jerusha-Keenan-Underwood-Stull-Cluff"],"noteIcon":"","dg-note-properties":{"tags":["William-A-Stull","Jerusha-Keenan-Underwood-Stull-Cluff"],"source":"https://plus.google.com/u/0/photos/111778790079482395556/albums/5616563612415853393/5616565573814846482","date-created":"Thursday, August 22nd 2024, 9:02:07 pm","date-modified":"Saturday, August 1st 2026, 4:49:07 pm"}}
+{"dg-publish":true,"permalink":"/records/william-a-and-jerusha-stull/","hideInFiletree":"true","tags":["William-A-Stull","Jerusha-Keenan-Underwood-Stull-Cluff"],"noteIcon":"","dg-note-properties":{"tags":["William-A-Stull","Jerusha-Keenan-Underwood-Stull-Cluff"],"source":"https://plus.google.com/u/0/photos/111778790079482395556/albums/5616563612415853393/5616565573814846482","date-created":"Thursday, August 22nd 2024, 9:02:07 pm","date-modified":"Saturday, August 1st 2026, 4:49:07 pm"}}
 ---
 
 William A. Stull and Jerusha Keenan Underwood Stull Cluff - Sister to Sarah Virginia Keenan Kincaid - William A. Stull married her second

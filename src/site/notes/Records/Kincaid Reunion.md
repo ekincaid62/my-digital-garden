@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/records/kincaid-reunion/","tags":["Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Kincaid"],"source":"https://plus.google.com/u/0/photos/111778790079482395556/albums/5616563612415853393/5616565176914378578","date-created":"Thursday, August 22nd 2024, 9:02:09 pm","date-modified":"Saturday, August 1st 2026, 4:19:39 pm"}}
+{"dg-publish":true,"permalink":"/records/kincaid-reunion/","hideInFiletree":"true","tags":["Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Kincaid"],"source":"https://plus.google.com/u/0/photos/111778790079482395556/albums/5616563612415853393/5616565176914378578","date-created":"Thursday, August 22nd 2024, 9:02:09 pm","date-modified":"Saturday, August 1st 2026, 4:19:39 pm"}}
 ---
 
 Kincaid Reunion at Allen Kincaid Home
