@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/vault/census/1900-united-states-federal-census-record-4/","tags":["Christopher-Clayton-Shaffer","Mamie-Catherine-Shaffer","Dorcas-McClung","Charles-William-McClung","Mary-C-Amick"],"noteIcon":"","dg-note-properties":{"tags":"Christopher-Clayton-Shaffer,Mamie-Catherine-Shaffer,Dorcas-McClung,Charles-William-McClung,Mary-C-Amick","date-created":"Thursday, August 22nd 2024, 9:02:07 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+---
+
+Family 46
+C.C. Shaffer        35
+Dorcas A.           34
+Mamie               11
+Ed                        7
+Frederick             7
+Charles                4
+Chester                1
+![Vault/assets/1900_United_States_Federal_Census_Record.4.resources/image.x.jpg](/img/user/Vault/assets/1900_United_States_Federal_Census_Record.4.resources/image.x.jpg)
