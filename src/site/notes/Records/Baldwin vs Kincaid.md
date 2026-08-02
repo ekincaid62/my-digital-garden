@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/records/baldwin-vs-kincaid/","hideInFiletree":"true","tags":["Thomas-Kincaid","Samuel-Kincaid","John-Kincaid","Hannah-Tincher"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Kincaid","Samuel-Kincaid","John-Kincaid","Hannah-Tincher"],"date-created":"Thursday, August 22nd 2024, 9:02:21 pm","date-modified":"Saturday, August 1st 2026, 2:30:17 pm"}}
+{"dg-publish":true,"permalink":"/records/baldwin-vs-kincaid/","tags":["Thomas-Kincaid","Samuel-Kincaid","John-Kincaid","Hannah-Tincher"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Kincaid","Samuel-Kincaid","John-Kincaid","Hannah-Tincher"],"date-created":"Thursday, August 22nd 2024, 9:02:21 pm","date-modified":"Sunday, August 2nd 2026, 1:27:51 pm"}}
 ---
 
 Here are the children of Thomas Kincaid/Hannah Tincher, named as defendants in the first Chancery Court Case, dated Feb 24, 1819, against the complaint of George Kincaid/wife Johanna Baldwin.

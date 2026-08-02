@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/records/mom/","hideInFiletree":"true","tags":["Alice-Legg"],"noteIcon":"","dg-note-properties":{"tags":["Alice-Legg"],"date-created":"Thursday, August 22nd 2024, 9:02:08 pm","date-modified":"Thursday, July 23rd 2026, 11:53:37 am"}}
+{"dg-publish":true,"permalink":"/records/mom/","tags":["Alice-Legg"],"noteIcon":"","dg-note-properties":{"tags":["Alice-Legg"],"date-created":"Thursday, August 22nd 2024, 9:02:08 pm","date-modified":"Sunday, August 2nd 2026, 1:27:50 pm"}}
 ---
 
 ![Alice 7.jpg](/img/user/assets/Mom.resources/Alice%207.jpg)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/records/new-milton-earliest/","hideInFiletree":"true","tags":["Group-Photos"],"noteIcon":"","dg-note-properties":{"tags":["Group-Photos"],"date-created":"Thursday, August 22nd 2024, 9:02:08 pm","date-modified":"Saturday, August 1st 2026, 4:31:24 pm"}}
+{"dg-publish":true,"permalink":"/records/new-milton-earliest/","tags":["Group-Photos"],"noteIcon":"","dg-note-properties":{"tags":["Group-Photos"],"date-created":"Thursday, August 22nd 2024, 9:02:08 pm","date-modified":"Sunday, August 2nd 2026, 1:27:50 pm"}}
 ---
 
 ![New Milton Earliest.jpg](/img/user/assets/New_Milton_Earliest.resources/New%20Milton%20Earliest.jpg)
