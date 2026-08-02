@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-ancestor-chart/","pinned":"true","dgHomeLink":"x","dgShowBacklinks":"x","dgShowLocalGraph":"x","dgShowInlineTitle":"x","dgShowToc":"x","noteIcon":"2","dg-note-properties":{"date-created":"Monday, February 10th 2025, 7:36:23 pm","date-modified":"Saturday, August 1st 2026, 9:22:10 am"}}
+{"dg-publish":true,"permalink":"/my-ancestor-chart/","pinned":"true","dgHomeLink":"x","dgShowBacklinks":"x","dgShowLocalGraph":"x","dgShowInlineTitle":"x","dgShowToc":"x","noteIcon":"2","dg-note-properties":{"date-created":"Monday, February 10th 2025, 7:36:23 pm","date-modified":"Saturday, August 1st 2026, 9:22:10 am","dg":null}}
 ---
 
 
