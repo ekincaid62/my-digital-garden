@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/ramsey/richard-ramsey-1759-1825/","tags":["Richard-Ramsey"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, March 2nd 2025, 6:39:13 pm","tags":["Richard-Ramsey"]}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/ramsey/richard-ramsey-1759-1825/","tags":["Richard-Ramsey"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Richard-Ramsey"]}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 6:39:13 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  1759 in England
 Death on 1825 in Amherst County, VA

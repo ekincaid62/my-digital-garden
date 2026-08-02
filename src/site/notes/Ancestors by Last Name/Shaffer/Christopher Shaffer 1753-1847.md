@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/shaffer/christopher-shaffer-1753-1847/","tags":["Christopher-Shaffer"],"noteIcon":"","dg-note-properties":{"tags":["Christopher-Shaffer"],"date-created":"Sunday, February 16th 2025, 2:06:12 pm","date-modified":"Friday, February 21st 2025, 4:32:16 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/shaffer/christopher-shaffer-1753-1847/","tags":["Christopher-Shaffer"],"noteIcon":"","dg-note-properties":{"tags":["Christopher-Shaffer"],"date-created":"Sunday, February 16th 2025, 2:06:12 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:32:16 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  1753 in <!-- link to place -->
 Death on 1847 in <!-- link to place -->

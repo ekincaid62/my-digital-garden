@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/mc-clung/william-mc-clung-1772-1853/","tags":["William-McClung-ChunkyBillie"],"noteIcon":"","dg-note-properties":{"tags":["William-McClung-ChunkyBillie"],"date-created":"Tuesday, February 18th 2025, 9:04:09 pm","date-modified":"Wednesday, March 5th 2025, 7:11:15 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/mc-clung/william-mc-clung-1772-1853/","tags":["William-McClung-ChunkyBillie"],"noteIcon":"","dg-note-properties":{"tags":["William-McClung-ChunkyBillie"],"date-created":"Tuesday, February 18th 2025, 9:04:09 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:11:15 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Often referred to as "Chunky Billie"
 Born on  4/11/1772 in <!-- link to place -->

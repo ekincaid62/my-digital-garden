@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/thomas-p-kincaid-1874-1949/","tags":["Thomas-P-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-P-Kincaid"],"date-created":"Sunday, January 5th 2025, 5:29:51 pm","date-modified":"Friday, March 7th 2025, 12:09:26 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/thomas-p-kincaid-1874-1949/","tags":["Thomas-P-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-P-Kincaid"],"date-created":"Sunday, January 5th 2025, 5:29:51 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:09:26 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  3/30/1874 in WV
 [[Records/Thomas P. Kincaid Obituary\|Death]] on 1949 in Nicholas County, WV

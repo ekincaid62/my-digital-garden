@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/mc-clung/robert-mc-clung/","tags":["Rpbert-McClung"],"noteIcon":"","dg-note-properties":{"tags":["Rpbert-McClung"],"date-created":"Sunday, February 9th 2025, 8:54:24 pm","date-modified":"Friday, February 21st 2025, 4:27:35 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/mc-clung/robert-mc-clung/","tags":["Rpbert-McClung"],"noteIcon":"","dg-note-properties":{"tags":["Rpbert-McClung"],"date-created":"Sunday, February 9th 2025, 8:54:24 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:27:35 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  <!-- link to date --> in <!-- link to place -->
 Death on <!-- link to date --> in <!-- link to place -->

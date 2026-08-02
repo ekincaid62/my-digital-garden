@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/potter/martha-jane-potter-1825-1912/","tags":["Martha-Jane-Potter"],"noteIcon":"","dg-note-properties":{"tags":["Martha-Jane-Potter"],"date-created":"Sunday, February 16th 2025, 6:57:23 pm","date-modified":"Friday, March 7th 2025, 7:02:54 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/potter/martha-jane-potter-1825-1912/","tags":["Martha-Jane-Potter"],"noteIcon":"","dg-note-properties":{"tags":["Martha-Jane-Potter"],"date-created":"Sunday, February 16th 2025, 6:57:23 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 7:02:54 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  1825 in <!-- link to place -->
 Death on 1912 in <!-- link to place -->

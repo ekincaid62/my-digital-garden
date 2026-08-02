@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1900-united-states-federal-census-1/","hideInFiletree":"true","tags":["Charles-William-McClung","Mary-C-Amick"],"noteIcon":"","dg-note-properties":{"tags":["Charles-William-McClung","Mary-C-Amick"],"date-created":"Sunday, February 23rd 2025, 11:50:15 am","date-modified":"Sunday, February 23rd 2025, 11:55:54 am"}}
+{"dg-publish":true,"permalink":"/census/1900-united-states-federal-census-1/","tags":["Charles-William-McClung","Mary-C-Amick"],"noteIcon":"","dg-note-properties":{"tags":["Charles-William-McClung","Mary-C-Amick"],"date-created":"Sunday, February 23rd 2025, 11:50:15 am","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 Family 47

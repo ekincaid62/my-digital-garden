@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/wiseman/rebecca-wiseman-1822-1911/","tags":["Rebecca-Wiseman"],"noteIcon":"","dg-note-properties":{"tags":["Rebecca-Wiseman"],"date-created":"Sunday, February 16th 2025, 7:44:35 pm","date-modified":"Wednesday, February 26th 2025, 8:04:01 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/wiseman/rebecca-wiseman-1822-1911/","tags":["Rebecca-Wiseman"],"noteIcon":"","dg-note-properties":{"tags":["Rebecca-Wiseman"],"date-created":"Sunday, February 16th 2025, 7:44:35 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Wednesday, February 26th 2025, 8:04:01 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:52 pm***
 
 Born on  6/4/1822 in Fayette County, WV
 Death on 4/1/1911 in Fayette County, WV

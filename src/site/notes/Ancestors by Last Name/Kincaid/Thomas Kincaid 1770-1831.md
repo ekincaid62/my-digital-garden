@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/thomas-kincaid-1770-1831/","tags":["Thomas-Kincaid-Jr"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Kincaid-Jr"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Friday, February 21st 2025, 4:23:57 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/thomas-kincaid-1770-1831/","tags":["Thomas-Kincaid-Jr"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Kincaid-Jr"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:23:57 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  1770 in Augusta VA
 Death on 1831 in Madison, IN

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1860-united-states-federal-census-record-2/","hideInFiletree":"true","tags":["William-Legg","Elizabeth-Ramsey"],"noteIcon":"","dg-note-properties":{"tags":"William-Legg,Elizabeth-Ramsey","date-created":"Thursday, August 22nd 2024, 9:02:07 pm","date-modified":"Friday, February 21st 2025, 2:47:14 pm"}}
+{"dg-publish":true,"permalink":"/census/1860-united-states-federal-census-record-2/","tags":["William-Legg","Elizabeth-Ramsey"],"noteIcon":"","dg-note-properties":{"tags":"William-Legg,Elizabeth-Ramsey","date-created":"Thursday, August 22nd 2024, 9:02:07 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 **Family 630**

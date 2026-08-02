@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/skaggs/james-preston-skaggs-1820-1899/","tags":["James-Preston-Skaggs"],"noteIcon":"","dg-note-properties":{"tags":["James-Preston-Skaggs"],"date-created":"Sunday, February 16th 2025, 3:07:58 pm","date-modified":"Friday, March 7th 2025, 1:35:36 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/skaggs/james-preston-skaggs-1820-1899/","tags":["James-Preston-Skaggs"],"noteIcon":"","dg-note-properties":{"tags":["James-Preston-Skaggs"],"date-created":"Sunday, February 16th 2025, 3:07:58 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 1:35:36 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:52 pm***
 
 Born on  6/23/1820 in <!-- link to place -->
 Death on <!-- link to date --> in <!-- link to place -->

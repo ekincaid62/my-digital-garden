@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/walker/olive-walker-1823-1856/","tags":["Olive-Walker"],"noteIcon":"","dg-note-properties":{"tags":["Olive-Walker"],"date-created":"Sunday, January 26th 2025, 8:28:42 pm","date-modified":"Friday, February 21st 2025, 4:34:10 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/walker/olive-walker-1823-1856/","tags":["Olive-Walker"],"noteIcon":"","dg-note-properties":{"tags":["Olive-Walker"],"date-created":"Sunday, January 26th 2025, 8:28:42 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:34:10 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:52 pm***
 
 Born on  1823 in Nicholas County, VA
 Death on 12/25/1856 in Gauley River, VA

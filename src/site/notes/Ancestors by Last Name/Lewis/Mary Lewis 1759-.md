@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/lewis/mary-lewis-1759/","tags":["Mary-Lewis"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Saturday, March 1st 2025, 11:07:41 am","tags":["Mary-Lewis"]}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/lewis/mary-lewis-1759/","tags":["Mary-Lewis"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Mary-Lewis"]}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Saturday, March 1st 2025, 11:07:41 am***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  1759 in <!-- link to place -->
 

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/skaggs/laura-beatrice-skaggs-1901-1992/","tags":["Laura-Skaggs"],"noteIcon":"","dg-note-properties":{"tags":["Laura-Skaggs"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Wednesday, March 5th 2025, 7:25:40 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/skaggs/laura-beatrice-skaggs-1901-1992/","tags":["Laura-Skaggs"],"noteIcon":"","dg-note-properties":{"tags":["Laura-Skaggs"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:25:40 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:52 pm***
 
 Born on  10/13/1901 in Victor WV
 Death on 2/9/1992 in Mt. Lookout WV

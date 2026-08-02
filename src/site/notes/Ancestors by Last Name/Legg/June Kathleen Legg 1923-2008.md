@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/legg/june-kathleen-legg-1923-2008/","tags":["June-Legg"],"noteIcon":"","dg-note-properties":{"tags":["June-Legg"],"date-created":"Saturday, January 25th 2025, 5:14:56 pm","date-modified":"Wednesday, March 5th 2025, 7:27:15 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/legg/june-kathleen-legg-1923-2008/","tags":["June-Legg"],"noteIcon":"","dg-note-properties":{"tags":["June-Legg"],"date-created":"Saturday, January 25th 2025, 5:14:56 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:27:15 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  6/14/1928 in Mt Lookout, WV
 Death on 8/20/2008 in Ansted, WV

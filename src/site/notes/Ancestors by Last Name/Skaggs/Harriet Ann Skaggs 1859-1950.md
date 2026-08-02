@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/skaggs/harriet-ann-skaggs-1859-1950/","tags":["Harriet-Ann-Skaggs"],"noteIcon":"","dg-note-properties":{"tags":["Harriet-Ann-Skaggs"],"date-created":"Thursday, February 6th 2025, 6:48:10 pm","date-modified":"Sunday, February 23rd 2025, 10:06:26 am"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/skaggs/harriet-ann-skaggs-1859-1950/","tags":["Harriet-Ann-Skaggs"],"noteIcon":"","dg-note-properties":{"tags":["Harriet-Ann-Skaggs"],"date-created":"Thursday, February 6th 2025, 6:48:10 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Sunday, February 23rd 2025, 10:06:26 am***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:52 pm***
 
 Born on  3/1859 in <!-- link to place -->
 Death on 8/11/1950 in Fayette County, WV

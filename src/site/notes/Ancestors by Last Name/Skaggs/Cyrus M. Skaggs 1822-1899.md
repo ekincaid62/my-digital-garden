@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/skaggs/cyrus-m-skaggs-1822-1899/","tags":["Cyrus-Skaggs"],"noteIcon":"","dg-note-properties":{"tags":["Cyrus-Skaggs"],"date-created":"Thursday, February 6th 2025, 6:50:20 pm","date-modified":"Sunday, February 23rd 2025, 9:53:57 am"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/skaggs/cyrus-m-skaggs-1822-1899/","tags":["Cyrus-Skaggs"],"noteIcon":"","dg-note-properties":{"tags":["Cyrus-Skaggs"],"date-created":"Thursday, February 6th 2025, 6:50:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Sunday, February 23rd 2025, 9:53:57 am***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  12/28/1822 in <!-- link to place -->
 Death on <!-- link to date --> in <!-- link to place -->

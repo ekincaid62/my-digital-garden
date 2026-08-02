@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/wiseman/isaac-ward-wiseman-1802-1892/","tags":["Isaac-Ward-Wiseman"],"noteIcon":"","dg-note-properties":{"tags":["Isaac-Ward-Wiseman"],"date-created":"Wednesday, February 19th 2025, 10:43:35 am","date-modified":"Wednesday, February 26th 2025, 8:10:11 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/wiseman/isaac-ward-wiseman-1802-1892/","tags":["Isaac-Ward-Wiseman"],"noteIcon":"","dg-note-properties":{"tags":["Isaac-Ward-Wiseman"],"date-created":"Wednesday, February 19th 2025, 10:43:35 am","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Wednesday, February 26th 2025, 8:10:11 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:52 pm***
 
 Born on  1802 in <!-- link to place -->
 Death on 1892 in <!-- link to place -->

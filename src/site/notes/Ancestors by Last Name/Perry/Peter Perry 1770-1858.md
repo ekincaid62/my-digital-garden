@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/perry/peter-perry-1770-1858/","tags":["Peter-Perry"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Friday, March 7th 2025, 7:40:20 pm","tags":["Peter-Perry"]}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/perry/peter-perry-1770-1858/","tags":["Peter-Perry"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Peter-Perry"]}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 7:40:20 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  1770 in Orange County, VA
 Death on 12/1858 in Orange County, VA

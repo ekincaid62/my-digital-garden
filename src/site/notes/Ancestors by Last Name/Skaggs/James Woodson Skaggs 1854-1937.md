@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/skaggs/james-woodson-skaggs-1854-1937/","tags":["James-Woodson-Skaggs"],"noteIcon":"","dg-note-properties":{"tags":["James-Woodson-Skaggs"],"date-created":"Thursday, February 6th 2025, 6:46:09 pm","date-modified":"Saturday, February 22nd 2025, 11:10:49 am"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/skaggs/james-woodson-skaggs-1854-1937/","tags":["James-Woodson-Skaggs"],"noteIcon":"","dg-note-properties":{"tags":["James-Woodson-Skaggs"],"date-created":"Thursday, February 6th 2025, 6:46:09 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Saturday, February 22nd 2025, 11:10:49 am***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:52 pm***
 
 Born on  3/17/1854 in <!-- link to place -->
 Death on 4/22/1937 in Fayette County, WV

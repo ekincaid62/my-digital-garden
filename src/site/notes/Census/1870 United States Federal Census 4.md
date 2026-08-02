@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1870-united-states-federal-census-4/","hideInFiletree":"true","tags":["William-Grose","Suzanna-Koontz"],"noteIcon":"","dg-note-properties":{"date-created":"Monday, February 24th 2025, 7:56:00 pm","date-modified":"Monday, February 24th 2025, 7:59:13 pm","tags":["William-Grose","Suzanna-Koontz"]}}
+{"dg-publish":true,"permalink":"/census/1870-united-states-federal-census-4/","tags":["William-Grose","Suzanna-Koontz"],"noteIcon":"","dg-note-properties":{"date-created":"Monday, February 24th 2025, 7:56:00 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","tags":["William-Grose","Suzanna-Koontz"]}}
 ---
 
 Family 117

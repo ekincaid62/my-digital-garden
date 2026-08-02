@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/shaffer/peter-shaffer-1795/","tags":["Peter-Shaffer"],"noteIcon":"","dg-note-properties":{"tags":["Peter-Shaffer"],"date-created":"Saturday, February 15th 2025, 5:12:24 pm","date-modified":"Thursday, February 27th 2025, 8:16:41 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/shaffer/peter-shaffer-1795/","tags":["Peter-Shaffer"],"noteIcon":"","dg-note-properties":{"tags":["Peter-Shaffer"],"date-created":"Saturday, February 15th 2025, 5:12:24 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Thursday, February 27th 2025, 8:16:41 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  2/24/1795 in Blue Sulphur Springs, Greenbrier County, VA
 Death on <!-- link to date --> in <!-- link to place -->

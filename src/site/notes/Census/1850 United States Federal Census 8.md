@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1850-united-states-federal-census-8/","hideInFiletree":"true","tags":["Thomas-Jesse-Legg","Elizabeth-Nutter"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Jesse-Legg","Elizabeth-Nutter"],"date-created":"Wednesday, February 26th 2025, 6:18:49 pm","date-modified":"Wednesday, February 26th 2025, 6:21:41 pm"}}
+{"dg-publish":true,"permalink":"/census/1850-united-states-federal-census-8/","tags":["Thomas-Jesse-Legg","Elizabeth-Nutter"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Jesse-Legg","Elizabeth-Nutter"],"date-created":"Wednesday, February 26th 2025, 6:18:49 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 Family 117

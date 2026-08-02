@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/neal/emelia-neal-1779-1851/","tags":["Emelia-Neal"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, March 2nd 2025, 9:10:56 pm","tags":["Emelia-Neal"]}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/neal/emelia-neal-1779-1851/","tags":["Emelia-Neal"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Emelia-Neal"]}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 9:10:56 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  1779 in Bedford County, VA
 Death on 1851 in Monroe County,VA

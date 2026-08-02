@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/skaggs/james-a-skaggs-1780-1864/","tags":["James-A-Skaggs"],"noteIcon":"","dg-note-properties":{"tags":["James-A-Skaggs"],"date-created":"Thursday, February 6th 2025, 6:52:42 pm","date-modified":"Saturday, March 1st 2025, 3:36:57 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/skaggs/james-a-skaggs-1780-1864/","tags":["James-A-Skaggs"],"noteIcon":"","dg-note-properties":{"tags":["James-A-Skaggs"],"date-created":"Thursday, February 6th 2025, 6:52:42 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Saturday, March 1st 2025, 3:36:57 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:52 pm***
 
 Born on  2/25/1786 in Greenbrier County, VA
 Death on 1864 in Fayette County, VA

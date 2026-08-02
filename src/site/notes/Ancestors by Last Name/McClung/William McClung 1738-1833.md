@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/mc-clung/william-mc-clung-1738-1833/","tags":["William-McClung"],"noteIcon":"","dg-note-properties":{"tags":["William-McClung"],"date-created":"Sunday, February 9th 2025, 8:47:24 pm","date-modified":"Tuesday, March 4th 2025, 6:20:46 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/mc-clung/william-mc-clung-1738-1833/","tags":["William-McClung"],"noteIcon":"","dg-note-properties":{"tags":["William-McClung"],"date-created":"Sunday, February 9th 2025, 8:47:24 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 6:20:46 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Often referred to as "Grandfather Billie"
 Born on  1738 in <!-- link to place -->

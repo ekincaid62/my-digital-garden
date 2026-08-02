@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/william-m-kincaid-1787-1860/","tags":["William-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["William-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, October 12th 2025, 12:00:16 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/william-m-kincaid-1787-1860/","tags":["William-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["William-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Sunday, October 12th 2025, 12:00:16 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Some refer to him as "Moccasin Bill"
 Born on  1787 in Greenbrier VA

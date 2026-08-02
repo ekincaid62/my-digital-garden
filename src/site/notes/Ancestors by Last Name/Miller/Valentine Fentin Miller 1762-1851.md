@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/miller/valentine-fentin-miller-1762-1851/","tags":["Valentine-Fentin-Miller"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Saturday, March 1st 2025, 4:03:50 pm","tags":["Valentine-Fentin-Miller"]}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/miller/valentine-fentin-miller-1762-1851/","tags":["Valentine-Fentin-Miller"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Valentine-Fentin-Miller"]}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Saturday, March 1st 2025, 4:03:50 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  1/12/1762 in Augusta County, VA
 Death on 1851 in Monroe County, WV

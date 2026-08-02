@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1830-and-1840-census-records/","hideInFiletree":"true","tags":["Thomas-Kincaid","Samuel-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":"Thomas-Kincaid,Samuel-Kincaid","created":"2019-07-24T18:58","updated":"2024-07-03T20:54","date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Friday, February 21st 2025, 2:46:54 pm"}}
+{"dg-publish":true,"permalink":"/census/1830-and-1840-census-records/","tags":["Thomas-Kincaid","Samuel-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":"Thomas-Kincaid,Samuel-Kincaid","created":"2019-07-24T18:58","updated":"2024-07-03T20:54","date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 1830

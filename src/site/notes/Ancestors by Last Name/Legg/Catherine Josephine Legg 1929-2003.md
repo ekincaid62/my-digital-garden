@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/legg/catherine-josephine-legg-1929-2003/","tags":["Kata-Legg"],"noteIcon":"","dg-note-properties":{"tags":["Kata-Legg"],"date-created":"Saturday, January 25th 2025, 5:38:32 pm","date-modified":"Wednesday, March 5th 2025, 7:26:58 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/legg/catherine-josephine-legg-1929-2003/","tags":["Kata-Legg"],"noteIcon":"","dg-note-properties":{"tags":["Kata-Legg"],"date-created":"Saturday, January 25th 2025, 5:38:32 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:26:58 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  4/21/1929 in Mt Lookout, WV
 Death on 12/3/2003 in Mt Lookout, WV

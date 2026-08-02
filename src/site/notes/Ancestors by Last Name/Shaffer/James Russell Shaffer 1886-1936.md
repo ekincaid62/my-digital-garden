@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/shaffer/james-russell-shaffer-1886-1936/","tags":["James-Russell-Shaffer"],"noteIcon":"","dg-note-properties":{"tags":["James-Russell-Shaffer"],"date-created":"Saturday, February 15th 2025, 4:06:20 pm","date-modified":"Saturday, February 22nd 2025, 11:55:18 am"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/shaffer/james-russell-shaffer-1886-1936/","tags":["James-Russell-Shaffer"],"noteIcon":"","dg-note-properties":{"tags":["James-Russell-Shaffer"],"date-created":"Saturday, February 15th 2025, 4:06:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Saturday, February 22nd 2025, 11:55:18 am***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  6/9/1886 in <!-- link to place -->
 Death on <!-- link to date --> in <!-- link to place -->

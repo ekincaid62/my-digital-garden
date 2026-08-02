@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/wiseman/margaret-wiseman-1777-1869/","tags":["Margaret-Wiseman"],"noteIcon":"","dg-note-properties":{"tags":["Margaret-Wiseman"],"date-created":"Wednesday, February 19th 2025, 9:54:21 am","date-modified":"Sunday, March 2nd 2025, 7:07:56 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/wiseman/margaret-wiseman-1777-1869/","tags":["Margaret-Wiseman"],"noteIcon":"","dg-note-properties":{"tags":["Margaret-Wiseman"],"date-created":"Wednesday, February 19th 2025, 9:54:21 am","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 7:07:56 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:52 pm***
 
 Born on  1777 in Berks County, PA
 Death on 1869 in <!-- link to place -->

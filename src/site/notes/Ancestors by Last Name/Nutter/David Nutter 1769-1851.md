@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/nutter/david-nutter-1769-1851/","tags":["David-Nutter"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Friday, March 7th 2025, 7:56:45 pm","tags":["David-Nutter"]}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/nutter/david-nutter-1769-1851/","tags":["David-Nutter"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["David-Nutter"]}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 7:56:45 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  1769 in Sussex, MD
 Death on 2/14/1851 in Nicholas County, VA

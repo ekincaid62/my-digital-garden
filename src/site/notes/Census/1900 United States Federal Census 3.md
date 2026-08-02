@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1900-united-states-federal-census-3/","hideInFiletree":"true","tags":["Lana-Walker"],"noteIcon":"","dg-note-properties":{"tags":["Lana-Walker"],"date-created":"Friday, February 28th 2025, 9:52:11 pm","date-modified":"Friday, February 28th 2025, 9:54:40 pm"}}
+{"dg-publish":true,"permalink":"/census/1900-united-states-federal-census-3/","tags":["Lana-Walker"],"noteIcon":"","dg-note-properties":{"tags":["Lana-Walker"],"date-created":"Friday, February 28th 2025, 9:52:11 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 Family 284

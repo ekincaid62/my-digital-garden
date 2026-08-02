@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/walker/lana-walker-1819-1911/","tags":["Lana-Walker"],"noteIcon":"","dg-note-properties":{"tags":["Lana-Walker"],"date-created":"Tuesday, February 18th 2025, 7:27:22 pm","date-modified":"Sunday, March 2nd 2025, 10:23:23 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/walker/lana-walker-1819-1911/","tags":["Lana-Walker"],"noteIcon":"","dg-note-properties":{"tags":["Lana-Walker"],"date-created":"Tuesday, February 18th 2025, 7:27:22 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 10:23:23 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:52 pm***
 
 Born on  1819 in <!-- link to place -->
 Death on 1911 in <!-- link to place -->

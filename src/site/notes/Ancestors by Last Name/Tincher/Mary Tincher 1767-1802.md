@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/tincher/mary-tincher-1767-1802/","noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Friday, February 28th 2025, 11:02:50 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/tincher/mary-tincher-1767-1802/","noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 28th 2025, 11:02:50 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:52 pm***
 
 Born on  1767 in <!-- link to place -->
 

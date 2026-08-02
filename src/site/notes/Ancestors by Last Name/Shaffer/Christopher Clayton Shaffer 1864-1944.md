@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/shaffer/christopher-clayton-shaffer-1864-1944/","tags":["Christopher-Clayton-Shaffer"],"noteIcon":"","dg-note-properties":{"tags":["Christopher-Clayton-Shaffer"],"date-created":"Friday, September 27th 2024, 6:24:13 pm","date-modified":"Friday, March 7th 2025, 12:06:44 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/shaffer/christopher-clayton-shaffer-1864-1944/","tags":["Christopher-Clayton-Shaffer"],"noteIcon":"","dg-note-properties":{"tags":["Christopher-Clayton-Shaffer"],"date-created":"Friday, September 27th 2024, 6:24:13 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:06:44 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  1/26/1864 in Mt. Lookout, WV
 Death on 1944 in Mt. Lookout, WV

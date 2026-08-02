@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/mc-clung/mary-frances-mc-clung-1838-1865/","tags":["Mary-Francis-McClung"],"noteIcon":"","dg-note-properties":{"tags":["Mary-Francis-McClung"],"date-created":"Sunday, February 16th 2025, 8:08:48 pm","date-modified":"Tuesday, March 4th 2025, 6:14:51 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/mc-clung/mary-frances-mc-clung-1838-1865/","tags":["Mary-Francis-McClung"],"noteIcon":"","dg-note-properties":{"tags":["Mary-Francis-McClung"],"date-created":"Sunday, February 16th 2025, 8:08:48 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 6:14:51 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  1838 in <!-- link to place -->
 Death on 1865 in <!-- link to place -->

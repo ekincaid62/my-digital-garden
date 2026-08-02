@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1850-united-states-federal-census/","hideInFiletree":"true","tags":["William-Kincaid","Jane-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["William-Kincaid","Jane-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:13 pm","date-modified":"Friday, February 21st 2025, 2:47:02 pm"}}
+{"dg-publish":true,"permalink":"/census/1850-united-states-federal-census/","tags":["William-Kincaid","Jane-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["William-Kincaid","Jane-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:13 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 **Household 66**

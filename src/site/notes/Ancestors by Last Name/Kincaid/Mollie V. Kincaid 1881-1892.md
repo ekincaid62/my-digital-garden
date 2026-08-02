@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/mollie-v-kincaid-1881-1892/","tags":["Mollie-V-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Mollie-V-Kincaid"],"date-created":"Saturday, January 25th 2025, 2:56:12 pm","date-modified":"Friday, March 7th 2025, 12:10:28 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/mollie-v-kincaid-1881-1892/","tags":["Mollie-V-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Mollie-V-Kincaid"],"date-created":"Saturday, January 25th 2025, 2:56:12 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:10:28 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  4/9/1881 in Mountain Cove, Fayette, WV
 Death on 1892 in Mountain Cove, Fayette, WV

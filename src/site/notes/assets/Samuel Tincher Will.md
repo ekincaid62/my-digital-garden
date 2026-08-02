@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/samuel-tincher-will/","hideInFiletree":"true","tags":["Thomas-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Kincaid"],"source":"http://www.genealogy.com/forum/surnames/topics/tincher/166/","date-created":"Friday, July 18th 2025, 2:55:12 pm","date-modified":"Saturday, August 1st 2026, 10:24:08 pm"}}
+{"dg-publish":true,"permalink":"/assets/samuel-tincher-will/","tags":["Thomas-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Kincaid"],"source":"http://www.genealogy.com/forum/surnames/topics/tincher/166/","date-created":"Friday, July 18th 2025, 2:55:12 pm","date-modified":"Sunday, August 2nd 2026, 1:27:51 pm"}}
 ---
 
 Will dated March 15, 1790       
