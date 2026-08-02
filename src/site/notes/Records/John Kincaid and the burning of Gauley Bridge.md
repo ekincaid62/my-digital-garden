@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/records/john-kincaid-and-the-burning-of-gauley-bridge/","noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Monday, July 21st 2025, 3:46:05 pm"}}
+{"dg-publish":true,"permalink":"/records/john-kincaid-and-the-burning-of-gauley-bridge/","hideInFiletree":"true","noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Monday, July 21st 2025, 3:46:05 pm"}}
 ---
 
 #John-Kincaid #Matthew-Kincaid

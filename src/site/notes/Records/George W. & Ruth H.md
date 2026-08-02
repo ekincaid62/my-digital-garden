@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/records/george-w-and-ruth-h/","tags":["George-W-Deitz","Ruth-H-Deitz"],"noteIcon":"","dg-note-properties":{"tags":["George-W-Deitz","Ruth-H-Deitz"],"date-created":"Thursday, August 22nd 2024, 9:02:10 pm","date-modified":"Saturday, August 1st 2026, 4:05:34 pm"}}
+{"dg-publish":true,"permalink":"/records/george-w-and-ruth-h/","hideInFiletree":"true","tags":["George-W-Deitz","Ruth-H-Deitz"],"noteIcon":"","dg-note-properties":{"tags":["George-W-Deitz","Ruth-H-Deitz"],"date-created":"Thursday, August 22nd 2024, 9:02:10 pm","date-modified":"Saturday, August 1st 2026, 4:05:34 pm"}}
 ---
 
 ![George W. & Ruth H.jpg](/img/user/assets/George_W._&_Ruth_H.jpg.resources/George%20W.%20&%20Ruth%20H.jpg)

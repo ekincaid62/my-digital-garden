@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/records/new-milton-school-2/","noteIcon":"","dg-note-properties":{"date-created":"Friday, July 18th 2025, 2:55:35 pm","date-modified":"Saturday, August 1st 2026, 4:32:04 pm"}}
+{"dg-publish":true,"permalink":"/records/new-milton-school-2/","hideInFiletree":"true","noteIcon":"","dg-note-properties":{"date-created":"Friday, July 18th 2025, 2:55:35 pm","date-modified":"Saturday, August 1st 2026, 4:32:04 pm"}}
 ---
 
 
