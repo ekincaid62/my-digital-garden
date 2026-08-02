@@ -6,7 +6,7 @@
 
 Born on 1818 in Greenbrier County WV
 Death on 8/1891 in Fayette County WV
-The [[Records/Kincaid Family Bible\|Kincaid Family Bible]] shows John being the son of William and Jane. This now in the West Virginia State Archives and is no longer accessible.
+The [[Vault/Records/Kincaid Family Bible\|Kincaid Family Bible]] shows John being the son of William and Jane. This now in the West Virginia State Archives and is no longer accessible.
 
 ---
 #### Parents
@@ -36,17 +36,17 @@ The [[Records/Kincaid Family Bible\|Kincaid Family Bible]] shows John being the 
 [[Jonathan Lloyd Kincaid 1858-1886\|Jonathan Lloyd Kincaid 1858-1886]]
 
 #### Census Records
-[[Census/1880 United States Federal Census Record\|1880 United States Federal Census]]
-[[Census/1870 United States Federal Census\|1870 United States Federal Census]]
-[[Census/1860 United States Federal Census Record\|1860 United States Census]]
-[[Census/1850 United States Federal Census Record\|1850 United States Census]]
+[[Vault/Census/1880 United States Federal Census Record\|1880 United States Federal Census]]
+[[Vault/Census/1870 United States Federal Census\|1870 United States Federal Census]]
+[[Vault/Census/1860 United States Federal Census Record\|1860 United States Census]]
+[[Vault/Census/1850 United States Federal Census Record\|1850 United States Census]]
 
 #### Land Transfers
 
 #### Biography
 
 #### Photos
-[[Records/John A. Kincaid\|John A. Kincaid]]
+[[Vault/Records/John A. Kincaid\|John A. Kincaid]]
 #### Sources
 
-[[Records/John A. and Sarah Kincaid Headstone\|John A. and Sarah Kincaid Headstone]]
+[[Vault/Records/John A. and Sarah Kincaid Headstone\|John A. and Sarah Kincaid Headstone]]

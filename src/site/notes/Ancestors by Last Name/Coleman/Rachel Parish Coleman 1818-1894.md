@@ -19,10 +19,10 @@ Death on 1894 in <!-- link to place -->
 [[Ancestors by Last Name/Skaggs/Cyrus M. Skaggs 1822-1899\|Cyrus M. Skaggs 1822-1899]]   married 9/9/1842 in Fayette County, VA
 [[Ancestors by Last Name/Skaggs/James Woodson Skaggs 1854-1937\|James Woodson Skaggs 1854-1937]]
 #### Census Records
-[[Census/1880 United States Federal Census\|1880 United States Federal Census]]
-[[Census/1870 United States Federal Census 1\|1870 United States Federal Census]]
-[[Census/1860 United States Federal Census 2\|1860 United States Federal Census]]
-[[Census/1850 United States Federal Census 4\|1850 United States Federal Census]]
+[[Vault/Census/1880 United States Federal Census\|1880 United States Federal Census]]
+[[Vault/Census/1870 United States Federal Census 1\|1870 United States Federal Census]]
+[[Vault/Census/1860 United States Federal Census 2\|1860 United States Federal Census]]
+[[Vault/Census/1850 United States Federal Census 4\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

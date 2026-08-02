@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home/","pinned":"true","tags":["gardenEntry"],"noteIcon":"3","dg-note-properties":{"date-created":"Monday, February 3rd 2025, 10:24:22 pm","date-modified":"Saturday, August 1st 2026, 10:49:11 pm"}}
 ---
 
-![Ace.png\|Header4.png](/img/user/assets/Ace.png)
+![Ace.png\|Header4.png](/img/user/Vault/assets/Ace.png)
 
 <br><br>
 

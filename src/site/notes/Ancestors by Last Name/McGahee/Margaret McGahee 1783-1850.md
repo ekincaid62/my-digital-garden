@@ -20,7 +20,7 @@ Death on 1850 in <!-- link to place -->
 [[Ancestors by Last Name/Walker/Olive Walker 1823-1856\|Olive Walker 1823-1856]]
 
 #### Census Records
-[[Census/1850 United States Federal Census 7\|1850 United States Federal Census]]
+[[Vault/Census/1850 United States Federal Census 7\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

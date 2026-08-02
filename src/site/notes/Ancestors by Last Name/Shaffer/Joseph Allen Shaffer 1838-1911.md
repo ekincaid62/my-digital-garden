@@ -36,11 +36,11 @@ Death on <!-- link to date --> in <!-- link to place -->
 [[Ancestors by Last Name/Shaffer/James Russell Shaffer 1886-1936\|James Russell Shaffer 1886-1936]]
 [[Louisa Shaffer 1889-1930\|Louisa Shaffer 1889-1930]]
 #### Census Records
-[[Census/1910 United States Federal Census Record\|1910 United States Federal Census Record]]
-[[Census/1900 United States Federal Census\|1900 United States Federal Census]]
-[[Census/1880 United States Federal Census Record 1\|1880 United States Federal Census Record]]
-[[Census/1870 United States Federal Census Record\|1870 United States Federal Census Record]]
-[[Census/1850 United States Federal Census 3\|1850 United States Federal Census]]
+[[Vault/Census/1910 United States Federal Census Record\|1910 United States Federal Census Record]]
+[[Vault/Census/1900 United States Federal Census\|1900 United States Federal Census]]
+[[Vault/Census/1880 United States Federal Census Record 1\|1880 United States Federal Census Record]]
+[[Vault/Census/1870 United States Federal Census Record\|1870 United States Federal Census Record]]
+[[Vault/Census/1850 United States Federal Census 3\|1850 United States Federal Census]]
 #### Land Transfers
 
 #### Biography

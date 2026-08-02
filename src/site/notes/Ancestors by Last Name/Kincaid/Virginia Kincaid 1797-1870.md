@@ -38,13 +38,13 @@ Death on 1870 in Nicholas County, VA
 
 Perhaps Elizabeth Jane is incorrect the [History of the Kincaid Family](https://drive.google.com/file/d/0B0oZv34v0ajXVUstZkJEV2hUdW8/view?usp=sharing&resourcekey=0-gyR8XsVV5zkjlqS8Sd_HRw) mentions Betty being the only daughter.
 #### Census Records
-[[Census/1860 United States Federal Census\|1860 United States Federal Census]]
-[[Census/1850 United States Federal Census\|1850 United States Federal Census]]
-[[Census/1840 Census Record\|1840 Census Record]]
+[[Vault/Census/1860 United States Federal Census\|1860 United States Federal Census]]
+[[Vault/Census/1850 United States Federal Census\|1850 United States Federal Census]]
+[[Vault/Census/1840 Census Record\|1840 Census Record]]
 
 #### Land Transfers
-[[Land Transfers/Fayette County DB. C Pg 793 dated 5 Aug. 1847 (William Kincaid to Gwinn)\|Fayette County DB. C Pg 793 dated 5 Aug. 1847 (William Kincaid to Gwinn)]] shows Diana living on land
-[[Land Transfers/Fayette Co. DB E Pg 173 dated 16 June 1849 (to John Gwinn)\|Fayette Co. DB E Pg 173 dated 16 June 1849 (to John Gwinn)]]
+[[Vault/Land Transfers/Fayette County DB. C Pg 793 dated 5 Aug. 1847 (William Kincaid to Gwinn)\|Fayette County DB. C Pg 793 dated 5 Aug. 1847 (William Kincaid to Gwinn)]] shows Diana living on land
+[[Vault/Land Transfers/Fayette Co. DB E Pg 173 dated 16 June 1849 (to John Gwinn)\|Fayette Co. DB E Pg 173 dated 16 June 1849 (to John Gwinn)]]
 #### Biography
 
 #### Photos

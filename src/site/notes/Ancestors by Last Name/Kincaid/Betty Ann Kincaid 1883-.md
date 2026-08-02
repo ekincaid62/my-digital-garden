@@ -25,13 +25,13 @@ Death on <!-- link to date --> in <!-- link to place -->
 <!-- Link to child -->
 
 #### Census Records
-[[Census/1900 United States Federal Census Record\|1900 United States Federal Census]]
+[[Vault/Census/1900 United States Federal Census Record\|1900 United States Federal Census]]
 
 #### Land Transfers
 
 #### Biography
 
 #### Photos
-[[Records/Adam & Betty Myers\|Adam & Betty Myers]]
+[[Vault/Records/Adam & Betty Myers\|Adam & Betty Myers]]
 #### Sources
 [Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p39

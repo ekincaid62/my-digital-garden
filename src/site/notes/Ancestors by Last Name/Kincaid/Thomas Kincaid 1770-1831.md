@@ -27,7 +27,7 @@ Death on 1831 in Madison, IN
 #### Census Records
 
 #### Land Transfers
-[[Land Transfers/Greenbrier County, DB 1 Pg 151 dated 24 Apr 1792 (Thomas and Hannah to Thomas Jr.)\|Greenbrier County, DB 1 Pg 151 dated 24 Apr 1792 (Thomas and Hannah to Thomas Jr.)]]
+[[Vault/Land Transfers/Greenbrier County, DB 1 Pg 151 dated 24 Apr 1792 (Thomas and Hannah to Thomas Jr.)\|Greenbrier County, DB 1 Pg 151 dated 24 Apr 1792 (Thomas and Hannah to Thomas Jr.)]]
 
 #### Biography
 
