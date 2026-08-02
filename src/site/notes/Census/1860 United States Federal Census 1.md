@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"permalink":"/census/1860-united-states-federal-census-1/","tags":["Harriet-Ann-Skaggs","James-Preston-Skaggs","Martha-Jane-Potter"],"noteIcon":"","dg-note-properties":{"tags":["Harriet-Ann-Skaggs","James-Preston-Skaggs","Martha-Jane-Potter"],"date-created":"Friday, February 21st 2025, 10:58:00 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
----
-
-Family 440
-James P Skaggs
-![1860 United States Federal Census.jpg](/img/user/assets/1860%20United%20States%20Federal%20Census.jpg)
