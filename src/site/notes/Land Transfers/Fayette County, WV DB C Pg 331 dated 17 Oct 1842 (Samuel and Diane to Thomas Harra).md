@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/land-transfers/fayette-county-wv-db-c-pg-331-dated-17-oct-1842-samuel-and-diane-to-thomas-harra/","hideInFiletree":"true","tags":["Samuel-Kincaid","Robert-Harrah","Thomas-Harrah","Meadow-River","fayette"],"noteIcon":"","dg-note-properties":{"tags":"Samuel-Kincaid,Robert-Harrah,Thomas-Harrah,Meadow-River,fayette","date-created":"Thursday, August 22nd 2024, 9:02:21 pm","date-modified":"Friday, July 18th 2025, 7:30:43 pm"}}
+{"dg-publish":true,"permalink":"/land-transfers/fayette-county-wv-db-c-pg-331-dated-17-oct-1842-samuel-and-diane-to-thomas-harra/","hideInFiletree":"true","tags":["Samuel-Kincaid","Robert-Harrah","Thomas-Harrah","Meadow-River","fayette"],"noteIcon":"","dg-note-properties":{"tags":"Samuel-Kincaid,Robert-Harrah,Thomas-Harrah,Meadow-River,fayette","date-created":"Thursday, August 22nd 2024, 9:02:21 pm","date-modified":"Saturday, August 1st 2026, 10:39:46 pm"}}
 ---
 
 Samuel Kincaid and Diane his wife sell to Thomas Harra, all
