@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dataview-by-tag/","hideInFiletree":"true","noteIcon":"","dg-note-properties":{"date-created":"Sunday, January 26th 2025, 7:37:48 pm","date-modified":"Monday, September 29th 2025, 5:42:40 pm"}}
+{"dg-publish":true,"permalink":"/dataview-by-tag/","noteIcon":"","dg-note-properties":{"date-created":"Sunday, January 26th 2025, 7:37:48 pm","date-modified":"Sunday, August 2nd 2026, 2:54:54 pm"}}
 ---
 
 - [[Vault/assets/Untitled Note\|Untitled Note]]
