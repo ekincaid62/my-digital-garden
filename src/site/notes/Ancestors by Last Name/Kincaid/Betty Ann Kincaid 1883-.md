@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/betty-ann-kincaid-1883/","tags":["Betty-Ann-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Betty-Ann-Kincaid"],"date-created":"Saturday, January 25th 2025, 3:01:35 pm","date-modified":"Friday, March 7th 2025, 12:10:41 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/betty-ann-kincaid-1883/","tags":["Betty-Ann-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Betty-Ann-Kincaid"],"date-created":"Saturday, January 25th 2025, 3:01:35 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:10:41 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  4/15/1883 in WV
 Death on <!-- link to date --> in <!-- link to place -->

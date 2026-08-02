@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/james-gillespie-kincaid-1792-1852/","noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Friday, August 1st 2025, 5:03:52 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/james-gillespie-kincaid-1792-1852/","noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, August 1st 2025, 5:03:52 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  12/19/1792 in <!-- link to place -->
 

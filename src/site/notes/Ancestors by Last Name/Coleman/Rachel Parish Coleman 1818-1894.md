@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/coleman/rachel-parish-coleman-1818-1894/","tags":["Rachel-Parish-Coleman"],"noteIcon":"","dg-note-properties":{"tags":["Rachel-Parish-Coleman"],"date-created":"Sunday, February 16th 2025, 6:54:20 pm","date-modified":"Friday, March 7th 2025, 1:09:58 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/coleman/rachel-parish-coleman-1818-1894/","tags":["Rachel-Parish-Coleman"],"noteIcon":"","dg-note-properties":{"tags":["Rachel-Parish-Coleman"],"date-created":"Sunday, February 16th 2025, 6:54:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 1:09:58 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  1818 in <!-- link to place -->
 Death on 1894 in <!-- link to place -->

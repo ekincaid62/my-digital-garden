@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1920-united-states-federal-census-record-1/","hideInFiletree":"true","tags":["Laura-Skaggs","James-Woodson-Skaggs"],"noteIcon":"","dg-note-properties":{"tags":"Laura-Skaggs,James-Woodson-Skaggs","date-created":"Thursday, August 22nd 2024, 9:02:07 pm","date-modified":"Friday, February 21st 2025, 2:47:43 pm"}}
+{"dg-publish":true,"permalink":"/census/1920-united-states-federal-census-record-1/","tags":["Laura-Skaggs","James-Woodson-Skaggs"],"noteIcon":"","dg-note-properties":{"tags":"Laura-Skaggs,James-Woodson-Skaggs","date-created":"Thursday, August 22nd 2024, 9:02:07 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 ![1920 United States Federal Census Record.jpg](/img/user/assets/1920_United_States_Federal_Census_Record.resources/1920%20United%20States%20Federal%20Census%20Record.jpg)

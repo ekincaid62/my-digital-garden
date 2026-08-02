@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/patents/3-july-1816-thomas-kincaid-sr-42-ac-patent/","hideInFiletree":"true","tags":["Thomas-Kincaid","Muddy-Creek"],"noteIcon":"","dg-note-properties":{"tags":"Thomas-Kincaid,Muddy-Creek"}}
+{"dg-publish":true,"permalink":"/patents/3-july-1816-thomas-kincaid-sr-42-ac-patent/","tags":["Thomas-Kincaid","Muddy-Creek"],"noteIcon":"","dg-note-properties":{"tags":"Thomas-Kincaid,Muddy-Creek","date-created":"Friday, July 18th 2025, 2:55:34 pm","date-modified":"Sunday, August 2nd 2026, 1:27:48 pm"}}
 ---
 
 Greenbrier County (W)Va.

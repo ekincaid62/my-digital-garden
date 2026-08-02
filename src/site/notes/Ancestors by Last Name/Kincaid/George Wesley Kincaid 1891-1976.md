@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/george-wesley-kincaid-1891-1976/","tags":["George-Wesley-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["George-Wesley-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, October 12th 2025, 2:57:59 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/george-wesley-kincaid-1891-1976/","tags":["George-Wesley-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["George-Wesley-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Sunday, October 12th 2025, 2:57:59 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  3/13/1891 in Mt Lookout, WV
 Death on 6/1976 in Summersville WV

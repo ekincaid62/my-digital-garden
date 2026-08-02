@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/hawkins/nicholas-hawkins-1819-1869/","tags":["Nicholas-Hawkins"],"noteIcon":"","dg-note-properties":{"tags":["Nicholas-Hawkins"],"date-created":"Sunday, February 16th 2025, 7:15:36 pm","date-modified":"Wednesday, February 26th 2025, 8:03:43 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/hawkins/nicholas-hawkins-1819-1869/","tags":["Nicholas-Hawkins"],"noteIcon":"","dg-note-properties":{"tags":["Nicholas-Hawkins"],"date-created":"Sunday, February 16th 2025, 7:15:36 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Wednesday, February 26th 2025, 8:03:43 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  3/9/1819 in Harrison County, KY
 Death on 12/13/1869 in Fayette County, WV

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/cottle/ruth-cottle-1770-1810/","tags":["Ruth-Cottle"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, March 2nd 2025, 6:25:02 pm","tags":["Ruth-Cottle"]}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/cottle/ruth-cottle-1770-1810/","tags":["Ruth-Cottle"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Ruth-Cottle"]}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 6:25:02 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  7/10/1770 in Somerset, MD
 Death on 7/10/1810 in Monroe County, VA

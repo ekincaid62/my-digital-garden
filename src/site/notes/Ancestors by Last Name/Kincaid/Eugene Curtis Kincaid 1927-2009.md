@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/eugene-curtis-kincaid-1927-2009/","tags":["Eugene-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Eugene-Kincaid"],"date-created":"Friday, September 27th 2024, 6:08:41 pm","date-modified":"Wednesday, March 5th 2025, 7:23:12 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/eugene-curtis-kincaid-1927-2009/","tags":["Eugene-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Eugene-Kincaid"],"date-created":"Friday, September 27th 2024, 6:08:41 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:23:12 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  12/02/1927 in Mt Lookout, WV
 Death on 5/26/2009 in Pineville, NC

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1950-united-states-federal-census-1/","hideInFiletree":"true","noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Friday, February 21st 2025, 9:34:50 pm"}}
+{"dg-publish":true,"permalink":"/census/1950-united-states-federal-census-1/","noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Sunday, August 2nd 2026, 1:27:51 pm"}}
 ---
 
 #Fred-Legg #Mamie-Catherine-Shaffer #Charles-William-Legg 

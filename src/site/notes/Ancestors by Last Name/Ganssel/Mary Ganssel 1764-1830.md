@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/ganssel/mary-ganssel-1764-1830/","tags":["Mary-Ganssel"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Saturday, March 1st 2025, 11:24:00 am","tags":["Mary-Ganssel"]}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/ganssel/mary-ganssel-1764-1830/","tags":["Mary-Ganssel"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Mary-Ganssel"]}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Saturday, March 1st 2025, 11:24:00 am***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  1764 in Pennsylvania
 Death on 1/1830 in Nicholas County, WV

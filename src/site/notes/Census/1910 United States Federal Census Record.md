@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1910-united-states-federal-census-record/","hideInFiletree":"true","tags":["George-Wesley-Kincaid","James-William-Kincaid","Sarah-Virginia-Keenan","Christopher-Clayton-Shaffer","Mamie-Catherine-Shaffer","Dorcas-McClung","Joseph-Allen-Shaffer","Thomas-P-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["George-Wesley-Kincaid","James-William-Kincaid","Sarah-Virginia-Keenan","Christopher-Clayton-Shaffer","Mamie-Catherine-Shaffer","Dorcas-McClung","Joseph-Allen-Shaffer","Thomas-P-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:13 pm","date-modified":"Saturday, February 22nd 2025, 11:42:47 am"}}
+{"dg-publish":true,"permalink":"/census/1910-united-states-federal-census-record/","tags":["George-Wesley-Kincaid","James-William-Kincaid","Sarah-Virginia-Keenan","Christopher-Clayton-Shaffer","Mamie-Catherine-Shaffer","Dorcas-McClung","Joseph-Allen-Shaffer","Thomas-P-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["George-Wesley-Kincaid","James-William-Kincaid","Sarah-Virginia-Keenan","Christopher-Clayton-Shaffer","Mamie-Catherine-Shaffer","Dorcas-McClung","Joseph-Allen-Shaffer","Thomas-P-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:13 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 Household 45

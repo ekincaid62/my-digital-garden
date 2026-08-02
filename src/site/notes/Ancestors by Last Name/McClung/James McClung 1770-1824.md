@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/mc-clung/james-mc-clung-1770-1824/","tags":["James-McClung"],"noteIcon":"","dg-note-properties":{"tags":["James-McClung"],"date-created":"Thursday, February 6th 2025, 9:51:23 pm","date-modified":"Tuesday, March 4th 2025, 5:54:25 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/mc-clung/james-mc-clung-1770-1824/","tags":["James-McClung"],"noteIcon":"","dg-note-properties":{"tags":["James-McClung"],"date-created":"Thursday, February 6th 2025, 9:51:23 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 5:54:25 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  3/24/1770 in <!-- link to place -->
 Death on 7/24/1824 in <!-- link to place -->

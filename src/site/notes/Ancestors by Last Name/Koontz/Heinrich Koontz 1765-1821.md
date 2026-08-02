@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/koontz/heinrich-koontz-1765-1821/","tags":["Heinrich-Koontz"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Saturday, March 1st 2025, 11:45:58 am","tags":["Heinrich-Koontz"]}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/koontz/heinrich-koontz-1765-1821/","tags":["Heinrich-Koontz"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Heinrich-Koontz"]}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Saturday, March 1st 2025, 11:45:58 am***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  1765 in Pennsylvania
 Death on 1821 in Nicholas County, VA

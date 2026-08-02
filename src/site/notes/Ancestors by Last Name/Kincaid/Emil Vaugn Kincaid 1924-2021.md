@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/emil-vaugn-kincaid-1924-2021/","tags":["Emil-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Emil-Kincaid"],"date-created":"Friday, September 27th 2024, 5:54:43 pm","date-modified":"Wednesday, March 5th 2025, 7:22:56 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/emil-vaugn-kincaid-1924-2021/","tags":["Emil-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Emil-Kincaid"],"date-created":"Friday, September 27th 2024, 5:54:43 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:22:56 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  2/18/1924 in Mt. Lookout,WV
 Death on 12/31/2021 in Woodbridge, VA

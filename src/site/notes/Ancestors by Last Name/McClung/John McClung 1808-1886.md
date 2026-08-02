@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/mc-clung/john-mc-clung-1808-1886/","tags":["John-McClung"],"noteIcon":"","dg-note-properties":{"tags":["John-McClung"],"date-created":"Thursday, February 6th 2025, 9:24:41 pm","date-modified":"Tuesday, March 4th 2025, 5:56:47 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/mc-clung/john-mc-clung-1808-1886/","tags":["John-McClung"],"noteIcon":"","dg-note-properties":{"tags":["John-McClung"],"date-created":"Thursday, February 6th 2025, 9:24:41 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 5:56:47 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  1808 in <!-- link to place -->
 Death on 7/1886 in <!-- link to place -->

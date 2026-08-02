@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/keenan/sarah-virginia-keenan-1849-1920/","tags":["Sarah-Virginia-Keenan"],"noteIcon":"","dg-note-properties":{"tags":["Sarah-Virginia-Keenan"],"date-created":"Friday, September 27th 2024, 6:46:55 pm","date-modified":"Friday, March 7th 2025, 12:09:03 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/keenan/sarah-virginia-keenan-1849-1920/","tags":["Sarah-Virginia-Keenan"],"noteIcon":"","dg-note-properties":{"tags":["Sarah-Virginia-Keenan"],"date-created":"Friday, September 27th 2024, 6:46:55 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, March 7th 2025, 12:09:03 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  3/1849 in Fayette, WV
 Death on after 1920 in Mt Lookout, WV

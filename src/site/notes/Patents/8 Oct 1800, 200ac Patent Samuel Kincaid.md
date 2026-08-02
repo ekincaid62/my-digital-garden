@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/patents/8-oct-1800-200ac-patent-samuel-kincaid/","tags":["Samuel-Kincaid","Meadow-River","greenbrier","fayette"],"noteIcon":"","dg-note-properties":{"tags":"Samuel-Kincaid,Meadow-River,greenbrier,fayette"}}
+{"dg-publish":true,"permalink":"/patents/8-oct-1800-200ac-patent-samuel-kincaid/","tags":["Samuel-Kincaid","Meadow-River","greenbrier","fayette"],"noteIcon":"","dg-note-properties":{"tags":"Samuel-Kincaid,Meadow-River,greenbrier,fayette","date-created":"Friday, July 18th 2025, 2:55:34 pm","date-modified":"Sunday, August 2nd 2026, 1:27:47 pm"}}
 ---
 
 Greenbrier County (W)Va.

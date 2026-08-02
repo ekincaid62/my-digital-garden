@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/george-campbell-kincaid-1773-1870/","tags":["George-Campbell-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["George-Campbell-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Friday, February 21st 2025, 4:21:16 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/george-campbell-kincaid-1773-1870/","tags":["George-Campbell-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["George-Campbell-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:21:16 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  1773 in Greenbrier WV
 Death on 1870 in <!-- link to place -->

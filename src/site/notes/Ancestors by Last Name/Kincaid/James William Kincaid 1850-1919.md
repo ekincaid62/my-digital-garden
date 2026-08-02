@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/james-william-kincaid-1850-1919/","tags":["James-William-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["James-William-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Thursday, July 23rd 2026, 11:50:57 am"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/james-william-kincaid-1850-1919/","tags":["James-William-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["James-William-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Thursday, July 23rd 2026, 11:50:57 am***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  4/7/1850 in West Virginia
 Death on 7/3/1919 in Mt. Lookout WV

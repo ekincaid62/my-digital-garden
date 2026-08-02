@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/census/1910-united-states-federal-census-record-4/","hideInFiletree":"true","tags":["Fred-Legg","William-McGinnis-Legg"],"noteIcon":"","dg-note-properties":{"tags":"Fred-Legg,William-McGinnis-Legg","date-created":"Thursday, August 22nd 2024, 9:02:10 pm","date-modified":"Friday, February 21st 2025, 2:47:40 pm"}}
+{"dg-publish":true,"permalink":"/census/1910-united-states-federal-census-record-4/","tags":["Fred-Legg","William-McGinnis-Legg"],"noteIcon":"","dg-note-properties":{"tags":"Fred-Legg,William-McGinnis-Legg","date-created":"Thursday, August 22nd 2024, 9:02:10 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 Household 256

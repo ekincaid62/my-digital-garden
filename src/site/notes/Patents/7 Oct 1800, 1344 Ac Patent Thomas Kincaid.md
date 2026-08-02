@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/patents/7-oct-1800-1344-ac-patent-thomas-kincaid/","tags":["Thomas-Kincaid","Meadow-River"],"noteIcon":"","dg-note-properties":{"tags":"Thomas-Kincaid,Meadow-River"}}
+{"dg-publish":true,"permalink":"/patents/7-oct-1800-1344-ac-patent-thomas-kincaid/","tags":["Thomas-Kincaid","Meadow-River"],"noteIcon":"","dg-note-properties":{"tags":"Thomas-Kincaid,Meadow-River","date-created":"Friday, July 18th 2025, 2:55:34 pm","date-modified":"Sunday, August 2nd 2026, 1:27:47 pm"}}
 ---
 
 Greenbrier County (W)Va.

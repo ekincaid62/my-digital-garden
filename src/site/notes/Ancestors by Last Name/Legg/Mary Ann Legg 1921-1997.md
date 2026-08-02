@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/legg/mary-ann-legg-1921-1997/","tags":["Mary-Ann-Legg"],"noteIcon":"","dg-note-properties":{"tags":["Mary-Ann-Legg"],"date-created":"Saturday, January 25th 2025, 5:02:17 pm","date-modified":"Wednesday, March 5th 2025, 7:27:23 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/legg/mary-ann-legg-1921-1997/","tags":["Mary-Ann-Legg"],"noteIcon":"","dg-note-properties":{"tags":["Mary-Ann-Legg"],"date-created":"Saturday, January 25th 2025, 5:02:17 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:27:23 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  3/2/1921 in Mt Lookout, WV
 Death on 5/2/1997 in Charleston, WV

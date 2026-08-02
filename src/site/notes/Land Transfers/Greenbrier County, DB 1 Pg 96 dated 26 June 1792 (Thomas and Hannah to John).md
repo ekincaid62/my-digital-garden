@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/land-transfers/greenbrier-county-db-1-pg-96-dated-26-june-1792-thomas-and-hannah-to-john/","hideInFiletree":"true","noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Saturday, August 1st 2026, 10:42:46 pm"}}
+{"dg-publish":true,"permalink":"/land-transfers/greenbrier-county-db-1-pg-96-dated-26-june-1792-thomas-and-hannah-to-john/","noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Sunday, August 2nd 2026, 1:27:51 pm"}}
 ---
 
 #Thomas-Kincaid #John-Kincaid 

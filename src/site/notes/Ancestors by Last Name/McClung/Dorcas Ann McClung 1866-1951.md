@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/mc-clung/dorcas-ann-mc-clung-1866-1951/","tags":["Dorcas-McClung"],"noteIcon":"","dg-note-properties":{"tags":["Dorcas-McClung"],"date-created":"Friday, September 27th 2024, 6:29:35 pm","date-modified":"Wednesday, March 5th 2025, 7:32:37 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/mc-clung/dorcas-ann-mc-clung-1866-1951/","tags":["Dorcas-McClung"],"noteIcon":"","dg-note-properties":{"tags":["Dorcas-McClung"],"date-created":"Friday, September 27th 2024, 6:29:35 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Wednesday, March 5th 2025, 7:32:37 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  3/18/1866 in Mt Lookout, WV
 Death on 6/6/1951 in Mt Lookout, WV

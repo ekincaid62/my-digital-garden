@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/amick/john-william-amick-1815-1890/","tags":["John-William-Amick"],"noteIcon":"","dg-note-properties":{"tags":["John-William-Amick"],"date-created":"Tuesday, February 18th 2025, 7:24:59 pm","date-modified":"Monday, March 3rd 2025, 7:26:51 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/amick/john-william-amick-1815-1890/","tags":["John-William-Amick"],"noteIcon":"","dg-note-properties":{"tags":["John-William-Amick"],"date-created":"Tuesday, February 18th 2025, 7:24:59 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Monday, March 3rd 2025, 7:26:51 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  1815 in <!-- link to place -->
 Death on 1890 in <!-- link to place -->

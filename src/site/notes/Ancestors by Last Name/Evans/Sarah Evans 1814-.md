@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/evans/sarah-evans-1814/","tags":["Sarah-Evans"],"noteIcon":"","dg-note-properties":{"tags":["Sarah-Evans"],"date-created":"Tuesday, February 18th 2025, 6:30:12 pm","date-modified":"Tuesday, March 4th 2025, 5:52:54 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/evans/sarah-evans-1814/","tags":["Sarah-Evans"],"noteIcon":"","dg-note-properties":{"tags":["Sarah-Evans"],"date-created":"Tuesday, February 18th 2025, 6:30:12 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Tuesday, March 4th 2025, 5:52:54 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  1814 in <!-- link to place -->
 Death on <!-- link to date --> in <!-- link to place -->

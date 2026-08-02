@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/alfred-h-kincaid-1842-1913/","tags":["Alfred-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Alfred-Kincaid"],"date-created":"Friday, January 31st 2025, 1:55:51 pm","date-modified":"Friday, February 21st 2025, 4:20:12 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/alfred-h-kincaid-1842-1913/","tags":["Alfred-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Alfred-Kincaid"],"date-created":"Friday, January 31st 2025, 1:55:51 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Friday, February 21st 2025, 4:20:12 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  4/6/1842 in Fayette County, WV
 Death on 2/14/1913 in Greene County, IL

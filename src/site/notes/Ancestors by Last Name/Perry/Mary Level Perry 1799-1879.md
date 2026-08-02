@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/perry/mary-level-perry-1799-1879/","tags":["Mary-Level-Perry"],"noteIcon":"","dg-note-properties":{"tags":["Mary-Level-Perry"],"date-created":"Wednesday, February 19th 2025, 10:07:30 am","date-modified":"Sunday, March 2nd 2025, 8:20:26 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/perry/mary-level-perry-1799-1879/","tags":["Mary-Level-Perry"],"noteIcon":"","dg-note-properties":{"tags":["Mary-Level-Perry"],"date-created":"Wednesday, February 19th 2025, 10:07:30 am","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 8:20:26 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  1799 in <!-- link to place -->
 Death on 1879 in <!-- link to place -->

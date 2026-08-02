@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/hawkins/thomas-jefferson-hawkins-1794-1870/","tags":["Thomas-Jefferson-Hawkins"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Jefferson-Hawkins"],"date-created":"Wednesday, February 19th 2025, 10:01:47 am","date-modified":"Sunday, March 2nd 2025, 7:37:38 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/hawkins/thomas-jefferson-hawkins-1794-1870/","tags":["Thomas-Jefferson-Hawkins"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Jefferson-Hawkins"],"date-created":"Wednesday, February 19th 2025, 10:01:47 am","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 7:37:38 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  1794 in <!-- link to place -->
 Death on 1870 in <!-- link to place -->

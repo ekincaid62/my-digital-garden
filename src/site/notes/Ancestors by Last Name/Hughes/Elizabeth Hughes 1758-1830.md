@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/hughes/elizabeth-hughes-1758-1830/","tags":["Elizabeth-Hughes"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, March 2nd 2025, 5:36:32 pm","tags":["Elizabeth-Hughes"]}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/hughes/elizabeth-hughes-1758-1830/","tags":["Elizabeth-Hughes"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Elizabeth-Hughes"]}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Sunday, March 2nd 2025, 5:36:32 pm***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  1758 in <!-- link to place -->
 

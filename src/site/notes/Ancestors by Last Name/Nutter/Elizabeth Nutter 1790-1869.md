@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/nutter/elizabeth-nutter-1790-1869/","tags":["Elizabeth-Nutter"],"noteIcon":"","dg-note-properties":{"tags":["Elizabeth-Nutter"],"date-created":"Thursday, February 6th 2025, 8:14:00 pm","date-modified":"Saturday, March 1st 2025, 10:36:37 am"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/nutter/elizabeth-nutter-1790-1869/","tags":["Elizabeth-Nutter"],"noteIcon":"","dg-note-properties":{"tags":["Elizabeth-Nutter"],"date-created":"Thursday, February 6th 2025, 8:14:00 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Saturday, March 1st 2025, 10:36:37 am***
+***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
 
 Born on  1790 in <!-- link to place -->
 Death on 1869 in <!-- link to place -->
