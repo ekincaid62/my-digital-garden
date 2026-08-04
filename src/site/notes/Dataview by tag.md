@@ -17,8 +17,8 @@
 - [[Vault/Land Transfers/Fayette Co. DB A Pg 288 dated 17 Dec 1832 (Richard Tyree and wife Sarah to Samuel)\|Fayette Co. DB A Pg 288 dated 17 Dec 1832 (Richard Tyree and wife Sarah to Samuel)]]
 - [[Vault/Land Transfers/Fayette Co. DB A Pg 287 dated 10 Jan 1833 (Richard Tyree and wife Sarah to Samuel)\|Fayette Co. DB A Pg 287 dated 10 Jan 1833 (Richard Tyree and wife Sarah to Samuel)]]
 - [[Vault/assets/Untitled Note\|Untitled Note]]
-- [[Vault/Census/1830 and 1840 Census Records\|1830 and 1840 Census Records]]
 - [[Ancestors by Last Name/Kincaid/Samuel Kincaid 1765-1847\|Samuel Kincaid 1765-1847]]
+- [[Vault/Census/1830 and 1840 Census Records\|1830 and 1840 Census Records]]
 
 { .block-language-dataview}
 
@@ -38,8 +38,8 @@
 - [[Vault/Land Transfers/Fayette Co. DB A Pg 288 dated 17 Dec 1832 (Richard Tyree and wife Sarah to Samuel)\|Fayette Co. DB A Pg 288 dated 17 Dec 1832 (Richard Tyree and wife Sarah to Samuel)]]
 - [[Vault/Land Transfers/Fayette Co. DB A Pg 287 dated 10 Jan 1833 (Richard Tyree and wife Sarah to Samuel)\|Fayette Co. DB A Pg 287 dated 10 Jan 1833 (Richard Tyree and wife Sarah to Samuel)]]
 - [[Vault/assets/Untitled Note\|Untitled Note]]
-- [[Vault/Census/1830 and 1840 Census Records\|1830 and 1840 Census Records]]
 - [[Ancestors by Last Name/Kincaid/Samuel Kincaid 1765-1847\|Samuel Kincaid 1765-1847]]
+- [[Vault/Census/1830 and 1840 Census Records\|1830 and 1840 Census Records]]
 
 { .block-language-dataview}
 
