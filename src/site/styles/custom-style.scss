@@ -18,3 +18,16 @@ body {
     color: #15141a;
 }
 }
+
+/* Mobile overrides: the mobile filetree uses a navbar with its own <h1> (filetreeNavbar.njk).
+   Target that heading to ensure the color/display apply on small screens. */
+@media (max-width: 800px) {
+  .navbar h1 {
+    color: #15141a !important;
+    display: block !important;
+  }
+  /* If a logo image is used on mobile (img.site-logo), style it here if needed */
+  .navbar .site-logo {
+    /* e.g. filter: none; margin: 0; */
+  }
+}
