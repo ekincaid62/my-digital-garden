@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/site-info/","pinned":"true","noteIcon":"","dg-note-properties":{"date-created":"Tuesday, February 4th 2025, 7:11:37 pm","date-modified":"Sunday, August 2nd 2026, 2:55:31 pm"}}
 ---
 
-` 
 I have tried almost everything you can imagine for storing my data.  Nothing fit the bill, and I was disappointed in one way or another.
 
 I used Evernote for years and that worked reasonably well. However, I wanted to be able to share my data easily with anyone I wish easily and now use a program called [Obsidian](https://obsidian.md/). What really sets Obsidian apart is the Community plug-ins that are freely available. I am in awe of what some of these intelligent people have put together.

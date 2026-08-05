@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/my-ancestor-chart/","pinned":"true","dgHomeLink":"x","dgShowBacklinks":"x","dgShowLocalGraph":"x","dgShowInlineTitle":"x","dgShowToc":"x","noteIcon":"2","dg-note-properties":{"date-created":"Monday, February 10th 2025, 7:36:23 pm","date-modified":"Saturday, August 1st 2026, 9:22:10 am"}}
 ---
 
-
 The image below has hot links to each of my ancestors. The links will open into a new tab. There are a number of them that I haven't vetted and won't link to anything, As I find time I hope to get more information added. The names in the graphics may be incorrect and will be corrected if necessary. I have spent the majority of my time on the Kincaid line and you will find it much more complete. I certainly welcome any help with additional information. 
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2455 1620">
