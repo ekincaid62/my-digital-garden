@@ -2,6 +2,8 @@
     background-image: url('/img/tree-2.svg');
 }
 body {
+      --link-color: #2C1AED;
+      --text-accent: #2C1AED;
       #floating-control {
     position: fixed;
     color: var(--link-color);
