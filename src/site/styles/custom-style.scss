@@ -19,6 +19,8 @@ body {
 .filetree-sidebar h1 {
     color: #15141a;
 .table-view-table > thead > tr > th {
+    border-top-color: your-color;
+    border-top: solid;  // Make sure it's visible
     border-bottom-color: #15141a;
 }
 }
