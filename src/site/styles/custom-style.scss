@@ -1,10 +1,13 @@
 .icon-tree {
     background-image: url('/img/tree-2.svg');
 }
+
+:root {
+  --h1-color: #15141a;
+}
+
 body {
-      --link-color: #2C1AED;
-      --text-accent: #2C1AED;
-      #floating-control {
+  #floating-control {
     position: fixed;
     color: var(--link-color);
     top: 0.5vmax;
@@ -15,24 +18,31 @@ body {
     flex-direction: row;
     justify-content: flex-end;
     gap: 7px;
-     }
+  }
+
+  h1 {
+    color: var(--h1-color);
+  }
+}
+
 .filetree-sidebar h1 {
-    color: #15141a;
+  color: var(--h1-color);
+}
+
 .table-view-table > thead > tr > th {
-    border-top-color: your-color;
-    border-top: solid;  // Make sure it's visible
-    border-bottom-color: #15141a;
-}
-}
+  border-top-color: var(--h1-color);
+  border-top: solid;
+  border-bottom-color: #15141a;
 }
 
 /* Mobile overrides: the mobile filetree uses a navbar with its own <h1> (filetreeNavbar.njk).
    Target that heading to ensure the color/display apply on small screens. */
 @media (max-width: 800px) {
   .navbar h1 {
-    color: #15141a !important;
+    color: var(--h1-color) !important;
     display: block !important;
   }
+
   /* If a logo image is used on mobile (img.site-logo), style it here if needed */
   .navbar .site-logo {
     /* e.g. filter: none; margin: 0; */
