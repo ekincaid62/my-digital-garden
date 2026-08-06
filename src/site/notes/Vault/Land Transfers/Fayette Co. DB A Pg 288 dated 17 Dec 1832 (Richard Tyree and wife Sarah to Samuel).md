@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/land-transfers/fayette-co-db-a-pg-288-dated-17-dec-1832-richard-tyree-and-wife-sarah-to-samuel/","hideInFiletree":"true","tags":["Samuel-Kincaid","Richard-Tyree","fayette"],"noteIcon":"","dg-note-properties":{"tags":"Samuel-Kincaid,Richard-Tyree,fayette","date-created":"Thursday, August 22nd 2024, 9:02:21 pm","date-modified":"Sunday, August 2nd 2026, 1:26:15 pm"}}
+{"dg-publish":true,"permalink":"/vault/land-transfers/fayette-co-db-a-pg-288-dated-17-dec-1832-richard-tyree-and-wife-sarah-to-samuel/","tags":["Samuel-Kincaid","Richard-Tyree","fayette"],"noteIcon":"","dg-note-properties":{"tags":"Samuel-Kincaid,Richard-Tyree,fayette","date-created":"Thursday, August 22nd 2024, 9:02:21 pm","date-modified":"Sunday, August 2nd 2026, 1:26:15 pm"}}
 ---
 
 17 Dec 1832

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/land-transfers/fayette-county-db-c-pg-793-dated-5-aug-1847-william-kincaid-to-gwinn/","hideInFiletree":"true","tags":["William-Kincaid","john-gwinn","fayette"],"noteIcon":"","dg-note-properties":{"tags":["William-Kincaid","john-gwinn","fayette"],"date-created":"Thursday, August 22nd 2024, 9:02:21 pm","date-modified":"Sunday, August 2nd 2026, 1:27:51 pm"}}
+{"dg-publish":true,"permalink":"/vault/land-transfers/fayette-county-db-c-pg-793-dated-5-aug-1847-william-kincaid-to-gwinn/","tags":["William-Kincaid","john-gwinn","fayette"],"noteIcon":"","dg-note-properties":{"tags":["William-Kincaid","john-gwinn","fayette"],"date-created":"Thursday, August 22nd 2024, 9:02:21 pm","date-modified":"Sunday, August 2nd 2026, 1:27:51 pm"}}
 ---
 
 ---
