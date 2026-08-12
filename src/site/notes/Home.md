@@ -8,11 +8,9 @@ In the heart of West Virginia, where the **New River**, **Monongahela River**, a
 
 My older brother passed away in 2010, leaving behind a wealth of information he had collected about our family and the community. My goal was to preserve it in digital format and make it accessible to anyone interested. While I succeeded in digitizing everything, I never quite found an easy way to share it—until [[Site Info...\|now]]. This website is my attempt to bring that history to life and make it available to everyone.
 
-**You <font color="#ff0000">MUST</font> try the Search!** It works extremely well in finding notes that have been published on this site. Just type a name or any key word and the results will start showing!
+**You <font color="#ff0000">MUST</font> try the Search!** It works extremely well in finding notes that have been published on this site. Try watching this video to see how to navigate this site!
 
-To help get an overview of my ancestors you can review my [[My Ancestor Chart\|family tree]]. It is best viewed with a device that has a touch screen to be able to zoom in.
-
-I hope to add more as I find the time. If you have any comments, questions, or additions, please leave comments through GitHub at the bottom of each page.
+I will adding more as I find the time. If you have any comments, questions, or additions, please leave comments through GitHub at the bottom of each page.
 
 ### Reference Materials
 
