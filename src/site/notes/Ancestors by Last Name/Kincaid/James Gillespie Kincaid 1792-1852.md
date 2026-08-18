@@ -34,7 +34,7 @@ Death on 7/18/1852 in <!-- link to place -->
 #### Land Transfers
 
 #### Biography
-
+Fayette County history book : Kincaid Family page 686 talks about this[[James Gillespie Kincaid and Mary Tritt\| couple]]. They are sometimes referred to as "The Tree Dwellers"
 #### Photos
 
 #### Sources

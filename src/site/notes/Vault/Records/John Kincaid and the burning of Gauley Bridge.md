@@ -4,6 +4,28 @@
 
 #John-Kincaid #Matthew-Kincaid
 
+Gauley Bridge was first known as Kincaid's Ferry. 
+
+**The Trial and Defendants**
+
+The case was recorded in the **Kanawha County Court Records**. The primary defendants charged with burning down the bridge were:
+
+- **John Kincaid:** Identified as the husband of Elizabeth Gillespie.
+- **Matthew Kincaid:** Identified as the son of John and Elizabeth.
+
+**Witnesses Involved**
+
+A large number of family members and associates were summoned as witnesses for both the defendants and the Commonwealth during the trial:
+
+- **Francis Kincaid:** Brother of the defendant John Kincaid.
+- **William Kincaid:** Noted as either John’s brother or his son-in-law.
+- **James Kincaid and wife Mary (Tritt) Kincaid:** Son and daughter-in-law of John.
+- **Magdalene Wyatt and husband Reuben Wyatt:** Daughter and son-in-law of John.
+- **Hannah Walker:** Daughter of John.
+- **James Ingram and Thomas Terry:** Sons-in-law of John.
+- **Lewis Terry:** Grandson of John.
+- **John Tritt and James Linegar:** Relatives of John's daughters-in-law or sons-in-law.
+
 As reported in the Niles' weekly register, Volume 31 (The Niles Register was published in
 Baltimore, MD.) The burning seemed to occur July 11, 1826. It is possible that John lost land according to the following.
 
