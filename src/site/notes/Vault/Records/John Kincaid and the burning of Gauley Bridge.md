@@ -8,7 +8,7 @@ Gauley Bridge was first known as Kincaid's Ferry. It wasn't called Gauley Bridge
 
 **The Trial and Defendants**
 
-The case was recorded in the **Kanawha County Court Records**. The primary defendants charged with burning down the bridge were:
+The case is recorded in the **Kanawha County Court Records**. The primary defendants charged with burning down the bridge were:
 
 - **John Kincaid:** Identified as the husband of Elizabeth Gillespie.
 - **Matthew Kincaid:** Identified as the son of John and Elizabeth.
