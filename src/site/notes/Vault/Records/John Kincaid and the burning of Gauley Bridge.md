@@ -4,7 +4,7 @@
 
 #John-Kincaid #Matthew-Kincaid
 
-Gauley Bridge was first known as Kincaid's Ferry. 
+Gauley Bridge was first known as Kincaid's Ferry. It wasn't called Gauley Bridge until sometime after the bridge was built.
 
 **The Trial and Defendants**
 
