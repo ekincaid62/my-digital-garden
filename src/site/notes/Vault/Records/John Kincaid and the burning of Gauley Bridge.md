@@ -4,7 +4,7 @@
 
 #John-Kincaid #Matthew-Kincaid
 
-Gauley Bridge was first known as Kincaid's Ferry. It wasn't called Gauley Bridge until sometime after the bridge was built.
+It is interesting that Gauley Bridge was first known as Kincaid's Ferry. It wasn't called Gauley Bridge until sometime after the bridge was built.
 
 **The Trial and Defendants**
 
@@ -25,6 +25,8 @@ A large number of family members and associates were summoned as witnesses for b
 - **James Ingram and Thomas Terry:** Sons-in-law of John.
 - **Lewis Terry:** Grandson of John.
 - **John Tritt and James Linegar:** Relatives of John's daughters-in-law or sons-in-law.
+
+The Information on the trial above was provided by Barbara Van Hout who found the records in the microfilm at Kanawha County Courthouse.
 
 As reported in the Niles' weekly register, Volume 31 (The Niles Register was published in
 Baltimore, MD.) The burning seemed to occur July 11, 1826. It is possible that John lost land according to the following.
