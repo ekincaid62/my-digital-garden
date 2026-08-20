@@ -175,7 +175,7 @@ Oct 13, 1779: Deed from Thomas & Mary Kincade of Albemarle to Samuel Muse of Wes
 
 Nov 11, 1780: Deed from Jane Kinkade of Rockbridge Co. to Abner Wood of Albemarle, 200 acres for L 500. Neighbors: John Piper, Nathaniel Gibson, Jessee(?) Tate, Andrew Munroe, William Gregg, Anne Garland. No witnesses
 
-However, there was another Thomas in Albemarle County as proven by the 1765 deed from Arthur Woods to Jean Kinkead. The deed was witnessed by Thomas Kinkead (James' son) and Thomas Kinkead (John's son).\*19 Other deeds, which are quoted later in this chapter, prove that our Thomas Kincaid was the son of John Kincaid:
+However, there was another Thomas in Albemarle County as proven by the 1765 deed from Arthur Woods to Jean Kinkead. The deed was witnessed by Thomas Kinkead (James' son) and Thomas Kinkead (John's son).[[Vault/Records/Kincaid History - Richard Bradley#19\|#19]] Other deeds, which are quoted later in this chapter, prove that our Thomas Kincaid was the son of John Kincaid:
 
 The question of which John Kincaid was the father of our Thomas Kincaid is not easy to answer.
 

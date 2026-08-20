@@ -30,7 +30,7 @@ Death on 1847 in Fayette County VA
 [[Deborah Kincaid 1804-1851\|Deborah Kincaid 1804-1851]]
 [[John Kincaid 1804-\|John Kincaid 1804-]]
 [[Jane Kincaid 1805-1858\|Jane Kincaid 1805-1858]]
-[[James Mathias Kincaid 1812-1880\|James Mathias Kincaid 1812-1880]]
+[[James Mathias Kincaid 1812-1880\|James Mathias Kincaid 1812-1880]] referred to as "one-eyed Jimmy"
 [[Huldah Kincaid 1815-\|Huldah Kincaid 1815-]]
 
 [[Diana Ewing 1800-1860\|Diana Ewing 1800-1860]] married 1828 in Monroe County VA
