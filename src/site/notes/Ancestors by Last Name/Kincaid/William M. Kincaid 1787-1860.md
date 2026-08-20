@@ -14,7 +14,7 @@ Death on 1860 in Fayette County WV
 #### Siblings
 [[John Kincaid 1798-\|John Kincaid 1798-]]
 [[Samuel Kincaid 1802-\|Samuel Kincaid 1802-]]
-[[Thomas Kincaid 1803-1870\|Thomas Kincaid 1803-1870]]
+[[Thomas Kincaid 1803-1870\|Thomas Kincaid 1803-1870]] referred to as "Mountain Tom"
 [[Deborah Kincaid 1804-1851\|Deborah Kincaid 1804-1851]]
 [[John Kincaid 1804-\|John Kincaid 1804-]]
 [[Jane Kincaid 1805-1858\|Jane Kincaid 1805-1858]]

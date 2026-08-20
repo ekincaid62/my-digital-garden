@@ -21,12 +21,12 @@ Death on 1847 in Fayette County VA
 ---
 #### Spouse and Children
 [[Ancestors by Last Name/Tincher/Mary Tincher 1767-1802\|Mary Tincher 1767-1802]] married 6/21/1785 in Greenbrier WV.
-[[Ancestors by Last Name/Kincaid/William M. Kincaid 1787-1860\|William M. Kincaid 1787-1860]]
+[[Ancestors by Last Name/Kincaid/William M. Kincaid 1787-1860\|William M. Kincaid 1787-1860]] referred to as "Moccasin Bill"
 [[John Kincaid 1798-\|John Kincaid 1798-]]
 
 [[Huldy Osborn 1782-1823\|Huldy Osborn 1782-1823]] [[Vault/Records/Marriage Records\|married]] 3/13/1802 
 [[Samuel Kincaid 1802-\|Samuel Kincaid 1802-]]
-[[Thomas Kincaid 1803-1870\|Thomas Kincaid 1803-1870]]
+[[Thomas Kincaid 1803-1870\|Thomas Kincaid 1803-1870]] referred to as "Mountain Tom"
 [[Deborah Kincaid 1804-1851\|Deborah Kincaid 1804-1851]]
 [[John Kincaid 1804-\|John Kincaid 1804-]]
 [[Jane Kincaid 1805-1858\|Jane Kincaid 1805-1858]]
