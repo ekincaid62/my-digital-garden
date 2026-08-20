@@ -21,19 +21,25 @@ Death on 1847 in Fayette County VA
 ---
 #### Spouse and Children
 [[Ancestors by Last Name/Tincher/Mary Tincher 1767-1802\|Mary Tincher 1767-1802]] married 6/21/1785 in Greenbrier WV.
+[[Matthew Kincaid\|Matthew Kincaid]]
+[[John Kincaid\|John Kincaid]]
 [[Ancestors by Last Name/Kincaid/William M. Kincaid 1787-1860\|William M. Kincaid 1787-1860]] referred to as "Moccasin Bill"
-[[John Kincaid 1798-\|John Kincaid 1798-]]
+[[Thomas Kincaid 1793-1875\|Thomas Kincaid 1793-1875]] referred to as "Mountain Tom"
+[[Nancy Kincaid 1799-\|Nancy Kincaid 1799-]]
+[[Andrew Kincaid 1799-\|Andrew Kincaid 1799-]]
+[[Samuel Kincaid 1802-\|Samuel Kincaid 1802-]]
 
 [[Huldy Osborn 1782-1823\|Huldy Osborn 1782-1823]] [[Vault/Records/Marriage Records\|married]] 3/13/1802 
-[[Samuel Kincaid 1802-\|Samuel Kincaid 1802-]]
-[[Thomas Kincaid 1803-1870\|Thomas Kincaid 1803-1870]] referred to as "Mountain Tom"
+[[Thomas Kincaid 1803-1856\|Thomas Kincaid 1803-1856]] referred to as "King Tom"
 [[Deborah Kincaid 1804-1851\|Deborah Kincaid 1804-1851]]
-[[John Kincaid 1804-\|John Kincaid 1804-]]
-[[Jane Kincaid 1805-1858\|Jane Kincaid 1805-1858]]
-[[James Mathias Kincaid 1812-1880\|James Mathias Kincaid 1812-1880]] referred to as "one-eyed Jimmy"
-[[Huldah Kincaid 1815-\|Huldah Kincaid 1815-]]
+[[Jane Huldah Kincaid 1805-1858\|Jane Huldah Kincaid 1805-1858]]
+[[Sarah Kincaid 1807-1872\|Sarah Kincaid 1807-1872]]
+[[Huldah Kincaid 1812-1870\|Huldah Kincaid 1812-1870]]
+[[James Mathias Kincaid 1814-1890\|James Mathias Kincaid 1814-1890]] referred to as "one-eyed Jimmy"
 
 [[Diana Ewing 1800-1860\|Diana Ewing 1800-1860]] married 1828 in Monroe County VA
+[[Samuel Kincaid 1830-\|Samuel Kincaid 1830-]]
+[[Huldy J, Kincaid 1834-\|Huldy J, Kincaid 1834-]]
 
 #### Census Records
 
