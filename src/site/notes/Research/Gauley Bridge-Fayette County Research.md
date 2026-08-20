@@ -19,6 +19,7 @@ I would like to trace some of these properties back. I feel that the original pa
 | 13-14-38 | GILES LISA S                   | FD29      | 40.5 |
 | 13-14-2  | MIKOLS JOSEPH A                | 671       | 72   |
 | 13-14-3  | MIKOLS JOSEPH ALLEN            | 757       | 550  |
+
 I'm not sure what FD means for property 13-14-38.#
 
 Below are pictures of photos I found on Facebook. The first was said to be the first bridge. Cameras were not invented at the time of the first bridge, so it has to be one that followed. Again, I am going to make the assumption that the first bridge was at or near the same footprint as this bridge.
