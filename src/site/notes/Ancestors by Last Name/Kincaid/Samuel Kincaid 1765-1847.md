@@ -65,7 +65,7 @@ The following 2 deeds show the land deeded to the Harrahs
 These two deeds confirm that this is the Samuel of three wifes with the first listing Hulda as his wife and the second showing Diana.
 
 ---
-It has been assumed that the following to tracts were traded to Samuel for 240 Ac on Epraim's Creek (I have been unable to find anything confirming this.)
+It has been assumed that the following two tracts were traded to Samuel for 240 Ac on Epraim's Creek (I have been unable to find anything confirming this.)
 [[Vault/Land Transfers/Fayette Co. DB A Pg 288 dated 17 Dec 1832 (Richard Tyree and wife Sarah to Samuel)\|Fayette Co. DB A Pg 288 dated 17 Dec 1832 (Richard Tyree and wife Sarah to Samuel)]]
 [[Vault/Land Transfers/Fayette Co. DB A Pg 287 dated 10 Jan 1833 (Richard Tyree and wife Sarah to Samuel)\|Fayette Co. DB A Pg 287 dated 10 Jan 1833 (Richard Tyree and wife Sarah to Samuel)]]
 Should be a deed around this time from Samuel to Tyree (240 Ac Ephraim's Creek)
