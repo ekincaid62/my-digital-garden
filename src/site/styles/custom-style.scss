@@ -10,6 +10,11 @@ body {
      --link-color: #2C1AED;
      --text-accent: #2C1AED;
      --inline-code-color: #15141a;
+     --h4-size: var(--h1-size);
+     --h4-color: var(--h1-color);
+     --h4-weight: var(--h1-weight);
+     --h4-font: var(--h1-font);
+     --h4-line-height: var(--h1-line-height);
   #floating-control {
     position: fixed;
     color: var(--link-color);
