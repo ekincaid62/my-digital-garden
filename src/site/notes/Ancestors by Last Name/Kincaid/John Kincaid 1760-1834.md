@@ -8,7 +8,7 @@ Born on  10 Mar 1760 in Augusta VA
 Death on 21 Apr 1834 in Gauley Bridge WV
 
 ---
-#### Parents
+# Parents
 
 [[Ancestors by Last Name/Kincaid/Thomas Kincaid 1740-1817\|Thomas Kincaid 1740-1817]] and [[Ancestors by Last Name/Tincher/Hannah Tincher 1742-1819\|Hannah Tincher 1742-1819]]
 ### Siblings

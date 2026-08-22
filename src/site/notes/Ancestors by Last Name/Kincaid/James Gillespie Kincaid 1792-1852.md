@@ -9,7 +9,7 @@ Born on  12/19/1792 in <!-- link to place -->
 Death on 7/18/1852 in <!-- link to place -->
    
 ---
-#### Parents
+## Parents
 
 [[Ancestors by Last Name/Kincaid/John Kincaid 1760-1834\|John Kincaid 1760-1834]] and [[Ancestors by Last Name/Gillespie/Elizabeth Hannah Gillespie 1760-1829\|Elizabeth Hannah Gillespie 1760-1829]]
 #### Siblings
