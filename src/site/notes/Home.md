@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home/","pinned":"true","tags":["gardenEntry"],"dgShowInlineTitle":"false","noteIcon":"3","dg-note-properties":{"date-created":"Monday, February 3rd 2025, 10:24:22 pm","date-modified":"Saturday, August 1st 2026, 10:49:11 pm"}}
 ---
 
-![Ace2.png](/img/user/Vault/assets/Ace2.png)
+![Ace.png](/img/user/Vault/assets/Ace.png)
 
 In the heart of West Virginia, where the **New River**, **Monongahela River**, and **Meadow River** carve their paths northward, family ties run deep. I grew up in **Mt. Lookout, WV**, less than two miles from **Meadow River** and just a short drive from the **New River**. In a place where everyone seemed connected, I never questioned how or why—we just were.
 
