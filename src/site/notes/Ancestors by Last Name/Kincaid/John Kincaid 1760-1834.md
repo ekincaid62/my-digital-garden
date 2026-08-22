@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/john-kincaid-1760-1834/","tags":["John-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["John-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Monday, July 21st 2025, 10:33:10 am"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/john-kincaid-1760-1834/","tags":["John-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["John-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Saturday, August 22nd 2026, 2:41:16 pm"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Monday, July 21st 2025, 10:33:10 am***
+***<font color="#00b0f0">Last Modified:</font> Saturday, August 22nd 2026, 2:41:16 pm***
 
 Born on  10 Mar 1760 in Augusta VA
 Death on 21 Apr 1834 in Gauley Bridge WV
 
 ---
-# Parents
+#### Parents
 
 [[Ancestors by Last Name/Kincaid/Thomas Kincaid 1740-1817\|Thomas Kincaid 1740-1817]] and [[Ancestors by Last Name/Tincher/Hannah Tincher 1742-1819\|Hannah Tincher 1742-1819]]
-### Siblings
+#### Siblings
 [[Ancestors by Last Name/Kincaid/Margaret Kincaid 1760-1840\|Margaret Kincaid 1760-1840]]
 [[Ancestors by Last Name/Kincaid/Samuel Kincaid 1765-1847\|Samuel Kincaid 1765-1847]]
 [[Ancestors by Last Name/Kincaid/Thomas Kincaid 1770-1831\|Thomas Kincaid 1770-1831]]
