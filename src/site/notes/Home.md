@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":"true","tags":["gardenEntry"],"dgShowInlineTitle":"false","noteIcon":"3","dg-note-properties":{"date-created":"Monday, February 3rd 2025, 10:24:22 pm","date-modified":"Saturday, August 22nd 2026, 2:41:42 pm"}}
+{"dg-publish":true,"permalink":"/home/","pinned":"true","tags":["gardenEntry"],"dgShowInlineTitle":"false","noteIcon":"3","dg-note-properties":{"date-created":"Monday, February 3rd 2025, 10:24:22 pm","date-modified":"Saturday, August 22nd 2026, 2:48:53 pm"}}
 ---
 
 ![Ace.png](/img/user/Vault/assets/Ace.png)
