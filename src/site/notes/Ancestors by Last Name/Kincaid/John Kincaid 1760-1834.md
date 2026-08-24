@@ -38,7 +38,7 @@ The information on the Children was provided by [[Vault/Records/RootsWeb KINCAID
 #### Census Records
 
 #### Land Transfers
-[[Vault/Patents/10 Oct 1800 John Kinkead 320 Ac Patent\|10 Oct 1800 John Kinkead 320 Ac Patent]]
+[[Vault/Patents/10 Oct 1800 John Kinkead 320 Ac Patent\|10 Oct 1800 John Kinkead 320 Ac Patent]] adjacent to Thomas (McDowell Tract)
 [[Vault/Land Transfers/Greenbrier County, DB 1 Pg 96 dated 26 June 1792 (Thomas and Hannah to John)\|Greenbrier County, DB 1 Pg 96 dated 26 June 1792 (Thomas and Hannah to John)]]
 Here's a **[Map](https://drive.google.com/open?id=1Ovf8lrLFB4BTWTWKfye1fDldFYQ&usp=sharing)** showing the property in blue and how it fit within within the McDowell 1000 Ac @ Muddy Creek
 [[7 Dec 1820 John Kincaid 100 Acres\|7 Dec 1820 John Kincaid 100 Acres]] Gauley River property
