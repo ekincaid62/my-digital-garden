@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/vault/land-transfers/7-dec-1820-john-kincaid-100-acres/","tags":["John-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["John-Kincaid"]}}
+---
+
+This was very difficult to read": Between Gemini AI and myself I think we got most of it correct.
+
+John Kincaid100 acres Exd &Grd deld toW. John MayeFeby 1st 1823.Thomas M Randolph Esqr. Governor of the Commonwealth of Virginia:
+
+To all to whom these Presents shall come Greeting: Know ye that inconformity with a Survey made on the third day of November 1819, by virtue of a Land Office Treasury warrant,  Number 4901 Issued the4th November 1812, There is granted by the said Commonwealth unto John Kincaid, a certain tract or parcel of Land, Containing One Hundred acres, Situate in the county of Nicholas on the South East side of Gauley river Including the improvements Said Kincaid now lives on and which Known by the name of the sand lick and bounded as followeth to wit 
+
+Beginning at a rock at the water edge about eighteen poles below the mouth of the Sand lick run thence up the river North fifty One degrees West fifty five poles to the point of sandy bar in the river nearly opposite the sand lick North thirty seven degrees West ninety four poles to three water Birches on the bank of the river, North nine degrees West sixty poles to a sweet gum and Chestnut same North nine degrees East forty one poles to Beeches thence, South sixty degrees East eighty poles Crossing a small hollow to a black oak, and hickory, South twenty nine degrees East One hundred and twelve poles to a white Oak and hickory South four degrees East One hundred and eighteen poles Crossing the sand lick to a white hickory South ten degrees West ninety poles to a red oak, South fifty eight degrees West Twenty three poles to a ironwood, Holly and a red Oak on the bank, thence up the river North thirty degrees East twenty four poles to a Spruce pine, North nine degrees East eighty five poles to a large white Oak and thence North twenty two degrees West fifty One poles to the Beginning;
+
+To have and to hold the said tract or parcel of Land with its appurtenances to the said John Kincaid and His heirs forever. In witness whereof the said Thomas M Randolph Esqr. Governor of the Commonwealth of Virginia hath hereunto set his hand and caused the Lesserseal of the said Commonwealth to be Affixed at Richmond on the Seventh day of December in the year of our Lord One thousand eight hundred and twenty and of the Commonwealth the forty fifth
+![John Kincaid 100 Ac 1820 Sand Lick.jpg](/img/user/Vault/assets/John%20Kincaid%20100%20Ac%201820%20Sand%20Lick.jpg)

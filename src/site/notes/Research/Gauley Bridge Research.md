@@ -4,7 +4,7 @@
 
 I would like to trace some of these properties back. I feel that the original parcel will trace back to John Kincaid's patent on the east side of Gauley. I have read that Matthew also had a patent adjacent to it. The state would have acquired some from John prior to 1822 when the bridge was built. It was burnt down on July 11, 1826. I am assuming that this bridge was in the same location as when it was rebuilt. The research will probably require at least a couple of different counties. I think this is part of Nicholas/Logan County in the early 1820s looking at these [[Vault/Records/Virginia County Boundary Changes over Time\|maps]].
 
-I found the original patent and it seems to follow the course or the river pretty closely. I should be able to map and place it reasonably easy which may negate needing as much research. It was dated 7 December 1820 and was for 100 acres.
+I found the original patent and it seems to follow the course or the river pretty closely. I should be able to map and place it reasonably easy which may negate needing as much research. It was dated 7 December 1820 and was for 100 acres. I also found a patent for Matthew and James. If he footprint of the original bridge is the same as the piers show then the 4 acres that the state took came from it.
 
 
 ![Pasted image 20260818170744.png](/img/user/Vault/assets/Pasted%20image%2020260818170744.png)
