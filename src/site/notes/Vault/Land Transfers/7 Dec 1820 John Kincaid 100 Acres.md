@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/vault/land-transfers/7-dec-1820-john-kincaid-100-acres/","tags":["John-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["John-Kincaid"]}}
+{"dg-publish":true,"permalink":"/vault/land-transfers/7-dec-1820-john-kincaid-100-acres/","tags":["John-Kincaid","Gauley"],"noteIcon":"","dg-note-properties":{"tags":["John-Kincaid","Gauley"]}}
 ---
 
 This was very difficult to read": Between Gemini AI and myself I think we got most of it correct.
 
-John Kincaid100 acres Exd &Grd deld toW. John MayeFeby 1st 1823.Thomas M Randolph Esqr. Governor of the Commonwealth of Virginia:
+John Kincaid 100 acres Exd &Grd deld to W. John Maye Feby 1st 1823.Thomas M Randolph Esqr. Governor of the Commonwealth of Virginia:
 
 To all to whom these Presents shall come Greeting: Know ye that inconformity with a Survey made on the third day of November 1819, by virtue of a Land Office Treasury warrant,  Number 4901 Issued the4th November 1812, There is granted by the said Commonwealth unto John Kincaid, a certain tract or parcel of Land, Containing One Hundred acres, Situate in the county of Nicholas on the South East side of Gauley river Including the improvements Said Kincaid now lives on and which Known by the name of the sand lick and bounded as followeth to wit 
 
