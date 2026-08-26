@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/john-kincaid-1760-1834/","tags":["John-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["John-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Saturday, August 22nd 2026, 2:41:16 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/john-kincaid-1760-1834-2/","tags":["John-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["John-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Monday, July 21st 2025, 10:33:10 am"}}
 ---
 
-***<font color="#00b0f0">Last Modified:</font> Saturday, August 22nd 2026, 2:41:16 pm***
+***<font color="#00b0f0">Last Modified:</font> Monday, July 21st 2025, 10:33:10 am***
 
 Born on  10 Mar 1760 in Augusta VA
 Death on 21 Apr 1834 in Gauley Bridge WV
@@ -11,7 +11,7 @@ Death on 21 Apr 1834 in Gauley Bridge WV
 #### Parents
 
 [[Ancestors by Last Name/Kincaid/Thomas Kincaid 1740-1817\|Thomas Kincaid 1740-1817]] and [[Ancestors by Last Name/Tincher/Hannah Tincher 1742-1819\|Hannah Tincher 1742-1819]]
-#### Siblings
+### Siblings
 [[Ancestors by Last Name/Kincaid/Margaret Kincaid 1760-1840\|Margaret Kincaid 1760-1840]]
 [[Ancestors by Last Name/Kincaid/Samuel Kincaid 1765-1847\|Samuel Kincaid 1765-1847]]
 [[Ancestors by Last Name/Kincaid/Thomas Kincaid 1770-1831\|Thomas Kincaid 1770-1831]]
@@ -21,7 +21,7 @@ Death on 21 Apr 1834 in Gauley Bridge WV
 
 ---
 #### Spouse and Children
-[[Ancestors by Last Name/Gillespie/Elizabeth Hannah Gillespie 1760-1829\|Elizabeth Hannah Gillespie 1760-1829]] on 02/11/1782 in Greenbrier Co.
+[[Ancestors by Last Name/Gillespie/Elizabeth Hannah Gillespie 1760-1829\|Elizabeth Hannah Gillespie 1760-1829]] on <!-- link to date --> in <!-- link to place -->.
 [[Ancestors by Last Name/Kincaid/Hannah Kincaid 1777-1871\|Hannah Kincaid 1777-1871]] married James Walker on 12-13-1798 in Greenbrier Co.
 [[Sarah Kincaid\|Sarah Kincaid]] married Thomas Terry on 10-23-1798 Greenbrier Co.
 [[Matthew Kincaid\|Matthew Kincaid]] married Polly Murdock 2 Jun 1807 in Monroe Co., Virginia
@@ -38,11 +38,8 @@ The information on the Children was provided by [[Vault/Records/RootsWeb KINCAID
 #### Census Records
 
 #### Land Transfers
-[[Vault/Patents/10 Oct 1800 John Kinkead 320 Ac Patent\|10 Oct 1800 John Kinkead 320 Ac Patent]] adjacent to Thomas (McDowell Tract)
 [[Vault/Land Transfers/Greenbrier County, DB 1 Pg 96 dated 26 June 1792 (Thomas and Hannah to John)\|Greenbrier County, DB 1 Pg 96 dated 26 June 1792 (Thomas and Hannah to John)]]
-Here's a **[Map](https://drive.google.com/open?id=1Ovf8lrLFB4BTWTWKfye1fDldFYQ&usp=sharing)** showing the property in blue and how it fit within within the McDowell 1000 Ac @ Muddy Creek
-[[Vault/Land Transfers/7 Dec 1820 John Kincaid 100 Acres\|7 Dec 1820 John Kincaid 100 Acres]] Gauley River patent
-Here's a **[Map](https://www.google.com/maps/d/edit?mid=1Qx6w7i-Xi5K1aXPhPIglp94VTrI2DAo&usp=sharing)** showing the patent as well as the patent for Matthew and James
+
 #### Biography
 
 John served as a private for 10 months in the [[Vault/Records/West Virginians in the Revolution\|revolutionary war]]. His [[Vault/Records/Pension Records for John Kincaid\|Pension Records]] give more detail of what he did during his service.

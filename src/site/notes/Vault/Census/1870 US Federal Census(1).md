@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/vault/census/1870-us-federal-census-1/","tags":["Martha-Grose","Sarah-Virginia-Keenan"],"noteIcon":"","dg-note-properties":{"date-created":"Friday, February 21st 2025, 7:08:14 pm","date-modified":"Friday, February 21st 2025, 7:15:26 pm","tags":["Martha-Grose","Sarah-Virginia-Keenan"]}}
+---
+
+Page 6 - Nicholas County
+Family 39
+Martha Keenan    35
+Sarah                    17
+Mary                     16
+Maria                    14
+Jerusha                  7
+
+Marshall is not in the household
+
+![1870 United States Federal Census.png](/img/user/Vault/assets/1870%20United%20States%20Federal%20Census.png)

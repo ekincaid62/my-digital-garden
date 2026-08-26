@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/vault/records/wilderness-lumber-company-1/","tags":["George-Wesley-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["George-Wesley-Kincaid"],"date-created":"Saturday, February 1st 2025, 6:00:26 pm","date-modified":"Friday, February 21st 2025, 3:01:02 pm"}}
+---
+
+George Kincaid in the Center
+![Wilderness Lumber Company Crew.jpg](/img/user/Vault/assets/Wilderness_Lumber_Company_Crew.jpg.resources/Wilderness%20Lumber%20Company%20Crew.jpg)

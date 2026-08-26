@@ -22,7 +22,7 @@ Stillborn Legg 1920-1920
 
 ---
 #### Spouse and Children
-[[Ancestors by Last Name/Kincaid/Emory Garfield Kincaid 1922-1992\|Emory Garfield Kincaid 1922-1992]] on [[Records/Marriage License\|12/29/1948]] in Nicholas County, WV [[Vault/assets/Marriage License\|Marriage License]]
+[[Ancestors by Last Name/Kincaid/Emory Garfield Kincaid 1922-1992\|Emory Garfield Kincaid 1922-1992]] on [[Vault/Records/Marriage License\|12/29/1948]] in Nicholas County, WV [[Vault/assets/Marriage License\|Marriage License]]
 [[Brenda Lee Kincaid 1949-\|Brenda Lee Kincaid 1949-]]
 [[Ancestors by Last Name/Kincaid/Ronnie Lynn Kincaid 1952-2010\|Ronnie Lynn Kincaid 1952-2010]]
 [[Ancestors by Last Name/Kincaid/Emory Garfield Kincaid Jr 1962-\|Emory Garfield Kincaid Jr 1962-]]

@@ -16,7 +16,7 @@ Death on 7/11/1992 in Summersville WV
 
 ---
 #### Spouse and Children
-[[Ancestors by Last Name/Legg/Alice Lee Legg 1931-2012\|Alice Lee Legg 1931-2012]] married [[Records/Marriage License\|12/29/1948]] in Nicholas County, WV [[Vault/assets/Marriage License\|Marriage License]]
+[[Ancestors by Last Name/Legg/Alice Lee Legg 1931-2012\|Alice Lee Legg 1931-2012]] married [[Vault/Records/Marriage License\|12/29/1948]] in Nicholas County, WV [[Vault/assets/Marriage License\|Marriage License]]
 [[Brenda Lee Kincaid 1949-\|Brenda Lee Kincaid 1949-]]  
 [[Ancestors by Last Name/Kincaid/Ronnie Lynn Kincaid 1952-2010\|Ronnie Lynn Kincaid 1952-2010]]
 [[Ancestors by Last Name/Kincaid/Emory Garfield Kincaid Jr 1962-\|Emory Garfield Kincaid Jr 1962-]]
