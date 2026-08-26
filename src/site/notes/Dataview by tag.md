@@ -6,7 +6,6 @@
 - [[Vault/Records/RootsWeb's WorldConnect Project Our Research\|RootsWeb's WorldConnect Project Our Research]]
 - [[Vault/Records/RootsWeb KINCAID-L Re KINCAID John Kincaid\|RootsWeb KINCAID-L Re KINCAID John Kincaid]]
 - [[Vault/Records/Marriage Records\|Marriage Records]]
-- [[Vault/Records/Baldwin vs Kincaid\|Baldwin vs Kincaid]]
 - [[Vault/Land Transfers/Greenbrier County, DB 7 Pg 95 dated 4 Dec 1816 (Samuel and Huldy to Thomas Bennett)\|Greenbrier County, DB 7 Pg 95 dated 4 Dec 1816 (Samuel and Huldy to Thomas Bennett)]]
 - [[Vault/Land Transfers/Greenbrier County, DB 10 Pg 43 dated 4 Dec 1816 (Samuel and Huldy to John Butler)\|Greenbrier County, DB 10 Pg 43 dated 4 Dec 1816 (Samuel and Huldy to John Butler)]]
 - [[Vault/Land Transfers/Greenbrier County, DB 10 Pg 163 dated 29 Aug 1825 (Samuel and Huldah to Robert Harrah)\|Greenbrier County, DB 10 Pg 163 dated 29 Aug 1825 (Samuel and Huldah to Robert Harrah)]]
@@ -19,6 +18,7 @@
 - [[Vault/Census/1830 and 1840 Census Records\|1830 and 1840 Census Records]]
 - [[Vault/assets/Untitled Note\|Untitled Note]]
 - [[Ancestors by Last Name/Kincaid/Samuel Kincaid 1765-1847\|Samuel Kincaid 1765-1847]]
+- [[Vault/Records/Baldwin vs Kincaid\|Baldwin vs Kincaid]]
 
 { .block-language-dataview}
 
@@ -27,7 +27,6 @@
 - [[Vault/Records/RootsWeb's WorldConnect Project Our Research\|RootsWeb's WorldConnect Project Our Research]]
 - [[Vault/Records/RootsWeb KINCAID-L Re KINCAID John Kincaid\|RootsWeb KINCAID-L Re KINCAID John Kincaid]]
 - [[Vault/Records/Marriage Records\|Marriage Records]]
-- [[Vault/Records/Baldwin vs Kincaid\|Baldwin vs Kincaid]]
 - [[Vault/Land Transfers/Greenbrier County, DB 7 Pg 95 dated 4 Dec 1816 (Samuel and Huldy to Thomas Bennett)\|Greenbrier County, DB 7 Pg 95 dated 4 Dec 1816 (Samuel and Huldy to Thomas Bennett)]]
 - [[Vault/Land Transfers/Greenbrier County, DB 10 Pg 43 dated 4 Dec 1816 (Samuel and Huldy to John Butler)\|Greenbrier County, DB 10 Pg 43 dated 4 Dec 1816 (Samuel and Huldy to John Butler)]]
 - [[Vault/Land Transfers/Greenbrier County, DB 10 Pg 163 dated 29 Aug 1825 (Samuel and Huldah to Robert Harrah)\|Greenbrier County, DB 10 Pg 163 dated 29 Aug 1825 (Samuel and Huldah to Robert Harrah)]]
@@ -40,6 +39,7 @@
 - [[Vault/Census/1830 and 1840 Census Records\|1830 and 1840 Census Records]]
 - [[Vault/assets/Untitled Note\|Untitled Note]]
 - [[Ancestors by Last Name/Kincaid/Samuel Kincaid 1765-1847\|Samuel Kincaid 1765-1847]]
+- [[Vault/Records/Baldwin vs Kincaid\|Baldwin vs Kincaid]]
 
 { .block-language-dataview}
 

@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/vault/records/baldwin-vs-kincaid/","tags":["Thomas-Kincaid","Samuel-Kincaid","John-Kincaid","Hannah-Tincher"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Kincaid","Samuel-Kincaid","John-Kincaid","Hannah-Tincher"],"date-created":"Thursday, August 22nd 2024, 9:02:21 pm","date-modified":"Sunday, August 2nd 2026, 1:27:51 pm"}}
 ---
 
+I find this very interesting more from the fact that the heirs of Baldwin where actually the heirs of Samuel Ford. He started using his mother's maiden name "Baldwin" when he fled to Virginia. Here's more of the **[[Vault/Records/SAMUEL FORD JR.\|story]]!**
+
 Here are the children of Thomas Kincaid/Hannah Tincher, named as defendants in the first Chancery Court Case, dated Feb 24, 1819, against the complaint of George Kincaid/wife Johanna Baldwin.
 
 Greenbrier County, VA/WV
@@ -26,7 +28,6 @@ Samuel Kincaid, Elizabeth Harrow, Peggy Harrow, wife of Charles Harrow, heirs & 
 Robert Harrow & Elizabeth his wife, George Kincaid & Johanna his wife,
 
 William Baldwin, Thomas Baldwin, James Wills & Jane his wife & Charity
-
 Baldwin, Plaintiffs & Thomas Kincaid Senr & others, Defts should not be revived against them as heirs & representatives of the sd Thomas Kincaid Senr decd. \[The case involves land that Thomas entered using Baldwin's warrant. There was supposed to be a split of revenue from the sale of the land. The case was originally brought to the Chancery Court in Augusta Co. Oct 19, 1811, revised Nov 9, 1816, transferred to Greenbrier Co. then to
 
 Fayette Co. then in April 1835 back to Greenbrier Co. WVA.. Court of
