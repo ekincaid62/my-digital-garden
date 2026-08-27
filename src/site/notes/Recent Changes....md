@@ -15,10 +15,12 @@ views:
     order:
       - file.name
       - file.mtime
-      - formula.Untitled
     sort:
       - property: file.mtime
         direction: DESC
+      - property: formula.Untitled
+        direction: ASC
+    limit: 10
 
 ```
 
