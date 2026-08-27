@@ -10,7 +10,7 @@ My older brother passed away in 2010, leaving behind a wealth of information he 
 
 To get started you might want to visit my [[My Ancestor Chart\|family tree]]. It is linked to my ancestors back 6 generations. It works best on a touch device so you can zoom in. **You <font color="#ff0000">MUST</font> try the Search!** It works extremely well in finding notes that have been published on this site.
 
-I have tried to keep this site as simple and easy to follow as possible and will be adding more as I find the time. If you have any comments, questions, or additions, please leave comments through GitHub at the bottom of each page.
+I have tried to keep this site as simple and easy to follow as possible and will be adding more as I find the time. The 10 most recent changes or additions can be found [[Recent Changes...\|here]]. If you have any comments, questions, or additions, please leave comments through GitHub at the bottom of each page.
 
 # Reference Materials
 
