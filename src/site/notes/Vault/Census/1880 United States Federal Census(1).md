@@ -1,8 +1,0 @@
----
-{"dg-publish":true,"permalink":"/vault/census/1880-united-states-federal-census-1/","tags":["Cyrus-Skaggs","Rachel-Parish-Coleman"],"noteIcon":"","dg-note-properties":{"tags":["Cyrus-Skaggs","Rachel-Parish-Coleman"],"date-created":"Sunday, February 23rd 2025, 9:46:41 am","date-modified":"Sunday, February 23rd 2025, 9:51:55 am"}}
----
-
-Ancestry says Cyrus and Rachel are listed somewhere around line 30.
-I'm not sure... I can't read a thing.
-
-![1880 United States Federal Census 1.jpg](/img/user/Vault/assets/1880%20United%20States%20Federal%20Census%201.jpg)
