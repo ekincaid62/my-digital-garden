@@ -1,5 +1,0 @@
----
-{"dg-publish":true,"permalink":"/vault/records/marshall-and-martha/","tags":["Marshall-Keenan","Martha-Grose"],"noteIcon":"","dg-note-properties":{"tags":["Marshall-Keenan","Martha-Grose"],"date-created":"Thursday, August 22nd 2024, 9:02:06 pm","date-modified":"Sunday, August 2nd 2026, 1:27:50 pm"}}
----
-
-![600.jpg](/img/user/Vault/assets/12_May_1798_Henry_Banks_28,280_Ac_Patent.resources/600.jpg.resources/600.jpg)
