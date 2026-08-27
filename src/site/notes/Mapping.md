@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mapping/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/mapping/","pinned":"true","noteIcon":"","dg-note-properties":{}}
 ---
 
 Here is a list of mapping I have produced to help track Land Transfers that I have stored in Google Maps. The bulk of it is located around Muddy Creek in Greenbrier County. I feel that even though the patents are from the 1700's and 1800's, you will find them in the "Ballpark" geographically.
