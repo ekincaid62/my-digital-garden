@@ -4,22 +4,14 @@
 
 
 ```base
-formulas:
-  Untitled: ""
 views:
   - type: table
     name: Table
-    filters:
-      and:
-        - note["dg-publish"] == true
-    order:
-      - file.name
-      - file.mtime
     sort:
       - property: file.mtime
         direction: DESC
-      - property: formula.Untitled
-        direction: ASC
+      - property: file.mtime
+        direction: DESC
     limit: 10
 
 ```
