@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1910-united-states-federal-census-1/","tags":["Martha-Jane-Potter"],"noteIcon":"","dg-note-properties":{"tags":["Martha-Jane-Potter"],"date-created":"Friday, March 7th 2025, 1:29:17 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"permalink":"/vault/census/1910-united-states-federal-census-1/","tags":["Martha-Jane-Potter"],"noteIcon":"","dg-note-properties":{"tags":["Martha-Jane-Potter"],"date-created":"Friday, March 7th 2025, 1:29:17 pm","date-modified":"Friday, March 7th 2025, 1:32:13 pm"}}
 ---
 
 Family 408

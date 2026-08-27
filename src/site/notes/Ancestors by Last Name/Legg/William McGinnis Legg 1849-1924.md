@@ -46,7 +46,7 @@ Death on 9/16/1924 in Mt. Lookout WV
 #### Biography
 
 ### Photos
-[[Mack & Polly Ann Hawkins Legg\|Mack & Polly Ann Hawkins Legg]]
-[[Mack & Polly Ann Hawkins Legg.1\|Mack & Polly Ann Hawkins Legg]]
+[[Vault/Records/Mack & Polly Ann Hawkins Legg\|Mack & Polly Ann Hawkins Legg]]
+[[Vault/Records/Mack & Polly Ann Hawkins Legg.1\|Mack & Polly Ann Hawkins Legg]]
 #### Sources
 

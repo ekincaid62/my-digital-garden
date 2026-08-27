@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1880-united-states-federal-census-record-1/","tags":["Christopher-Clayton-Shaffer","Joseph-Allen-Shaffer"],"noteIcon":"","dg-note-properties":{"tags":"Christopher-Clayton-Shaffer,Joseph-Allen-Shaffer","date-created":"Thursday, August 22nd 2024, 9:02:07 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"permalink":"/vault/census/1880-united-states-federal-census-record-1/","tags":["Christopher-Clayton-Shaffer","Joseph-Allen-Shaffer"],"noteIcon":"","dg-note-properties":{"tags":"Christopher-Clayton-Shaffer,Joseph-Allen-Shaffer","date-created":"Thursday, August 22nd 2024, 9:02:07 pm","date-modified":"Friday, February 21st 2025, 8:15:13 pm"}}
 ---
 
 Family 70
@@ -12,7 +12,7 @@ Urias E.                       8
 Susan E.                      6
 Elizabeth F.                 4
 Jacob A.                     2
-![Vault/assets/1880_United_States_Federal_Census_Record.resources/image.x.jpg](/img/user/Vault/assets/1880_United_States_Federal_Census_Record.resources/image.x.jpg)  
+![assets/1880_United_States_Federal_Census_Record.resources/image.x.jpg](/img/user/Vault/assets/1880_United_States_Federal_Census_Record.resources/image.x.jpg)  
 
 As best I can determine Joseph was married 3 times
 

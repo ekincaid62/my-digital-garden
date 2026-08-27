@@ -48,9 +48,9 @@ served in the 280th Engineering Combat Battalion
 #### Military Records
 [[Vault/Records/Military Photo\|Military Photo]]
 [[Vault/Records/Pay Record\|Pay Record]]
-[[Military Pass\|Military Pass]]
+[[Vault/Records/Military Pass\|Military Pass]]
 [[Vault/Records/Honorable Discharge\|Honorable Discharge]]
-[[Separation Qualification Record\|Separation Qualification Record]]
+[[Vault/Records/Separation Qualification Record\|Separation Qualification Record]]
 [[Harry Truman Letter\|Harry Truman Letter]]
 [[National Service Life Insurance\|National Service Life Insurance]]
 #### Sources

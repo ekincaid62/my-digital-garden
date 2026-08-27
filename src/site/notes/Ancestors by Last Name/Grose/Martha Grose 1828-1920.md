@@ -38,8 +38,8 @@ Death on <!-- link to date --> in <!-- link to place -->
 #### Biography
 
 #### Photos
-[[Marshall and Martha\|Marshall and Martha]]
-[[Martha Grose Keenan\|Martha Grose Keenan]]
+[[Vault/Records/Marshall and Martha\|Marshall and Martha]]
+[[Vault/Records/Martha Grose Keenan\|Martha Grose Keenan]]
 [[Vault/Records/Martha Grose Keenan Skaggs\|Martha Grose Keenan Skaggs]]
 #### Sources
 

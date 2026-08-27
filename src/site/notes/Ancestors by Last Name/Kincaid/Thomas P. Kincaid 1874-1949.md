@@ -41,7 +41,7 @@ Born on  3/30/1874 in WV
 [[Vault/Records/Children of Thomas P. and Martha Stull Kincaid.1\|Children of Thomas P. and Martha Stull Kincaid.1]]
 [[Vault/Records/Thomas & Martha Stull Kincaid\|Thomas & Martha Stull Kincaid]]
 [[Vault/Records/Thomas & Martha Stull Kincaid Family\|Thomas & Martha Stull Kincaid Family]]
-[[Vault/Records/Thomas P. Kincaid 2\|Thomas P. Kincaid 2]]
+[[Thomas P. Kincaid 2\|Thomas P. Kincaid 2]]
 [[Vault/Records/Thomas P. Kincaid\|Thomas P. Kincaid]]
 #### Sources
 [Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p39

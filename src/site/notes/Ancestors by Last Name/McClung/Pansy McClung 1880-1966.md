@@ -37,7 +37,7 @@ Luella A. Legg 1923-
 #### Biography
 
 #### Photos
-[[Vault/Records/Aunt Pansy McClung Legg\|Aunt Pansy McClung Legg]]
+[[Aunt Pansy McClung Legg\|Aunt Pansy McClung Legg]]
 [[Vault/Records/Aunt Pansy Legg\|Aunt Pansy Legg]]
 [[Vault/Records/Walter & Pansy Legg\|Walter & Pansy Legg]]
 [[Vault/Records/Walter & Pansy Legg Family\|Walter & Pansy Legg Family]]
