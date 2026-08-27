@@ -1,6 +1,5 @@
 require("dotenv").config();
 const settings = require("../../helpers/constants");
-const { pickNoteMetadata } = require("../../helpers/bases-engine/noteMetadata");
 
 const allSettings = settings.ALL_NOTE_SETTINGS;
 
@@ -23,7 +22,7 @@ module.exports = {
       return data.collections.note.map((item) => ({
         path: item.filePathStem.replace("/notes/", ""),
         url: item.url,
-        metadata: pickNoteMetadata(item.data),
+        metadata: item.data,
         fileSlug: item.fileSlug,
       }));
     },
