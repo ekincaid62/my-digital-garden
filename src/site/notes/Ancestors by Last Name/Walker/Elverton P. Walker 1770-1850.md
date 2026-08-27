@@ -22,7 +22,7 @@ Death on 1850 in Nicholas County, VA
 #### Census Records
 [[Vault/Census/1840 United States Federal Census Record.1\|1840 United States Federal Census Record]]
 [[Vault/Census/1820 United States Federal Census Record.1\|1820 United States Federal Census Record]]
-[[Vault/Census/1810 United States Federal Census Record.2\|1810 United States Federal Census Record]]
+[[1810 United States Federal Census Record.2\|1810 United States Federal Census Record]]
 #### Land Transfers
 
 #### Biography
