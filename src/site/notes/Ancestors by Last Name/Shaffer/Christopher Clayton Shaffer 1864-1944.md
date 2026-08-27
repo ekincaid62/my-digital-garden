@@ -47,6 +47,6 @@ Death on 1944 in Mt. Lookout, WV
 
 #### Photos
 [[Vault/Records/Clayton & Dorcas Shaffer Family\|Clayton & Dorcas Shaffer Family]]
-[[Clayton & Lee Shaffer\|Clayton & Lee Shaffer]]
+[[Vault/Records/Clayton & Lee Shaffer\|Clayton & Lee Shaffer]]
 #### Sources
 [Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p29

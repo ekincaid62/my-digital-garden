@@ -36,7 +36,7 @@ Born on  3/30/1874 in WV
 #### Biography
 
 #### Photos
-[[Family of Thomas P. Kincaid\|Family of Thomas P. Kincaid]]
+[[Vault/Records/Family of Thomas P. Kincaid\|Family of Thomas P. Kincaid]]
 [[Vault/Records/Children of Thomas P. and Martha Stull Kincaid\|Children of Thomas P. and Martha Stull Kincaid]]
 [[Vault/Records/Children of Thomas P. and Martha Stull Kincaid.1\|Children of Thomas P. and Martha Stull Kincaid.1]]
 [[Vault/Records/Thomas & Martha Stull Kincaid\|Thomas & Martha Stull Kincaid]]

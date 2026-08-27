@@ -43,7 +43,7 @@ Stillborn Legg 1920-1920
 #### Biography
 
 #### Photos
-[[Fred and Mamie Shaffer Legg\|Fred and Mamie Shaffer Legg]]
+[[Vault/Records/Fred and Mamie Shaffer Legg\|Fred and Mamie Shaffer Legg]]
 [[Vault/Records/Fred Legg Family.1\|Fred Legg Family]]
 #### Sources
 [Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p29,30
