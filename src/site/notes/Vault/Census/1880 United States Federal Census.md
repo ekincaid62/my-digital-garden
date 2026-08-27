@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1880-united-states-federal-census/","tags":["Cyrus-Skaggs","Rachel-Parish-Coleman"],"noteIcon":"","dg-note-properties":{"tags":["Cyrus-Skaggs","Rachel-Parish-Coleman"],"date-created":"Sunday, February 23rd 2025, 9:46:41 am","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"permalink":"/vault/census/1880-united-states-federal-census/","tags":["Cyrus-Skaggs","Rachel-Parish-Coleman"],"noteIcon":"","dg-note-properties":{"tags":["Cyrus-Skaggs","Rachel-Parish-Coleman"],"date-created":"Sunday, February 23rd 2025, 9:46:41 am","date-modified":"Sunday, February 23rd 2025, 9:51:55 am"}}
 ---
 
 Ancestry says Cyrus and Rachel are listed somewhere around line 30.

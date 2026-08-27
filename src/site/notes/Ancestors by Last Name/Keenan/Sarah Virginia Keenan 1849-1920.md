@@ -40,12 +40,12 @@ The family moved to Mt Lookout in 1886 according to  [Mt Lookout Family Record B
 
 #### Photos
 [[Vault/Records/James William and Sarah Virginia Kincaid\|James William and Sarah Virginia Kincaid]]
-[[Vault/Records/James William Kincaid Family\|James William Kincaid Family]]
+[[James William Kincaid Family\|James William Kincaid Family]]
 [[Vault/Records/Will & Sarah Virginia Keenan Kincaid\|Will & Sarah Virginia Keenan Kincaid]]
 [[Vault/Records/Maria Keenan Evans\|Maria Keenan Evans]]
 [[Vault/Records/James William and Sarah Virginia Kincaid\|James William and Sarah Virginia Kincaid]]
-[[Vault/Records/James William Kincaid\|James William Kincaid]]
-[[Vault/Records/James William Kincaid Family\|James William Kincaid Family]]
+[[James William Kincaid\|James William Kincaid]]
+[[James William Kincaid Family\|James William Kincaid Family]]
 
 #### Sources
 [Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p39

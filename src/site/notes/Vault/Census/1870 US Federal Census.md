@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1870-us-federal-census/","tags":["Martha-Grose","Sarah-Virginia-Keenan"],"noteIcon":"","dg-note-properties":{"date-created":"Friday, February 21st 2025, 7:08:14 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","tags":["Martha-Grose","Sarah-Virginia-Keenan"]}}
+{"dg-publish":true,"permalink":"/vault/census/1870-us-federal-census/","tags":["Martha-Grose","Sarah-Virginia-Keenan"],"noteIcon":"","dg-note-properties":{"date-created":"Friday, February 21st 2025, 7:08:14 pm","date-modified":"Friday, February 21st 2025, 7:15:26 pm","tags":["Martha-Grose","Sarah-Virginia-Keenan"]}}
 ---
 
 Page 6 - Nicholas County

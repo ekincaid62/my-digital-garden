@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1860-united-states-federal-census-record/","tags":["James-William-Kincaid","John-A-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":"James-William-Kincaid,John-A-Kincaid","date-created":"Thursday, August 22nd 2024, 9:02:13 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"permalink":"/vault/census/1860-united-states-federal-census-record/","tags":["James-William-Kincaid","John-A-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":"James-William-Kincaid,John-A-Kincaid","date-created":"Thursday, August 22nd 2024, 9:02:13 pm","date-modified":"Friday, February 21st 2025, 2:47:12 pm"}}
 ---
 
 Household 46
@@ -15,4 +15,4 @@ Lewis 5
 Jonathan 1
 Augustus 1
 
-![Vault/assets/1860_United_States_Federal_Census_Record.resources 1/image.x.jpg](/img/user/Vault/assets/1860_United_States_Federal_Census_Record.resources%201/image.x.jpg)
+![assets/1860_United_States_Federal_Census_Record.resources 1/image.x.jpg](/img/user/Vault/assets/1860_United_States_Federal_Census_Record.resources%201/image.x.jpg)

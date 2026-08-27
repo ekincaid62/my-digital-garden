@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1900-united-states-federal-census-2/","tags":["William-Legg","Elizabeth-Ramsey"],"noteIcon":"","dg-note-properties":{"tags":["William-Legg","Elizabeth-Ramsey"],"date-created":"Wednesday, February 26th 2025, 7:16:44 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"permalink":"/vault/census/1900-united-states-federal-census-2/","tags":["William-Legg","Elizabeth-Ramsey"],"noteIcon":"","dg-note-properties":{"tags":["William-Legg","Elizabeth-Ramsey"],"date-created":"Wednesday, February 26th 2025, 7:16:44 pm","date-modified":"Wednesday, February 26th 2025, 7:18:49 pm"}}
 ---
 
 Family 197

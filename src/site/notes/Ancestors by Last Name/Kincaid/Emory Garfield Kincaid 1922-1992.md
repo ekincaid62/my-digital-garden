@@ -37,21 +37,21 @@ served in the 280th Engineering Combat Battalion
 [[Vault/Records/Dad and Brenda\|Dad and Brenda]]
 [[Vault/Records/Emory Kincaid and Laura Skaggs Kincaid\|Emory Kincaid and Laura Skaggs Kincaid]]
 [[Vault/Records/Dad.1\|Dad.1]]
-[[Vault/Records/Dad.2\|Dad.2]]
+[[Dad.2\|Dad.2]]
 [[Vault/Records/Dad.3\|Dad.3]]
-[[Vault/Records/Dad.4\|Dad.4]]
+[[Dad.4\|Dad.4]]
 [[Vault/Records/Emil & Emory Kincaid\|Emil & Emory Kincaid]]
 [[Vault/Records/Emory and Alice Legg Kincaid Family\|Emory and Alice Legg Kincaid Family]]
 [[Vault/Records/Emory Kincaid\|Emory Kincaid]]
-[[Vault/Records/Eugene & Emory Kincaid\|Eugene & Emory Kincaid]]
+[[Eugene & Emory Kincaid\|Eugene & Emory Kincaid]]
 
 #### Military Records
 [[Vault/Records/Military Photo\|Military Photo]]
 [[Vault/Records/Pay Record\|Pay Record]]
-[[Vault/Records/Military Pass\|Military Pass]]
+[[Military Pass\|Military Pass]]
 [[Vault/Records/Honorable Discharge\|Honorable Discharge]]
-[[Vault/Records/Separation Qualification Record\|Separation Qualification Record]]
-[[Vault/Records/Harry Truman Letter\|Harry Truman Letter]]
-[[Vault/Records/National Service Life Insurance\|National Service Life Insurance]]
+[[Separation Qualification Record\|Separation Qualification Record]]
+[[Harry Truman Letter\|Harry Truman Letter]]
+[[National Service Life Insurance\|National Service Life Insurance]]
 #### Sources
 [Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p40

@@ -30,6 +30,6 @@ Death on 1884 in <!-- link to place -->
 #### Biography
 Here is his [[Vault/Records/Marshall Keenan Will\|Will]]
 #### Photos
-[[Vault/Records/Marshall and Martha\|Marshall and Martha]]
+[[Marshall and Martha\|Marshall and Martha]]
 #### Sources
 

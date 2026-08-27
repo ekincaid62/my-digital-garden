@@ -28,7 +28,7 @@ Death on 8/11/1950 in Fayette County, WV
 
 #### Census Records
 [[Vault/Census/1950 United States Federal Census 2\|1950 United States Federal Census]]
-[[Vault/Census/1940 United States Federal Census 3\|1940 United States Federal Census]]
+[[1940 United States Federal Census 3\|1940 United States Federal Census]]
 [[Vault/Census/1930 United States Federal Census Record 1\|1930 United States Federal Census Record]]
 [[Vault/Census/1920 United States Federal Census Record 1\|1920 United States Federal Census Record]]
 [[Vault/Census/1910 United States Federal Census Record 1\|1910 United States Federal Census Record]]

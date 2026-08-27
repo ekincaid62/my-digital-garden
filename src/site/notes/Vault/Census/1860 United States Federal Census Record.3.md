@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1860-united-states-federal-census-record-3/","tags":["Nicholas-Hawkins","Rebecca-Wiseman","Mary-Neal","Isaac-Ward-Wiseman"],"noteIcon":"","dg-note-properties":{"tags":["Nicholas-Hawkins","Rebecca-Wiseman","Mary-Neal","Isaac-Ward-Wiseman"],"date-created":"Thursday, August 22nd 2024, 9:02:07 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"permalink":"/vault/census/1860-united-states-federal-census-record-3/","tags":["Nicholas-Hawkins","Rebecca-Wiseman","Mary-Neal","Isaac-Ward-Wiseman"],"noteIcon":"","dg-note-properties":{"tags":["Nicholas-Hawkins","Rebecca-Wiseman","Mary-Neal","Isaac-Ward-Wiseman"],"date-created":"Thursday, August 22nd 2024, 9:02:07 pm","date-modified":"Thursday, February 27th 2025, 8:05:05 pm"}}
 ---
 
 **Family 618**
@@ -18,4 +18,4 @@ Milton M     5
 Polly A         7
 Sarah A
 
-![Vault/assets/1860_United_States_Federal_Census_Record.3.resources/image.x.jpg](/img/user/Vault/assets/1860_United_States_Federal_Census_Record.3.resources/image.x.jpg)
+![assets/1860_United_States_Federal_Census_Record.3.resources/image.x.jpg](/img/user/Vault/assets/1860_United_States_Federal_Census_Record.3.resources/image.x.jpg)

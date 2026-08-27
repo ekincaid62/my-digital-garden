@@ -40,12 +40,12 @@ Death on 6/1976 in Summersville WV
 [[Vault/Records/George Wesley Kincaid\|George Wesley Kincaid]]
 [[Vault/Records/George & Laura Skaggs Kincaid\|George & Laura Skaggs Kincaid]]
 [[Vault/Records/George Kincaid & Fred Shaffer\|George Kincaid & Fred Shaffer]]
-[[Vault/Records/Mt Lookout String Band\|Mt Lookout String Band]]
+[[Mt Lookout String Band\|Mt Lookout String Band]]
 [[Vault/Records/Wilderness Lumber Company\|Wilderness Lumber Company]]
-[[Vault/Records/Community World War I Veterans\|Community World War I Veterans]]
+[[Community World War I Veterans\|Community World War I Veterans]]
 #### Military Records
 [[Vault/Records/World War I Draft Registration Cards, 1917-1918 Record for George Wesley Kincaid\|World War I Draft Registration Cards, 1917-1918 Record for George Wesley Kincaid]]
-[[Vault/Records/U.S. World War II Draft Registration Card, 1942 George Wesley Kincaid\|U.S. World War II Draft Registration Card, 1942 George Wesley Kincaid]]
+[[U.S. World War II Draft Registration Card, 1942 George Wesley Kincaid\|U.S. World War II Draft Registration Card, 1942 George Wesley Kincaid]]
 
 #### Sources
 [Mt Lookout Family Record Book 1938](https://drive.google.com/file/d/0B0oZv34v0ajXQXdIRFhULU0ySWM/view?usp=drive_link&resourcekey=0-q6z_POF66AcZ3lzhcsSGVA)p40
