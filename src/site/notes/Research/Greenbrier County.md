@@ -1,0 +1,50 @@
+---
+{"dg-publish":true,"permalink":"/research/greenbrier-county/","tags":["todo"],"noteIcon":"","dg-note-properties":{"tags":["todo"],"created":"2015-04-27T10:32","updated":"2024-07-03T20:54","date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Sunday, August 2nd 2026, 1:27:51 pm"}}
+---
+
+
+[ ] **Check Grantor Index Deed from Butler to Samuel and Hulda (240 Ac Ephraim's Creek) at the same time (1816) as DB 10 Pg 43** Start in 1810 when Butler got the patent
+- [ ] **Check out Grantee Index for Tyree also around 1832 (Samuel to Tyree - Ephraim's Creek)**
+- [x] **Deed from Thomas to John (McDowell Patent) DB 1 Pg 96**
+- [x] **Deed from Thomas to Thomas Jr. (McDowell Patent) DB 1 Pg 151**
+- [x] **Deed from Francis Tincher to Thomas (600 Ac Patent) DB 1 Pg 359**
+- [x] **Deed from Thomas to Christian Runner DB 1 Pg 380**
+- [x] **Deed from Thomas to Francis Tincher (440 Ac) DB 1 Pg 440**
+- [x] **Deed from Thomas to Wiley Wood (133 Ac) DB 1 Pg 140**
+- [x] **Deed from Wiley Wood to George C. Kincaid (113 Ac) DB 1 Pg 421**
+- [x] **Deed from Thomas to George C. Kincaid (290 Ac) DB 1 Pg 701**
+- [x] **Deed from Thomas to Michael Runner (112 Ac) DB 1 Pg 705**
+- [x] **Deed from Thomas to Francis (336 Ac) DB 1 Pg 706**
+- [ ] **Deed from John and Elizabeth (57 Ac) to Henry Miller DB 2 Pg 245**
+- [ ] **Deed from John and Elizabeth (182 Ac) to Wm Holly DB 2 Pg 264**
+- [ ] **Deed from John and Elizabeth (88 Ac) to Wm Cherry DB 2 Pg 265**
+- [ ] **Deed from John and Elizabeth to Thomas Terry DB 2 Pg 267**
+- [ ] **Deed from John and Elizabeth (118 Ac) to Lydia Murphy DB 2 Pg 270**
+- [ ] **Deed from Thomas and Elizabeth (19 Ac) to Henry Miller DB 2 Pg 245**
+- [ ] **Deed from Francis and Agnes to James Claypole (335 Ac) DB 3 Pg 23**
+- [ ] **Deed from James Claypole to Francis Kincaid (285 Ac) DB 3 Pg 78**
+- [ ] **Deed from George and Johannah Kinkead (213 Ac) to Archable Campbell DB 4 Pg 45**
+- [ ] **Deed from Francis & Agnes to Wm Newsom (280 Ac) DB 4 Pg 210**
+- [ ] **Deed from George and Johannah (233 Ac) to Wm Kincaid DB 4 Pg 245**
+- [ ] **Deed from Thomas to Christian Pearcy (135.5 Ac) DB 4 Pg 125**
+- [x] **Deed from Thomas and Hannah to Matthew Kincaid (42.5A) DB 4 Pg 129**
+- [ ] **Deed from George and Johannah Kincaid to Jacob Bunger (290 Ac) DB 4 Pg 285**
+- [ ] **Deed from Johannah Kincaid to Jacob Bunger (Acknowledgement) DB 4 Pg 288**
+- [x] **Deed from Thomas to Matthew Harra (551 Ac) DB 4 Pg 297**
+- [ ] **Deed from Thomas to Francis (199 Ac) DB 4 Pg 324**
+- [ ] **Deed from Thomas to John and Robert Kincaid DB 4 Pg 336**
+- [ ] **Deed from Elizabeth Tritt to Francis (80 Ac) DB 4 Pg 365**
+- [ ] **Deed from John Kincaid to Robert Kincaid DB 4 Pg 447**
+- [ ] **Deed from Wm and Mary A Kincaid to Jas Butler (233 Ac) DB 4 Pg 465**
+- [ ] **Deed from Wm and Mary A Kincaid to Wm Hamilton (13 Ac) DB 4 Pg 467**
+- [ ] **Deed from Thomas Kincaid to Robt Huse (100 Ac) DB 5 Pg 529**
+- [ ] **Deed from Robt Hughes to John Kincaid (100 Ac) DB 6 Pg 606**
+- [ ] **Deed from Thomas Kincaid to John Pearcy (42 Ac) DB 7 Pg 172**
+- [ ] **Deed from Thomas and Elizabeth Kincaid to Thomas Harra (265 Ac) DB 7 Pg 221**
+- [ ] **Deed from Thomas Harra to Thomas Kincaid (200 Ac) DB 7 Pg 223**
+- [ ] **Deed from Huldah Kincaid to William Harrow (4 Tracts) DB 10 Pg 370**
+- [ ] **Deed from Samuel to Thomas Harrah (100 Ac) DB 12 Pg 59?**
+- [x] **Will of Samuel Tincher WB 1 Pg 43**
+- [ ] Check out Grantee Index for Samuel Baldwin
+- [ ] Grantee/Grantor for Tincher around 1790
+- [ ] Chancery Court Case 147
