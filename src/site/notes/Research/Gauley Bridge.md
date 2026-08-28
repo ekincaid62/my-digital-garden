@@ -30,5 +30,12 @@ Below are pictures of photos I found on Facebook. The first was said to be the f
 These pictures show the same area after the bridge above was burnt and are noted to be taken in 1875.
 
 ![Pasted image 20260820160713.png](/img/user/Vault/assets/Pasted%20image%2020260820160713.png)
-
 ![Pasted image 20260820160756.png](/img/user/Vault/assets/Pasted%20image%2020260820160756.png)
+This photo was taken in the 1910's
+
+![Gauley Bridge in the 1910s.jpg](/img/user/Gauley%20Bridge%20in%20the%201910s.jpg)
+
+
+
+
+
