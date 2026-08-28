@@ -60,4 +60,4 @@ Little Meadow River
 
 #### Sources
 
-[[Vault/assets/Samuel Tincher Will\|Samuel Tincher Will]] appoints Thomas (husband of Hannah) as the sole executor.
+[[Research/Samuel Tincher Will\|Samuel Tincher Will]] appoints Thomas (husband of Hannah) as the sole executor.
