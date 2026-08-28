@@ -2,26 +2,14 @@
 {"dg-publish":true,"permalink":"/research/gauley-bridge/","tags":["todo"],"noteIcon":"","dg-note-properties":{"tags":["todo"]}}
 ---
 
-I would like to trace some of these properties back. I feel that the original parcel will trace back to John Kincaid's patent on the east side of Gauley. I have read that Matthew also had a patent adjacent to it. The state would have acquired some from John prior to 1822 when the bridge was built. It was burnt down on July 11, 1826. I am assuming that this bridge was in the same location as when it was rebuilt. The research will probably require at least a couple of different counties. I think this is part of Nicholas/Logan County in the early 1820s looking at these [[Vault/Records/Virginia County Boundary Changes over Time\|maps]].
+John along with Matthew and James received patents to land along the Gauley and New Rivers in 1820.
 
-I found the original patent and it seems to follow the course or the river pretty closely. I should be able to map and place it reasonably easy which may negate needing as much research. It was dated 7 December 1820 and was for 100 acres. I also found a patent for Matthew and James. If the footprint of the original bridge is the same as the piers show then the 4 acres that the state took came from it.
+[[Vault/Land Transfers/7 Dec 1820 John Kincaid 100 Acres\|7 Dec 1820 John Kincaid 100 Acres]]
+[[Vault/Patents/20 Dec 1820 Matthew and James Kincaid 73 Ac\|20 Dec 1820 Matthew and James Kincaid 73 Ac]]
 
+Here is a [map] (https://www.google.com/maps/d/edit?mid=1Qx6w7i-Xi5K1aXPhPIglp94VTrI2DAo&usp=sharing)  of where they were located.
 
-![Pasted image 20260818170744.png](/img/user/Vault/assets/Pasted%20image%2020260818170744.png)
-
-
-| Parcel   | Current Owner as of 8/18/2026  | Deed Book | Page |
-| -------- | ------------------------------ | --------- | ---- |
-| 13-14-34 | Little General Store           | 630       | 640  |
-| 13-14-39 | CSX Transportation Inc         | 193       | 340  |
-| 13-14-1  | KIRKS DEBBY A & ANDERSON JOY A | 864       | 168  |
-| 03-10-5  | MIDVALE COLLIERY CO            | 181       | 211  |
-| 13-14-36 | MIKOLS JOSEPH A                | 671       | 72   |
-| 13-14-38 | GILES LISA S                   | FD29      | 40.5 |
-| 13-14-2  | MIKOLS JOSEPH A                | 671       | 72   |
-| 13-14-3  | MIKOLS JOSEPH ALLEN            | 757       | 550  |
-
-I'm not sure what FD means for property 13-14-38.#
+The state would have acquired 4 acres for the bridge abutment when it was built. I am assuming that the original bridge was built in the same location as where the piers are still standing. This would mean that the 4 acres were taken from the 73 acre patent of Matthew and John. It was burnt down on July 11, 1826.  Nicholas County Courthouse is the most likely to have information on it as it was Nicholas County until Fayette County was formed in 1831.
 
 Below are pictures of photos I found on Facebook. The first was said to be the first bridge. Cameras were not invented at the time of the first bridge, so it has to be one that followed. Again, I am going to make the assumption that the first bridge was at or near the same footprint as this bridge.
 
