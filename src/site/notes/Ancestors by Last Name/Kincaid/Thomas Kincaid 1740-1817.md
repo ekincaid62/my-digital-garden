@@ -55,7 +55,9 @@ Little Meadow River
 [[Vault/Patents/3 July 1816 Thomas Kincaid Sr. 42 Ac Patent\|3 July 1816 Thomas Kincaid Sr. 42 Ac Patent]]
 #### Biography
 
+Thomas was born in Albemarle County, VA and is believed to be the son of a John. There are two land transactions that point to this. On July 5, 1765 John purchased 211 Ac. (Armour's Mountain) from Andrew Woods. This was then sold to Benjamin Coffey in 1771 by Thomas and his wife Hannnah. It is recorded in Albemarle County DB 5 - PG 435-436. In this deed, he is explicitly written and designated as **"Thomas Kinkead, son of John Kinkead."** 
 
+I have seen family trees with Information saying that Thomas fought in the Revolutionary War as a "Minuteman". While the could be true, I have found nothing that confirms that.
 #### Photos
 
 #### Sources

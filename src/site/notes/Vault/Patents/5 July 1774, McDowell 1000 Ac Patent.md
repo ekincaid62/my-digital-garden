@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/patents/5-july-1774-mc-dowell-1000-ac-patent/","tags":["Thomas-Kincaid","Muddy-Creek"],"noteIcon":"","dg-note-properties":{"tags":"Thomas-Kincaid,Muddy-Creek"}}
+{"dg-publish":true,"permalink":"/vault/patents/5-july-1774-mc-dowell-1000-ac-patent/","tags":["Thomas-Kincaid","Muddy-Creek"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Kincaid","Muddy-Creek"]}}
 ---
 
 This is the original patent on Muddy Creek to Daniel McDowell. At some point before 1792 this property was transferred to Thomas Kincaid.
