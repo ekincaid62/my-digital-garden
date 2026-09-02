@@ -26,7 +26,7 @@ A large number of family members and associates were summoned as witnesses for b
 - **Lewis Terry:** Grandson of John.
 - **John Tritt and James Linegar:** Relatives of John's daughters-in-law or sons-in-law.
 
-The Information on the trial above was provided by Barbara Van Hout who found the records in the microfilm at Kanawha County Courthouse.
+Here is a copy of the [[Vault/Records/Court Records of the burning of Gauley Bridge\|records]] from Kanawha County.
 
 As reported in the Niles' weekly register, Volume 31 (The Niles Register was published in
 Baltimore, MD.) The burning seemed to occur July 11, 1826. It is possible that John lost land according to the following.

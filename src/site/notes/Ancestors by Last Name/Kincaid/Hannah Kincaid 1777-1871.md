@@ -26,7 +26,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 
 ---
 #### Spouse and Children
-[[James Walker\|James Walker]] married 12/13/1798 in [[Hannah Kincaid and James Walker Marriage\|Greenbrier County]].
+[[James Walker\|James Walker]] married 12/13/1798 in [[Vault/Records/Hannah Kincaid and James Walker Marriage\|Greenbrier County]].
 <!-- Link to child -->
 
 #### Census Records
@@ -35,6 +35,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 
 #### Biography
 
+Following the trial of John and Matthew burning Gauley Bridge, Hannah and James WALKER moved from Kanawha County to Darke County, Ohio. The move was before 1830. In a biographical sketch of their son-in-law [[Vault/Records/Samuel Litton Biographical Sketch\|Samuel Litton]] we see that Hannah and James moved to Adams County, Indiana, in 1850 where they supposedly died in 1871.
 #### Photos
 
 #### Sources
