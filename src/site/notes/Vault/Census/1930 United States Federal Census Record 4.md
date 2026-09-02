@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1930-united-states-federal-census-record-4/","tags":["Christopher-Clayton-Shaffer","Mamie-Catherine-Shaffer","Fred-Legg","Dorcas-McClung","Retta-Legg","Virginia-Legg","Mary-Ann-Legg","June-Legg","Charles-William-Legg","Kata-Legg"],"noteIcon":"","dg-note-properties":{"tags":"Christopher-Clayton-Shaffer,Mamie-Catherine-Shaffer,Fred-Legg,Dorcas-McClung,Retta-Legg,Virginia-Legg,Mary-Ann-Legg,June-Legg,Charles-William-Legg,Kata-Legg","date-created":"Thursday, August 22nd 2024, 9:02:10 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"permalink":"/vault/census/1930-united-states-federal-census-record-4/","tags":["Christopher-Clayton-Shaffer","Mamie-Catherine-Shaffer","Fred-Legg","Dorcas-McClung","Retta-Legg","Virginia-Legg","Mary-Ann-Legg","June-Legg","Charles-William-Legg","Kata-Legg"],"noteIcon":"","dg-note-properties":{"tags":["Christopher-Clayton-Shaffer","Mamie-Catherine-Shaffer","Fred-Legg","Dorcas-McClung","Retta-Legg","Virginia-Legg","Mary-Ann-Legg","June-Legg","Charles-William-Legg","Kata-Legg"],"date-created":"Thursday, August 22nd 2024, 9:02:10 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 Household 93

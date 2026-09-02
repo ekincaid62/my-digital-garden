@@ -26,7 +26,7 @@ Death on <!-- link to date --> in <!-- link to place -->
 
 ---
 #### Spouse and Children
-[[James Walker\|James Walker]] married 12/13/1798 in Greenbrier County.
+[[James Walker\|James Walker]] married 12/13/1798 in [[Hannah Kincaid and James Walker Marriage\|Greenbrier County]].
 <!-- Link to child -->
 
 #### Census Records
