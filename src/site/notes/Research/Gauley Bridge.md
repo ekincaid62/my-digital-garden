@@ -21,7 +21,7 @@ These pictures show the same area after the bridge above was burnt and are noted
 ![Pasted image 20260820160756.png](/img/user/Vault/assets/Pasted%20image%2020260820160756.png)
 This photo was taken in the 1910's
 
-![Gauley Bridge in the 1910s.jpg](/img/user/Gauley%20Bridge%20in%20the%201910s.jpg)
+![Gauley Bridge in the 1910s.jpg](/img/user/Vault/assets/Gauley%20Bridge%20in%20the%201910s.jpg)
 
 
 

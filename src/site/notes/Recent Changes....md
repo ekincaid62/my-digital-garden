@@ -4,6 +4,7 @@
 
 | File                                                                                                              | Last Modified       |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------- |
+| [[Home\|Home]]                                                                                                 | Sep 2, 2026 7:37 PM |
 | [[Ancestors by Last Name/Kincaid/Hannah Kincaid 1777-1871\|Hannah Kincaid 1777-1871]]                          | Sep 2, 2026 6:51 PM |
 | [[Vault/Records/Court Records of the burning of Gauley Bridge\|Court Records of the burning of Gauley Bridge]] | Sep 2, 2026 6:34 PM |
 | [[Vault/Records/John Kincaid and the burning of Gauley Bridge\|John Kincaid and the burning of Gauley Bridge]] | Sep 2, 2026 6:30 PM |
@@ -13,7 +14,6 @@
 | [[Vault/Census/1930 United States Federal Census Record 3\|1930 United States Federal Census Record 3]]        | Sep 2, 2026 4:51 PM |
 | [[Vault/Census/1930 United States Federal Census Record 2\|1930 United States Federal Census Record 2]]        | Sep 2, 2026 4:50 PM |
 | [[Vault/Census/1930 United States Federal Census Record\|1930 United States Federal Census Record]]            | Sep 2, 2026 4:49 PM |
-| [[Vault/Census/1920 United States Federal Census Record.4\|1920 United States Federal Census Record.4]]        | Sep 2, 2026 4:48 PM |
 
 { .block-language-dataview}
 
