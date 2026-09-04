@@ -3,3 +3,4 @@
 ---
 
 ![b081edfa-4f51-40c0-89b2-781e08073863-0.jpg](/img/user/Vault/assets/b081edfa-4f51-40c0-89b2-781e08073863-0.jpg.resources/b081edfa-4f51-40c0-89b2-781e08073863-0.jpg)
+![01167.jpg](/img/user/Vault/assets/01167.jpg)

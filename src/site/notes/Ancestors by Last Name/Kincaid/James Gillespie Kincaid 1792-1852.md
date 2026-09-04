@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/james-gillespie-kincaid-1792-1852/","noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/james-gillespie-kincaid-1792-1852/","tags":["James-Gillespie-Kincaid"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["James-Gillespie-Kincaid"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

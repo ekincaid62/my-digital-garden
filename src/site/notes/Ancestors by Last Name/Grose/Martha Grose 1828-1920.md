@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/grose/martha-grose-1828-1920/","noteIcon":"","dg-note-properties":{"date-created":"Thursday, February 13th 2025, 3:40:07 pm","date-modified":"Friday, July 18th 2025, 5:16:58 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/grose/martha-grose-1828-1920/","tags":["Martha-Grose"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, February 13th 2025, 3:40:07 pm","date-modified":"Friday, July 18th 2025, 5:16:58 pm","tags":["Martha-Grose"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Friday, July 18th 2025, 5:16:58 pm***

@@ -2,18 +2,18 @@
 {"dg-publish":true,"permalink":"/recent-changes/","pinned":"true","noteIcon":"","dg-note-properties":{}}
 ---
 
-| File                                                                                                              | Last Modified       |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------- |
-| [[Home\|Home]]                                                                                                 | Sep 2, 2026 7:37 PM |
-| [[Ancestors by Last Name/Kincaid/Hannah Kincaid 1777-1871\|Hannah Kincaid 1777-1871]]                          | Sep 2, 2026 6:51 PM |
-| [[Vault/Records/Court Records of the burning of Gauley Bridge\|Court Records of the burning of Gauley Bridge]] | Sep 2, 2026 6:34 PM |
-| [[Vault/Records/John Kincaid and the burning of Gauley Bridge\|John Kincaid and the burning of Gauley Bridge]] | Sep 2, 2026 6:30 PM |
-| [[Vault/Census/1940 United States Federal Census 5\|1940 United States Federal Census 5]]                      | Sep 2, 2026 4:55 PM |
-| [[Vault/Census/1940 United States Federal Census 2\|1940 United States Federal Census 2]]                      | Sep 2, 2026 4:54 PM |
-| [[Vault/Census/1930 United States Federal Census Record 4\|1930 United States Federal Census Record 4]]        | Sep 2, 2026 4:53 PM |
-| [[Vault/Census/1930 United States Federal Census Record 3\|1930 United States Federal Census Record 3]]        | Sep 2, 2026 4:51 PM |
-| [[Vault/Census/1930 United States Federal Census Record 2\|1930 United States Federal Census Record 2]]        | Sep 2, 2026 4:50 PM |
-| [[Vault/Census/1930 United States Federal Census Record\|1930 United States Federal Census Record]]            | Sep 2, 2026 4:49 PM |
+| File                                                                                                                                  | Last Modified        |
+| ------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| [[Vault/Records/Lana Walker - John Amick Marriage Record\|Lana Walker - John Amick Marriage Record]]                               | Sep 4, 2026 1:10 PM  |
+| [[Ancestors by Last Name/Walker/Lana Walker 1819-1911\|Lana Walker 1819-1911]]                                                     | Sep 4, 2026 1:08 PM  |
+| [[Ancestors by Last Name/Tincher/Mary Tincher 1767-1802\|Mary Tincher 1767-1802]]                                                  | Sep 3, 2026 3:08 PM  |
+| [[Ancestors by Last Name/McClung/Robert McClung\|Robert McClung]]                                                                  | Sep 3, 2026 3:05 PM  |
+| [[Ancestors by Last Name/Kincaid/James Gillespie Kincaid 1792-1852\|James Gillespie Kincaid 1792-1852]]                            | Sep 3, 2026 3:02 PM  |
+| [[Ancestors by Last Name/Kincaid/Hannah Kincaid 1777-1871\|Hannah Kincaid 1777-1871]]                                              | Sep 3, 2026 3:01 PM  |
+| [[Ancestors by Last Name/Grose/Martha Grose 1828-1920\|Martha Grose 1828-1920]]                                                    | Sep 3, 2026 3:00 PM  |
+| [[Ancestors by Last Name/Kincaid/Thomas Kincaid 1740-1817\|Thomas Kincaid 1740-1817]]                                              | Sep 3, 2026 2:35 PM  |
+| [[Ancestors by Last Name/Wiseman/Isaac Wiseman 1738-1818\|Isaac Wiseman 1738-1818]]                                                | Sep 3, 2026 10:38 AM |
+| [[Vault/Records/Bartholomew Ramsey and Margaret Wiseman Marriage Record\|Bartholomew Ramsey and Margaret Wiseman Marriage Record]] | Sep 3, 2026 10:28 AM |
 
 { .block-language-dataview}
 
