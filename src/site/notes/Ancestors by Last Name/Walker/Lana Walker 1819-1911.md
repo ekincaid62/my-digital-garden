@@ -10,7 +10,7 @@ Death on 1911 in <!-- link to place -->
 ---
 #### Parents
 
-[[James Walker 1771-1871\|James Walker 1771-1871]] and [[Ancestors by Last Name/Kincaid/Hannah Kincaid 1777-1871\|Hannah Kincaid 1777-1871]]
+[[James Walker 1771-1871\|James Walker 1771-1871]] and [[Ancestors by Last Name/Kincaid/Hannah Kincaid 1783-1871\|Hannah Kincaid 1783-1871]]
 
 I question whether Lana was the daughter of James and Hannah as they were supposed to have moved to Darke County, Ohio by 1830 according to Cathy Meder-Dempsey in her blog. This would have meant that Lana would have around 12. It is highly unlikely they moved without her and her marry John Amick, I need to look into this further.
 #### Siblings
