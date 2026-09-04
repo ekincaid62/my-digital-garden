@@ -7,9 +7,9 @@ John along with Matthew and James received patents to land along the Gauley and 
 [[Vault/Land Transfers/7 Dec 1820 John Kincaid 100 Acres\|7 Dec 1820 John Kincaid 100 Acres]]
 [[Vault/Patents/20 Dec 1820 Matthew and James Kincaid 73 Ac\|20 Dec 1820 Matthew and James Kincaid 73 Ac]]
 
-Here is a [map] (https://www.google.com/maps/d/edit?mid=1Qx6w7i-Xi5K1aXPhPIglp94VTrI2DAo&usp=sharing)  of where they were located.
+Here is a [map](https://www.google.com/maps/d/edit?mid=1Qx6w7i-Xi5K1aXPhPIglp94VTrI2DAo&usp=sharing)  of where they were located.
 
-The state would have acquired 4 acres for the bridge abutment when it was built. I am assuming that the original bridge was built in the same location as where the piers are still standing. This would mean that the 4 acres were taken from the 73 acre patent of Matthew and John. It was burnt down on July 11, 1826.  Nicholas County Courthouse is the most likely to have information on it as it was Nicholas County until Fayette County was formed in 1831.
+The state would have acquired 4 acres for the bridge abutment when it was built. I am assuming that the original bridge was built in the same location as where the piers are still standing. This would mean that the 4 acres were taken from the 73 acre patent of Matthew and John. It was burnt down on July 11, 1826.  Nicholas or Kanawha Counties Courthouse are the most likely to have information as it the 73 Ac. Patent stated both counties and Fayette County was formed in 1831.
 
 Below are pictures of photos I found on Facebook. The first was said to be the first bridge. Cameras were not invented at the time of the first bridge, so it has to be one that followed. Again, I am going to make the assumption that the first bridge was at or near the same footprint as this bridge.
 
