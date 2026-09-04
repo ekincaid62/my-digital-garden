@@ -27,7 +27,7 @@ Rachel (1769-bef. 1824) born 1 Mar 1769 married Frederick HONAKER on 28 Septem
 Samuel (1771-1861) born 15 Feb 1771 married Polly BOWYER on 10 May 1797 in Rockingham County, Virginia
 Abner (1772-1830) born abt. 1772 married Isabel BLANTON on 18 February 1800 in Monroe County, (West) Virginia
 Elizabeth (1774-1830s) born abt. 1774 married John BLANTON on 9 August 1798 in Greenbrier County, (West) Virginia
-[[Ancestors by Last Name/Wiseman/Margaret Wiseman 1777-1869\|Margaret Wiseman 1777-1869]] married Bartholomew RAMSEY on 21 October 1799 in Monroe County, (West) Virginia
+[[Ancestors by Last Name/Wiseman/Margaret Wiseman 1777-1870\|Margaret Wiseman 1777-1870]] married Bartholomew RAMSEY on 21 October 1799 in Monroe County, (West) Virginia
 William (1779-1842) born 6 May 1779 married Polly RAMSEY on 22 Oct 1801 in Monroe County, (West) Virginia and then married Phebe KILBURN on 31 January 1804 in Monroe County, (West) Virginia
 
 The list of children above came from [Opening Doors in Brick Walls Blog](https://openingdoorsinbrickwalls.wordpress.com) prepared by Cathy Meder-Dempsey.

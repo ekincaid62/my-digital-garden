@@ -28,7 +28,7 @@ List of siblings and children taken from [Ramsey Family History](https://drive.g
 
 ---
 #### Spouse and Children
-[[Ancestors by Last Name/Wiseman/Margaret Wiseman 1777-1869\|Margaret Wiseman 1777-1869]] [[Vault/Records/Bartholomew Ramsey and Margaret Wiseman Marriage Record\|married]] 1799 in Monroe County, WV 
+[[Ancestors by Last Name/Wiseman/Margaret Wiseman 1777-1870\|Margaret Wiseman 1777-1870]] [[Vault/Records/Bartholomew Ramsey and Margaret Wiseman Marriage Record\|married]] 1799 in Monroe County, WV 
 [[William Ramsey 1800-1880\|William Ramsey 1800-1880]]
 [[Isaac Ramsey 1802-\|Isaac Ramsey 1802-]]
 [[Richard Ramsey 1805-1895\|Richard Ramsey 1805-1895]]
