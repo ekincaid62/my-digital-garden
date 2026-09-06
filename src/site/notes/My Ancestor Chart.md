@@ -2,6 +2,33 @@
 {"dg-publish":true,"permalink":"/my-ancestor-chart/","pinned":"true","dgHomeLink":"x","dgShowBacklinks":"x","dgShowLocalGraph":"x","dgShowInlineTitle":"x","dgShowToc":"x","noteIcon":"2","dg-note-properties":{"date-created":"Monday, February 10th 2025, 7:36:23 pm","date-modified":"Saturday, August 22nd 2026, 8:37:55 pm"}}
 ---
 
+<script>
+
+chart.addEventListener("wheel", (event) => {
+    event.preventDefault();
+
+    // Mouse position within the chart
+    const rect = chart.getBoundingClientRect();
+
+    const mouseX = event.clientX - rect.left;
+    const mouseY = event.clientY - rect.top;
+
+    // Zoom in/out
+    const factor = event.deltaY < 0 ? 1.15 : 1 / 1.15;
+
+    // Calculate the new scale
+    const newScale = Math.max(
+        0.5,
+        Math.min(scale * factor, 5)
+    );
+
+    // Adjust the view so the point beneath
+    // the mouse remains beneath the mouse
+    ...
+});
+
+</script>
+
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2455 1620">
   <image width="2455" height="1620" xlink:href="/img/user/Vault/assets/Tree3.png"></image> <a xlink:href="/ancestors-by-last-name/kincaid/emory-garfield-kincaid-jr-1962/" target="_blank">
     <circle cx="1226" cy="1234" r="106" fill="#ffffff" opacity="0">
