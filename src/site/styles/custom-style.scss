@@ -56,3 +56,155 @@ body {
     /* e.g. filter: none; margin: 0; */
   }
 }
+
+/* ============================================================
+   IMAGE ZOOM VIEWER
+   ============================================================ */
+
+#image-zoom-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 99999;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: rgba(0, 0, 0, 0.88);
+
+    opacity: 0;
+    visibility: hidden;
+
+    transition:
+        opacity 0.2s ease,
+        visibility 0.2s ease;
+}
+
+
+#image-zoom-overlay.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+
+/* ------------------------------------------------------------
+   Image container
+   ------------------------------------------------------------ */
+
+.image-zoom-container {
+    position: relative;
+
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    overflow: hidden;
+
+    cursor: grab;
+
+    user-select: none;
+}
+
+
+.image-zoom-container.dragging {
+    cursor: grabbing;
+}
+
+
+/* ------------------------------------------------------------
+   Zoomed image
+   ------------------------------------------------------------ */
+
+#image-zoom-image {
+    max-width: 90vw;
+    max-height: 90vh;
+
+    width: auto;
+    height: auto;
+
+    object-fit: contain;
+
+    user-select: none;
+
+    -webkit-user-drag: none;
+
+    transform-origin: center center;
+
+    transition: transform 0.08s linear;
+}
+
+
+/* ------------------------------------------------------------
+   Close button
+   ------------------------------------------------------------ */
+
+#image-zoom-close {
+    position: fixed;
+
+    top: 20px;
+    right: 25px;
+
+    width: 46px;
+    height: 46px;
+
+    border: none;
+    border-radius: 50%;
+
+    background: rgba(255, 255, 255, 0.15);
+
+    color: white;
+
+    font-size: 32px;
+    line-height: 40px;
+
+    cursor: pointer;
+
+    z-index: 100000;
+
+    transition: background 0.2s ease;
+}
+
+
+#image-zoom-close:hover {
+    background: rgba(255, 255, 255, 0.30);
+}
+
+
+/* ------------------------------------------------------------
+   Instructions
+   ------------------------------------------------------------ */
+
+#image-zoom-help {
+    position: fixed;
+
+    bottom: 20px;
+    left: 50%;
+
+    transform: translateX(-50%);
+
+    padding: 8px 14px;
+
+    background: rgba(0, 0, 0, 0.65);
+
+    color: white;
+
+    border-radius: 6px;
+
+    font-size: 14px;
+
+    pointer-events: none;
+
+    white-space: nowrap;
+}
+
+
+/* ------------------------------------------------------------
+   Don't allow the page behind the viewer to scroll
+   ------------------------------------------------------------ */
+
+body.image-zoom-open {
+    overflow: hidden;
+}
