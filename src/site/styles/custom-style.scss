@@ -205,6 +205,27 @@ body {
    Don't allow the page behind the viewer to scroll
    ------------------------------------------------------------ */
 
+/* =========================================================
+   ANCESTOR CHART ZOOM
+   ========================================================= */
+
+#ancestor-chart-zoom {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    cursor: zoom-in;
+}
+
+#ancestor-chart-zoom svg {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+#ancestor-chart-zoom a {
+    cursor: pointer;
+}
+
 body.image-zoom-open {
     overflow: hidden;
 }
