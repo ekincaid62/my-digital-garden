@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/patents/7-oct-1800-1344-ac-patent-thomas-kincaid/","tags":["Thomas-Kincaid","Meadow-River"],"noteIcon":"","dg-note-properties":{"tags":"Thomas-Kincaid,Meadow-River"}}
+{"dg-publish":true,"permalink":"/vault/patents/7-oct-1800-1344-ac-patent-thomas-kincaid/","tags":["Thomas-Kincaid","Muddy-Creek"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Kincaid","Muddy-Creek"]}}
 ---
 
 Greenbrier County (W)Va.
