@@ -211,6 +211,7 @@ body {
 
 #ancestor-chart-zoom {
     width: 100%;
+    max-width: none;
     overflow: hidden;
     position: relative;
     cursor: zoom-in;
@@ -226,6 +227,13 @@ body {
     cursor: pointer;
 }
 
-body.image-zoom-open {
-    overflow: hidden;
+/*
+ * Cursor while panning.
+ */
+#ancestor-chart-zoom.is-panning {
+    cursor: grabbing;
+}
+
+#ancestor-chart-zoom.is-panning svg {
+    cursor: grabbing;
 }
