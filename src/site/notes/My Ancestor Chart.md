@@ -29,6 +29,7 @@ chart.addEventListener("wheel", (event) => {
 
 </script>
 
+<div id="ancestor-chart-zoom">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2455 1620">
   <image width="2455" height="1620" xlink:href="/img/user/Vault/assets/Tree3.png"></image> <a xlink:href="/ancestors-by-last-name/kincaid/emory-garfield-kincaid-jr-1962/" target="_blank">
     <circle cx="1226" cy="1234" r="106" fill="#ffffff" opacity="0">
@@ -539,4 +540,5 @@ chart.addEventListener("wheel", (event) => {
      </polygon>
   </a>
 </svg>
+</div>
 The image above has links to each of my ancestors. The links will open into a new tab. As I find time I be adding more information. The names in the graphics may be incorrect and will be corrected if necessary. I have spent the majority of my time on the Kincaid line and you will find it much more complete. I certainly welcome any help with additional information. 
