@@ -10,16 +10,30 @@ document.addEventListener("DOMContentLoaded", function () {
     /*
      * Original SVG viewBox
      */
-    const originalViewBox = svg.getAttribute("viewBox").split(/\s+/).map(Number);
+    const originalViewBox = svg
+        .getAttribute("viewBox")
+        .split(/\s+/)
+        .map(Number);
 
-    let viewX = originalViewBox[0];
-    let viewY = originalViewBox[1];
-    let viewWidth = originalViewBox[2];
-    let viewHeight = originalViewBox[3];
+    const originalX = originalViewBox[0];
+    const originalY = originalViewBox[1];
+    const originalWidth = originalViewBox[2];
+    const originalHeight = originalViewBox[3];
+
+    let viewX = originalX;
+    let viewY = originalY;
+    let viewWidth = originalWidth;
+    let viewHeight = originalHeight;
 
     const MIN_ZOOM = 1;
     const MAX_ZOOM = 8;
     const ZOOM_FACTOR = 1.15;
+
+    let isPanning = false;
+    let panStartX = 0;
+    let panStartY = 0;
+    let panStartViewX = 0;
+    let panStartViewY = 0;
 
     function updateViewBox() {
         svg.setAttribute(
@@ -29,13 +43,16 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     /*
-     * Keep the SVG at its natural aspect ratio.
+     * Preserve the SVG's proportions.
      */
     svg.setAttribute("preserveAspectRatio", "xMidYMid meet");
 
     /*
-     * Zoom toward the mouse pointer.
+     * =========================================================
+     * ZOOM
+     * =========================================================
      */
+
     container.addEventListener("wheel", function (event) {
 
         event.preventDefault();
@@ -43,52 +60,148 @@ document.addEventListener("DOMContentLoaded", function () {
         const rect = svg.getBoundingClientRect();
 
         /*
-         * Mouse position as a percentage of the
-         * currently displayed SVG.
+         * Mouse position within the displayed SVG.
          */
         const mouseX = (event.clientX - rect.left) / rect.width;
         const mouseY = (event.clientY - rect.top) / rect.height;
 
-        /*
-         * Determine whether we're zooming in or out.
-         */
         const zoomingIn = event.deltaY < 0;
+
         const factor = zoomingIn
             ? 1 / ZOOM_FACTOR
             : ZOOM_FACTOR;
 
         /*
-         * Don't allow zooming beyond our limits.
+         * Current zoom level.
          */
-        const currentZoom = originalViewBox[2] / viewWidth;
+        const currentZoom = originalWidth / viewWidth;
 
         if (zoomingIn && currentZoom >= MAX_ZOOM) return;
         if (!zoomingIn && currentZoom <= MIN_ZOOM) return;
 
         /*
-         * Point in SVG/viewBox coordinates currently
-         * underneath the mouse.
+         * SVG coordinate underneath the mouse.
          */
-        const pointX = viewX + (mouseX * viewWidth);
-        const pointY = viewY + (mouseY * viewHeight);
+        const pointX = viewX + mouseX * viewWidth;
+        const pointY = viewY + mouseY * viewHeight;
 
         /*
-         * Calculate the new viewBox dimensions.
+         * New viewBox dimensions.
          */
         const newWidth = viewWidth * factor;
         const newHeight = viewHeight * factor;
 
         /*
-         * Move the viewBox so the point under the
-         * mouse remains under the mouse.
+         * Keep the point underneath the mouse.
          */
-        viewX = pointX - (mouseX * newWidth);
-        viewY = pointY - (mouseY * newHeight);
+        viewX = pointX - mouseX * newWidth;
+        viewY = pointY - mouseY * newHeight;
 
         viewWidth = newWidth;
         viewHeight = newHeight;
 
         updateViewBox();
+
+    }, { passive: false });
+
+
+    /*
+     * =========================================================
+     * PAN
+     * =========================================================
+     *
+     * Pan with either:
+     *
+     *   Shift + left mouse button
+     *   Middle mouse button
+     *
+     */
+
+    container.addEventListener("mousedown", function (event) {
+
+        const shiftDrag = event.button === 0 && event.shiftKey;
+        const middleMouse = event.button === 1;
+
+        if (!shiftDrag && !middleMouse) {
+            return;
+        }
+
+        event.preventDefault();
+
+        isPanning = true;
+
+        panStartX = event.clientX;
+        panStartY = event.clientY;
+
+        panStartViewX = viewX;
+        panStartViewY = viewY;
+
+        container.classList.add("is-panning");
+
+    });
+
+
+    document.addEventListener("mousemove", function (event) {
+
+        if (!isPanning) return;
+
+        const rect = svg.getBoundingClientRect();
+
+        /*
+         * Convert screen movement into SVG viewBox movement.
+         */
+        const dx = (event.clientX - panStartX)
+            * (viewWidth / rect.width);
+
+        const dy = (event.clientY - panStartY)
+            * (viewHeight / rect.height);
+
+        viewX = panStartViewX - dx;
+        viewY = panStartViewY - dy;
+
+        updateViewBox();
+
+    });
+
+
+    document.addEventListener("mouseup", function () {
+
+        if (!isPanning) return;
+
+        isPanning = false;
+
+        container.classList.remove("is-panning");
+
+    });
+
+
+    /*
+     * Prevent the browser's normal middle-mouse behavior
+     * while the pointer is over the chart.
+     */
+    container.addEventListener("auxclick", function (event) {
+
+        if (event.button === 1) {
+            event.preventDefault();
+        }
+
+    });
+
+
+    /*
+     * If the user releases the mouse outside the chart,
+     * make sure we don't remain in pan mode.
+     */
+    window.addEventListener("blur", function () {
+
+        isPanning = false;
+
+        container.classList.remove("is-panning");
+
+    });
+
+});
+</script>
 
     }, { passive: false });
 
