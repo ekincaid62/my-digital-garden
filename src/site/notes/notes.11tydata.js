@@ -1,15 +1,8 @@
 require("dotenv").config();
 const settings = require("../../helpers/constants");
 const { pickNoteMetadata } = require("../../helpers/bases-engine/noteMetadata");
-const pluginLoader = require("../../helpers/pluginLoader");
 
-// Core note settings plus any per-note flags declared by enabled plugins
-// (manifest "noteSettings"). Same resolution for both: per-note frontmatter
-// wins, the env var of the same name is the global default.
-const allSettings = [
-  ...settings.ALL_NOTE_SETTINGS,
-  ...pluginLoader.getNoteSettingKeys(),
-];
+const allSettings = settings.ALL_NOTE_SETTINGS;
 
 module.exports = {
   eleventyComputed: {
