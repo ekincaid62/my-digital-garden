@@ -29,7 +29,6 @@ const CASCADE_KEYS = new Set([
 	"noteProps",
 	"dynamics",
 	"meta",
-	"plugins",
 ]);
 
 function pickNoteMetadata(data) {
