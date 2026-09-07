@@ -106,100 +106,142 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
     /*
-     * =========================================================
-     * PAN
-     * =========================================================
-     *
-     * Pan with either:
-     *
-     *   Shift + left mouse button
-     *   Middle mouse button
-     *
+ * =========================================================
+ * PAN
+ * =========================================================
+ *
+ * Pan with either:
+ *
+ *   Shift + left mouse button
+ *   Middle mouse button
+ *
+ */
+
+let isPanning = false;
+let didPan = false;
+
+let panStartX = 0;
+let panStartY = 0;
+
+let panStartViewX = 0;
+let panStartViewY = 0;
+
+container.addEventListener("mousedown", function (event) {
+
+    const shiftDrag = event.button === 0 && event.shiftKey;
+    const middleMouse = event.button === 1;
+
+    if (!shiftDrag && !middleMouse) {
+        return;
+    }
+
+    event.preventDefault();
+
+    isPanning = true;
+    didPan = false;
+
+    panStartX = event.clientX;
+    panStartY = event.clientY;
+
+    panStartViewX = viewX;
+    panStartViewY = viewY;
+
+    container.classList.add("is-panning");
+
+});
+
+
+document.addEventListener("mousemove", function (event) {
+
+    if (!isPanning) return;
+
+    const deltaX = event.clientX - panStartX;
+    const deltaY = event.clientY - panStartY;
+
+    /*
+     * Don't consider it a drag until the mouse has
+     * moved a few pixels.
      */
+    if (Math.abs(deltaX) > 5 || Math.abs(deltaY) > 5) {
+        didPan = true;
+    }
 
-    container.addEventListener("mousedown", function (event) {
+    if (!didPan) return;
 
-        const shiftDrag = event.button === 0 && event.shiftKey;
-        const middleMouse = event.button === 1;
+    const rect = svg.getBoundingClientRect();
 
-        if (!shiftDrag && !middleMouse) {
-            return;
-        }
+    /*
+     * Convert screen movement into SVG viewBox movement.
+     */
+    const dx = deltaX * (viewWidth / rect.width);
+    const dy = deltaY * (viewHeight / rect.height);
 
+    viewX = panStartViewX - dx;
+    viewY = panStartViewY - dy;
+
+    updateViewBox();
+
+});
+
+
+document.addEventListener("mouseup", function () {
+
+    if (!isPanning) return;
+
+    isPanning = false;
+
+    container.classList.remove("is-panning");
+
+});
+
+
+/*
+ * =========================================================
+ * PREVENT THE CLICK AFTER A SHIFT-DRAG
+ * =========================================================
+ *
+ * When a Shift-drag ends over an <a>, the browser normally
+ * generates a click. Suppress that click if we actually
+ * moved the chart.
+ */
+
+container.addEventListener("click", function (event) {
+
+    if (didPan) {
         event.preventDefault();
+        event.stopPropagation();
 
-        isPanning = true;
+        didPan = false;
+    }
 
-        panStartX = event.clientX;
-        panStartY = event.clientY;
-
-        panStartViewX = viewX;
-        panStartViewY = viewY;
-
-        container.classList.add("is-panning");
-
-    });
+}, true);
 
 
-    document.addEventListener("mousemove", function (event) {
+/*
+ * Prevent the browser's normal middle-mouse behavior
+ * while the pointer is over the chart.
+ */
+container.addEventListener("auxclick", function (event) {
 
-        if (!isPanning) return;
+    if (event.button === 1) {
+        event.preventDefault();
+    }
 
-        const rect = svg.getBoundingClientRect();
-
-        /*
-         * Convert screen movement into SVG viewBox movement.
-         */
-        const dx = (event.clientX - panStartX)
-            * (viewWidth / rect.width);
-
-        const dy = (event.clientY - panStartY)
-            * (viewHeight / rect.height);
-
-        viewX = panStartViewX - dx;
-        viewY = panStartViewY - dy;
-
-        updateViewBox();
-
-    });
+});
 
 
-    document.addEventListener("mouseup", function () {
+/*
+ * If the mouse is released outside the chart/browser,
+ * make sure we don't remain in pan mode.
+ */
+window.addEventListener("blur", function () {
 
-        if (!isPanning) return;
+    isPanning = false;
+    didPan = false;
 
-        isPanning = false;
+    container.classList.remove("is-panning");
 
-        container.classList.remove("is-panning");
-
-    });
-
-
-    /*
-     * Prevent the browser's normal middle-mouse behavior
-     * while the pointer is over the chart.
-     */
-    container.addEventListener("auxclick", function (event) {
-
-        if (event.button === 1) {
-            event.preventDefault();
-        }
-
-    });
-
-
-    /*
-     * If the user releases the mouse outside the chart,
-     * make sure we don't remain in pan mode.
-     */
-    window.addEventListener("blur", function () {
-
-        isPanning = false;
-
-        container.classList.remove("is-panning");
-
-    });
-
+});
 });
 </script>
 
