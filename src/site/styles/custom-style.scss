@@ -210,12 +210,24 @@ body {
    ========================================================= */
 
 #ancestor-chart-zoom {
-    width: 100%;
+    width: 90vw;
     max-width: none;
+
+    /*
+     * Center the chart relative to the browser window,
+     * rather than the normal note content width.
+     */
+    margin-left: calc(50% - 45vw);
+    margin-right: calc(50% - 45vw);
+
     overflow: hidden;
     position: relative;
+
     cursor: zoom-in;
 }
+
+
+/* SVG fills the larger viewing portal */
 
 #ancestor-chart-zoom svg {
     display: block;
@@ -223,14 +235,21 @@ body {
     height: auto;
 }
 
+
+/* Links remain clickable */
+
 #ancestor-chart-zoom a {
     cursor: pointer;
 }
 
-/*
- * Cursor while panning.
- */
+
+/* Cursor while panning */
+
 #ancestor-chart-zoom.is-panning {
+    cursor: grabbing;
+}
+
+#ancestor-chart-zoom.is-panning svg {
     cursor: grabbing;
 }
 
