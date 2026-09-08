@@ -42,6 +42,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     let isPanning = false;
     let didPan = false;
+    let suppressNextClick = false;
 
     let panStartX = 0;
     let panStartY = 0;
@@ -82,57 +83,31 @@ document.addEventListener("DOMContentLoaded", function () {
      * =========================================================
      * MOUSE WHEEL ZOOM
      * =========================================================
-     *
-     * Scroll up   = zoom in
-     * Scroll down = zoom out
-     *
-     * Zoom occurs toward the mouse pointer.
-     *
      */
 
     container.addEventListener(
         "wheel",
         function (event) {
 
-            /*
-             * Stop the page itself from scrolling while
-             * the mouse is over the ancestor chart.
-             */
             event.preventDefault();
 
             const rect = svg.getBoundingClientRect();
 
-            /*
-             * Mouse position within the displayed SVG,
-             * expressed as a percentage.
-             */
             const mouseX =
                 (event.clientX - rect.left) / rect.width;
 
             const mouseY =
                 (event.clientY - rect.top) / rect.height;
 
-
-            /*
-             * Determine zoom direction.
-             */
             const zoomingIn = event.deltaY < 0;
 
             const factor = zoomingIn
                 ? 1 / ZOOM_FACTOR
                 : ZOOM_FACTOR;
 
-
-            /*
-             * Determine current zoom level.
-             */
             const currentZoom =
                 originalWidth / viewWidth;
 
-
-            /*
-             * Enforce minimum and maximum zoom.
-             */
             if (zoomingIn && currentZoom >= MAX_ZOOM) {
                 return;
             }
@@ -141,32 +116,18 @@ document.addEventListener("DOMContentLoaded", function () {
                 return;
             }
 
-
-            /*
-             * Find the SVG coordinate currently underneath
-             * the mouse pointer.
-             */
             const pointX =
                 viewX + mouseX * viewWidth;
 
             const pointY =
                 viewY + mouseY * viewHeight;
 
-
-            /*
-             * Calculate the new viewBox dimensions.
-             */
             const newWidth =
                 viewWidth * factor;
 
             const newHeight =
                 viewHeight * factor;
 
-
-            /*
-             * Adjust the viewBox position so the same SVG
-             * point stays underneath the mouse.
-             */
             viewX =
                 pointX - mouseX * newWidth;
 
@@ -175,7 +136,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
             viewWidth = newWidth;
             viewHeight = newHeight;
-
 
             updateViewBox();
 
@@ -189,55 +149,37 @@ document.addEventListener("DOMContentLoaded", function () {
      * START PAN
      * =========================================================
      *
-     * Pan using either:
+     * Left mouse button = pan
+     * Middle mouse button = pan
      *
-     *   Shift + left mouse button
-     *
-     * OR
-     *
-     *   Middle mouse button
-     *
+     * A normal click without movement still activates
+     * the SVG link.
      */
 
     container.addEventListener(
         "mousedown",
         function (event) {
 
-            const shiftDrag =
-                event.button === 0 && event.shiftKey;
+            const leftMouse =
+                event.button === 0;
 
             const middleMouse =
                 event.button === 1;
 
-
-            /*
-             * Ignore ordinary left-clicks.
-             * This is important because ordinary clicks
-             * need to continue activating the ancestor links.
-             */
-            if (!shiftDrag && !middleMouse) {
+            if (!leftMouse && !middleMouse) {
                 return;
             }
 
-
-            /*
-             * Prevent the browser from starting a text
-             * selection or other normal mouse behavior.
-             */
             event.preventDefault();
-
 
             isPanning = true;
             didPan = false;
 
-
             panStartX = event.clientX;
             panStartY = event.clientY;
 
-
             panStartViewX = viewX;
             panStartViewY = viewY;
-
 
             container.classList.add("is-panning");
 
@@ -259,10 +201,6 @@ document.addEventListener("DOMContentLoaded", function () {
                 return;
             }
 
-
-            /*
-             * How far has the mouse moved?
-             */
             const deltaX =
                 event.clientX - panStartX;
 
@@ -271,12 +209,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
             /*
-             * Don't classify the action as a drag until
-             * the mouse has moved at least 5 pixels.
-             *
-             * This prevents tiny mouse movements from
-             * turning a click into a drag.
+             * Don't consider it a drag until the mouse
+             * has moved at least 5 pixels.
              */
+
             if (
                 Math.abs(deltaX) > 5 ||
                 Math.abs(deltaY) > 5
@@ -287,10 +223,6 @@ document.addEventListener("DOMContentLoaded", function () {
             }
 
 
-            /*
-             * If the mouse hasn't moved enough yet,
-             * don't move the chart.
-             */
             if (!didPan) {
                 return;
             }
@@ -301,9 +233,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
             /*
-             * Convert screen pixels into SVG viewBox
-             * coordinates.
+             * Convert screen pixels into SVG coordinates.
              */
+
             const dx =
                 deltaX * (viewWidth / rect.width);
 
@@ -312,8 +244,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
             /*
-             * Move the viewBox opposite the mouse movement.
+             * Move the viewBox opposite the mouse.
              */
+
             viewX =
                 panStartViewX - dx;
 
@@ -335,7 +268,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     document.addEventListener(
         "mouseup",
-        function () {
+        function (event) {
 
             if (!isPanning) {
                 return;
@@ -345,18 +278,32 @@ document.addEventListener("DOMContentLoaded", function () {
 
             container.classList.remove("is-panning");
 
+
+            /*
+             * If the mouse actually moved, the browser
+             * will normally generate a click afterward.
+             *
+             * Remember that we need to suppress that click.
+             */
+
+            if (didPan) {
+                suppressNextClick = true;
+            }
+
         }
     );
 
 
     /*
      * =========================================================
-     * SUPPRESS CLICK AFTER A PAN
+     * SUPPRESS CLICK AFTER A DRAG
      * =========================================================
      *
-     * This is the important part that prevents a Shift-drag
-     * from accidentally activating the ancestor link that
-     * happens to be underneath the mouse when the drag ends.
+     * Important:
+     *
+     * Simple click  -> link works
+     *
+     * Drag          -> link does NOT activate
      *
      */
 
@@ -364,22 +311,14 @@ document.addEventListener("DOMContentLoaded", function () {
         "click",
         function (event) {
 
-            if (!didPan) {
+            if (!suppressNextClick) {
                 return;
             }
 
-
-            /*
-             * A real drag occurred, so cancel the click.
-             */
             event.preventDefault();
             event.stopPropagation();
 
-
-            /*
-             * Reset for the next mouse operation.
-             */
-            didPan = false;
+            suppressNextClick = false;
 
         },
         true
@@ -391,9 +330,7 @@ document.addEventListener("DOMContentLoaded", function () {
      * MIDDLE MOUSE
      * =========================================================
      *
-     * Prevent the browser's normal middle-mouse behavior,
-     * such as opening a link in another tab.
-     *
+     * Prevent normal middle-click behavior.
      */
 
     container.addEventListener(
@@ -414,10 +351,6 @@ document.addEventListener("DOMContentLoaded", function () {
      * =========================================================
      * SAFETY RESET
      * =========================================================
-     *
-     * If the browser loses focus while we're dragging,
-     * make sure we don't remain stuck in pan mode.
-     *
      */
 
     window.addEventListener(
@@ -426,16 +359,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
             isPanning = false;
             didPan = false;
+            suppressNextClick = false;
 
             container.classList.remove("is-panning");
 
         }
     );
-
-});
-</script>
-
-    }, { passive: false });
 
 });
 </script>
