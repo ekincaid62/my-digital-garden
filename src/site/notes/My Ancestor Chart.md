@@ -514,4 +514,4 @@
   </a>
 </svg>
 </div>
-The image above has links to each of my ancestors. The links will open into a new tab. As I find time I be adding more information. The names in the graphics may be incorrect and will be corrected if necessary. I have spent the majority of my time on the Kincaid line and you will find it much more complete. I certainly welcome any help with additional information. 
+The image above has links to each of my ancestors. As I find time I be adding more information. The names in the graphics may be incorrect and will be corrected if necessary. I have spent the majority of my time on the Kincaid line and you will find it much more complete. I certainly welcome any help with additional information. 
