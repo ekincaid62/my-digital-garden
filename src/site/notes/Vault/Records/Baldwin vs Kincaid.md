@@ -1,5 +1,5 @@
 ---
-{"tags":["Thomas-Kincaid","Samuel-Kincaid","John-Kincaid","Hannah-Tincher"],"dg-publish":true,"date-created":"Thursday, August 22nd 2024, 9:02:21 pm","date-modified":"Sunday, August 2nd 2026, 1:27:51 pm","permalink":"/vault/records/baldwin-vs-kincaid/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Thomas-Kincaid","Samuel-Kincaid","John-Kincaid","Hannah-Tincher"],"date-created":"Thursday, August 22nd 2024, 9:02:21 pm","date-modified":"Sunday, August 2nd 2026, 1:27:51 pm"}}
+{"dg-publish":true,"permalink":"/vault/records/baldwin-vs-kincaid/","tags":["Thomas-Kincaid","Samuel-Kincaid","John-Kincaid","Hannah-Tincher"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Kincaid","Samuel-Kincaid","John-Kincaid","Hannah-Tincher"],"date-created":"Thursday, August 22nd 2024, 9:02:21 pm","date-modified":"Sunday, August 2nd 2026, 1:27:51 pm"}}
 ---
 
 I find this very interesting more from the fact that the heirs of Baldwin where actually the heirs of Samuel Ford. He started using his mother's maiden name "Baldwin" when he fled to Virginia. Here's more of the **[[Vault/Records/SAMUEL FORD JR.\|story]]!**

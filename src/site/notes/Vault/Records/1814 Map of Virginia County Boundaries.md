@@ -1,5 +1,5 @@
 ---
-{"tags":[],"date-created":"Thursday, August 22nd 2024, 9:02:13 pm","date-modified":"Saturday, August 22nd 2026, 2:22:18 pm","dg-publish":true,"dg":null,"permalink":"/vault/records/1814-map-of-virginia-county-boundaries/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":[],"date-created":"Thursday, August 22nd 2024, 9:02:13 pm","date-modified":"Saturday, August 22nd 2026, 2:22:18 pm","dg":null}}
+{"dg-publish":true,"permalink":"/vault/records/1814-map-of-virginia-county-boundaries/","noteIcon":"","dg-note-properties":{"tags":[],"date-created":"Thursday, August 22nd 2024, 9:02:13 pm","date-modified":"Saturday, August 22nd 2026, 2:22:18 pm","dg":null}}
 ---
 
 ## Here are the county boundaries in 1814. Nicholas County was formed in 1818 from portions of Kanawha, Greenbrier, and Randolph counties. Fayette County was then formed in 1831 from parts of Greenbrier, Kanawha, Nicholas, and Logan counties.

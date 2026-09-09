@@ -1,5 +1,5 @@
 ---
-{"tags":["Muddy-Creek","John-Kincaid"],"date-created":"Friday, July 18th 2025, 2:55:33 pm","date-modified":"Sunday, August 2nd 2026, 1:27:48 pm","dg-publish":true,"permalink":"/vault/patents/10-oct-1800-john-kinkead-320-ac-patent/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Muddy-Creek","John-Kincaid"],"date-created":"Friday, July 18th 2025, 2:55:33 pm","date-modified":"Sunday, August 2nd 2026, 1:27:48 pm"}}
+{"dg-publish":true,"permalink":"/vault/patents/10-oct-1800-john-kinkead-320-ac-patent/","tags":["Muddy-Creek","John-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Muddy-Creek","John-Kincaid"],"date-created":"Friday, July 18th 2025, 2:55:33 pm","date-modified":"Sunday, August 2nd 2026, 1:27:48 pm"}}
 ---
 
 Greenbrier County (W)Va.

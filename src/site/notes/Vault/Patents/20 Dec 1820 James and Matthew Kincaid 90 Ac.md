@@ -1,5 +1,5 @@
 ---
-{"tags":["James-Gillespie-Kincaid","Matthew-Kincaid","Kanawha"],"dg-publish":true,"permalink":"/vault/patents/20-dec-1820-james-and-matthew-kincaid-90-ac/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["James-Gillespie-Kincaid","Matthew-Kincaid","Kanawha"]}}
+{"dg-publish":true,"permalink":"/vault/patents/20-dec-1820-james-and-matthew-kincaid-90-ac/","tags":["James-Gillespie-Kincaid","Matthew-Kincaid","Kanawha"],"noteIcon":"","dg-note-properties":{"tags":["James-Gillespie-Kincaid","Matthew-Kincaid","Kanawha"]}}
 ---
 
 Kanawha County. This states that it adjoins the 66 Ac patent and is on the west side of the river. Says it is above the falls. Are they speaking of the Kanawha Falls at Glen Ferris?

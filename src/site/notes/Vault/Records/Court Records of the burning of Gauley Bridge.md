@@ -1,5 +1,5 @@
 ---
-{"tags":["John-Kincaid","Matthew-Kincaid"],"dg-publish":true,"permalink":"/vault/records/court-records-of-the-burning-of-gauley-bridge/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["John-Kincaid","Matthew-Kincaid"]}}
+{"dg-publish":true,"permalink":"/vault/records/court-records-of-the-burning-of-gauley-bridge/","tags":["John-Kincaid","Matthew-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["John-Kincaid","Matthew-Kincaid"]}}
 ---
 
 ![Page 78-79 Gauley Bridge burning trial.jpg](/img/user/Vault/assets/Page%2078-79%20Gauley%20Bridge%20burning%20trial.jpg)![Page 76-77 Gauley Bridge burning trial.jpg](/img/user/Vault/assets/Page%2076-77%20Gauley%20Bridge%20burning%20trial.jpg)![Page 80-81 Gauley Bridge burning trial.jpg](/img/user/Vault/assets/Page%2080-81%20Gauley%20Bridge%20burning%20trial.jpg)
