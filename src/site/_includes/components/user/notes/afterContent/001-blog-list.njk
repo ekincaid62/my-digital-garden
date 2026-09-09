@@ -1,6 +1,45 @@
 {% if page.fileSlug == "Posts" %}
-<div style="padding: 20px; border: 2px solid green;">
-    POSTS PAGE DETECTED
-</div>
+
+<section class="blog-posts">
+
+  <div class="blog-posts-header">
+    <h2>Posts</h2>
+    <p>Stories, discoveries, and notes from my family history research.</p>
+  </div>
+
+  {% for post in collections.note | reverse %}
+
+    {% if post.data.tags and "blog" in post.data.tags %}
+
+      <article class="blog-post">
+
+        <h3 class="blog-post-title">
+          <a href="{{ post.url }}">{{ post.data.title or post.fileSlug }}</a>
+        </h3>
+
+        {% if post.data.date %}
+          <div class="blog-post-date">
+            {{ post.data.date | isoDate | slice(0, 10) }}
+          </div>
+        {% endif %}
+
+        {% if post.data.description %}
+          <p class="blog-post-description">
+            {{ post.data.description }}
+          </p>
+        {% endif %}
+
+        <a class="blog-post-read-more" href="{{ post.url }}">
+          Read more →
+        </a>
+
+      </article>
+
+    {% endif %}
+
+  {% endfor %}
+
+</section>
+
 {% endif %}
 
