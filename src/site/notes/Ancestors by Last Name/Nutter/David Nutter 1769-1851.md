@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["David-Nutter"],"permalink":"/ancestors-by-last-name/nutter/david-nutter-1769-1851/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["David-Nutter"]}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/nutter/david-nutter-1769-1851/","tags":["David-Nutter"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["David-Nutter"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

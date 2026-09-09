@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Charles-William-Legg"],"date-created":"Saturday, January 25th 2025, 5:31:27 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","permalink":"/ancestors-by-last-name/legg/charles-william-legg-1927-1979/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Charles-William-Legg"],"date-created":"Saturday, January 25th 2025, 5:31:27 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/legg/charles-william-legg-1927-1979/","tags":["Charles-William-Legg"],"noteIcon":"","dg-note-properties":{"tags":["Charles-William-Legg"],"date-created":"Saturday, January 25th 2025, 5:31:27 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Christopher-Shaffer"],"date-created":"Sunday, February 16th 2025, 2:06:12 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","permalink":"/ancestors-by-last-name/shaffer/christopher-shaffer-1753-1847/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Christopher-Shaffer"],"date-created":"Sunday, February 16th 2025, 2:06:12 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/shaffer/christopher-shaffer-1753-1847/","tags":["Christopher-Shaffer"],"noteIcon":"","dg-note-properties":{"tags":["Christopher-Shaffer"],"date-created":"Sunday, February 16th 2025, 2:06:12 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

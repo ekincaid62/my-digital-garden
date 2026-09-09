@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["David-Evans"],"permalink":"/ancestors-by-last-name/evans/david-evans-1787-1850/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["David-Evans"]}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/evans/david-evans-1787-1850/","tags":["David-Evans"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["David-Evans"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

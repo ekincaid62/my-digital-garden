@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Mary-Francis-McClung"],"date-created":"Sunday, February 16th 2025, 8:08:48 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","permalink":"/ancestors-by-last-name/mc-clung/mary-frances-mc-clung-1838-1865/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Mary-Francis-McClung"],"date-created":"Sunday, February 16th 2025, 8:08:48 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/mc-clung/mary-frances-mc-clung-1838-1865/","tags":["Mary-Francis-McClung"],"noteIcon":"","dg-note-properties":{"tags":["Mary-Francis-McClung"],"date-created":"Sunday, February 16th 2025, 8:08:48 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

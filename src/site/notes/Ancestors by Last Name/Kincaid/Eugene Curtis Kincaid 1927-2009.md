@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Eugene-Kincaid"],"date-created":"Friday, September 27th 2024, 6:08:41 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","permalink":"/ancestors-by-last-name/kincaid/eugene-curtis-kincaid-1927-2009/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Eugene-Kincaid"],"date-created":"Friday, September 27th 2024, 6:08:41 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/eugene-curtis-kincaid-1927-2009/","tags":["Eugene-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Eugene-Kincaid"],"date-created":"Friday, September 27th 2024, 6:08:41 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

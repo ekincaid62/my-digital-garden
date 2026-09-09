@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date-created":"Friday, February 14th 2025, 4:56:39 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Marshall-Keenan"],"permalink":"/ancestors-by-last-name/keenan/james-marshall-keenan-1828-1884/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"date-created":"Friday, February 14th 2025, 4:56:39 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Marshall-Keenan"]}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/keenan/james-marshall-keenan-1828-1884/","tags":["Marshall-Keenan"],"noteIcon":"","dg-note-properties":{"date-created":"Friday, February 14th 2025, 4:56:39 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Marshall-Keenan"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Jacob-Samuel-Grose"],"permalink":"/ancestors-by-last-name/grose/jacob-samuel-grose-1767-1820/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Jacob-Samuel-Grose"]}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/grose/jacob-samuel-grose-1767-1820/","tags":["Jacob-Samuel-Grose"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Jacob-Samuel-Grose"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Mollie-V-Kincaid"],"date-created":"Saturday, January 25th 2025, 2:56:12 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","permalink":"/ancestors-by-last-name/kincaid/mollie-v-kincaid-1881-1892/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Mollie-V-Kincaid"],"date-created":"Saturday, January 25th 2025, 2:56:12 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/mollie-v-kincaid-1881-1892/","tags":["Mollie-V-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Mollie-V-Kincaid"],"date-created":"Saturday, January 25th 2025, 2:56:12 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

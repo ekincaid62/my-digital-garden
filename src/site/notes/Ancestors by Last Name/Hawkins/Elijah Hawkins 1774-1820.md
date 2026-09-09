@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Elijah-Hawkins"],"permalink":"/ancestors-by-last-name/hawkins/elijah-hawkins-1774-1820/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Elijah-Hawkins"]}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/hawkins/elijah-hawkins-1774-1820/","tags":["Elijah-Hawkins"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Elijah-Hawkins"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

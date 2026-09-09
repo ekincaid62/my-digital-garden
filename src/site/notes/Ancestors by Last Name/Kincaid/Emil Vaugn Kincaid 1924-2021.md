@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Emil-Kincaid"],"date-created":"Friday, September 27th 2024, 5:54:43 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","permalink":"/ancestors-by-last-name/kincaid/emil-vaugn-kincaid-1924-2021/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Emil-Kincaid"],"date-created":"Friday, September 27th 2024, 5:54:43 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/emil-vaugn-kincaid-1924-2021/","tags":["Emil-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Emil-Kincaid"],"date-created":"Friday, September 27th 2024, 5:54:43 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

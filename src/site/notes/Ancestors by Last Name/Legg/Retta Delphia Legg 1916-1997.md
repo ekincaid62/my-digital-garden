@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Retta-Legg"],"date-created":"Saturday, January 25th 2025, 4:21:42 pm","date-modified":"Saturday, August 1st 2026, 2:20:55 pm","permalink":"/ancestors-by-last-name/legg/retta-delphia-legg-1916-1997/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Retta-Legg"],"date-created":"Saturday, January 25th 2025, 4:21:42 pm","date-modified":"Saturday, August 1st 2026, 2:20:55 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/legg/retta-delphia-legg-1916-1997/","tags":["Retta-Legg"],"noteIcon":"","dg-note-properties":{"tags":["Retta-Legg"],"date-created":"Saturday, January 25th 2025, 4:21:42 pm","date-modified":"Saturday, August 1st 2026, 2:20:55 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Saturday, August 1st 2026, 2:20:55 pm***

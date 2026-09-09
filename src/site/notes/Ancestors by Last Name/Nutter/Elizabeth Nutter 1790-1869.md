@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Elizabeth-Nutter"],"date-created":"Thursday, February 6th 2025, 8:14:00 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","permalink":"/ancestors-by-last-name/nutter/elizabeth-nutter-1790-1869/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Elizabeth-Nutter"],"date-created":"Thursday, February 6th 2025, 8:14:00 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/nutter/elizabeth-nutter-1790-1869/","tags":["Elizabeth-Nutter"],"noteIcon":"","dg-note-properties":{"tags":["Elizabeth-Nutter"],"date-created":"Thursday, February 6th 2025, 8:14:00 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Elizabeth-Miller"],"date-created":"Tuesday, February 18th 2025, 10:18:39 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","permalink":"/ancestors-by-last-name/miller/elizabeth-miller-1787-1860/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Elizabeth-Miller"],"date-created":"Tuesday, February 18th 2025, 10:18:39 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/miller/elizabeth-miller-1787-1860/","tags":["Elizabeth-Miller"],"noteIcon":"","dg-note-properties":{"tags":["Elizabeth-Miller"],"date-created":"Tuesday, February 18th 2025, 10:18:39 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["James-McClung"],"date-created":"Thursday, February 6th 2025, 9:51:23 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","permalink":"/ancestors-by-last-name/mc-clung/james-mc-clung-1770-1824/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["James-McClung"],"date-created":"Thursday, February 6th 2025, 9:51:23 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/mc-clung/james-mc-clung-1770-1824/","tags":["James-McClung"],"noteIcon":"","dg-note-properties":{"tags":["James-McClung"],"date-created":"Thursday, February 6th 2025, 9:51:23 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

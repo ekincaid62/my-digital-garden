@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Thomas-P-Kincaid"],"date-created":"Sunday, January 5th 2025, 5:29:51 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","permalink":"/ancestors-by-last-name/kincaid/thomas-p-kincaid-1874-1949/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Thomas-P-Kincaid"],"date-created":"Sunday, January 5th 2025, 5:29:51 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/thomas-p-kincaid-1874-1949/","tags":["Thomas-P-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-P-Kincaid"],"date-created":"Sunday, January 5th 2025, 5:29:51 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

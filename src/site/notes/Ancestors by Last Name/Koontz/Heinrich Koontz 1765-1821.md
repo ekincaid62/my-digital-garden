@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Heinrich-Koontz"],"permalink":"/ancestors-by-last-name/koontz/heinrich-koontz-1765-1821/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Heinrich-Koontz"]}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/koontz/heinrich-koontz-1765-1821/","tags":["Heinrich-Koontz"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Heinrich-Koontz"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

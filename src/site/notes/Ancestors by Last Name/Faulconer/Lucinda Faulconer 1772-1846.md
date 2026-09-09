@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Lucinda-Faulconer"],"permalink":"/ancestors-by-last-name/faulconer/lucinda-faulconer-1772-1846/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Lucinda-Faulconer"]}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/faulconer/lucinda-faulconer-1772-1846/","tags":["Lucinda-Faulconer"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","tags":["Lucinda-Faulconer"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

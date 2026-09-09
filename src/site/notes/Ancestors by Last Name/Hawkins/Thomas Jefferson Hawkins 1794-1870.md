@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Thomas-Jefferson-Hawkins"],"date-created":"Wednesday, February 19th 2025, 10:01:47 am","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","permalink":"/ancestors-by-last-name/hawkins/thomas-jefferson-hawkins-1794-1870/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Thomas-Jefferson-Hawkins"],"date-created":"Wednesday, February 19th 2025, 10:01:47 am","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/hawkins/thomas-jefferson-hawkins-1794-1870/","tags":["Thomas-Jefferson-Hawkins"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Jefferson-Hawkins"],"date-created":"Wednesday, February 19th 2025, 10:01:47 am","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

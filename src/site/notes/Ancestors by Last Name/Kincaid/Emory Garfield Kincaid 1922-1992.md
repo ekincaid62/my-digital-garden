@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Emory-Garfield-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Saturday, August 1st 2026, 2:17:10 pm","permalink":"/ancestors-by-last-name/kincaid/emory-garfield-kincaid-1922-1992/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Emory-Garfield-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Saturday, August 1st 2026, 2:17:10 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/emory-garfield-kincaid-1922-1992/","tags":["Emory-Garfield-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Emory-Garfield-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Saturday, August 1st 2026, 2:17:10 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Saturday, August 1st 2026, 2:17:10 pm***

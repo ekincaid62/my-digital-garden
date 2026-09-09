@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Alice-Legg"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Saturday, August 1st 2026, 2:18:07 pm","permalink":"/ancestors-by-last-name/legg/alice-lee-legg-1931-2012/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Alice-Legg"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Saturday, August 1st 2026, 2:18:07 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/legg/alice-lee-legg-1931-2012/","tags":["Alice-Legg"],"noteIcon":"","dg-note-properties":{"tags":["Alice-Legg"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Saturday, August 1st 2026, 2:18:07 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Saturday, August 1st 2026, 2:18:07 pm***

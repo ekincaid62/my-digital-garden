@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["John-William-Amick"],"date-created":"Tuesday, February 18th 2025, 7:24:59 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","permalink":"/ancestors-by-last-name/amick/john-william-amick-1815-1890/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["John-William-Amick"],"date-created":"Tuesday, February 18th 2025, 7:24:59 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/amick/john-william-amick-1815-1890/","tags":["John-William-Amick"],"noteIcon":"","dg-note-properties":{"tags":["John-William-Amick"],"date-created":"Tuesday, February 18th 2025, 7:24:59 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

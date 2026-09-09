@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Mary-Ramsey"],"date-created":"Thursday, February 20th 2025, 12:38:03 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","permalink":"/ancestors-by-last-name/ramsey/mary-ramsey-1801/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Mary-Ramsey"],"date-created":"Thursday, February 20th 2025, 12:38:03 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/ramsey/mary-ramsey-1801/","tags":["Mary-Ramsey"],"noteIcon":"","dg-note-properties":{"tags":["Mary-Ramsey"],"date-created":"Thursday, February 20th 2025, 12:38:03 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
