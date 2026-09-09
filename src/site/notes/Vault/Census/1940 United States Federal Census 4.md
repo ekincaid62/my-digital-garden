@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1940-united-states-federal-census-4/","tags":["George-Wesley-Kincaid","Laura-Skaggs","Emory-Garfield-Kincaid","Eugene-Kincaid","Emil-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["George-Wesley-Kincaid","Laura-Skaggs","Emory-Garfield-Kincaid","Eugene-Kincaid","Emil-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:13 pm","date-modified":"Sunday, August 2nd 2026, 1:27:51 pm"}}
+{"tags":["George-Wesley-Kincaid","Laura-Skaggs","Emory-Garfield-Kincaid","Eugene-Kincaid","Emil-Kincaid"],"dg-publish":true,"date-created":"Thursday, August 22nd 2024, 9:02:13 pm","date-modified":"Sunday, August 2nd 2026, 1:27:51 pm","permalink":"/vault/census/1940-united-states-federal-census-4/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["George-Wesley-Kincaid","Laura-Skaggs","Emory-Garfield-Kincaid","Eugene-Kincaid","Emil-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:13 pm","date-modified":"Sunday, August 2nd 2026, 1:27:51 pm"}}
 ---
 
 Household 42

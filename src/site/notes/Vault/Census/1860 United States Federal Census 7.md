@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1860-united-states-federal-census-7/","tags":["Peter-Shaffer","Mary-George"],"noteIcon":"","dg-note-properties":{"tags":["Peter-Shaffer","Mary-George"],"date-created":"Thursday, February 27th 2025, 8:13:05 pm","date-modified":"Thursday, February 27th 2025, 8:15:08 pm"}}
+{"dg-publish":true,"tags":["Peter-Shaffer","Mary-George"],"date-created":"Thursday, February 27th 2025, 8:13:05 pm","date-modified":"Thursday, February 27th 2025, 8:15:08 pm","permalink":"/vault/census/1860-united-states-federal-census-7/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Peter-Shaffer","Mary-George"],"date-created":"Thursday, February 27th 2025, 8:13:05 pm","date-modified":"Thursday, February 27th 2025, 8:15:08 pm"}}
 ---
 
 Family 197

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1850-united-states-federal-census-9/","tags":["Thomas-Jesse-Legg","Mary-Level-Perry"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Jesse-Legg","Mary-Level-Perry"],"date-created":"Wednesday, February 26th 2025, 7:40:17 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"tags":["Thomas-Jesse-Legg","Mary-Level-Perry"],"date-created":"Wednesday, February 26th 2025, 7:40:17 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","permalink":"/vault/census/1850-united-states-federal-census-9/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Thomas-Jesse-Legg","Mary-Level-Perry"],"date-created":"Wednesday, February 26th 2025, 7:40:17 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 Family 332
