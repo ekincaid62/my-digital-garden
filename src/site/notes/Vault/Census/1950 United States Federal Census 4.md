@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1950-united-states-federal-census-4/","tags":["George-Wesley-Kincaid","Laura-Skaggs","Emory-Garfield-Kincaid","Alice-Legg","Brenda-Kincaid","Dorcas-McClung"],"noteIcon":"","dg-note-properties":{"tags":["George-Wesley-Kincaid","Laura-Skaggs","Emory-Garfield-Kincaid","Alice-Legg","Brenda-Kincaid","Dorcas-McClung"],"date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Sunday, August 2nd 2026, 1:27:51 pm"}}
+{"dg-publish":true,"tags":["George-Wesley-Kincaid","Laura-Skaggs","Emory-Garfield-Kincaid","Alice-Legg","Brenda-Kincaid","Dorcas-McClung"],"date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Sunday, August 2nd 2026, 1:27:51 pm","permalink":"/vault/census/1950-united-states-federal-census-4/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["George-Wesley-Kincaid","Laura-Skaggs","Emory-Garfield-Kincaid","Alice-Legg","Brenda-Kincaid","Dorcas-McClung"],"date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Sunday, August 2nd 2026, 1:27:51 pm"}}
 ---
 
 Household 14

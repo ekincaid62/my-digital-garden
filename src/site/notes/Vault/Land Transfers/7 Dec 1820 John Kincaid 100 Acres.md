@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/land-transfers/7-dec-1820-john-kincaid-100-acres/","tags":["John-Kincaid","Gauley"],"noteIcon":"","dg-note-properties":{"tags":["John-Kincaid","Gauley"]}}
+{"tags":["John-Kincaid","Gauley"],"dg-publish":true,"permalink":"/vault/land-transfers/7-dec-1820-john-kincaid-100-acres/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["John-Kincaid","Gauley"]}}
 ---
 
 This was very difficult to read": Between Gemini AI and myself I think we got most of it correct.
