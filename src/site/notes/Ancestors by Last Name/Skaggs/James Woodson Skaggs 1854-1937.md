@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/skaggs/james-woodson-skaggs-1854-1937/","tags":["James-Woodson-Skaggs"],"noteIcon":"","dg-note-properties":{"tags":["James-Woodson-Skaggs"],"date-created":"Thursday, February 6th 2025, 6:46:09 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"tags":["James-Woodson-Skaggs"],"date-created":"Thursday, February 6th 2025, 6:46:09 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","permalink":"/ancestors-by-last-name/skaggs/james-woodson-skaggs-1854-1937/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["James-Woodson-Skaggs"],"date-created":"Thursday, February 6th 2025, 6:46:09 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:52 pm***

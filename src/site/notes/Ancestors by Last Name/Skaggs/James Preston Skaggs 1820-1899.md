@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/skaggs/james-preston-skaggs-1820-1899/","tags":["James-Preston-Skaggs"],"noteIcon":"","dg-note-properties":{"tags":["James-Preston-Skaggs"],"date-created":"Sunday, February 16th 2025, 3:07:58 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"tags":["James-Preston-Skaggs"],"date-created":"Sunday, February 16th 2025, 3:07:58 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","permalink":"/ancestors-by-last-name/skaggs/james-preston-skaggs-1820-1899/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["James-Preston-Skaggs"],"date-created":"Sunday, February 16th 2025, 3:07:58 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:52 pm***

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/gauley-bridge/","tags":["todo"],"noteIcon":"","dg-note-properties":{"tags":["todo"]}}
+{"dg-publish":true,"tags":["todo"],"permalink":"/research/gauley-bridge/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["todo"]}}
 ---
 
 John along with Matthew and James received patents to land along the Gauley and New Rivers in 1820.

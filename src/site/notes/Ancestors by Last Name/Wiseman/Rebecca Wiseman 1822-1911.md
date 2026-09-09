@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/wiseman/rebecca-wiseman-1822-1911/","tags":["Rebecca-Wiseman"],"noteIcon":"","dg-note-properties":{"tags":["Rebecca-Wiseman"],"date-created":"Sunday, February 16th 2025, 7:44:35 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"tags":["Rebecca-Wiseman"],"date-created":"Sunday, February 16th 2025, 7:44:35 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","permalink":"/ancestors-by-last-name/wiseman/rebecca-wiseman-1822-1911/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Rebecca-Wiseman"],"date-created":"Sunday, February 16th 2025, 7:44:35 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:52 pm***

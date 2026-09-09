@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1860-united-states-federal-census-13/","tags":["Margaret-Wiseman"],"noteIcon":"","dg-note-properties":{"tags":["Margaret-Wiseman"],"date-created":"Wednesday, February 26th 2025, 6:50:18 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"tags":["Margaret-Wiseman"],"date-created":"Wednesday, February 26th 2025, 6:50:18 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","permalink":"/vault/census/1860-united-states-federal-census-13/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Margaret-Wiseman"],"date-created":"Wednesday, February 26th 2025, 6:50:18 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 Family 632

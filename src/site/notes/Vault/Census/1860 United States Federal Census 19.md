@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1860-united-states-federal-census-19/","tags":["Cyrus-Skaggs","Rachel-Parish-Coleman","James-A-Skaggs","Elizabeth-Miller"],"noteIcon":"","dg-note-properties":{"tags":["Cyrus-Skaggs","Rachel-Parish-Coleman","James-A-Skaggs","Elizabeth-Miller"],"date-created":"Saturday, February 22nd 2025, 5:04:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"tags":["Cyrus-Skaggs","Rachel-Parish-Coleman","James-A-Skaggs","Elizabeth-Miller"],"date-created":"Saturday, February 22nd 2025, 5:04:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","permalink":"/vault/census/1860-united-states-federal-census-19/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Cyrus-Skaggs","Rachel-Parish-Coleman","James-A-Skaggs","Elizabeth-Miller"],"date-created":"Saturday, February 22nd 2025, 5:04:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 Family 433

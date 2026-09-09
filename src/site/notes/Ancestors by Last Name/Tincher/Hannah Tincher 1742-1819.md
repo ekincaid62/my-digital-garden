@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/tincher/hannah-tincher-1742-1819/","tags":["Hannah-Tincher"],"noteIcon":"","dg-note-properties":{"tags":["Hannah-Tincher"],"date-created":"Sunday, February 2nd 2025, 8:29:29 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"tags":["Hannah-Tincher"],"date-created":"Sunday, February 2nd 2025, 8:29:29 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","permalink":"/ancestors-by-last-name/tincher/hannah-tincher-1742-1819/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Hannah-Tincher"],"date-created":"Sunday, February 2nd 2025, 8:29:29 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:52 pm***

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1850-united-states-federal-census-20/","tags":["Dickinson-Carpenter-McClung","Sarah-Evans"],"noteIcon":"","dg-note-properties":{"tags":["Dickinson-Carpenter-McClung","Sarah-Evans"],"date-created":"Thursday, February 27th 2025, 8:43:05 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"tags":["Dickinson-Carpenter-McClung","Sarah-Evans"],"date-created":"Thursday, February 27th 2025, 8:43:05 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","permalink":"/vault/census/1850-united-states-federal-census-20/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Dickinson-Carpenter-McClung","Sarah-Evans"],"date-created":"Thursday, February 27th 2025, 8:43:05 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 Family 501

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree/","hide":"true","noteIcon":"","dg-note-properties":{"date-created":"Friday, July 31st 2026, 9:48:07 pm","date-modified":"Friday, July 31st 2026, 9:50:09 pm"}}
+{"date-created":"Friday, July 31st 2026, 9:48:07 pm","date-modified":"Friday, July 31st 2026, 9:50:09 pm","dg-publish":true,"dg-hide":"true","permalink":"/tree/","hide":"true","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"date-created":"Friday, July 31st 2026, 9:48:07 pm","date-modified":"Friday, July 31st 2026, 9:50:09 pm"}}
 ---
 
 ![Tree2.png](/img/user/Vault/assets/Tree2.png)

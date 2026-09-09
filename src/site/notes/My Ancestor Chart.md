@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-ancestor-chart/","pinned":"true","dgHomeLink":"x","dgShowBacklinks":"x","dgShowLocalGraph":"x","dgShowInlineTitle":"x","dgShowToc":"x","noteIcon":"2","dg-note-properties":{"date-created":"Monday, February 10th 2025, 7:36:23 pm","date-modified":"Saturday, August 22nd 2026, 8:37:55 pm"}}
+{"dg-publish":true,"date-created":"Monday, February 10th 2025, 7:36:23 pm","date-modified":"Saturday, August 22nd 2026, 8:37:55 pm","dg-show-local-graph":"x","dg-show-backlinks":"x","dg-show-toc":"x","dg-show-inline-title":"x","dg-home-link":"x","dg-note-icon":"2","dg-pinned":"true","permalink":"/my-ancestor-chart/","pinned":"true","dgHomeLink":"x","dgShowBacklinks":"x","dgShowLocalGraph":"x","dgShowInlineTitle":"x","dgShowToc":"x","dgPassFrontmatter":true,"noteIcon":"2","dg-note-properties":{"date-created":"Monday, February 10th 2025, 7:36:23 pm","date-modified":"Saturday, August 22nd 2026, 8:37:55 pm"}}
 ---
 
 <div id="ancestor-chart-zoom">

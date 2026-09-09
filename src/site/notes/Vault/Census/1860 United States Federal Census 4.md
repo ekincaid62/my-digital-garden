@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/census/1860-united-states-federal-census-4/","tags":["Thomas-Jesse-Legg","Elizabeth-Nutter"],"noteIcon":"","dg-note-properties":{"tags":["Thomas-Jesse-Legg","Elizabeth-Nutter"],"date-created":"Wednesday, February 26th 2025, 6:24:27 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"tags":["Thomas-Jesse-Legg","Elizabeth-Nutter"],"date-created":"Wednesday, February 26th 2025, 6:24:27 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","permalink":"/vault/census/1860-united-states-federal-census-4/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Thomas-Jesse-Legg","Elizabeth-Nutter"],"date-created":"Wednesday, February 26th 2025, 6:24:27 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 Family 406

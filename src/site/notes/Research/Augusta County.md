@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/augusta-county/","tags":["todo"],"noteIcon":"","dg-note-properties":{"tags":["todo"]}}
+{"tags":["todo"],"dg-publish":true,"permalink":"/research/augusta-county/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["todo"]}}
 ---
 
 The sources provide detailed records of land transfers in Augusta County, primarily centered around the **Calfpasture River** and **Beverly Manor** areas involving various branches of the Kincaid family during the mid-to-late 18th century.

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/recent-changes/","pinned":"true","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"dg-pinned":"true","permalink":"/recent-changes/","pinned":"true","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
 ---
 
 | File                                                                                                                  | Last Modified       |
 | --------------------------------------------------------------------------------------------------------------------- | ------------------- |
-| [[Posts\|Posts]]                                                                                                   | Sep 9, 2026 7:12 PM |
+| [[Posts\|Posts]]                                                                                                   | Sep 9, 2026 7:27 PM |
 | [[Vault/Blog/My first Blog Post\|My first Blog Post]]                                                              | Sep 9, 2026 6:57 PM |
 | [[My Ancestor Chart\|My Ancestor Chart]]                                                                           | Sep 8, 2026 4:32 PM |
 | [[Vault/Records/Allen & Virginia Kincaid 2\|Allen & Virginia Kincaid 2]]                                           | Sep 6, 2026 8:38 PM |

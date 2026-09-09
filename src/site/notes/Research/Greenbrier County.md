@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/greenbrier-county/","tags":["todo"],"noteIcon":"","dg-note-properties":{"tags":["todo"],"created":"2015-04-27T10:32","updated":"2024-07-03T20:54","date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Sunday, August 2nd 2026, 1:27:51 pm"}}
+{"tags":["todo"],"created":"2015-04-27T10:32","updated":"2024-07-03T20:54","date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Sunday, August 2nd 2026, 1:27:51 pm","dg-publish":true,"permalink":"/research/greenbrier-county/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["todo"],"created":"2015-04-27T10:32","updated":"2024-07-03T20:54","date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Sunday, August 2nd 2026, 1:27:51 pm"}}
 ---
 
 

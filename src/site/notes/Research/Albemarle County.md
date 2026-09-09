@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/albemarle-county/","tags":["todo"],"noteIcon":"","dg-note-properties":{"tags":["todo"]}}
+{"tags":["todo"],"dg-publish":true,"permalink":"/research/albemarle-county/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["todo"]}}
 ---
 
 The sources contain valuable details regarding the Albemarle County, Virginia deeds that involve **Thomas Kincaid (husband of Hannah Tincher)**, and they highlight a few key records that help researchers prove his parentage as the **"son of John."**
