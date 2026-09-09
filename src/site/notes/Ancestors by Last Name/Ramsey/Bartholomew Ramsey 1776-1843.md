@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/ramsey/bartholomew-ramsey-1776-1843/","tags":["Bartholomew-Ramsey"],"noteIcon":"","dg-note-properties":{"tags":["Bartholomew-Ramsey"],"date-created":"Thursday, January 30th 2025, 10:20:18 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"tags":["Bartholomew-Ramsey"],"date-created":"Thursday, January 30th 2025, 10:20:18 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","permalink":"/ancestors-by-last-name/ramsey/bartholomew-ramsey-1776-1843/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Bartholomew-Ramsey"],"date-created":"Thursday, January 30th 2025, 10:20:18 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

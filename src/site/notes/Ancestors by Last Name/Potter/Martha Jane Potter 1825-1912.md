@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/potter/martha-jane-potter-1825-1912/","tags":["Martha-Jane-Potter"],"noteIcon":"","dg-note-properties":{"tags":["Martha-Jane-Potter"],"date-created":"Sunday, February 16th 2025, 6:57:23 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"tags":["Martha-Jane-Potter"],"date-created":"Sunday, February 16th 2025, 6:57:23 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","permalink":"/ancestors-by-last-name/potter/martha-jane-potter-1825-1912/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Martha-Jane-Potter"],"date-created":"Sunday, February 16th 2025, 6:57:23 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

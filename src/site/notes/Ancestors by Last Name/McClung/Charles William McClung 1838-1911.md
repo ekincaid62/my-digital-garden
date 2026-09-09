@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/mc-clung/charles-william-mc-clung-1838-1911/","tags":["Charles-William-McClung"],"noteIcon":"","dg-note-properties":{"tags":["Charles-William-McClung"],"date-created":"Thursday, February 6th 2025, 8:48:26 pm","date-modified":"Saturday, August 1st 2026, 2:23:20 pm"}}
+{"dg-publish":true,"tags":["Charles-William-McClung"],"date-created":"Thursday, February 6th 2025, 8:48:26 pm","date-modified":"Saturday, August 1st 2026, 2:23:20 pm","permalink":"/ancestors-by-last-name/mc-clung/charles-william-mc-clung-1838-1911/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Charles-William-McClung"],"date-created":"Thursday, February 6th 2025, 8:48:26 pm","date-modified":"Saturday, August 1st 2026, 2:23:20 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Saturday, August 1st 2026, 2:23:20 pm***

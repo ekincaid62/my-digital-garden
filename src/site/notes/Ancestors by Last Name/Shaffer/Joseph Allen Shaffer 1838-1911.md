@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/shaffer/joseph-allen-shaffer-1838-1911/","tags":["Joseph-Allen-Shaffer"],"noteIcon":"","dg-note-properties":{"tags":["Joseph-Allen-Shaffer"],"date-created":"Saturday, February 15th 2025, 3:07:18 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"tags":["Joseph-Allen-Shaffer"],"date-created":"Saturday, February 15th 2025, 3:07:18 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","permalink":"/ancestors-by-last-name/shaffer/joseph-allen-shaffer-1838-1911/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Joseph-Allen-Shaffer"],"date-created":"Saturday, February 15th 2025, 3:07:18 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/perry/mary-level-perry-1799-1879/","tags":["Mary-Level-Perry"],"noteIcon":"","dg-note-properties":{"tags":["Mary-Level-Perry"],"date-created":"Wednesday, February 19th 2025, 10:07:30 am","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"tags":["Mary-Level-Perry"],"date-created":"Wednesday, February 19th 2025, 10:07:30 am","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","permalink":"/ancestors-by-last-name/perry/mary-level-perry-1799-1879/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Mary-Level-Perry"],"date-created":"Wednesday, February 19th 2025, 10:07:30 am","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

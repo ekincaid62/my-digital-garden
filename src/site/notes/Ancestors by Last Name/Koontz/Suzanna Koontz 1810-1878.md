@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/koontz/suzanna-koontz-1810-1878/","tags":["Suzanna-Koontz"],"noteIcon":"","dg-note-properties":{"tags":["Suzanna-Koontz"],"date-created":"Wednesday, February 19th 2025, 9:42:39 am","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"tags":["Suzanna-Koontz"],"date-created":"Wednesday, February 19th 2025, 9:42:39 am","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","permalink":"/ancestors-by-last-name/koontz/suzanna-koontz-1810-1878/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Suzanna-Koontz"],"date-created":"Wednesday, February 19th 2025, 9:42:39 am","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

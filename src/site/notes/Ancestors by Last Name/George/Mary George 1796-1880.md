@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/george/mary-george-1796-1880/","tags":["Mary-George"],"noteIcon":"","dg-note-properties":{"tags":["Mary-George"],"date-created":"Tuesday, February 18th 2025, 6:39:32 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"tags":["Mary-George"],"date-created":"Tuesday, February 18th 2025, 6:39:32 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","permalink":"/ancestors-by-last-name/george/mary-george-1796-1880/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Mary-George"],"date-created":"Tuesday, February 18th 2025, 6:39:32 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

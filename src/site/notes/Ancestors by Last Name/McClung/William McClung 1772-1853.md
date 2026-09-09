@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/mc-clung/william-mc-clung-1772-1853/","tags":["William-McClung-ChunkyBillie"],"noteIcon":"","dg-note-properties":{"tags":["William-McClung-ChunkyBillie"],"date-created":"Tuesday, February 18th 2025, 9:04:09 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"tags":["William-McClung-ChunkyBillie"],"date-created":"Tuesday, February 18th 2025, 9:04:09 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","permalink":"/ancestors-by-last-name/mc-clung/william-mc-clung-1772-1853/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["William-McClung-ChunkyBillie"],"date-created":"Tuesday, February 18th 2025, 9:04:09 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

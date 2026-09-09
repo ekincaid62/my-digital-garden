@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/kincaid/ronnie-lynn-kincaid-1952-2010/","tags":["Ronnie-Lynn-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["Ronnie-Lynn-Kincaid"],"date-created":"Saturday, January 25th 2025, 2:28:53 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"tags":["Ronnie-Lynn-Kincaid"],"date-created":"Saturday, January 25th 2025, 2:28:53 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","permalink":"/ancestors-by-last-name/kincaid/ronnie-lynn-kincaid-1952-2010/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Ronnie-Lynn-Kincaid"],"date-created":"Saturday, January 25th 2025, 2:28:53 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ancestors-by-last-name/keenan/sarah-virginia-keenan-1849-1920/","tags":["Sarah-Virginia-Keenan"],"noteIcon":"","dg-note-properties":{"tags":["Sarah-Virginia-Keenan"],"date-created":"Friday, September 27th 2024, 6:46:55 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"tags":["Sarah-Virginia-Keenan"],"date-created":"Friday, September 27th 2024, 6:46:55 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","permalink":"/ancestors-by-last-name/keenan/sarah-virginia-keenan-1849-1920/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Sarah-Virginia-Keenan"],"date-created":"Friday, September 27th 2024, 6:46:55 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***
