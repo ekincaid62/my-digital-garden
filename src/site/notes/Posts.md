@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowFileTree":"false","dgShowToc":"true","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/posts/","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowFileTree":"true","dgShowToc":"true","noteIcon":"","dg-note-properties":{}}
 ---
 
 Bear with me while I get this working.
