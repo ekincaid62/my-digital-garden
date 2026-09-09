@@ -1,5 +1,5 @@
 ---
-{"tags":["William-Kincaid","Jane-Kincaid"],"dg-publish":true,"dg-permalink:":null,"date-created":"Thursday, August 22nd 2024, 9:02:13 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","permalink":"/vault/census/1850-united-states-federal-census-22/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["William-Kincaid","Jane-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:13 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"permalink":"/vault/census/1850-united-states-federal-census-22/","tags":["William-Kincaid","Jane-Kincaid"],"noteIcon":"","dg-note-properties":{"tags":["William-Kincaid","Jane-Kincaid"],"date-created":"Thursday, August 22nd 2024, 9:02:13 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 **Household 66**

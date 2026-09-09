@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Mary-C-Amick","John-William-Amick","Lana-Walker"],"date-created":"Sunday, February 23rd 2025, 12:18:39 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","permalink":"/vault/census/1850-united-states-federal-census-21/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Mary-C-Amick","John-William-Amick","Lana-Walker"],"date-created":"Sunday, February 23rd 2025, 12:18:39 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"permalink":"/vault/census/1850-united-states-federal-census-21/","tags":["Mary-C-Amick","John-William-Amick","Lana-Walker"],"noteIcon":"","dg-note-properties":{"tags":["Mary-C-Amick","John-William-Amick","Lana-Walker"],"date-created":"Sunday, February 23rd 2025, 12:18:39 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 Family 225

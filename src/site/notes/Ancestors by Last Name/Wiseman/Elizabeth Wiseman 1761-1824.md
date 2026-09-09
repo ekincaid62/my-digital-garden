@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","tags":["Elizabeth-Wiseman"],"permalink":"/ancestors-by-last-name/wiseman/elizabeth-wiseman-1761-1824/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","tags":["Elizabeth-Wiseman"]}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/wiseman/elizabeth-wiseman-1761-1824/","tags":["Elizabeth-Wiseman"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","tags":["Elizabeth-Wiseman"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:52 pm***

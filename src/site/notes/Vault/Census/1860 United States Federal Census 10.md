@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["John-William-Amick","Lana-Walker","Mary-C-Amick"],"date-created":"Friday, February 28th 2025, 3:15:43 pm","date-modified":"Friday, February 28th 2025, 3:38:03 pm","permalink":"/vault/census/1860-united-states-federal-census-10/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["John-William-Amick","Lana-Walker","Mary-C-Amick"],"date-created":"Friday, February 28th 2025, 3:15:43 pm","date-modified":"Friday, February 28th 2025, 3:38:03 pm"}}
+{"dg-publish":true,"permalink":"/vault/census/1860-united-states-federal-census-10/","tags":["John-William-Amick","Lana-Walker","Mary-C-Amick"],"noteIcon":"","dg-note-properties":{"tags":["John-William-Amick","Lana-Walker","Mary-C-Amick"],"date-created":"Friday, February 28th 2025, 3:15:43 pm","date-modified":"Friday, February 28th 2025, 3:38:03 pm"}}
 ---
 
 Household 930

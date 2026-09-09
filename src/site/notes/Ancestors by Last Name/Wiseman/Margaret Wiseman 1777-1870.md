@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Margaret-Wiseman"],"date-created":"Wednesday, February 19th 2025, 9:54:21 am","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","permalink":"/ancestors-by-last-name/wiseman/margaret-wiseman-1777-1870/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Margaret-Wiseman"],"date-created":"Wednesday, February 19th 2025, 9:54:21 am","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/wiseman/margaret-wiseman-1777-1870/","tags":["Margaret-Wiseman"],"noteIcon":"","dg-note-properties":{"tags":["Margaret-Wiseman"],"date-created":"Wednesday, February 19th 2025, 9:54:21 am","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:52 pm***

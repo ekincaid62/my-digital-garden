@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Harriet-Ann-Skaggs","James-Preston-Skaggs","Martha-Jane-Potter"],"date-created":"Friday, February 21st 2025, 10:58:00 pm","date-modified":"Friday, March 7th 2025, 1:15:23 pm","permalink":"/vault/census/1860-united-states-federal-census-1/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Harriet-Ann-Skaggs","James-Preston-Skaggs","Martha-Jane-Potter"],"date-created":"Friday, February 21st 2025, 10:58:00 pm","date-modified":"Friday, March 7th 2025, 1:15:23 pm"}}
+{"dg-publish":true,"permalink":"/vault/census/1860-united-states-federal-census-1/","tags":["Harriet-Ann-Skaggs","James-Preston-Skaggs","Martha-Jane-Potter"],"noteIcon":"","dg-note-properties":{"tags":["Harriet-Ann-Skaggs","James-Preston-Skaggs","Martha-Jane-Potter"],"date-created":"Friday, February 21st 2025, 10:58:00 pm","date-modified":"Friday, March 7th 2025, 1:15:23 pm"}}
 ---
 
 Family 440

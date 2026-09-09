@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Peter-Shaffer"],"date-created":"Saturday, February 15th 2025, 5:12:24 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm","permalink":"/ancestors-by-last-name/shaffer/peter-shaffer-1795/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Peter-Shaffer"],"date-created":"Saturday, February 15th 2025, 5:12:24 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/shaffer/peter-shaffer-1795/","tags":["Peter-Shaffer"],"noteIcon":"","dg-note-properties":{"tags":["Peter-Shaffer"],"date-created":"Saturday, February 15th 2025, 5:12:24 pm","date-modified":"Sunday, August 2nd 2026, 1:27:53 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:53 pm***

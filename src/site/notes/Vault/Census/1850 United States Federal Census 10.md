@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Isaac-Ward-Wiseman","Mary-Neal"],"date-created":"Wednesday, February 26th 2025, 7:50:14 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","permalink":"/vault/census/1850-united-states-federal-census-10/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Isaac-Ward-Wiseman","Mary-Neal"],"date-created":"Wednesday, February 26th 2025, 7:50:14 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"permalink":"/vault/census/1850-united-states-federal-census-10/","tags":["Isaac-Ward-Wiseman","Mary-Neal"],"noteIcon":"","dg-note-properties":{"tags":["Isaac-Ward-Wiseman","Mary-Neal"],"date-created":"Wednesday, February 26th 2025, 7:50:14 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 Family 508

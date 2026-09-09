@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-pinned":"true","permalink":"/recent-changes/","pinned":"true","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/recent-changes/","pinned":"true","noteIcon":"","dg-note-properties":{}}
 ---
 
 | File                                                                                                                  | Last Modified       |

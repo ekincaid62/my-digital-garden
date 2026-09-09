@@ -1,5 +1,5 @@
 ---
-{"date-created":"Sunday, February 23rd 2025, 10:31:46 am","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","dg-publish":true,"tags":["Charles-William-McClung"],"permalink":"/vault/census/1850-united-states-federal-census-5/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"date-created":"Sunday, February 23rd 2025, 10:31:46 am","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","tags":["Charles-William-McClung"]}}
+{"dg-publish":true,"permalink":"/vault/census/1850-united-states-federal-census-5/","tags":["Charles-William-McClung"],"noteIcon":"","dg-note-properties":{"date-created":"Sunday, February 23rd 2025, 10:31:46 am","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","tags":["Charles-William-McClung"]}}
 ---
 
 Family 1160

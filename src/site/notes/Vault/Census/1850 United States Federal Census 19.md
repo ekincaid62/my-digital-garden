@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Margaret-McGahee"],"date-created":"Sunday, February 23rd 2025, 1:33:54 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","permalink":"/vault/census/1850-united-states-federal-census-19/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Margaret-McGahee"],"date-created":"Sunday, February 23rd 2025, 1:33:54 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"permalink":"/vault/census/1850-united-states-federal-census-19/","tags":["Margaret-McGahee"],"noteIcon":"","dg-note-properties":{"tags":["Margaret-McGahee"],"date-created":"Sunday, February 23rd 2025, 1:33:54 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 Family 200

@@ -1,5 +1,5 @@
 ---
-{"tags":["todo"],"created":"2015-04-27T10:26","updated":"2024-07-03T20:54","date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Sunday, August 2nd 2026, 1:27:51 pm","dg-publish":true,"permalink":"/research/fayette-county/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["todo"],"created":"2015-04-27T10:26","updated":"2024-07-03T20:54","date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Sunday, August 2nd 2026, 1:27:51 pm"}}
+{"dg-publish":true,"permalink":"/research/fayette-county/","tags":["todo"],"noteIcon":"","dg-note-properties":{"tags":["todo"],"created":"2015-04-27T10:26","updated":"2024-07-03T20:54","date-created":"Thursday, August 22nd 2024, 9:01:46 pm","date-modified":"Sunday, August 2nd 2026, 1:27:51 pm"}}
 ---
 
 - [ ] DB C Pg 668 or 711 dated 3 Apr 1846 Delinquent taxes sell to John Guinn  (Mcdowell Patent)

@@ -1,5 +1,5 @@
 ---
-{"tags":["James-Gillespie-Kincaid","Mary-Tritt"],"dg-publish":true,"permalink":"/research/james-gillespie-kincaid-and-mary-tritt/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["James-Gillespie-Kincaid","Mary-Tritt"]}}
+{"dg-publish":true,"permalink":"/research/james-gillespie-kincaid-and-mary-tritt/","tags":["James-Gillespie-Kincaid","Mary-Tritt"],"noteIcon":"","dg-note-properties":{"tags":["James-Gillespie-Kincaid","Mary-Tritt"]}}
 ---
 
 I found this on Find a Grave. Would like to find a copy of this book.

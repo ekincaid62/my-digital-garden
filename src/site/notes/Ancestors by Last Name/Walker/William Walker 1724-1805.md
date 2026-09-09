@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","tags":["William-Walker"],"permalink":"/ancestors-by-last-name/walker/william-walker-1724-1805/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","tags":["William-Walker"]}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/walker/william-walker-1724-1805/","tags":["William-Walker"],"noteIcon":"","dg-note-properties":{"date-created":"Thursday, August 22nd 2024, 9:02:20 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","tags":["William-Walker"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:52 pm***

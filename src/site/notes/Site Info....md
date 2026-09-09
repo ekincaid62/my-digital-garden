@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date-created":"Tuesday, February 4th 2025, 7:11:37 pm","date-modified":"Saturday, August 22nd 2026, 8:38:35 pm","dg-pinned":"true","permalink":"/site-info/","pinned":"true","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"date-created":"Tuesday, February 4th 2025, 7:11:37 pm","date-modified":"Saturday, August 22nd 2026, 8:38:35 pm"}}
+{"dg-publish":true,"permalink":"/site-info/","pinned":"true","noteIcon":"","dg-note-properties":{"date-created":"Tuesday, February 4th 2025, 7:11:37 pm","date-modified":"Saturday, August 22nd 2026, 8:38:35 pm"}}
 ---
 
 I have tried almost everything you can imagine for storing my data.  Nothing fit the bill, and I was disappointed in one way or another.

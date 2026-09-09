@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Harriet-Ann-Skaggs"],"date-created":"Thursday, February 6th 2025, 6:48:10 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","permalink":"/ancestors-by-last-name/skaggs/harriet-ann-skaggs-1859-1950/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Harriet-Ann-Skaggs"],"date-created":"Thursday, February 6th 2025, 6:48:10 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/skaggs/harriet-ann-skaggs-1859-1950/","tags":["Harriet-Ann-Skaggs"],"noteIcon":"","dg-note-properties":{"tags":["Harriet-Ann-Skaggs"],"date-created":"Thursday, February 6th 2025, 6:48:10 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:52 pm***

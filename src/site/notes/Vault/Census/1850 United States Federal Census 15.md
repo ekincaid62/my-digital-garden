@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Jacob-Amick","Rachel-Shroyer"],"date-created":"Friday, March 7th 2025, 7:11:56 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","permalink":"/vault/census/1850-united-states-federal-census-15/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Jacob-Amick","Rachel-Shroyer"],"date-created":"Friday, March 7th 2025, 7:11:56 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"permalink":"/vault/census/1850-united-states-federal-census-15/","tags":["Jacob-Amick","Rachel-Shroyer"],"noteIcon":"","dg-note-properties":{"tags":["Jacob-Amick","Rachel-Shroyer"],"date-created":"Friday, March 7th 2025, 7:11:56 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 Family 321

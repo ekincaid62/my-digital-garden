@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date-created":"Friday, February 14th 2025, 9:54:12 am","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","tags":["Elverton-Walker"],"permalink":"/ancestors-by-last-name/walker/elverton-p-walker-1770-1850/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"date-created":"Friday, February 14th 2025, 9:54:12 am","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","tags":["Elverton-Walker"]}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/walker/elverton-p-walker-1770-1850/","tags":["Elverton-Walker"],"noteIcon":"","dg-note-properties":{"date-created":"Friday, February 14th 2025, 9:54:12 am","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","tags":["Elverton-Walker"]}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:52 pm***

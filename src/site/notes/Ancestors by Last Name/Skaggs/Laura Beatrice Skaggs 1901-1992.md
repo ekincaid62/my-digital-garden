@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Laura-Skaggs"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","permalink":"/ancestors-by-last-name/skaggs/laura-beatrice-skaggs-1901-1992/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Laura-Skaggs"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"permalink":"/ancestors-by-last-name/skaggs/laura-beatrice-skaggs-1901-1992/","tags":["Laura-Skaggs"],"noteIcon":"","dg-note-properties":{"tags":["Laura-Skaggs"],"date-created":"Thursday, August 22nd 2024, 9:01:45 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 ***<font color="#00b0f0">Last Modified:</font> Sunday, August 2nd 2026, 1:27:52 pm***

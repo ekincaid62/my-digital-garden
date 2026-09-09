@@ -1,5 +1,5 @@
 ---
-{"tags":["Marshall-Keenan","Martha-Grose","William-Grose","Suzanna-Koontz"],"dg-publish":true,"dg-permalink:":"\"vault/census/1850 Census1/\"","date-created":"Thursday, August 22nd 2024, 9:02:07 pm","date-modified":"Monday, February 24th 2025, 7:46:53 pm","permalink":"/vault/census/1850-united-states-federal-census-record-1/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Marshall-Keenan","Martha-Grose","William-Grose","Suzanna-Koontz"],"date-created":"Thursday, August 22nd 2024, 9:02:07 pm","date-modified":"Monday, February 24th 2025, 7:46:53 pm"}}
+{"dg-publish":true,"permalink":"/vault/census/1850-united-states-federal-census-record-1/","tags":["Marshall-Keenan","Martha-Grose","William-Grose","Suzanna-Koontz"],"noteIcon":"","dg-note-properties":{"tags":["Marshall-Keenan","Martha-Grose","William-Grose","Suzanna-Koontz"],"date-created":"Thursday, August 22nd 2024, 9:02:07 pm","date-modified":"Monday, February 24th 2025, 7:46:53 pm"}}
 ---
 
 **Household 187**
