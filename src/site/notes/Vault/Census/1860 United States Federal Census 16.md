@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["William-Legg","Elizabeth-Ramsey"],"date-created":"Wednesday, February 26th 2025, 7:03:46 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","permalink":"/vault/census/1860-united-states-federal-census-16/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["William-Legg","Elizabeth-Ramsey"],"date-created":"Wednesday, February 26th 2025, 7:03:46 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"permalink":"/vault/census/1860-united-states-federal-census-16/","tags":["William-Legg","Elizabeth-Ramsey"],"noteIcon":"","dg-note-properties":{"tags":["William-Legg","Elizabeth-Ramsey"],"date-created":"Wednesday, February 26th 2025, 7:03:46 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 Family 630

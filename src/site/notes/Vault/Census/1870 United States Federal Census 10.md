@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Margaret-Wiseman","William-Legg","Elizabeth-Ramsey"],"date-created":"Wednesday, February 26th 2025, 6:55:57 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","permalink":"/vault/census/1870-united-states-federal-census-10/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Margaret-Wiseman","William-Legg","Elizabeth-Ramsey"],"date-created":"Wednesday, February 26th 2025, 6:55:57 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"permalink":"/vault/census/1870-united-states-federal-census-10/","tags":["Margaret-Wiseman","William-Legg","Elizabeth-Ramsey"],"noteIcon":"","dg-note-properties":{"tags":["Margaret-Wiseman","William-Legg","Elizabeth-Ramsey"],"date-created":"Wednesday, February 26th 2025, 6:55:57 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 Family 194

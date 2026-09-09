@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Charles-William-McClung","Mary-C-Amick","Dorcas-McClung"],"date-created":"Sunday, February 23rd 2025, 12:09:03 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","permalink":"/vault/census/1870-united-states-federal-census-14/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Charles-William-McClung","Mary-C-Amick","Dorcas-McClung"],"date-created":"Sunday, February 23rd 2025, 12:09:03 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"permalink":"/vault/census/1870-united-states-federal-census-14/","tags":["Charles-William-McClung","Mary-C-Amick","Dorcas-McClung"],"noteIcon":"","dg-note-properties":{"tags":["Charles-William-McClung","Mary-C-Amick","Dorcas-McClung"],"date-created":"Sunday, February 23rd 2025, 12:09:03 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 Family 144

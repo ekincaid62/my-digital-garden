@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["John-William-Amick","Lana-Walker","Mary-C-Amick"],"date-created":"Friday, February 28th 2025, 3:15:43 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm","permalink":"/vault/census/1860-united-states-federal-census-17/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["John-William-Amick","Lana-Walker","Mary-C-Amick"],"date-created":"Friday, February 28th 2025, 3:15:43 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
+{"dg-publish":true,"permalink":"/vault/census/1860-united-states-federal-census-17/","tags":["John-William-Amick","Lana-Walker","Mary-C-Amick"],"noteIcon":"","dg-note-properties":{"tags":["John-William-Amick","Lana-Walker","Mary-C-Amick"],"date-created":"Friday, February 28th 2025, 3:15:43 pm","date-modified":"Sunday, August 2nd 2026, 1:27:52 pm"}}
 ---
 
 Family 930

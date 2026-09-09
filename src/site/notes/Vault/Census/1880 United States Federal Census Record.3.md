@@ -1,5 +1,5 @@
 ---
-{"tags":["Dorcas-McClung","Charles-William-McClung","Mary-C-Amick","John-McClung"],"dg-publish":true,"date-created":"Thursday, August 22nd 2024, 9:02:07 pm","date-modified":"Friday, February 28th 2025, 2:31:21 pm","permalink":"/vault/census/1880-united-states-federal-census-record-3/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"tags":["Dorcas-McClung","Charles-William-McClung","Mary-C-Amick","John-McClung"],"date-created":"Thursday, August 22nd 2024, 9:02:07 pm","date-modified":"Friday, February 28th 2025, 2:31:21 pm"}}
+{"dg-publish":true,"permalink":"/vault/census/1880-united-states-federal-census-record-3/","tags":["Dorcas-McClung","Charles-William-McClung","Mary-C-Amick","John-McClung"],"noteIcon":"","dg-note-properties":{"tags":["Dorcas-McClung","Charles-William-McClung","Mary-C-Amick","John-McClung"],"date-created":"Thursday, August 22nd 2024, 9:02:07 pm","date-modified":"Friday, February 28th 2025, 2:31:21 pm"}}
 ---
 
 Household 65
