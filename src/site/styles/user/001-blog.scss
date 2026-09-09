@@ -1,134 +1,46 @@
-/* ============================================================
-   BLOG / POSTS PAGE
-   ============================================================ */
-
 .blog-posts {
-    margin-top: 2.5rem;
-    width: 100%;
+  max-width: 850px;
+  margin: 40px auto;
 }
 
+.blog-posts-header {
+  margin-bottom: 40px;
+}
 
-/* ------------------------------------------------------------
-   Individual post
-   ------------------------------------------------------------ */
+.blog-posts-header h2 {
+  margin-bottom: 8px;
+}
+
+.blog-posts-header p {
+  margin-top: 0;
+  opacity: 0.75;
+}
 
 .blog-post {
-    padding: 1.8rem 0 2rem 0;
-    border-bottom: 1px solid var(--background-modifier-border);
+  margin-bottom: 45px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid var(--background-modifier-border);
 }
-
-.blog-post:first-child {
-    padding-top: 0;
-}
-
-
-/* ------------------------------------------------------------
-   Date and tags
-   ------------------------------------------------------------ */
-
-.blog-post-meta {
-    display: flex;
-    align-items: center;
-    gap: 1rem;
-    margin-bottom: 0.55rem;
-    font-size: 0.85rem;
-    color: var(--text-muted);
-}
-
-.blog-post-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.4rem;
-}
-
-.blog-post-tag {
-    color: var(--text-accent);
-}
-
-.blog-post-tag::before {
-    content: "#";
-}
-
-
-/* ------------------------------------------------------------
-   Date
-   ------------------------------------------------------------ */
-
-.blog-post-date {
-    white-space: nowrap;
-}
-
-
-/* ------------------------------------------------------------
-   Title
-   ------------------------------------------------------------ */
 
 .blog-post-title {
-    margin: 0 0 0.55rem 0;
-    font-size: 1.65rem;
-    line-height: 1.25;
+  margin-bottom: 6px;
 }
 
 .blog-post-title a {
-    color: var(--text-normal);
-    text-decoration: none;
+  text-decoration: none;
 }
 
-.blog-post-title a:hover {
-    color: var(--text-accent);
+.blog-post-date {
+  font-size: 0.85em;
+  opacity: 0.65;
+  margin-bottom: 12px;
 }
-
-
-/* ------------------------------------------------------------
-   Description
-   ------------------------------------------------------------ */
 
 .blog-post-description {
-    margin: 0 0 0.8rem 0;
-    max-width: 750px;
-    color: var(--text-muted);
-    line-height: 1.6;
+  margin-bottom: 15px;
 }
-
-
-/* ------------------------------------------------------------
-   Read more
-   ------------------------------------------------------------ */
 
 .blog-post-read-more {
-    font-size: 0.9rem;
-    font-weight: 500;
-    text-decoration: none;
-}
-
-.blog-post-read-more:hover {
-    text-decoration: underline;
-}
-
-
-/* ------------------------------------------------------------
-   No posts
-   ------------------------------------------------------------ */
-
-.blog-no-posts {
-    color: var(--text-muted);
-}
-
-
-/* ------------------------------------------------------------
-   Mobile
-   ------------------------------------------------------------ */
-
-@media (max-width: 800px) {
-
-    .blog-post-meta {
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 0.3rem;
-    }
-
-    .blog-post-title {
-        font-size: 1.4rem;
-    }
-
+  font-size: 0.9em;
+  text-decoration: none;
 }
