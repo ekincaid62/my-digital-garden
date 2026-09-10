@@ -2,30 +2,30 @@
 
 <section class="blog-posts">
 
-  {% for post in collections.note | reverse %}
+  {% set blogPosts = collections.note | selectattr("data.tags") %}
 
-    {% if post.data.tags and "blog" in post.data.tags %}
+  {% for post in blogPosts | sort(attribute="data.dg-note-properties.date") | reverse %}
+
+    {% if "blog" in post.data.tags %}
 
       <article class="blog-post">
 
         <h2 class="blog-post-title">
-          <a href="{{ post.url }}">{{ post.data.title or post.fileSlug }}</a>
+          <a href="{{ post.url }}">
+            {{ post.data.title or post.fileSlug }}
+          </a>
         </h2>
 
-        {% if post.data["dg-note-properties"] %}
-          
-          {% if post.data["dg-note-properties"].date %}
-            <div class="blog-post-date">
-              {{ post.data["dg-note-properties"].date }}
-            </div>
-          {% endif %}
+        {% if post.data["dg-note-properties"] and post.data["dg-note-properties"].date %}
+          <div class="blog-post-date">
+            {{ post.data["dg-note-properties"].date }}
+          </div>
+        {% endif %}
 
-          {% if post.data["dg-note-properties"].description %}
-            <p class="blog-post-description">
-              {{ post.data["dg-note-properties"].description }}
-            </p>
-          {% endif %}
-
+        {% if post.data["dg-note-properties"] and post.data["dg-note-properties"].description %}
+          <p class="blog-post-description">
+            {{ post.data["dg-note-properties"].description }}
+          </p>
         {% endif %}
 
         <a class="blog-post-read-more" href="{{ post.url }}">
@@ -35,6 +35,12 @@
       </article>
 
     {% endif %}
+
+  {% endfor %}
+
+</section>
+
+{% endif %}
 
   {% endfor %}
 
