@@ -1,4 +1,62 @@
+.icon-tree {
+    background-image: url('/img/tree-2.svg');
+}
 
+:root {
+  --h1-color: #15141a;
+}
+
+body {
+	--background-primary: #697580; /* Changes content background */
+     --link-color: #2C1AED;
+     --text-accent: #2C1AED;
+     --inline-code-color: #15141a;
+     --h4-size: var(--h1-size);
+     --h4-color: var(--h1-color);
+     --h4-weight: var(--h1-weight);
+     --h4-font: var(--h1-font);
+     --h4-line-height: var(--h1-line-height);
+  #floating-control {
+    position: fixed;
+    color: var(--link-color);
+    top: 0.5vmax;
+    right: 9vmax;
+    font-size: 30px !important;
+    z-index: 999999;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 7px;
+  }
+
+  h1 {
+    color: var(--h1-color);
+  }
+}
+
+.filetree-sidebar h1 {
+  color: var(--h1-color);
+}
+
+.table-view-table > thead > tr > th {
+  border-top-color: var(--h1-color);
+  border-top: solid;
+  border-bottom-color: #15141a;
+}
+
+/* Mobile overrides: the mobile filetree uses a navbar with its own <h1> (filetreeNavbar.njk).
+   Target that heading to ensure the color/display apply on small screens. */
+@media (max-width: 800px) {
+  .navbar h1 {
+    color: var(--h1-color) !important;
+    display: block !important;
+  }
+
+  /* If a logo image is used on mobile (img.site-logo), style it here if needed */
+  .navbar .site-logo {
+    /* e.g. filter: none; margin: 0; */
+  }
+}
 /* ============================================================
    IMAGE ZOOM VIEWER
    ============================================================ */
