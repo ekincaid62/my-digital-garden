@@ -1,23 +1,93 @@
+/* ---------------------------------------------------------
+   Ramblings / Blog Posts
+   --------------------------------------------------------- */
+
 .blog-posts {
   max-width: 850px;
-  margin: 30px auto;
+  margin: 35px auto 60px;
 }
 
+
+/* Individual post
+   --------------------------------------------------------- */
+
 .blog-post {
-  margin-bottom: 40px;
-  padding-bottom: 30px;
+  margin-bottom: 42px;
+  padding-bottom: 32px;
   border-bottom: 1px solid var(--background-modifier-border);
 }
 
+.blog-post:last-child {
+  border-bottom: none;
+}
+
+
+/* Post title
+   --------------------------------------------------------- */
+
 .blog-post-title {
-  margin-bottom: 8px;
+  margin: 0 0 6px 0;
+  font-size: 1.55em;
+  line-height: 1.25;
 }
 
 .blog-post-title a {
   text-decoration: none;
 }
 
+.blog-post-title a:hover {
+  text-decoration: underline;
+}
+
+
+/* Date
+   --------------------------------------------------------- */
+
+.blog-post-date {
+  margin: 0 0 14px 0;
+  font-size: 0.85em;
+  opacity: 0.65;
+}
+
+
+/* Description
+   --------------------------------------------------------- */
+
+.blog-post-description {
+  margin: 0 0 16px 0;
+  line-height: 1.6;
+}
+
+
+/* Read more
+   --------------------------------------------------------- */
+
 .blog-post-read-more {
   font-size: 0.9em;
   text-decoration: none;
+}
+
+.blog-post-read-more:hover {
+  text-decoration: underline;
+}
+
+
+/* Mobile
+   --------------------------------------------------------- */
+
+@media (max-width: 700px) {
+
+  .blog-posts {
+    margin: 25px 15px 45px;
+  }
+
+  .blog-post {
+    margin-bottom: 35px;
+    padding-bottom: 25px;
+  }
+
+  .blog-post-title {
+    font-size: 1.35em;
+  }
+
 }
