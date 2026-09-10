@@ -4,7 +4,7 @@
 
   {% set blogPosts = collections.note | selectattr("data.tags") %}
 
-  {% for post in blogPosts | sort(attribute="data.dg-note-properties.date") | reverse %}
+  {% for post in blogPosts | reverse %}
 
     {% if "blog" in post.data.tags %}
 
@@ -35,6 +35,12 @@
       </article>
 
     {% endif %}
+
+  {% endfor %}
+
+</section>
+
+{% endif %}
 
   {% endfor %}
 
