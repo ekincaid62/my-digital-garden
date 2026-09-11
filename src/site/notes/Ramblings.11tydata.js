@@ -1,11 +1,30 @@
 module.exports = {
   eleventyComputed: {
     blogPosts: (data) => {
-      const posts = (data.collections?.note || []).filter(
-        (post) =>
-          post.data?.tags &&
-          post.data.tags.includes("blog")
-      );
+      const posts = (data.collections?.note || [])
+        .filter(
+          (post) =>
+            post.data?.tags &&
+            post.data.tags.includes("blog")
+        )
+        .map((post) => {
+          let firstImage = null;
+
+          if (post.templateContent) {
+            const match = post.templateContent.match(
+              /<img[^>]+src=["']([^"']+)["'][^>]*>/i
+            );
+
+            if (match) {
+              firstImage = match[1];
+            }
+          }
+
+          return {
+            ...post,
+            firstImage,
+          };
+        });
 
       return posts.sort((a, b) => {
         const dateA = a.data?.["dg-note-properties"]?.date;
