@@ -15,15 +15,15 @@
         {% if post.data["dg-note-properties"] %}
           
           {% if post.data["dg-note-properties"].date %}
-            <div class="blog-post-date">
+            <p class="blog-post-date">
               {{ post.data["dg-note-properties"].date }}
-            </div>
+            </p>
           {% endif %}
 
           {% if post.data["dg-note-properties"].description %}
-            <p class="blog-post-description">
+            <div class="blog-post-description">
               {{ post.data["dg-note-properties"].description }}
-            </p>
+            </div>
           {% endif %}
 
         {% endif %}
