@@ -2,7 +2,7 @@
 
 <section class="blog-posts">
 
-  {% for post in collections.note | sortBlogPosts %}
+  {% for post in collections.note | reverse %}
 
     {% if post.data.tags and "blog" in post.data.tags %}
 
