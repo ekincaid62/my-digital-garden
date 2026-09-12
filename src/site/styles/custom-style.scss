@@ -30,6 +30,12 @@ body {
     gap: 7px;
   }
 
+	/* Note body font */
+.markdown-preview-view,
+.markdown-source-view {
+  font-family: "Instrument Serif", serif;
+}
+
   h1 {
     color: var(--h1-color);
   }
