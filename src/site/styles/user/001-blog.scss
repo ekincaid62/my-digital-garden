@@ -72,14 +72,17 @@
 }
 .blog-post-image {
   margin: 18px 0 18px 0;
+  width: 60%;
+  max-width: 60%;
 }
 
 .blog-post-image img {
   display: block;
   width: 100%;
   max-height: 400px;
-  object-fit: cover;
+  object-fit: contain;
   border-radius: 6px;
+  background: var(--background-secondary);
 }
 
 .blog-post-image a {
