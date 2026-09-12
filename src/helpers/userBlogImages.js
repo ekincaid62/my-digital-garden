@@ -22,7 +22,9 @@ function getFirstBlogImage(post) {
     );
 
     if (!match) {
-      console.warn(`[blog image] No image embed found in ${inputPath}`);
+      console.warn(
+        `[blog image] No image embed found in ${inputPath}. Raw content: ${JSON.stringify(source)}`
+      );
       return null;
     }
 
@@ -45,10 +47,6 @@ function getFirstBlogImage(post) {
 function userBlogImages(eleventyConfig) {
   eleventyConfig.addFilter("firstBlogImage", getFirstBlogImage);
 }
-
-module.exports = {
-  userBlogImages,
-};
 
 module.exports = {
   userBlogImages,
