@@ -20,11 +20,16 @@
             </div>
           {% endif %}
 
-          {% if post.firstImage %}
+          {% set firstImage = post | firstBlogImage %}
+
+          {% if firstImage %}
             <div class="blog-post-image">
-            <a href="{{ post.url }}">
-            <img src="{{ post.firstImage }}" alt="{{ post.data.title or post.fileSlug }}">
-            </a>
+              <a href="{{ post.url }}">
+                <img
+                src="{{ firstImage }}"
+                alt="{{ post.data.title or post.fileSlug }}"
+                >
+              </a>
             </div>
           {% endif %}
 
