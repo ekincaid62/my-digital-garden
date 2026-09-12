@@ -49,3 +49,7 @@ function userBlogImages(eleventyConfig) {
 module.exports = {
   userBlogImages,
 };
+
+module.exports = {
+  userBlogImages,
+};
