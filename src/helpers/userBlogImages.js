@@ -1,5 +1,4 @@
 const fs = require("fs");
-const path = require("path");
 
 function getFirstBlogImage(post) {
   const inputPath =
@@ -17,25 +16,17 @@ function getFirstBlogImage(post) {
   try {
     const source = fs.readFileSync(inputPath, "utf8");
 
-    const match = source.match(
-      /!\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]/
-    );
+    // By publish time, Obsidian Digital Garden has already converted
+    // ![[Vault/assets/...]] into standard markdown image syntax with the
+    // final /img/user/... URL already resolved. Just grab that URL.
+    const match = source.match(/!\[[^\]]*\]\(([^)]+)\)/);
 
     if (!match) {
-      console.warn(
-        `[blog image] No image embed found in ${inputPath}. Raw content: ${JSON.stringify(source)}`
-      );
+      console.warn(`[blog image] No image found in ${inputPath}`);
       return null;
     }
 
-    const imagePath = match[1].trim();
-
-    const urlPath = imagePath
-      .split("/")
-      .map((part) => encodeURIComponent(part))
-      .join("/");
-
-    return `/img/user/${urlPath}`;
+    return match[1].trim();
   } catch (error) {
     console.warn(
       `[blog image] Could not read ${inputPath}: ${error.message}`
