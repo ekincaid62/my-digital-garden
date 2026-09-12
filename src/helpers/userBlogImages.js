@@ -2,27 +2,32 @@ const fs = require("fs");
 const path = require("path");
 
 function getFirstBlogImage(post) {
-  if (!post?.page?.inputPath) {
+  const inputPath =
+    post?.inputPath ||
+    post?.page?.inputPath ||
+    post?.data?.page?.inputPath;
+
+  if (!inputPath) {
+    console.warn(
+      `[blog image] No inputPath found on post "${post?.data?.title || post?.url || "unknown"}". Keys: ${Object.keys(post || {}).join(", ")}`
+    );
     return null;
   }
 
   try {
-    const source = fs.readFileSync(post.page.inputPath, "utf8");
+    const source = fs.readFileSync(inputPath, "utf8");
 
-    // Look for the first Obsidian image embed:
-    // ![[Vault/assets/example.jpg]]
     const match = source.match(
       /!\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]/
     );
 
     if (!match) {
+      console.warn(`[blog image] No image embed found in ${inputPath}`);
       return null;
     }
 
     const imagePath = match[1].trim();
 
-    // Digital Garden publishes user images under /img/user/
-    // Encode each path component while preserving the directory structure.
     const urlPath = imagePath
       .split("/")
       .map((part) => encodeURIComponent(part))
@@ -31,7 +36,7 @@ function getFirstBlogImage(post) {
     return `/img/user/${urlPath}`;
   } catch (error) {
     console.warn(
-      `[blog image] Could not read ${post.page.inputPath}: ${error.message}`
+      `[blog image] Could not read ${inputPath}: ${error.message}`
     );
     return null;
   }
