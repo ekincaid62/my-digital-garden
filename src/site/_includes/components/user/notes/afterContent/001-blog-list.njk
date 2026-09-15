@@ -15,10 +15,31 @@
         {% if post.data["dg-note-properties"] %}
           
           {% if post.data["dg-note-properties"].date %}
+
+            {% set blogDate = post.data["dg-note-properties"].date %}
+            {% set dateParts = blogDate.split("-") %}
+            {% set monthNumber = dateParts[1] | int %}
+
+            {% set months = [
+              "January",
+              "February",
+              "March",
+              "April",
+              "May",
+              "June",
+              "July",
+              "August",
+              "September",
+              "October",
+              "November",
+              "December"
+            ] %}
+
             <div class="blog-post-date">
-              {{ post.data["dg-note-properties"].date | date("dd MMMM yyyy") }}
+              {{ dateParts[2] }} {{ months[monthNumber - 1] }} {{ dateParts[0] }}
             </div>
-          {% endif %}
+
+        {% endif %}
 
           {% set firstImage = post | firstBlogImage %}
 
