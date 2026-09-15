@@ -16,7 +16,7 @@
           
           {% if post.data["dg-note-properties"].date %}
             <div class="blog-post-date">
-              {{ post.data["dg-note-properties"].date }}
+              {{ post.data["dg-note-properties"].date | date("dd MMMM yyyy") }}
             </div>
           {% endif %}
 
