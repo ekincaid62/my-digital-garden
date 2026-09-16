@@ -4,7 +4,7 @@
 
 | File                                                                                                                  | Last Modified         |
 | --------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| [[Home\|Home]]                                                                                                     | Sep 15, 2026 10:28 PM |
+| [[Home\|Home]]                                                                                                     | Sep 15, 2026 10:36 PM |
 | [[Ramblings\|Ramblings]]                                                                                           | Sep 14, 2026 6:48 PM  |
 | [[Vault/Blog/My first Blog Post\|My first Blog Post]]                                                              | Sep 12, 2026 6:54 PM  |
 | [[Tree\|Tree]]                                                                                                     | Sep 10, 2026 8:52 PM  |
