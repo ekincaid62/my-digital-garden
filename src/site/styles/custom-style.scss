@@ -49,6 +49,10 @@ body {
   border-bottom-color: #15141a;
 }
 
+body .search-button.align-icon {
+  background-color: #ffffff !important;
+}
+
 /* Mobile overrides: the mobile filetree uses a navbar with its own <h1> (filetreeNavbar.njk).
    Target that heading to ensure the color/display apply on small screens. */
 @media (max-width: 800px) {
