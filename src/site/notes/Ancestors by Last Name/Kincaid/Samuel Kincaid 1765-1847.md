@@ -68,7 +68,8 @@ These two deeds confirm that this is the Samuel of three wifes with the first li
 It has been assumed that the following two tracts were traded to Samuel for 240 Ac on Epraim's Creek (I have been unable to find anything confirming this.)
 [[Vault/Land Transfers/Fayette Co. DB A Pg 288 dated 17 Dec 1832 (Richard Tyree and wife Sarah to Samuel)\|Fayette Co. DB A Pg 288 dated 17 Dec 1832 (Richard Tyree and wife Sarah to Samuel)]]
 [[Vault/Land Transfers/Fayette Co. DB A Pg 287 dated 10 Jan 1833 (Richard Tyree and wife Sarah to Samuel)\|Fayette Co. DB A Pg 287 dated 10 Jan 1833 (Richard Tyree and wife Sarah to Samuel)]]
-Should be a deed around this time from Samuel to Tyree (240 Ac Ephraim's Creek)
+Should be a deed from Butler to Samuel around 1816 (240 Ac Ephraim's Creek) Butler got the patent in 1810.
+Should be a deed  around this time from Samuel to Tyree (240 Ac Ephraim's Creek)
 
 After Samuel's death the heirs deed the property to John Gwinn
 [[Vault/Land Transfers/Fayette Co. DB E Pg 173 dated 16 June 1849 (to John Gwinn)\|Fayette Co. DB E Pg 173 dated 16 June 1849 (to John Gwinn)]]
