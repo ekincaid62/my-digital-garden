@@ -21,8 +21,8 @@ Death on 1826 in Madison, IN
 
 ---
 #### Spouse and Children
-<!-- Link to spouse --> on <!-- link to date --> in <!-- link to place -->.
-<!-- Link to child -->
+Nancy Murdock in 1798 in Greenbrier County, Virginia.
+Thomas Kincaid
 
 #### Census Records
 

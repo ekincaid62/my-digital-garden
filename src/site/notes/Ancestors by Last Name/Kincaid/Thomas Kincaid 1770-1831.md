@@ -21,8 +21,12 @@ Death on 1831 in Madison, IN
 
 ---
 #### Spouse and Children
-<!-- Link to spouse --> on <!-- link to date --> in <!-- link to place -->.
-<!-- Link to child -->
+Hannah Viney on November 22, 1791 in Greenbrier County, Virginia.
+Viney Kincaid
+
+Elizabeth Murdock on May 23, 1798 in Greenbrier County, Virginia.
+John Kincaid
+Andrew Kincaid
 
 #### Census Records
 
