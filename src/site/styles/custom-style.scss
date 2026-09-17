@@ -1,3 +1,21 @@
+/* Site background colors */
+html,
+body {
+  --background-primary: rgba(240, 248, 255, 0.8);
+  --background-secondary: rgba(236, 245, 255, 1.0);
+
+  background-color: rgba(240, 248, 255, 0.8);
+}
+
+body .content {
+  background-color: rgba(240, 248, 255, 0.8);
+}
+
+body .navbar,
+body .filetree-wrapper {
+  background-color: rgba(236, 245, 255, 1.0);
+}
+
 .icon-tree {
     background-image: url('/img/tree-2.svg');
 }
@@ -9,8 +27,8 @@
 body {
 	 --background-modifier-form-field: #ffffff;
      --search-result-background: #ffffff;
-	 --background-primary: rgba(240, 248, 255, 0.8); /* 80% opacity */
-	 --background-secondary: rgba(236, 245, 255, 1.0); /* 100% opacity */
+	 //--background-primary: rgba(240, 248, 255, 0.8); /* 80% opacity */
+	 //--background-secondary: rgba(236, 245, 255, 1.0); /* 100% opacity */
 	 --link-color: #2C1AED;
      --text-accent: #2C1AED;
      --inline-code-color: #15141a;
