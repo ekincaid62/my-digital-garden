@@ -509,7 +509,7 @@
      </polygon>
   </a><a xlink:href="/ancestors-by-last-name/kincaid/hannah-kincaid-1783-1871">
     <polygon points="2387,1531,2367,1598,2155,1529,2172,1470" fill="#ffffff" opacity="0">
-     <title>Hannah Kincaid 1777-1871</title>
+     <title>Hannah Kincaid 1783-1871</title>
      </polygon>
   </a>
 </svg>
