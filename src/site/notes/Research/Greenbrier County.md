@@ -3,7 +3,7 @@
 ---
 
 
-[ ] **Check Grantor Index Deed from Butler to Samuel and Hulda (240 Ac Ephraim's Creek) at the same time (1816) as DB 10 Pg 43** Start in 1810 when Butler got the patent
+- [ ] **Check Grantor Index Deed from Butler to Samuel and Hulda (240 Ac Ephraim's Creek) at the same time (1816) as DB 10 Pg 43** Start in 1810 when Butler got the patent
 - [ ] **Check out Grantee Index for Tyree also around 1832 (Samuel to Tyree - Ephraim's Creek)**
 - [x] **Deed from Thomas to John (McDowell Patent) DB 1 Pg 96**
 - [x] **Deed from Thomas to Thomas Jr. (McDowell Patent) DB 1 Pg 151**
