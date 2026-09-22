@@ -26,8 +26,10 @@ Death on 7/18/1852 in <!-- link to place -->
 
 ---
 #### Spouse and Children
-[[Mary Magdalene Tritt\|Mary Magdalene Tritt]] "Polly" married 9 Dec 1809 in <!-- link to place -->.
-<!-- Link to child -->
+[[Mary Magdalene Tritt 1792–1869\|Mary Magdalene Tritt 1792–1869]] "Polly" married 9 Dec 1809 in <!-- link to place -->.
+John Kincaid 1810-
+Ruth Kincaid 1814-
+James Gillespie Kincaid Jr. 1816-
 
 #### Census Records
 
