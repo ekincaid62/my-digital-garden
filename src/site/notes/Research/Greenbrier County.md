@@ -4,7 +4,7 @@
 
 
 - [ ] **Check Grantor Index Deed from Butler to Samuel and Hulda (240 Ac Ephraim's Creek) at the same time (1816) as DB 10 Pg 43** Start in 1810 when Butler got the patent
-- [ ] **Check out Grantee Index for Tyree also around 1832 (Samuel to Tyree - Ephraim's Creek)**
+- [ ] **Check out Grantee Index for Tyree also around 1832 (Samuel to Tyree - Ephraim's Creek)** The (240 Ac Ephraim's Creek) was deeded from John Butler to Richard Tyree in 1819 through DB 7 Pg 429. I find this a little confusing. I really need the information from Circuit Court Case 147 (Fayette County that has been moved to the state archives)
 - [x] **Deed from Thomas to John (McDowell Patent) DB 1 Pg 96**
 - [x] **Deed from Thomas to Thomas Jr. (McDowell Patent) DB 1 Pg 151**
 - [x] **Deed from Francis Tincher to Thomas (600 Ac Patent) DB 1 Pg 359**
@@ -15,12 +15,11 @@
 - [x] **Deed from Thomas to George C. Kincaid (290 Ac) DB 1 Pg 701**
 - [x] **Deed from Thomas to Michael Runner (112 Ac) DB 1 Pg 705**
 - [x] **Deed from Thomas to Francis (336 Ac) DB 1 Pg 706**
-- [ ] **Deed from John and Elizabeth (57 Ac) to Henry Miller DB 2 Pg 245**
-- [ ] **Deed from John and Elizabeth (182 Ac) to Wm Holly DB 2 Pg 264**
-- [ ] **Deed from John and Elizabeth (88 Ac) to Wm Cherry DB 2 Pg 265**
-- [ ] **Deed from John and Elizabeth to Thomas Terry DB 2 Pg 267**
-- [ ] **Deed from John and Elizabeth (118 Ac) to Lydia Murphy DB 2 Pg 270**
-- [ ] **Deed from Thomas and Elizabeth (19 Ac) to Henry Miller DB 2 Pg 245**
+- [x] **Deed from John and Elizabeth (57 Ac) to Henry Miller DB 2 Pg 245**
+- [x] **Deed from John and Elizabeth (182 Ac) to Wm Holly DB 2 Pg 264**
+- [x] **Deed from John and Elizabeth (88 Ac) to Wm Cherry DB 2 Pg 265**
+- [x] **Deed from John and Elizabeth to Thomas Terry DB 2 Pg 267**
+- [x] **Deed from John and Elizabeth (118 Ac) to Lydia Murphy DB 2 Pg 270**
 - [ ] **Deed from Francis and Agnes to James Claypole (335 Ac) DB 3 Pg 23**
 - [ ] **Deed from James Claypole to Francis Kincaid (285 Ac) DB 3 Pg 78**
 - [ ] **Deed from George and Johannah Kinkead (213 Ac) to Archable Campbell DB 4 Pg 45**
@@ -31,10 +30,10 @@
 - [ ] **Deed from George and Johannah Kincaid to Jacob Bunger (290 Ac) DB 4 Pg 285**
 - [ ] **Deed from Johannah Kincaid to Jacob Bunger (Acknowledgement) DB 4 Pg 288**
 - [x] **Deed from Thomas to Matthew Harra (551 Ac) DB 4 Pg 297**
-- [ ] **Deed from Thomas to Francis (199 Ac) DB 4 Pg 324**
-- [ ] **Deed from Thomas to John and Robert Kincaid DB 4 Pg 336**
-- [ ] **Deed from Elizabeth Tritt to Francis (80 Ac) DB 4 Pg 365**
-- [ ] **Deed from John Kincaid to Robert Kincaid DB 4 Pg 447**
+- [x] **Deed from Thomas to Francis (199 Ac) DB 4 Pg 324**
+- [x] **Deed from Thomas to John and Robert Kincaid DB 4 Pg 336**
+- [x] **Deed from Elizabeth Tritt to Francis (80 Ac) DB 4 Pg 365**
+- [x] **Deed from John Kincaid to Robert Kincaid DB 4 Pg 447**
 - [ ] **Deed from Wm and Mary A Kincaid to Jas Butler (233 Ac) DB 4 Pg 465**
 - [ ] **Deed from Wm and Mary A Kincaid to Wm Hamilton (13 Ac) DB 4 Pg 467**
 - [ ] **Deed from Thomas Kincaid to Robt Huse (100 Ac) DB 5 Pg 529**

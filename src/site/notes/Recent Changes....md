@@ -2,18 +2,18 @@
 {"dg-publish":true,"permalink":"/recent-changes/","pinned":"true","noteIcon":"","dg-note-properties":{}}
 ---
 
-| File                                                                                                       | Last Modified         |
-| ---------------------------------------------------------------------------------------------------------- | --------------------- |
-| [[Home\|Home]]                                                                                          | Sep 22, 2026 1:43 PM  |
-| [[Ancestors by Last Name/Kincaid/James Gillespie Kincaid 1792-1852\|James Gillespie Kincaid 1792-1852]] | Sep 22, 2026 1:13 PM  |
-| [[Research/Fayette County\|Fayette County]]                                                             | Sep 22, 2026 10:55 AM |
-| [[My Ancestor Chart\|My Ancestor Chart]]                                                                | Sep 17, 2026 8:53 PM  |
-| [[Research/Greenbrier County\|Greenbrier County]]                                                       | Sep 17, 2026 8:02 PM  |
-| [[Ancestors by Last Name/Kincaid/Francis Kincaid 1784-1826\|Francis Kincaid 1784-1826]]                 | Sep 17, 2026 3:01 PM  |
-| [[Ancestors by Last Name/Kincaid/Thomas Kincaid 1770-1831\|Thomas Kincaid 1770-1831]]                   | Sep 17, 2026 2:45 PM  |
-| [[Ancestors by Last Name/Kincaid/Samuel Kincaid 1765-1847\|Samuel Kincaid 1765-1847]]                   | Sep 17, 2026 10:51 AM |
-| [[Ramblings\|Ramblings]]                                                                                | Sep 14, 2026 6:48 PM  |
-| [[Vault/Blog/My first Blog Post\|My first Blog Post]]                                                   | Sep 12, 2026 6:54 PM  |
+| File                                                                                                                                                                                                                                                             | Last Modified        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| [[Vault/Land Transfers/Greenbrier Co. DB 7 Pg 429 dated 19 Mar 1819 (John Butler to Richard Tyree)\|Greenbrier Co. DB 7 Pg 429 dated 19 Mar 1819 (John Butler to Richard Tyree)]]                                                                             | Sep 24, 2026 2:08 PM |
+| [[Vault/Land Transfers/Greenbrier Co. DB 4 Pg 447 dated 26 Jan 1811 (John Kincaid to Robert Kincaid)\|Greenbrier Co. DB 4 Pg 447 dated 26 Jan 1811 (John Kincaid to Robert Kincaid)]]                                                                         | Sep 24, 2026 2:04 PM |
+| [[Vault/Land Transfers/Greenbrier Co. DB 4 Pg 365 dated 28 Aug 1810 (Elizabeth Tritt to Francis Kincaid)\|Greenbrier Co. DB 4 Pg 365 dated 28 Aug 1810 (Elizabeth Tritt to Francis Kincaid)]]                                                                 | Sep 24, 2026 2:01 PM |
+| [[Vault/Land Transfers/Greenbrier Co. DB 4 Pg 336 dated 26 July 1800 (Thomas Kincaid and wife Hannah to John Kincaid and Robert Kincaid)\|Greenbrier Co. DB 4 Pg 336 dated 26 July 1800 (Thomas Kincaid and wife Hannah to John Kincaid and Robert Kincaid)]] | Sep 24, 2026 1:58 PM |
+| [[Vault/Land Transfers/Greenbrier Co. DB 4 Pg 324 dated 15 Aug 1800 (Thomas Kincaid and wife Hannah to Francis Kincaid)\|Greenbrier Co. DB 4 Pg 324 dated 15 Aug 1800 (Thomas Kincaid and wife Hannah to Francis Kincaid)]]                                   | Sep 24, 2026 1:54 PM |
+| [[Vault/Land Transfers/Greenbrier Co. DB 2 Pg 270 dated 30 Dec 1800 (John Kincaid and wife Elizabeth to Lydia Murphy)\|Greenbrier Co. DB 2 Pg 270 dated 30 Dec 1800 (John Kincaid and wife Elizabeth to Lydia Murphy)]]                                       | Sep 24, 2026 1:49 PM |
+| [[Vault/Land Transfers/Greenbrier Co. DB 2 Pg 267 dated 30 Dec 1800 (John Kincaid and wife Elizabeth to Thomas Terry)\|Greenbrier Co. DB 2 Pg 267 dated 30 Dec 1800 (John Kincaid and wife Elizabeth to Thomas Terry)]]                                       | Sep 24, 2026 1:41 PM |
+| [[Vault/Land Transfers/Greenbrier Co. DB 2 Pg 245 dated 30 Dec 1800 (John Kincaid and wife Elizabeth to Henry Miller)\|Greenbrier Co. DB 2 Pg 245 dated 30 Dec 1800 (John Kincaid and wife Elizabeth to Henry Miller)]]                                       | Sep 24, 2026 1:37 PM |
+| [[Research/Greenbrier County\|Greenbrier County]]                                                                                                                                                                                                             | Sep 24, 2026 1:18 PM |
+| [[Home\|Home]]                                                                                                                                                                                                                                                | Sep 22, 2026 1:43 PM |
 
 { .block-language-dataview}
 
