@@ -71,6 +71,8 @@ It has been assumed that the following two tracts were traded to Samuel for 240 
 Should be a deed from Butler to Samuel around 1816 (240 Ac Ephraim's Creek) Butler got the patent in 1810.
 Should be a deed  around this time from Samuel to Tyree (240 Ac Ephraim's Creek)
 
+After going through the Grantee/Grantor Index I found that the 240 Ac at Ephraim's Creek was transferred directly from John Butler to Richard Tyree in DB 7 Pg 429 in 1819.
+
 After Samuel's death the heirs deed the property to John Gwinn
 [[Vault/Land Transfers/Fayette Co. DB E Pg 173 dated 16 June 1849 (to John Gwinn)\|Fayette Co. DB E Pg 173 dated 16 June 1849 (to John Gwinn)]]
 #### Biography
